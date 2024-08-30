@@ -3,6 +3,6 @@ This repository contains code and results related to my contributions to the Iro
 ## My Contributions
 In this repository, I have included all the code and results I contributed to the IrokoBench project. My contributions focus on:
 
-Scripts for Auto-Generation of Outputs: I developed scripts for generating outputs for the AfriMMLU, AfriMGSM, and AfriXNLI tasks. These scripts automate the evaluation process across different LLMs and settings (zero-shot, few-shot, and translate-test).
+- **Scripts for Auto-Generation of Outputs**: I developed scripts for generating outputs for the AfriMMLU, AfriMGSM, and AfriXNLI tasks. These scripts automate the evaluation process across different LLMs and settings (zero-shot, few-shot, and translate-test).
 
-Scoring Functions: I implemented functions to calculate evaluation metrics, including F1, F1-square, and accuracy, for the generated outputs. These metrics are crucial for assessing the performance of LLMs on African languages.
+- **Scoring Functions**: I implemented functions to calculate evaluation metrics, including F1, F1-square, and accuracy, for the generated outputs. These metrics are crucial for assessing the performance of LLMs on African languages.
