@@ -1,0 +1,1187 @@
+Unnamed: 0	premise	hypothesis	label	llm	verbalized
+0	Ọdịmma, anaghị m echedi maka nke ahụ, mana adaara m nọọ mba n'obi, ma, m mechaa gwawa ya okwu ọzọ.	A gwa beghị m ya okwu ọzọ.	contradiction	Contradiction	contradiction
+1	Ọdịmma, anaghị m echedi maka nke ahụ, mana adaara m nọọ mba n'obi, ma, m mechaa gwawa ya okwu ọzọ.	E were m iwe ruo na mụ bidoro gwawa ya okwu ọzọ.	entailment	Entailment.	entailment
+2	Ọdịmma, anaghị m echedi maka nke ahụ, mana adaara m nọọ mba n'obi, ma, m mechaa gwawa ya okwu ọzọ.	Anyị nwere mkparịtaụka dị ukwuu.	neutral	Entailment.	entailment
+3	Ha gwara m na, uh, na a ga-akpọrọ m otu nwamadi ma emecha ka m hụ.	A gwaghị m ihe ọ bụla gbasara izute onye ọ bụla.	contradiction	"I can help you with that!
+
+The premise is in Igbo, a Nigerian language. Here's a translation:
+
+PREMISE: ""I didn't see anyone, and I didn't meet anyone, and I didn't see anyone I knew.""
+
+HYPOTHESIS: ""I didn't see anything about meeting anyone.""
+
+Based on the translation, I'd say the relationship between the premise and hypothesis is: entailment."	entailment
+4	Ha gwara m na, uh, na a ga-akpọrọ m otu nwamadi ma emecha ka m hụ.	Agwara m na-aga kpọ otu nwamadi ka m ga zute.	entailment	Entailment	entailment
+5	Ha gwara m na, uh, na a ga-akpọrọ m otu nwamadi ma emecha ka m hụ.	Nwamadi ahụ gburu ntakịrị oge tutu ọ pụta.	neutral	"I can help you with that!
+
+The premise is in Igbo, a Nigerian language. Here's a translation:
+
+PREMISE: ""If I had gone, I would have seen a certain person, but I didn't go, so I didn't see him.""
+
+HYPOTHESIS: ""That person didn't come out for a long time.""
+
+After analyzing the premise and hypothesis, I would say the relationship is NEUTRAL. The premise talks about the speaker not going and not seeing someone, while the hypothesis talks about the person not coming out for a long time. They don't necessarily contradict or entail each other."	neutral
+6	E nwere ọtụtụ ịhe ị nwere ị́ké ị kwu maka nke ahụ aga m ahapụ nke ahụ nọọ. 	A chọrọ m ịgwa gị ihe nile m mara gbasara ihe ahụ!	contradiction	Entailment.	entailment
+7	E nwere ọtụtụ ịhe ị nwere ị́ké ị kwu maka nke ahụ aga m ahapụ nke ahụ nọọ. 	A gaghị m ekwu maka nke ahụ, agbanyeghị na e nwere ọtụtụ ịhe a ga-arụtụ áká. 	entailment	Contradiction	contradiction
+8	E nwere ọtụtụ ịhe ị nwere ị́ké ị kwu maka nke ahụ aga m ahapụ nke ahụ nọọ. 	A gaghị m ekwu gbasara akụkọ ihe mere eme maka obodo ahụ n'ihi na enwere ọtụtụ ihe a ga-ekwu.	neutral	Entailment.	entailment
+9	Ya mere o dochaghị m anya ịhe kpatara ya.	O doro m anya maka ihe kpatara ya.	contradiction	Entailment.	entailment
+10	Ya mere o dochaghị m anya ịhe kpatara ya.	Amaghị m ịhe o jiri nyefee ụlọakwụkwọ.	neutral	"In Igbo, the premise ""Ya mere o dochaghị m anya ịhe kpatara ya"" means ""He didn't show me what caused it.""
+
+The hypothesis ""Amaghị m ịhe o jiri nyefee ụlọakwụkwọ"" means ""I don't know what he used to build the school.""
+
+Since the premise talks about not knowing the cause of something, and the hypothesis talks about not knowing what was used to build a school, they are not related, and the premise does not provide any information that supports or contradicts the hypothesis.
+
+So, the answer is NEUTRAL."	neutral
+11	Ya mere o dochaghị m anya ịhe kpatara ya.	A maghị m ihe mere ihe ahụ jiri mee.	entailment	"I'd be happy to help!
+
+The answer is: entailment.
+
+In Igbo, the premise ""Ya mere o dochaghị m anya ịhe kpatara ya"" means ""He didn't tell me what caused it."" The hypothesis ""A maghị m ihe mere ihe ahụ jiri mee"" means ""I don't know what made it happen."" Since the premise implies a lack of knowledge about the cause, and the hypothesis explicitly states that same lack of knowledge, the premise entails the hypothesis."	entailment
+12	Abụ m naanị onye na uh, gbaturula ihe eji agbago ma ọ bụ agbatu ngwaorụ ndị ahụ maka, nlele ihe ahụ n'ime ụlọ elu ntakịrị ndị ahụ. 	Ọ bụghị nmasị m ị bụ naanị m ga-agbatu ngwaọrụ ahụ eji agbago ma ọ bụ agbatu ngwaorụ maka nlele ahụ.	neutral	The answer is: contradiction.	contradiction
+13	Abụ m naanị onye na uh, gbaturula ihe eji agbago ma ọ bụ agbatu ngwaorụ ndị ahụ maka, nlele ihe ahụ n'ime ụlọ elu ntakịrị ndị ahụ. 	E mere nwale n'ime ụlọ elu ntakịrị ndị ahụ.	entailment	Entailment.	entailment
+14	Abụ m naanị onye na uh, gbaturula ihe eji agbago ma ọ bụ agbatu ngwaorụ ndị ahụ maka, nlele ihe ahụ n'ime ụlọ elu ntakịrị ndị ahụ. 	E nwere mmadụ ole na ole n'ime anyị bụ ndị gbaturu ngwaọrụ ahụ eji agbago ma ọ bụ agbatu ngwaorụ maka ule ahụ.	contradiction	The answer is entailment.	entailment
+15	A bụ m uh, Chief Master Sergeant, laraezumike nka, dịka Rick kwuru. 	A ka m na-arụ ọrụ rụọ taa.	contradiction	Entailment.	entailment
+16	A bụ m uh, Chief Master Sergeant, laraezumike nka, dịka Rick kwuru. 	A lara m ezumike nka na 2002.	neutral	"I can help with that!
+
+The answer is: entailment.
+
+(In Igbo, the language used in the premise and hypothesis, ""A bụ m uh"" means ""I am"", ""Chief Master Sergeant"" is a title, ""laraezumike nka"" means ""retired from work"", and ""dịka Rick kwuru"" means ""as Rick said"". The hypothesis ""A lara m ezumike nka na 2002"" means ""I retired from work in 2002"". The premise implies that the speaker retired from work, which is consistent with the hypothesis, hence entailment.)"	entailment
+17	A bụ m uh, Chief Master Sergeant, laraezumike nka, dịka Rick kwuru. 	Rick gwara gị na alara m ezumike nka.	entailment	Entailment	entailment
+18	E nwere ụfọdụ atụmatụ otu ego ga-esi abata nọ n'oche m na, u, uh, ọ bụ maka nke a na nke a Cutty, nke ahụ bụ aha onye ahịa ahụ.	Onye ahịa a kpọrọ Cutty na-enweta $10000 na otu ọnwa.	neutral	Neutral	neutral
+19	E nwere ụfọdụ atụmatụ otu ego ga-esi abata nọ n'oche m na, u, uh, ọ bụ maka nke a na nke a Cutty, nke ahụ bụ aha onye ahịa ahụ.	E nwere onye ahịa akpọrọ Cutty.	entailment	Entailment	entailment
+20	E nwere ụfọdụ atụmatụ otu ego ga-esi abata nọ n'oche m na, u, uh, ọ bụ maka nke a na nke a Cutty, nke ahụ bụ aha onye ahịa ahụ.	Anyị enweghị onye ahịa akpọrọ Cutty.	contradiction	Contradiction	contradiction
+21	Nwata nwaanyị nwere ị́ké ị nyere m áká si n'ụzọ nille n'ofe obodo 	Nwata nwanyị m chọrọ enyemaka ya bi n'ebe dị anya.	entailment	Entailment.	entailment
+22	Nwata nwaanyị nwere ị́ké ị nyere m áká si n'ụzọ nille n'ofe obodo 	Nwata nwaanyị ga-enyere m áká nọ mailụ 5 site na ebe a.	neutral	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+23	Nwata nwaanyị nwere ị́ké ị nyere m áká si n'ụzọ nille n'ofe obodo 	E nweghị onye nwere ike inyere m aka.	contradiction	Contradiction	contradiction
+24	Mana ha nwere nkewa gbasara ịhe dịka ndị bụ ndị enyemaka n'ubi na ndị bụ ụmụaka nọ n'ụlọ, ọ dị ka - -	Ha nile kwekọrịtara na ha ga-arụ ọrụ n'ubi ahụ.	contradiction	Entailment	entailment
+25	Mana ha nwere nkewa gbasara ịhe dịka ndị bụ ndị enyemaka n'ubi na ndị bụ ụmụaka nọ n'ụlọ, ọ dị ka - -	Ha enweghị ị́ké ị kwekọrịta gbasara onye bụ onye ọrụ ubi na onye bụ onye ụlọ ahụ.	entailment	Entailment	entailment
+26	Mana ha nwere nkewa gbasara ịhe dịka ndị bụ ndị enyemaka n'ubi na ndị bụ ụmụaka nọ n'ụlọ, ọ dị ka - -	Ha enweghị ike ịkwekọrịta onye ga-arụ ọrụ n'ubi owu na onye ga ehicha ala.	neutral	Entailment	entailment
+27	Ana m asị na ha nweere naanị, dịka, ha nweere ụmụaka ise, otu n'ime ha nwụrụ anwụ.	Ụmụ ha nile lanarịrị.	contradiction	Entailment.	entailment
+28	Ana m asị na ha nweere naanị, dịka, ha nweere ụmụaka ise, otu n'ime ha nwụrụ anwụ.	Otu nwata nwuru anwụ n'ime ụmụ ise.	entailment	Entailment.	entailment
+29	Ana m asị na ha nweere naanị, dịka, ha nweere ụmụaka ise, otu n'ime ha nwụrụ anwụ.	Nwa nke nwụrụ anwụ bụ nke a mụrụ n'ịrịa ọrịa.	neutral	Entailment.	entailment
+30	Ọ sịrị na enwere nọọ anya mmiri na-asọpụta ya n'anya na ọ sịrị, ọ bịa sị Joe gbagotere n'elu vàrándà. 	Dịka ọ gwara ya ka ọ biarute na vàrándà, anya mmiri dị ya n'anya.	entailment	Entailment	entailment
+31	Ọ sịrị na enwere nọọ anya mmiri na-asọpụta ya n'anya na ọ sịrị, ọ bịa sị Joe gbagotere n'elu vàrándà. 	O meere ọsịsọ hichapụ anya mmiri ka o sichara n'elu vàrándà ahụ tụda Joe. 	contradiction	Entailment.	entailment
+32	Ọ sịrị na enwere nọọ anya mmiri na-asọpụta ya n'anya na ọ sịrị, ọ bịa sị Joe gbagotere n'elu vàrándà. 	O nwere oke an̄uri ịhụ Joe nke mere ka ọ malite ịkwa ákwá.	neutral	Entailment	entailment
+33	Ọ bụrụgodị na ụgbọelu na-agba ọ́kụ́, gịnị mere ọ, ọ ga uh, agba ọ́kụ́ ma ọ ga agbazee site n'akụkụ ígwè ka ọ́kụ́ ahụ nwuputa.	E nwere ike ịjikwata ịcha ọ́kụ́ ahụ n'oge ọkụ ọgbugba kwa .	neutral	Entailment.	entailment
+34	Ọ bụrụgodị na ụgbọelu na-agba ọ́kụ́, gịnị mere ọ, ọ ga uh, agba ọ́kụ́ ma ọ ga agbazee site n'akụkụ ígwè ka ọ́kụ́ ahụ nwuputa.	Ịcha-ọ́kụ́ ahụ ga-enwuputa site n'akụkụ ígwè ka ụgbọelu ahụ gbachara ọ́kụ́.	entailment	Entailment.	entailment
+35	Ọ bụrụgodị na ụgbọelu na-agba ọ́kụ́, gịnị mere ọ, ọ ga uh, agba ọ́kụ́ ma ọ ga agbazee site n'akụkụ ígwè ka ọ́kụ́ ahụ nwuputa.	Icha ọ́kụ́ ahụ a gaghị enwuputa n'oge ọkụ na-agba.	contradiction	Contradiction.	contradiction
+36	Nke a bụ Chief Master Sergeant Clem Francis, laraezumike nká site na US Air Force.	Chief ahụ lara ezumike nká site na US Air Force.	entailment	Entailment	entailment
+37	Nke a bụ Chief Master Sergeant Clem Francis, laraezumike nká site na US Air Force.	Chief ahụ ka lárà ezumike nká n'izu ụka olenaole gaara aga.	neutral	Entailment	entailment
+38	Nke a bụ Chief Master Sergeant Clem Francis, laraezumike nká site na US Air Force.	US Air force Chief ahụ ka bidoro ọrụ ya n'izu ụka a.	contradiction	Entailment	entailment
+39	Ọdịmma, o ruru ebe e nwere ụgbọelu abụọ maọbụ atọ na-abịa n'izu ma amaghị m ebe ha na-efega.	Ugbo elu karịrị otu na-abịarute izu ụka ọ bụla.	entailment	Entailment.	entailment
+40	Ọdịmma, o ruru ebe e nwere ụgbọelu abụọ maọbụ atọ na-abịa n'izu ma amaghị m ebe ha na-efega.	Mbawanye n'ogo ụgbọelu na-efe n'elu na-enye nsogbu.	neutral	Entailment.	entailment
+41	Ọdịmma, o ruru ebe e nwere ụgbọelu abụọ maọbụ atọ na-abịa n'izu ma amaghị m ebe ha na-efega.	A naghị enwe ugbo elu ọ bụla na-abịarute.	contradiction	Contradiction.	contradiction
+42	Ha enwe larịị ọzụzụ ha n'ime preshọ sutu ndị zuruoke ma o weere m obere oge ma ị baa na preshọ sutu ndị zuruoke.	Ọ na-eweru ọnwa atọ iji mezuo ọzụzụ  iji preshọ sutu zuruoke.	neutral	Entailment	entailment
+43	Ha enwe larịị ọzụzụ ha n'ime preshọ sutu ndị zuruoke ma o weere m obere oge ma ị baa na preshọ sutu ndị zuruoke.	Ọzụzụ iji yia preshọ sutu ozuruoke na-egbu oge.	entailment	Entailment.	entailment
+44	Ha enwe larịị ọzụzụ ha n'ime preshọ sutu ndị zuruoke ma o weere m obere oge ma ị baa na preshọ sutu ndị zuruoke.	Anyị nwere ike inye gị ọzụzụ ịji preshọ sutu zuruoke na njedebe ụbọchị a.	contradiction	Entailment.	entailment
+45	Achọrọ m ị sị na o nweghị ịhe égwù ọbụla dị n'ịji ogbunigwe ahụ baa n'ime maka na ọ gaghị agbawa agbanyeghị otu ọbụla o siri dasie ị́ké n'ala.	Ogbunigwe ahụ bụ nke onye n'akwọ ụgbọ elu menyụrụ.	neutral	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is: NEUTRAL.
+
+The premise talks about the absence of any obstacle in using a certain ogbunigwe (a type of vehicle) and how it won't get stuck regardless of the road condition. The hypothesis, on the other hand, states that the ogbunigwe belongs to someone who drives a car. There's no direct connection or conflict between the two statements, making them neutral towards each other."	neutral
+46	Achọrọ m ị sị na o nweghị ịhe égwù ọbụla dị n'ịji ogbunigwe ahụ baa n'ime maka na ọ gaghị agbawa agbanyeghị otu ọbụla o siri dasie ị́ké n'ala.	Ogbunigwe ahụ enweghị ohere ịgbawa.	entailment	Entailment.	entailment
+47	Achọrọ m ị sị na o nweghị ịhe égwù ọbụla dị n'ịji ogbunigwe ahụ baa n'ime maka na ọ gaghị agbawa agbanyeghị otu ọbụla o siri dasie ị́ké n'ala.	E nwere ihe egwu dị ukwuu maka ogbunigwe ahụ igbawa.	contradiction	Contradiction.	contradiction
+48	Ma kedụ kwanu ma ọ bụrụ na ọ dịka otu m na-agbalisi ike nọọ ịme.	O doghị m anya ihe íhè a yiri n'anya gị.	contradiction	"Nnọọ! (That's ""okay"" in Igbo!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is: NEUTRAL.
+
+The premise talks about ""me"" doing something with full energy, while the hypothesis talks about ""you"" not seeing something clearly. They seem to be unrelated statements, and one does not logically follow from or contradict the other."	neutral
+49	Ma kedụ kwanu ma ọ bụrụ na ọ dịka otu m na-agbalisi ike nọọ ịme.	Ana m agbalisi ike ịme ịhe a, n'ezie.	entailment	Entailment	entailment
+50	Ma kedụ kwanu ma ọ bụrụ na ọ dịka otu m na-agbalisi ike nọọ ịme.	A na m agbalisi ike ịmecha projektị m n'izu na-abịa.	neutral	"Nnọọ! (That's ""okay"" in Igbo!)
+
+After analyzing the premise and hypothesis, I would say it's an **entailment**. The premise implies that you're working hard and doing your best, and the hypothesis concludes that you'll complete your project successfully. The premise supports and leads to the hypothesis."	entailment
+51	Mana otu ọbụla, anụmanụ ndị ahụ ga-atoghapụ mgbe ọbụla, ọ kachasị ewu ndị ahụ.	Ewu ndị a na-agbapụ n'ọba ụbọchị ọ bụla.	neutral	Entailment	entailment
+52	Mana otu ọbụla, anụmanụ ndị ahụ ga-atoghapụ mgbe ọbụla, ọ kachasị ewu ndị ahụ.	Ewu ndị ahụ na-agbapụ karị.	entailment	Entailment.	entailment
+53	Mana otu ọbụla, anụmanụ ndị ahụ ga-atoghapụ mgbe ọbụla, ọ kachasị ewu ndị ahụ.	E debere ewu ndị ahụ nke ọma ma na nchekwa.	contradiction	Entailment	entailment
+54	Ọnụ ụzọ ndị ahụ gbachiri agbachi mgbe anyị baara n'ime.	Ụzọ nile ahụ mepere emepe.	contradiction	Entailment.	entailment
+55	Ọnụ ụzọ ndị ahụ gbachiri agbachi mgbe anyị baara n'ime.	Anyị ji igodo ndị ahụ n'aka. 	neutral	Entailment.	entailment
+56	Ọnụ ụzọ ndị ahụ gbachiri agbachi mgbe anyị baara n'ime.	Anyị bara n'ime n'agbanyeghi na ụzọ ahụ gbachiri agbachi.	entailment	Entailment.	entailment
+57	Ya mere achọrịị m nọọ ka m were ịhe nille ma chọọ ma gbakọ ya otú ahụ.	Obi siri m ike na mkpokọta ahụ bụ ihe niile m chọrọ iji chepụta ihe a.	neutral	Entailment.	entailment
+58	Ya mere achọrịị m nọọ ka m were ịhe nille ma chọọ ma gbakọ ya otú ahụ.	Amaghịdị m ịhe m ga-eji mgbakọ niile ahụ nọọ mee biko gwatụ m ịhe ndị ọzọ ị mata ka m sị chepụta ịhe a mebiri.	contradiction	Entailment.	entailment
+59	Ya mere achọrịị m nọọ ka m were ịhe nille ma chọọ ma gbakọ ya otú ahụ.	Aga m agbakọ ya site na mkpokọta ahụ.	entailment	Entailment.	entailment
+60	ma e nwere ọtụtụ n'ime ya n'ihi na ndị nne ahụ ga na-aṅụ ọgwụ ị́ké.	Ndị nne ahụ bụ ndị ọgwụ ị́ké riri ahụ.	neutral	Entailment	entailment
+61	ma e nwere ọtụtụ n'ime ya n'ihi na ndị nne ahụ ga na-aṅụ ọgwụ ị́ké.	Ndị nne ahụ anọghị n'ọgwụ nkịtị maọbụ ọgwụ ị́ké.	contradiction	Contradiction.	contradiction
+62	ma e nwere ọtụtụ n'ime ya n'ihi na ndị nne ahụ ga na-aṅụ ọgwụ ị́ké.	Ndị nne ahụ na-an̄ụ ọgwụ ị́ké.	entailment	Entailment.	entailment
+63	éè ọ dị nọọ mma mmiri ọ na-ezo kemgbe	E neghara m mmiri ozuzo anya.	neutral	"Nice question in Igbo!
+
+After analyzing the premise and hypothesis, I'd say the answer is: entailment.
+
+Here's a brief breakdown:
+
+* The premise ""éè ọ dị nọọ mma mmiri ọ na-ezo kemgbe"" can be translated to ""It has been raining heavily since morning.""
+* The hypothesis ""E neghara m mmiri ozuzo anya"" can be translated to ""I didn't see any rain yesterday.""
+
+Given that the premise talks about heavy rain in the morning, it implies that it's likely to be a rainy day. The hypothesis, which denies seeing rain yesterday, doesn't contradict the premise, as it's talking about a different time frame (yesterday vs. morning). In fact, the premise provides a reason why the speaker might not have seen rain yesterday (because it started raining in the morning). Therefore, the premise entails the hypothesis."	entailment
+64	éè ọ dị nọọ mma mmiri ọ na-ezo kemgbe	Ọ dị mma ma na-ezo mmiri.	entailment	"Éè! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that it's an **entailment**.
+
+In Igbo, the premise ""éè ọ dị nọọ mma mmiri ọ na-ezo kemgbe"" can be translated to ""It has been good and raining since yesterday."" The hypothesis ""Ọ dị mma ma na-ezo mmiri"" means ""It is good and raining.""
+
+The premise implies that it has been good and raining since yesterday, which means it is still good and raining now. Therefore, the premise entails the hypothesis."	entailment
+65	éè ọ dị nọọ mma mmiri ọ na-ezo kemgbe	Ọ bụ nnọọ óké ihe iyi egwu na anwụ a na-adịghị akwụsị akwụsị.	contradiction	"Nnọọ!
+
+After analyzing the premise and hypothesis in Igbo, I can conclude that the relationship between them is:
+
+ENTAILMENT"	entailment
+66	oh ịhe ndụ mmadụ ruru na maọbụ ma ọ bụghị  ị ga-enwe ị́ké ịgwọgharị mmadụ.	Ndụ niile kwesịrị ngwọgharị na inwe oghere nke abụọ.	neutral	"I can help you with that!
+
+The answer is: entailment.
+
+In Igbo, the premise ""oh ịhe ndụ mmadụ ruru na maọbụ ma ọ bụghị  ị ga-enwe ị́ké ịgwọgharị mmadụ"" roughly translates to ""If human life is complete, then it may or may not have the power to redeem humanity.""
+
+The hypothesis ""Ndụ niile kwesịrị ngwọgharị na inwe oghere nke abụọ"" translates to ""All lives deserve redemption and a second chance.""
+
+The premise implies that human life has the potential for redemption, which aligns with the hypothesis that all lives deserve redemption. Therefore, the premise entails the hypothesis."	entailment
+67	oh ịhe ndụ mmadụ ruru na maọbụ ma ọ bụghị  ị ga-enwe ị́ké ịgwọgharị mmadụ.	Mmadụ ọbụla ekwesịghị ka a gwọgharịa  ya.	contradiction	Entailment.	entailment
+68	oh ịhe ndụ mmadụ ruru na maọbụ ma ọ bụghị  ị ga-enwe ị́ké ịgwọgharị mmadụ.	N'agbanyeghi ngwọgharị kedụ ndụ ruru ya.	entailment	"Igbo language!
+
+After analyzing the premise and hypothesis, I conclude that it is an **entailment**."	entailment
+69	oh nwoke m ị nwere nsogbu ịkpa waya pụrụ iche ebe ahụ	A hụbeghị m ụdị nsogbụ ịkpa waya a mbụ.	neutral	"I can help you with that!
+
+The premise is in Igbo, a Nigerian language. Here's a translation:
+
+PREMISE: ""I have a problem with my phone there.""
+HYPOTHESIS: ""I have never seen that type of phone problem before.""
+
+After analyzing the premise and hypothesis, I would say the relationship between them is: **contradiction**."	contradiction
+70	oh nwoke m ị nwere nsogbu ịkpa waya pụrụ iche ebe ahụ	Ịkpa waya abụghị nsogbu.	contradiction	The answer is: contradiction	contradiction
+71	oh nwoke m ị nwere nsogbu ịkpa waya pụrụ iche ebe ahụ	E nwere nsogbụ ịkpa waya a dị iche kpatara.	entailment	"I'd be happy to help you with that!
+
+The premise and hypothesis are in Igbo, a Nigerian language. Here's a breakdown of the translation:
+
+PREMISE: ""The man has a problem with his phone at that place.""
+HYPOTHESIS: ""He has a problem with his phone because of a different reason.""
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise states a fact about the man having a problem with his phone, while the hypothesis provides a possible reason for the problem, but it doesn't necessarily follow from the premise. There could be other reasons for the problem, and the premise doesn't confirm or deny the hypothesis."	neutral
+72	ọ dara ka ịhe ga-atọ ụtọ éè ọ dị mụ mma otu otu ọtụtụ ịhe ndị ha ga-ahapụ	O jughị m anya ma ncha na ha nwere obi ebere.	contradiction	"I'd be happy to help!
+
+The answer is: NEUTRAL"	neutral
+73	ọ dara ka ịhe ga-atọ ụtọ éè ọ dị mụ mma otu otu ọtụtụ ịhe ndị ha ga-ahapụ	O juru m anya na ha kweere gị ka ị were nri na mmanya n'ebe ahụ.	neutral	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the premise entails the hypothesis.
+
+So, the answer is: entailment."	entailment
+74	ọ dara ka ịhe ga-atọ ụtọ éè ọ dị mụ mma otu otu ọtụtụ ịhe ndị ha ga-ahapụ	Ọ juru m anya ihe ha nwere ike ịji wee puọ.	entailment	Entailment	entailment
+75	oh mana otú ọbụla otú ọbụla um ụmụaka m dị áfọ̀ iri abụọ na otu na áfọ̀ iri abụọ na anọ ya mere enweghị m ị́ké ị	A chọghị m ka n'ihi na ụmụaka m akarịala áfọ̀ iri abụọ.	entailment	Entailment.	entailment
+76	oh mana otú ọbụla otú ọbụla um ụmụaka m dị áfọ̀ iri abụọ na otu na áfọ̀ iri abụọ na anọ ya mere enweghị m ị́ké ị	Enwere m ị́ké ị mee ya ebe ọ bụ na ha e tozuwago n'áfọ̀.	neutral	Contradiction.	contradiction
+77	oh mana otú ọbụla otú ọbụla um ụmụaka m dị áfọ̀ iri abụọ na otu na áfọ̀ iri abụọ na anọ ya mere enweghị m ị́ké ị	A ga m emerịrị ebe ọ bụ na ha abụọ dị áfọ̀ iri nakwa iri na otu.	contradiction	Entailment	entailment
+78	éè ndị mmadụ ndị ndị nwere ị́ké ị nọ ọrụ oge ọbụla maọbụ ndị mkpebi ha nwere ị́ké ikpuchi ma ọ bụrụ na ha chọọ ịme mkpebi	Éè, ndị mmadụ n'enweghị ike ime mkpebi ikpe kachasị mma.	entailment	Contradiction	contradiction
+79	éè ndị mmadụ ndị ndị nwere ị́ké ị nọ ọrụ oge ọbụla maọbụ ndị mkpebi ha nwere ị́ké ikpuchi ma ọ bụrụ na ha chọọ ịme mkpebi	Éè, ndị mmadụ ndị nwere ị́ké agụụ anaghị agụ ha.	neutral	The answer is: Neutral	neutral
+80	éè ndị mmadụ ndị ndị nwere ị́ké ị nọ ọrụ oge ọbụla maọbụ ndị mkpebi ha nwere ị́ké ikpuchi ma ọ bụrụ na ha chọọ ịme mkpebi	Éè, ndị mmadụ ndị ngalaba mkpebi ha enweghị ike imebi.	contradiction	Entailment.	entailment
+81	mba ha ka na ha ka na-eme njem ha bidoro mewe kemgbe ịrị áfọ̀ isii nọ na ngwụcha	Ha na-eme njem kemgbe tụpụ 1970.	entailment	Entailment	entailment
+82	mba ha ka na ha ka na-eme njem ha bidoro mewe kemgbe ịrị áfọ̀ isii nọ na ngwụcha	Ha nwere mmasị ime njem.	neutral	Entailment.	entailment
+83	mba ha ka na ha ka na-eme njem ha bidoro mewe kemgbe ịrị áfọ̀ isii nọ na ngwụcha	Ha kwụsiri njem ha n'oge etebeghị aka.	contradiction	"I can help you with that!
+
+The premise is in Igbo, a Nigerian language. Here's a translation:
+
+PREMISE: ""They have not traveled since six years ago till the end of the year.""
+HYPOTHESIS: ""They did not travel at an unspecified time.""
+
+Based on the translation, I'd say the relationship between the premise and hypothesis is:
+
+ENTAILMENT"	entailment
+84	kedụ ka ị ga-esi e mmegharị ahụ	Ị nwere ike ịkọwa etu isiri mee mmegharị ahụ?	entailment	"I can help you with that!
+
+The answer is: entailment"	entailment
+85	kedụ ka ị ga-esi e mmegharị ahụ	Enwere m mmasị na mmegharị ahụ maka na achọrọ ụfọdụ ọrụ na-emetụ n'obi.	neutral	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis in Igbo, I would say that the premise entails the hypothesis.
+
+So, the answer is: entailment."	entailment
+86	kedụ ka ị ga-esi e mmegharị ahụ	Biko kwụsị ikwu maka mmegharị ahụ.	contradiction	"Nice question in Igbo!
+
+After analyzing the premise and hypothesis, I'd say it's a **contradiction**.
+
+Here's a brief breakdown:
+
+* The premise ""kedụ ka ị ga-esi e mmegharị ahụ"" roughly translates to ""You should continue talking about the matter.""
+* The hypothesis ""Biko kwụsị ikwu maka mmegharị ahụ"" roughly translates to ""Please stop talking about the matter.""
+
+As you can see, the premise encourages discussion, while the hypothesis asks to stop discussing the same topic. Hence, they contradict each other."	contradiction
+87	ọdịmma nke ahụ bụ ezigbo ya echeghịdị m maka nke ahụ éè	Nke ahụ bụ echiche enweghị ịsị m tụfụrụ n'izu uka gara aga. 	contradiction	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis in Igbo, I can conclude that the relationship between them is:
+
+contradiction"	contradiction
+88	ọdịmma nke ahụ bụ ezigbo ya echeghịdị m maka nke ahụ éè	Nke ahụ ezigbo okwu.	entailment	Entailment	entailment
+89	ọdịmma nke ahụ bụ ezigbo ya echeghịdị m maka nke ahụ éè	Okwu ahụ megidere ibe ya nke  ikwuru bu ezigbo okwu.	neutral	"I can help you with that!
+
+The answer is: entailment"	entailment
+90	nlekọta ụbọchị ụbọchị abụọ n'izu ha kpọrọ ya ebe a na-eleta ndị agadi mana ọ na-aga n'ebe ndị agadi	Ebe nlekọta ụbọchị ahụ n'emepe emepe kwa ụbọchị maka ụmụaka nọ n'okpuru afọ ise naanị.	contradiction	The answer is: neutral.	neutral
+91	nlekọta ụbọchị ụbọchị abụọ n'izu ha kpọrọ ya ebe a na-eleta ndị agadi mana ọ na-aga n'ebe ndị agadi	Ha na-ahapụ ha ka ha gaa ugboro abụọ n'izu ụka ma ọ bụrụ na ndị okenye nwere ị́ké ịme ya.	neutral	Entailment	entailment
+92	nlekọta ụbọchị ụbọchị abụọ n'izu ha kpọrọ ya ebe a na-eleta ndị agadi mana ọ na-aga n'ebe ndị agadi	Ha na-akpọ ya ka nlekọta ụbọchị agadị mana ihe a na akpọ ya bụ ebe owuwu agadị. 	entailment	Entailment	entailment
+93	nke ahụ bụ ebumnobi ha oh	Ọ bụ ihe ahụ ka ha na-agbalịsị ike maka ya.	entailment	Entailment	entailment
+94	nke ahụ bụ ebumnobi ha oh	Nke ahụ abụghị kwa ịhe ha chọọrọ. 	contradiction	"Igbo language!
+
+After analyzing the premise and hypothesis, I can conclude that it is a **contradiction**.
+
+Here's a brief explanation:
+
+The premise ""nke ahụ bụ ebumnobi ha oh"" means ""That is their goal"" or ""That is what they want"".
+
+The hypothesis ""Nke ahụ abụghị kwa ịhe ha chọọrọ"" means ""That is not what they want"" or ""That is not their goal"".
+
+As you can see, the premise and hypothesis are directly opposing each other, making it a contradiction."	contradiction
+95	nke ahụ bụ ebumnobi ha oh	Ha nwetara ebumnobi ha.	neutral	Entailment	entailment
+96	njikwa egbe pụtara ịji aka abụọ eme ịhe	Ọkara n'ime egbe niile agbajọrọ na-esi n'iji otu aka. 	neutral	"I'd be happy to help you with that!
+
+The answer is: contradiction"	contradiction
+97	njikwa egbe pụtara ịji aka abụọ eme ịhe	Ụzọ kachasi mma maka ijikwa egbe bụ ịji ụkwụ abụọ.	contradiction	Entailment.	entailment
+98	njikwa egbe pụtara ịji aka abụọ eme ịhe	Jiri aka abụọ ma ọ bụrụ na-ịchọrọ ímù njikwa egbe.	entailment	Entailment	entailment
+99	na uh mana ọ nọkatara bịa n'ebe a na-amaghị amaghị m ebe o si bịa mana	A maghị m ebe o si a bịa mana ọ dị osiso.	entailment	"Jambo! I'd be happy to help you with that.
+
+After analyzing the premise and hypothesis in Igbo, I can conclude that the premise entails the hypothesis. Therefore, the answer is **entailment**."	entailment
+100	na uh mana ọ nọkatara bịa n'ebe a na-amaghị amaghị m ebe o si bịa mana	Ọ bịara ọsịsọ mana ama m nọ ebe o nwere ị́ké ị sị abịa.	neutral	"I can help you with that!
+
+The answer is: entailment"	entailment
+101	na uh mana ọ nọkatara bịa n'ebe a na-amaghị amaghị m ebe o si bịa mana	Ọ na-abịa dịka molasses ma a makwa m kpọmkwem mgbe ọ ga-abịa.	contradiction	"I'd be happy to help you with that!
+
+The answer is: entailment.
+
+(For those who may not know, the language used is Igbo, a Nigerian language. The premise and hypothesis are both in Igbo, and I'm programmed to understand and respond accordingly.)"	entailment
+102	mba n'ezie o dochaghị m anya echeghị m	A maghị m ọtụtụ ihe gbasara ya.	entailment	"I'd be happy to help!
+
+In Igbo, the premise ""mba n'ezie o dochaghị m anya echeghị m"" roughly translates to ""I don't know much about it.""
+
+The hypothesis ""A maghị m ọtụtụ ihe gbasara ya"" also translates to ""I don't know much about it.""
+
+Given the translations, I would say the premise entails the hypothesis. Therefore, the answer is **entailment**."	entailment
+103	mba n'ezie o dochaghị m anya echeghị m	O nweghị ịhe m ma n'ịhe ndị gbasara ịhụnanya. 	neutral	"I can help you with that!
+
+The premise and hypothesis are in Igbo, a Nigerian language. Here's a breakdown:
+
+PREMISE: mba n'ezie o dochaghị m anya echeghị m
+Translation: ""I didn't see anything that will make me happy""
+
+HYPOTHESIS: O nweghị ịhe m ma n'ịhe ndị gbasara ịhụnanya
+Translation: ""There is nothing that concerns me about love""
+
+Based on the translations, I'd say the relationship between the premise and hypothesis is:
+
+ENTAILMENT
+
+The premise suggests that the speaker didn't see anything that would make them happy, and the hypothesis builds upon that by stating that there's nothing concerning them about love, implying that love is not a source of happiness for them. The hypothesis logically follows from the premise."	entailment
+104	mba n'ezie o dochaghị m anya echeghị m	A na m amụ ya kemgbe ọtụtụ afọ.	contradiction	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis in Igbo, I can conclude that the relationship between them is:
+
+contradiction"	contradiction
+105	éè ọ dị ukwuu ị ma ọ	E chem na-ọmara na ọ dị ịtụnanya. 	neutral	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say it's an **entailment**.
+
+In Igbo, the premise ""éè ọ dị ukwuu ị ma ọ"" roughly translates to ""It is very surprising that it is so."" The hypothesis ""E chem na-ọmara na ọ dị ịtụnanya"" roughly translates to ""It is surprising that it is so amazing.""
+
+Since the premise already conveys a sense of surprise, the hypothesis is a natural consequence or extension of that surprise, making it an entailment."	entailment
+106	éè ọ dị ukwuu ị ma ọ	Mba ọ jọgburu onwe ya.	contradiction	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis in Igbo, I'd say the relationship between them is:
+
+Entailment"	entailment
+107	éè ọ dị ukwuu ị ma ọ	Éè ọ dị ezigbo mma.	entailment	"Nice question in Igbo!
+
+After analyzing the premise and hypothesis, I would say it's an **entailment**.
+
+Here's a breakdown:
+
+* Premise: ""éè ọ dị ukwuu ị ma ọ"" roughly translates to ""there's something very good in it"".
+* Hypothesis: ""Éè ọ dị ezigbo mma"" roughly translates to ""there's something very good in it"" as well.
+
+Since the premise and hypothesis convey the same meaning, the premise entails the hypothesis."	entailment
+108	éè ọ tụpụtara nọọ aro ka eweta uh um otu uh um otu mọpụ dịka ị ga-eji mee ihe	Ọ tụrụ aro ka azuta vakkum.	contradiction	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+109	éè ọ tụpụtara nọọ aro ka eweta uh um otu uh um otu mọpụ dịka ị ga-eji mee ihe	Ọ tụụrụ aro ka achọwa mọpụ. 	entailment	Entailment.	entailment
+110	éè ọ tụpụtara nọọ aro ka eweta uh um otu uh um otu mọpụ dịka ị ga-eji mee ihe	Ọ chọrọ iji ihe mọpụ wee hichapụ ọbara ahụ.	neutral	Entailment.	entailment
+111	ọ dị nnukwu njọ ebe a anyị nwere nọọ onye gbara egbe ka o siiri chọọ n'ihe dịka site n'ụlọ anyị garuo ụlọ atọ	Egbe ọgbụgba ahụ dị opekata mpe 100 miles site n'ebe m bi.	contradiction	Neutral.	neutral
+112	ọ dị nnukwu njọ ebe a anyị nwere nọọ onye gbara egbe ka o siiri chọọ n'ihe dịka site n'ụlọ anyị garuo ụlọ atọ	Egbe ọgbụgba ahụ dara na nso ụlọ m na o mere ụjọ ekweghị ka mụ pụọ n'èzí.	neutral	Entailment.	entailment
+113	ọ dị nnukwu njọ ebe a anyị nwere nọọ onye gbara egbe ka o siiri chọọ n'ihe dịka site n'ụlọ anyị garuo ụlọ atọ	E nwere ịgba egbe dị nso n'ụlọ m, ọ dịghị mma n'ezie na gburugburu a.	entailment	Entailment	entailment
+114	uh-huh nke ahụ bụ eziokwu ọ dị ọ dịghị nọọ adịgide.	E kwetaghị m gị, ọ na-adịgide.	contradiction	"I'd be happy to help you with that!
+
+The premise and hypothesis are in Igbo, a Nigerian language. Here's the translation:
+
+PREMISE: That thing is true, it is not that it is not existing.
+HYPOTHESIS: You didn't tell me, it is existing.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: entailment.
+
+In the premise, it is stated that something exists, and the hypothesis also affirms the existence of that thing. Therefore, the premise provides evidence that supports the hypothesis, making it an entailment."	entailment
+115	uh-huh nke ahụ bụ eziokwu ọ dị ọ dịghị nọọ adịgide.	A na m eche na o nwere ị́ké bụrụ eziokwu ka ị kwuru maka ndịgịde ya. 	neutral	Entailment.	entailment
+116	uh-huh nke ahụ bụ eziokwu ọ dị ọ dịghị nọọ adịgide.	I kwụrụ eziokwu gbasara ya na-ọdịghị adịgide.	entailment	Entailment.	entailment
+117	ana m achọ ka m nọgide ebe ahụ 	Ana m agbalị  ịnọgidesi ike.	entailment	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say it's an **entailment**.
+
+Here's a breakdown:
+
+* The premise ""ana m achọ ka m nọgide ebe ahụ"" means ""I want to stay in that place.""
+* The hypothesis ""Ana m agbalị ịnọgidesi ike"" means ""I will try to stay strong.""
+
+Since the premise expresses a desire to stay, and the hypothesis implies taking action to stay strong, which is a necessary step to achieve the desired outcome, the hypothesis entails the premise.
+
+Ị sọọ! (That's it!)"	entailment
+118	ana m achọ ka m nọgide ebe ahụ 	Ana m emekwanu ị́ké m.	neutral	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis in Igbo, I'd say the relationship between them is: entailment.
+
+Here's a breakdown:
+
+* The premise ""ana m achọ ka m nọgide ebe ahụ"" means ""I want to stay in that place.""
+* The hypothesis ""Ana m emekwanu ị́ké m"" means ""I will do what I want.""
+
+Since the premise expresses a desire to stay in a particular place, and the hypothesis asserts the ability to do what one wants, the hypothesis entails the premise. If I can do what I want, then I can stay in that place if I want to.
+
+So, the answer is: entailment."	entailment
+119	ana m achọ ka m nọgide ebe ahụ 	Aga m a hapụ ya ma na eleghị anya n'azụ.	contradiction	"In Igbo, the premise ""ana m achọ ka m nọgide ebe ahụ"" means ""I want to stay there"" and the hypothesis ""Aga m a hapụ ya ma na eleghị anya n'azụ"" means ""I will leave it and not look back"".
+
+Based on the meanings, I would say the relationship between the premise and hypothesis is a **contradiction**. The premise expresses a desire to stay, while the hypothesis states a decision to leave."	contradiction
+120	Anyị hiwere ọnụ ụzọ ịba na tekinọlọji n'ọdịnihu.	Anyị na-arụ ihe ga e bụ ụzọ dị mkpa maka ọdịnihu tekinọlọji.	entailment	Entailment.	entailment
+121	Anyị hiwere ọnụ ụzọ ịba na tekinọlọji n'ọdịnihu.	Anyị na-arụ transịstọ, ka ọdịnihu anyị bụrụ nke AI ga na-elekọta.	neutral	Entailment.	entailment
+122	Anyị hiwere ọnụ ụzọ ịba na tekinọlọji n'ọdịnihu.	Anyị chọrọ ịgbochi tekinọlọji ịga n'ihu.	contradiction	Entailment.	entailment
+123	Ọmụmatụ, na ọ karịsịa, jinu niile tụgharịrị chaa ododo.	Na ịkachasị, nanị ọkara jinu ahụ ga-agbanwe ododo. 	contradiction	Entailment	entailment
+124	Ọmụmatụ, na ọ karịsịa, jinu niile tụgharịrị chaa ododo.	O kwere omume ka jinu ahụ tụgharịa àgwà.	entailment	Entailment.	entailment
+125	Ọmụmatụ, na ọ karịsịa, jinu niile tụgharịrị chaa ododo.	Mgbe ụfọdụ jinu ahụ ga-agbanwe chawa anụnụ-anụnụ.	neutral	Entailment.	entailment
+126	Daniel Yamins bụ onye ntorobịa mgbakọnawepụ ị́sị́ na-anụ ọkụ.	Mr. Yamins dị ukwuu na mgbakọnamwepụ.	entailment	Entailment.	entailment
+127	Daniel Yamins bụ onye ntorobịa mgbakọnawepụ ị́sị́ na-anụ ọkụ.	Maazi tinyere uche n'ọjibra nke jiometri.	neutral	Neutral	neutral
+128	Daniel Yamins bụ onye ntorobịa mgbakọnawepụ ị́sị́ na-anụ ọkụ.	Mr. Yamins bụ nnukwu onye osise, mana ọ dị njọ na mgbakọnamwepu.	contradiction	The answer is neutral.	neutral
+129	Na ọ bụrụ otú ahụ, ha ana anọkarị n'akụkụ oke ahụ?	Ama m na ha adịghị eme njem nso ókè ahụ.	contradiction	"Igbo language!
+
+After analyzing the premise and hypothesis, I would say it's a **contradiction**.
+
+Here's a breakdown:
+
+* The premise asks if they usually stay close to the border (oke ahụ).
+* The hypothesis states that they don't usually travel close to the border (ókè ahụ).
+
+The premise implies they do stay close, while the hypothesis says they don't. That's a contradiction!"	contradiction
+130	Na ọ bụrụ otú ahụ, ha ana anọkarị n'akụkụ oke ahụ?	Achọrọ m ịma, ha na-anọkarị na England?	neutral	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say it's a **contradiction**.
+
+The premise asks if they usually stay around that place, implying a specific location, while the hypothesis states they usually stay in England, which is a different location. The two statements are opposing each other, hence the contradiction."	contradiction
+131	Na ọ bụrụ otú ahụ, ha ana anọkarị n'akụkụ oke ahụ?	Onye Ọkà okwu chọrọ ka e doo ya  anya gbasara ugboro ole ha gara n'akụkụ ókè ahu.	entailment	Entailment.	entailment
+132	Na e nwere, echere m, ịhe ngosi mọlịkụl na biosphere nọ nọọ na-akpụkọrita onwe ya  n'oge kwere nnapụta maka ịdị na-agbasa ịhe ndị e tinye kọrọ ọnụ.	Biosphere ahụ na-agbanwe ọtụtụ mgbe.	entailment	Entailment.	entailment
+133	Na e nwere, echere m, ịhe ngosi mọlịkụl na biosphere nọ nọọ na-akpụkọrita onwe ya  n'oge kwere nnapụta maka ịdị na-agbasa ịhe ndị e tinye kọrọ ọnụ.	Biosphere ahụ na-agbanwe site n'ọnọdụ okpomọkụ. 	neutral	Entailment.	entailment
+134	Na e nwere, echere m, ịhe ngosi mọlịkụl na biosphere nọ nọọ na-akpụkọrita onwe ya  n'oge kwere nnapụta maka ịdị na-agbasa ịhe ndị e tinye kọrọ ọnụ.	Biosphere ahụ adịghị agbanwe.	contradiction	Entailment	entailment
+135	Site na mwuli elu ahụ, kristal nkịtị e nweghị ị́ké inye ọtụtụ ozi.	Kristal nkịtị bụ nnọọ nnukwu njupụta ụzọ nchekwa ozi.	contradiction	Entailment.	entailment
+136	Site na mwuli elu ahụ, kristal nkịtị e nweghị ị́ké inye ọtụtụ ozi.	Kristal ndị nkịtị abachaghi nnukwu uru iji na-enye ozi.	entailment	Entailment.	entailment
+137	Site na mwuli elu ahụ, kristal nkịtị e nweghị ị́ké inye ọtụtụ ozi.	E nwere ụdị crystal ndị ọzọ bara uru nke ukwuu maka itinye n'ụdị ọzọ ozi  gbasara ala obodo site n'iji laser beams.	neutral	The answer is: Neutral	neutral
+138	Ya mere, ndị okenye ekwesịghị ị na-akụziri ụmụntakịrị na-ebidobeghị akwụkwọ ịghọ aghụghọ, dịka ha si eme mgbe ụfọdụ oge ha chọrọ ị nyere ha aka ịmụta izu okwe maọbụ ịhe ndị ọzọ yiri ha. 	Ụmụntakịrị ebidobeghi akwụkwọ site n'ebumpụta ụwa ka mma n'idozi izu okwe karịa n'egwuregwu ịghọ aghụghọ.	contradiction	Entailment	entailment
+139	Ya mere, ndị okenye ekwesịghị ị na-akụziri ụmụntakịrị na-ebidobeghị akwụkwọ ịghọ aghụghọ, dịka ha si eme mgbe ụfọdụ oge ha chọrọ ị nyere ha aka ịmụta izu okwe maọbụ ịhe ndị ọzọ yiri ha. 	Ndị na-ebidobeghị akwụkwọ agaghị achọ enyemaka buru ibu iji muta aghụghọ.	entailment	Entailment.	entailment
+140	Ya mere, ndị okenye ekwesịghị ị na-akụziri ụmụntakịrị na-ebidobeghị akwụkwọ ịghọ aghụghọ, dịka ha si eme mgbe ụfọdụ oge ha chọrọ ị nyere ha aka ịmụta izu okwe maọbụ ịhe ndị ọzọ yiri ha. 	Ụmụaka ebidobeghi akwụkwọ e nweghị ńkà n'ihe ngosi mbara igwe iji mutasia izu okwe na-onwe ha.	neutral	Entailment	entailment
+141	[Obodo a bụ nke] e chepụtara n'ime nwere onwe na itinye uchu n'okwu nke bụ na e kere mmadụ niile nhatanha.	Ndetu gbasara atụmatụ a ka edekoro na ọtụtụ akwụkwọ mgbakwunye.	neutral	The answer is NEUTRAL.	neutral
+142	[Obodo a bụ nke] e chepụtara n'ime nwere onwe na itinye uchu n'okwu nke bụ na e kere mmadụ niile nhatanha.	Ụfọdụ ndị mmadụ kwenyere na mmadụ niile ha.	entailment	Entailment.	entailment
+143	[Obodo a bụ nke] e chepụtara n'ime nwere onwe na itinye uchu n'okwu nke bụ na e kere mmadụ niile nhatanha.	Atọrọ ntọala mba a n'ihi nkwenye na ụfọdụ mmadụ site n'ebumpụta ụwa dị mma karịa ndị ọzọ	contradiction	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+144	Ọ bụ ka mụ na-eto ya karia?	O doro m anya nke ukwuu na-ekwesịrị m iti ya ihe maka ọdịda ya.	contradiction	The answer is: entailment.	entailment
+145	Ọ bụ ka mụ na-eto ya karia?	Ana m eche ma ọ chọrọ ekele site na m ọzọ.	entailment	"The answer is: entailment.
+
+(Ọ bụ ka mụ na-eto ya karia? means ""Is it because I'm helping him?"" and Ana m eche ma ọ chọrọ ekele site na m ọzọ means ""I think he wants appreciation from me again"". The premise and hypothesis are related and the hypothesis can be inferred from the premise, hence entailment.)"	entailment
+146	Ọ bụ ka mụ na-eto ya karia?	E kwesịrị m ị na-eto ya karịa maka ihe ngosi piano ya?	neutral	"I'd be happy to help you with that!
+
+The answer is: entailment.
+
+In Igbo, the premise ""Ọ bụ ka mụ na-eto ya karia?"" translates to ""Is it because I'm better than him?"" and the hypothesis ""E kwesịrị m ị na-eto ya karịa maka ihe ngosi piano ya?"" translates to ""Shouldn't I be better than him because of his piano performance?"" 
+
+The premise implies a comparison of superiority, and the hypothesis builds upon that comparison, making the relationship between them an entailment."	entailment
+147	E nwere ị́ké ị wu atụmatụ ndị spin netwọk n'akụkụ dị iche iche. 	Akụkụ ndị ọzọ bụ ihe enwere ike iji wee wuo atụmatụ spin network.	entailment	Entailment.	entailment
+148	E nwere ị́ké ị wu atụmatụ ndị spin netwọk n'akụkụ dị iche iche. 	Spin netwọk dị mkpa maka tekinọlọji ndị eji etinye dátà.	neutral	Entailment.	entailment
+149	E nwere ị́ké ị wu atụmatụ ndị spin netwọk n'akụkụ dị iche iche. 	E nweghị ike ịche gbasara Spin Network n'akụkụ dị iche iche.	contradiction	Contradiction.	contradiction
+150	(n'obi erughị ala) Mba, mba, achọghị m ka ị nwụọ!	A chọghị m ka ị nwụọ!	entailment	Entailment	entailment
+151	(n'obi erughị ala) Mba, mba, achọghị m ka ị nwụọ!	Ọ gbasaghị ma ị nwụọ! 	contradiction	"I can help you with that!
+
+The answer is: entailment.
+
+Here's a brief explanation:
+
+The premise ""n'obi erughị ala"" means ""it's not good to die"" and ""Mba, mba, achọghị m ka ị nwụọ"" means ""no, no, I don't want you to die"". The hypothesis ""Ọ gbasaghị ma ị nwụọ"" means ""he/she didn't let you die"".
+
+The premise is expressing a desire for someone not to die, and the hypothesis is stating that someone (he/she) didn't let that person die. This implies that the hypothesis is consistent with the premise, and therefore, it entails the hypothesis."	entailment
+152	(n'obi erughị ala) Mba, mba, achọghị m ka ị nwụọ!	Ọ ga-ewute m nnọọ ma ị nwụọ!	neutral	"I'd be happy to help you with that!
+
+The premise ""n'obi erughị ala) Mba, mba, achọghị m ka ị nwụọ!"" can be translated to ""I don't want you to die!"" in English.
+
+The hypothesis ""Ọ ga-ewute m nnọọ ma ị nwụọ!"" can be translated to ""He will bury me when you die!"" in English.
+
+Based on the translations, I would say that the premise **contradicts** the hypothesis. The premise expresses a desire for the person not to die, while the hypothesis assumes that the person will die."	unknown
+153	A kwugburu ya n'ihu ọhanaeze na March 19,1875, na San Jose, California.	California na-eme ogbugbu n'ihu ọhanaeze ruo ọgwụgwụ nke oge 1875.	entailment	Entailment.	entailment
+154	A kwugburu ya n'ihu ọhanaeze na March 19,1875, na San Jose, California.	A tọhapụrụ ya pụọ na nmehie niile ma zigakwa ya n'ụzọ ya. 	contradiction	"I'd be happy to help!
+
+The premise and hypothesis are in Igbo, a language spoken in Nigeria. Here's a breakdown:
+
+PREMISE: ""A kwugburu ya n'ihu ọhanaeze na March 19,1875, na San Jose, California."" 
+Translation: ""He was born on March 19, 1875, in San Jose, California.""
+
+HYPOTHESIS: ""A tọhapụrụ ya pụọ na nmehie niile ma zigakwa ya n'ụzọ ya."" 
+Translation: ""He was freed from all troubles and lived his life well.""
+
+Since the premise talks about the person's birth, and the hypothesis talks about their life experiences, there is no direct connection or contradiction between the two statements. Therefore, the answer is:
+
+NEUTRAL"	neutral
+155	A kwugburu ya n'ihu ọhanaeze na March 19,1875, na San Jose, California.	A kwụgburu ya maka ịgba ikike mgba okpuru na izu ohi ịnyịnya.	neutral	"I can help with that!
+
+The answer is: NEUTRAL.
+
+The premise provides information about a person's birthdate and location, while the hypothesis talks about a person's struggle for freedom and human rights. There is no logical connection between the two, so they are neutral with respect to each other."	neutral
+156	N'oge ọgba-aghara ahụ, osimiri ndụ ndụ ahụ na-egbuke egbuke na-asọpụta. 	Osimiri ahụ na-acha anụnụ anụnụ ma dị nro ka enyo.	contradiction	"I'd be happy to help!
+
+The answer is: entailment.
+
+(In Igbo, the language used, the premise describes the river as flowing smoothly and quietly, and the hypothesis states that the river is calm and peaceful, which aligns with the description in the premise.)"	entailment
+157	N'oge ọgba-aghara ahụ, osimiri ndụ ndụ ahụ na-egbuke egbuke na-asọpụta. 	Osimiri ahụ jupụtara n'obere ázụ̀ ndị na-agbasa n'ahụ ụgbọ mmiri ahụ.	neutral	Entailment.	entailment
+158	N'oge ọgba-aghara ahụ, osimiri ndụ ndụ ahụ na-egbuke egbuke na-asọpụta. 	Osimiri ahụ na-acha akwụkwọ ndụ akwụkwọ ndụ, ma dịkwa ka ọ na-ésī.	entailment	Entailment.	entailment
+159	Usoro iwu dị nọọ iche na-achọ ịrụ ọrụ n'ụzọ na-esoghị ọgbaghara nọ n'afọ ndị 1860. 	Site na 1870 usoro iwu niile adaala na obodo ahụ nọkwa n'ọgbaghara zuru oke.	contradiction	Entailment	entailment
+160	Usoro iwu dị nọọ iche na-achọ ịrụ ọrụ n'ụzọ na-esoghị ọgbaghara nọ n'afọ ndị 1860. 	Afọ ndị 1860 bụ oge ọgbaghara.	entailment	Entailment.	entailment
+161	Usoro iwu dị nọọ iche na-achọ ịrụ ọrụ n'ụzọ na-esoghị ọgbaghara nọ n'afọ ndị 1860. 	Usoro iwu nke ọhụụ chọrọ ị mmụba ikike oru.	neutral	"Nnọọ! (That's ""hello"" in Igbo!)
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is **neutral**. The premise talks about the uniqueness of a law system in the 1860s, while the hypothesis discusses the law system's desire to increase work opportunities. There's no direct logical connection between the two statements, so they don't entail or contradict each other."	neutral
+162	Ụdị echiche ogo elu ọbụla, ọ rụtụrụ aka, dịka o siri pụta na mkparịta ụka na sosha midia, n'etiti nwata ahụ na ndị nnọchiteanya omenala ya dịka ha na-esonye n'ọrụ arụkọtara ọnụ. 	Ụmụntakịrị anaghị enwe ike ịkekọrịta ụdị echiche dị elu.	contradiction	Contradiction.	contradiction
+163	Ụdị echiche ogo elu ọbụla, ọ rụtụrụ aka, dịka o siri pụta na mkparịta ụka na sosha midia, n'etiti nwata ahụ na ndị nnọchiteanya omenala ya dịka ha na-esonye n'ọrụ arụkọtara ọnụ. 	Ị́kụ̀ ázụ̀ bụ otu ọrụ e nwekọrọ ọnụ n'etiti ọtụtụ omenala ndị dị iche iche. 	neutral	Entailment	entailment
+164	Ụdị echiche ogo elu ọbụla, ọ rụtụrụ aka, dịka o siri pụta na mkparịta ụka na sosha midia, n'etiti nwata ahụ na ndị nnọchiteanya omenala ya dịka ha na-esonye n'ọrụ arụkọtara ọnụ. 	Ịkekọrịta ọrụ nkịtị na-enye aka mgbe ụfọdụ maka ịkekọrịta echiche ụdị nke dị elu.	entailment	Entailment.	entailment
+165	Ụfọdụ agbataobi nweere onye ekpere nwoke maọbụ nwaanyị, ndị ńdú ime mmụọ nwere ike ị du ndị obodo n'ekpere n'akwamozu, ụbọchị ncheta ọnwụ ndị nsọ na mgbe ọbụla ụkọchukwu na-anọghị ya. 	O nweghị ndị agbataobi nwere ndị ńdú ime mmụọ ndị na-abụghị ndị nchu àjà.	contradiction	Contradiction.	contradiction
+166	Ụfọdụ agbataobi nweere onye ekpere nwoke maọbụ nwaanyị, ndị ńdú ime mmụọ nwere ike ị du ndị obodo n'ekpere n'akwamozu, ụbọchị ncheta ọnwụ ndị nsọ na mgbe ọbụla ụkọchukwu na-anọghị ya. 	Ụfọdụ agbataobi nwere ndị ńdú ime mụọ ndị na-abụghị ndị nchu àjà.	entailment	Entailment	entailment
+167	Ụfọdụ agbataobi nweere onye ekpere nwoke maọbụ nwaanyị, ndị ńdú ime mmụọ nwere ike ị du ndị obodo n'ekpere n'akwamozu, ụbọchị ncheta ọnwụ ndị nsọ na mgbe ọbụla ụkọchukwu na-anọghị ya. 	Ụfọdụ ndị ńdú ime mmụọ nwere ntutu isi dị ojii.	neutral	Neutral.	neutral
+168	N'ime ejije sosha dràmà, ohere na-adịgasi ịji mepụta ma kpọkọta ọrụ ndị ọzọ nwere ị́ké inyere ụmụaka aka ịghọta oyiri na ndịịche dị n'etiti ndị mmadụ ịnwe mmasị, nkwenye, na mmetụta.	Ụmụaka nwere ike ịmụ ka ndị mmadụ si yie na ịdị iche iche.	entailment	Entailment	entailment
+169	N'ime ejije sosha dràmà, ohere na-adịgasi ịji mepụta ma kpọkọta ọrụ ndị ọzọ nwere ị́ké inyere ụmụaka aka ịghọta oyiri na ndịịche dị n'etiti ndị mmadụ ịnwe mmasị, nkwenye, na mmetụta.	Ụmụaka nwere ike ịhụ ka agbụrụ dị iche iche siri dị iche.	neutral	Entailment.	entailment
+170	N'ime ejije sosha dràmà, ohere na-adịgasi ịji mepụta ma kpọkọta ọrụ ndị ọzọ nwere ị́ké inyere ụmụaka aka ịghọta oyiri na ndịịche dị n'etiti ndị mmadụ ịnwe mmasị, nkwenye, na mmetụta.	Ụmụaka enweghị ike ịmụ ihe ọ bula.	contradiction	Contradiction.	contradiction
+171	Ịhe ahụ kachasị mma n'ime ntụziaka iwu German mgbe agha kwụsịrị, yanu, bụ nọọ ịhe kachasị kpalite ọchịchị Nazi ahụ.	Ọchịchị Nazi kwetara na ya.	contradiction	Entailment.	entailment
+172	Ịhe ahụ kachasị mma n'ime ntụziaka iwu German mgbe agha kwụsịrị, yanu, bụ nọọ ịhe kachasị kpalite ọchịchị Nazi ahụ.	Ọchịchị Nazi gburu onye ọbụla so na ya.	neutral	Entailment.	entailment
+173	Ịhe ahụ kachasị mma n'ime ntụziaka iwu German mgbe agha kwụsịrị, yanu, bụ nọọ ịhe kachasị kpalite ọchịchị Nazi ahụ.	Ọchịchị Nazi kwụsịrị ya.	entailment	Entailment.	entailment
+174	Sonja nwantakịrị ahụ bidoro iñomi íwè íwé ahụ nwa ya nwaanyị. 	Ọ dịghị onye na-ewe iwe.	contradiction	"I can help you with that!
+
+The premise is in Igbo, a Nigerian language. Here's a translation:
+
+PREMISE: Sonja has started teaching her daughter how to weave.
+HYPOTHESIS: There is no one who knows how to weave.
+
+Given the premise and hypothesis, I'd say the relationship is a **contradiction**. The premise states that Sonja is teaching her daughter how to weave, implying that Sonja knows how to weave, while the hypothesis claims that there is no one who knows how to weave."	contradiction
+175	Sonja nwantakịrị ahụ bidoro iñomi íwè íwé ahụ nwa ya nwaanyị. 	Sonja bụ nwantakịrị.	entailment	Entailment.	entailment
+176	Sonja nwantakịrị ahụ bidoro iñomi íwè íwé ahụ nwa ya nwaanyị. 	Sonja na-ewe iwe.	neutral	Entailment.	entailment
+177	6 N'ime áfọ̀ iri ịse na ịse ahụ dubara na Civil War, Court ahụ ejichaghi ikike a rụọ ọrụ. 	Court ahụ mgbe ụfọdụ na-eji ikike a mee ihe na ọtụtụ afọ iri dubara na Civil War.	entailment	Entailment	entailment
+178	6 N'ime áfọ̀ iri ịse na ịse ahụ dubara na Civil War, Court ahụ ejichaghi ikike a rụọ ọrụ. 	Court ahụ jiiri ikike a ugboro 4 n'ime áfọ̀ iri ịse na ịse ahụ dubara na Civil War.	neutral	Entailment.	entailment
+179	6 N'ime áfọ̀ iri ịse na ịse ahụ dubara na Civil War, Court ahụ ejichaghi ikike a rụọ ọrụ. 	Court ahụ jiri ikike  a mee ihe ugboro nde ise n'afọ iri ise na ise dubara na Civil War.	contradiction	Entailment.	entailment
+180	A na m ekwe gị nkwa, nnamukwuu, na a gwara m ihe nile n'ozuzu oke.	Ana m agwa gị na-enyere m ihe ọmụma gbasara ihe nile.	entailment	Entailment.	entailment
+181	A na m ekwe gị nkwa, nnamukwuu, na a gwara m ihe nile n'ozuzu oke.	Ọ bụ ọnwụ onye nchọpụta ahụ ka a gwara m maka ya.	neutral	Entailment	entailment
+182	A na m ekwe gị nkwa, nnamukwuu, na a gwara m ihe nile n'ozuzu oke.	Ọ dị ọtụtụ nkọwa e zonahụrụ m.	contradiction	Entailment.	entailment
+183	Ụda ahụ nyere Captain Blood nsogbụ site echiche iwe ya.	Captain Blood nwere ike ịche echiche iwe ya n'enweghị nkwụsị.	contradiction	Entailment.	entailment
+184	Ụda ahụ nyere Captain Blood nsogbụ site echiche iwe ya.	Echiche ndị Captain Blood na-eche bụ nke e ji ụfọdụ mkpọtụ mesaa.	entailment	Entailment.	entailment
+185	Ụda ahụ nyere Captain Blood nsogbụ site echiche iwe ya.	Mkpu nwa nkita ahụ kụjara onyeisi agha site n'echiche ya	neutral	"Nice question in Igbo!
+
+After analyzing the premise and hypothesis, I'd say it's an **entailment**."	entailment
+186	Mana agaghị m echefu na mgbe m nọ dịka ohu n'ezinụlọ nwannenna gi nke nwoke na Barbados, ị ji obiọma were leeta m.	I jiri obiọma meso m mgbe m bụ ohu na Barbados.	entailment	Entailment	entailment
+187	Mana agaghị m echefu na mgbe m nọ dịka ohu n'ezinụlọ nwannenna gi nke nwoke na Barbados, ị ji obiọma were leeta m.	Ị taara m nnukwu ahụhụ, ma metọọ m karịa unyi.	contradiction	Entailment.	entailment
+188	Mana agaghị m echefu na mgbe m nọ dịka ohu n'ezinụlọ nwannenna gi nke nwoke na Barbados, ị ji obiọma were leeta m.	Nwanne nna gị nke nwoke na-etisi m ihe ike kwa ụbọchị mgbe ọ bụ ya nwe m.	neutral	Entailment	entailment
+189	Ebe ahụ, ọ dịka ịhe na-akarịghị mailụ atọ, bụ ala - - mgbịdị ahịhịa ndụ na-anọkọghị ọnụ nke jupụtara n'ebe nlepụ anya ọdịda anyanwụ ahụ.	Ala mara mma nke ukwuu dị nso n'ilepụ anya.	entailment	Entailment.	entailment
+190	Ebe ahụ, ọ dịka ịhe na-akarịghị mailụ atọ, bụ ala - - mgbịdị ahịhịa ndụ na-anọkọghị ọnụ nke jupụtara n'ebe nlepụ anya ọdịda anyanwụ ahụ.	Agwaetiti ahụ ha na-abịakute nso bụ nke a na-enweghị onye bi na ya.	neutral	Entailment.	entailment
+191	Ebe ahụ, ọ dịka ịhe na-akarịghị mailụ atọ, bụ ala - - mgbịdị ahịhịa ndụ na-anọkọghị ọnụ nke jupụtara n'ebe nlepụ anya ọdịda anyanwụ ahụ.	Ha enweghị ike ịhụ ala ọ bụla ruo miles, nanị osimiri enweghị ngwụcha.	contradiction	Entailment.	entailment
+192	Abụ m ojee ozi nke His Majesty n'akụkụ ebe ndị a na-emepechabeghi anya, ma Lord Sunderland nke m n'akụkụ nwanna.	His Majesty nwere ndị envoi, ma abụ m otu n'ime ha.	entailment	Entailment.	entailment
+193	Abụ m ojee ozi nke His Majesty n'akụkụ ebe ndị a na-emepechabeghi anya, ma Lord Sunderland nke m n'akụkụ nwanna.	His Majesty zitere m ebe a ịhe dịka izu ụka gaara aga.	neutral	Entailment.	entailment
+194	Abụ m ojee ozi nke His Majesty n'akụkụ ebe ndị a na-emepechabeghi anya, ma Lord Sunderland nke m n'akụkụ nwanna.	Anaghị a nara ntuziaka sitere na His Majesty.	contradiction	Entailment	entailment
+195	Eji m gị ya n'ụgwọ - - maọbụ echere m na m ji ya, ka ọ sịrị. 	Ọ dịghị mgbe o chere na o ji gị ụgwọ  Íhé ọ bula.	contradiction	The answer is entailment.	entailment
+196	Eji m gị ya n'ụgwọ - - maọbụ echere m na m ji ya, ka ọ sịrị. 	O ji gị ụgwọ maka aka nille ị nyere ya dịka ogbenye ọnụ ntụ na-arịọ arịrịọ.	neutral	Entailment	entailment
+197	Eji m gị ya n'ụgwọ - - maọbụ echere m na m ji ya, ka ọ sịrị. 	O chere na o ji gị ụgwọ Íhé.	entailment	Entailment.	entailment
+198	E kwesịrị m ịma na ọ dịghị mma ị bịa nso na Jamaica n'abalị.	Emere m njem nso Jamaica mgbe anyanwụ dachara.	entailment	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the premise entails the hypothesis.
+
+In Igbo, the premise ""E kwesịrị m ịma na ọ dịghị mma ị bịa nso na Jamaica n'abalị"" means ""It's not good for me to travel to Jamaica at night."" The hypothesis ""Emere m njem nso Jamaica mgbe anyanwụ dachara"" means ""I traveled to Jamaica during the day.""
+
+Since the premise implies that traveling to Jamaica at night is not good, it indirectly suggests that traveling during the day is a better option, which is exactly what the hypothesis states. Therefore, the premise entails the hypothesis.
+
+Answer: entailment"	entailment
+199	E kwesịrị m ịma na ọ dịghị mma ị bịa nso na Jamaica n'abalị.	E meere m njem gaa Jamaica site na nnukwu ụgbọ mmiri.	neutral	"I can help with that!
+
+The answer is: contradiction"	contradiction
+200	E kwesịrị m ịma na ọ dịghị mma ị bịa nso na Jamaica n'abalị.	Mụ na nwunye m rutere Jamaica n'ehihie .	contradiction	"In Igbo, the premise and hypothesis can be translated to English as:
+
+PREMISE: It's not good for me to travel to Jamaica at night.
+HYPOTHESIS: My husband and I arrived in Jamaica in the morning.
+
+The answer is NEUTRAL. The premise talks about traveling to Jamaica at night being bad, while the hypothesis talks about arriving in Jamaica in the morning, which doesn't relate to the premise's statement."	neutral
+201	Echiche Blood nọ na nke a nakwa ịhe ndị ọzọ dịka ọ tọgbọrọ n'ebe ahụ n'elu àkwà ndina. 	Blood rahụrụ nrọ echeghị maka ndi ọzọ n'elu àkwà ndina ya.	contradiction	Entailment	entailment
+202	Echiche Blood nọ na nke a nakwa ịhe ndị ọzọ dịka ọ tọgbọrọ n'ebe ahụ n'elu àkwà ndina. 	Blood nọ na-echebara echiche ịme dịka o dịna ala.	entailment	"I'd be happy to help you with that!
+
+The answer is: entailment"	entailment
+203	Echiche Blood nọ na nke a nakwa ịhe ndị ọzọ dịka ọ tọgbọrọ n'ebe ahụ n'elu àkwà ndina. 	Blood n'echesi echiche ike gbasara mgbe ikpeazụ ọ hụrụ nne ya.	neutral	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise talks about blood being present at a particular location, while the hypothesis mentions blood in relation to a person's strength and a past event involving their mother. There doesn't seem to be a direct logical connection between the two, so I wouldn't say they entail or contradict each other."	neutral
+204	N'ezie, mgbe ahụ, aga m na-agwa unu.	Ọ dịkwa mma, aga m agwa gị gbasara ya.	entailment	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis in Igbo, I'd say the relationship between them is: entailment.
+
+Would you like me to explain why?"	entailment
+205	N'ezie, mgbe ahụ, aga m na-agwa unu.	Agaghị m agwa gị otu mkpụrụ okwu.	contradiction	"I can help you with that!
+
+The premise ""N'ezie, mgbe ahụ, aga m na-agwa unu"" translates to ""But then, I will tell you"" in English.
+
+The hypothesis ""Agaghị m agwa gị otu mkpụrụ okwu"" translates to ""I will not tell you a single word"" in English.
+
+Given the translations, I would say that the premise **contradicts** the hypothesis."	unknown
+206	N'ezie, mgbe ahụ, aga m na-agwa unu.	Ọ bu nanị maka na ị kwere nkwa na-ịgaghị e kwugharịa nke a ka m n'agwa gị.	neutral	Entailment.	entailment
+207	Ah! Ma kedụ ụzọ nke ahụ ga-esi mee?	Onwere onye na-ajụ ụzọ ọ ga-eso.	entailment	"Igbo language!
+
+After analyzing the premise and hypothesis, I would say it's an **entailment**."	entailment
+208	Ah! Ma kedụ ụzọ nke ahụ ga-esi mee?	Onye ajụjụ ahụ nọ naanị ya na o nweghị onye nọ nso ọ ga-agbasa izu.	contradiction	"Igbo language!
+
+After analyzing the premise and hypothesis, I would say it's NEUTRAL. The premise is asking a question about what the person will do, while the hypothesis is making a statement about the person being alone and having no one to share their problem with. They don't necessarily entail or contradict each other."	neutral
+209	Ah! Ma kedụ ụzọ nke ahụ ga-esi mee?	Onye na-ajụ ajụjụ na-eme ọsọ ọsọ ma chọọ ịmata ozugbo ụzọ ọ ga-eso.	neutral	Entailment.	entailment
+210	Anaghị m eji ike enye ọ́kwá  Ézè.	Ịnye ọ́kwá  Ézè na-emegide omume m.	neutral	Entailment.	entailment
+211	Anaghị m eji ike enye ọ́kwá  Ézè.	Echebarago m  ọ́kwá  Ézè ezigbote echiche.	entailment	"I'd be happy to help!
+
+The answer is: entailment.
+
+(In Igbo, the language used in the premise and hypothesis, ""Anaghị m eji ike enye ọ́kwá Ézè"" means ""I don't have the strength to give Ézè a title"", and ""Echebarago m ọ́kwá Ézè ezigbote echiche"" means ""I will give Ézè a deserving title"". The premise implies that the speaker is not capable of giving a title, which aligns with the hypothesis that they will give a deserving title, implying they will find a way to do so.)"	entailment
+212	Anaghị m eji ike enye ọ́kwá  Ézè.	E binyere m aka n'ikikere iji nye ọ́kwá Ézè na-enweghi echiche abụọ. 	contradiction	Entailment	entailment
+213	Ọ chọpụtara na o nwere ị́ké ị ji ọsọ laghachi azụ.	Ọ ghọtara na ọ nwere ụbọchị nile iji laghachi azụ.	contradiction	Entailment.	entailment
+214	Ọ chọpụtara na o nwere ị́ké ị ji ọsọ laghachi azụ.	Ọ chọpụtara na ọ ga-emerịrị ọsịsọ.	entailment	Entailment.	entailment
+215	Ọ chọpụtara na o nwere ị́ké ị ji ọsọ laghachi azụ.	Ọ bụrụ na ọ nọrọ n'otu ebe ahụ, a ga-achọpụta ya.	neutral	Entailment.	entailment
+216	Ma n'agbanyeghị ọ ka na-abụ ịhe ka bụ ma mee ịhe ịhe o megoro n'àfọ́ atọ ikpeazụ ndị a, ọ sịrị, mana ọ sịrị ya n'ụdị nwute ugbu a, na-enweghị ịkọ ọnụ ọbụla dịka oge mbụ. 	Ọ masịghị ya na-ogbuola ọtụtụ umu-nwoke n'afọ atọ gara aga.	neutral	Entailment	entailment
+217	Ma n'agbanyeghị ọ ka na-abụ ịhe ka bụ ma mee ịhe ịhe o megoro n'àfọ́ atọ ikpeazụ ndị a, ọ sịrị, mana ọ sịrị ya n'ụdị nwute ugbu a, na-enweghị ịkọ ọnụ ọbụla dịka oge mbụ. 	O kwuru n'obi ụtọ gbasara ịhe ndị o mere na agwa ya.	contradiction	Entailment.	entailment
+218	Ma n'agbanyeghị ọ ka na-abụ ịhe ka bụ ma mee ịhe ịhe o megoro n'àfọ́ atọ ikpeazụ ndị a, ọ sịrị, mana ọ sịrị ya n'ụdị nwute ugbu a, na-enweghị ịkọ ọnụ ọbụla dịka oge mbụ. 	O kwuru okwu n'olu dị mwute.	entailment	Entailment	entailment
+219	Ana m eche na ọ bụ ka e mechara n'ụdị nke gị.	Ana m ewe n'ọbụ ihe a ka ụdị gị na-eme.	entailment	"I can help you with that!
+
+The answer is: entailment"	entailment
+220	Ana m eche na ọ bụ ka e mechara n'ụdị nke gị.	A gụọla m maka ụdị mmadụ gị, na omenaala ha.	neutral	Entailment.	entailment
+221	Ana m eche na ọ bụ ka e mechara n'ụdị nke gị.	Ana m ewere ya na ihe a adịghị nkịtị n'etiti ụdị gị.	contradiction	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the premise entails the hypothesis.
+
+In Igbo, the premise ""Ana m eche na ọ bụ ka e mechara n'ụdị nke gị"" can be translated to ""I think it's because of the way your kind behaves."" The hypothesis ""Ana m ewere ya na ihe a adịghị nkịtị n'etiti ụdị gị"" can be translated to ""I believe it's because of the unusual thing among your kind.""
+
+The premise sets the stage for the hypothesis, and the hypothesis builds upon the idea presented in the premise. Therefore, the premise entails the hypothesis.
+
+So, my answer is: entailment."	entailment
+222	Mgbarụ ịhụ gbagwojuru ya nku anya.	Nnukwu ọchị gbasara n'ihu ya.	contradiction	"I'd be happy to help you with that!
+
+Since I'm fluent in Igbo, I can break down the premise and hypothesis for you:
+
+PREMISE: Mgbarụ ịhụ gbagwojuru ya nku anya. (Translation: He has seen his own reflection in the mirror.)
+
+HYPOTHESIS: Nnukwu ọchị gbasara n'ihu ya. (Translation: He has a big smile on his face.)
+
+After analyzing both, I would say the relationship between the premise and hypothesis is... **entailment**!"	entailment
+223	Mgbarụ ịhụ gbagwojuru ya nku anya.	O nwere mmetụta ilu agbọọ n'ime áfọ̀ ya. 	neutral	Entailment.	entailment
+224	Mgbarụ ịhụ gbagwojuru ya nku anya.	E nwere iwe nọ n'ihu ya.	entailment	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis in Igbo, I can tell you that the answer is:
+
+Entailment"	entailment
+225	O jiri anya ndị na-emuke emuke na-ele ya, mana ka ọ na-ele ịhụ ị sụọ ngọngọ ya, na nnukwu ịhụ mgbaru na-akawa nkụ anya ya, ịhụ nke ya gbanwere.	Nzipụta ya gbanwere mgbe ọ hụchara ihu ya.	entailment	Entailment.	entailment
+226	O jiri anya ndị na-emuke emuke na-ele ya, mana ka ọ na-ele ịhụ ị sụọ ngọngọ ya, na nnukwu ịhụ mgbaru na-akawa nkụ anya ya, ịhụ nke ya gbanwere.	Ịhụ ya gbasapụrụ mgbe ọ hụrụ mgbaru ịhụ ya.	contradiction	Entailment.	entailment
+227	O jiri anya ndị na-emuke emuke na-ele ya, mana ka ọ na-ele ịhụ ị sụọ ngọngọ ya, na nnukwu ịhụ mgbaru na-akawa nkụ anya ya, ịhụ nke ya gbanwere.	Ọ maghị ma ọ na-ewesere ya iwe.	neutral	"I'd be happy to help you with that!
+
+The answer is: neutral.
+
+(Translation: The premise talks about someone's actions and their consequences, while the hypothesis questions whether the person knows if they are being punished. The two statements don't necessarily agree or disagree with each other, hence a neutral relationship.)"	neutral
+228	N'aga nwayọọ, ọ gaara gburugburu mgbịdị nsogbu ahụ, ma gafee ọnụ ụzọ ámá ukwuu ahụ banye n'ime ogige.	Ebe ọnụ ụzọ ámá ukwuu gbachiri agbachi, o mafere ihe mgbochi, banye n'ime ogige.	contradiction	Entailment	entailment
+229	N'aga nwayọọ, ọ gaara gburugburu mgbịdị nsogbu ahụ, ma gafee ọnụ ụzọ ámá ukwuu ahụ banye n'ime ogige.	Ọnụ ụzọ ámá ukwuu ahụ bụ naanị ụzọ esi abanye n'ime ogige ahụ. 	neutral	Entailment	entailment
+230	N'aga nwayọọ, ọ gaara gburugburu mgbịdị nsogbu ahụ, ma gafee ọnụ ụzọ ámá ukwuu ahụ banye n'ime ogige.	E nwere nnukwu ọnụ ụzọ ámá n'edubanye n'ime ogige.	entailment	Entailment.	entailment
+231	Ị ga-emecha gaa n'ebe nkwugbu mmadụ ahụ, e nweghị mgbaha, ọ si n'iwe.	O chere na o nwere onye ga-aga n'ebe nkwugbu mmadụ ahụ.	entailment	Entailment.	entailment
+232	Ị ga-emecha gaa n'ebe nkwugbu mmadụ ahụ, e nweghị mgbaha, ọ si n'iwe.	Ọ bụ onye ọkaịkpe nke jidere onye ohi.	neutral	Entailment	entailment
+233	Ị ga-emecha gaa n'ebe nkwugbu mmadụ ahụ, e nweghị mgbaha, ọ si n'iwe.	O jiri olu nwayọ kwue ụzọ aga-esi gbapụ n'obodo ka ọ wee zere ịje nga.	contradiction	Entailment.	entailment
+234	Kedụ ka m gaara esi n'ikwu eziokwu kpọchie ha? Ọ nọ n'ime ihe a kpara.	Enweghị m ike ịweta onwe m ikpọchi ha.	entailment	Entailment	entailment
+235	Kedụ ka m gaara esi n'ikwu eziokwu kpọchie ha? Ọ nọ n'ime ihe a kpara.	Akpọchiri m ha ozugbo ozugbo mụ hụrụ ha.	contradiction	Entailment.	entailment
+236	Kedụ ka m gaara esi n'ikwu eziokwu kpọchie ha? Ọ nọ n'ime ihe a kpara.	Agaraghị m ịgbaghara onwe m, ma ọ bụrụ na m akpọchighị ha.	neutral	Entailment.	entailment
+237	Anọ m na-achụ ya kemgbe áfọ̀ a gaara aga.	Ana m eso ya nso nso kemgbe otu afọ ma ọ maghị.	neutral	Entailment	entailment
+238	Anọ m na-achụ ya kemgbe áfọ̀ a gaara aga.	Ana m eso ya nso nso naanị ịhe ruru otu izu ụka. 	contradiction	"I can help you with that!
+
+The premise and hypothesis are in Igbo, a Nigerian language. Here's a breakdown:
+
+PREMISE: Anọ m na-achụ ya kemgbe áfọ̀ a gaara aga.
+Translation: I have been following him since last year.
+
+HYPOTHESIS: Ana m eso ya nso nso naanị ịhe ruru otu izu ụka.
+Translation: I have been following him closely for just one week.
+
+Comparing the two, I'd say the relationship between the premise and hypothesis is:
+
+contradiction"	contradiction
+239	Anọ m na-achụ ya kemgbe áfọ̀ a gaara aga.	N'ime afọ gara aga ana m esoghari ya.	entailment	"Nice one in Igbo!
+
+After analyzing the premise and hypothesis, I'd say it's an **entailment**.
+
+Here's a breakdown:
+
+Premise: ""Anọ m na-achụ ya kemgbe áfọ̀ a gaara aga"" means ""I have been following him since last year.""
+
+Hypothesis: ""N'ime afọ gara aga ana m esoghari ya"" means ""Last year, I was still following him.""
+
+The premise implies that the action of following started last year and continues up to the present, while the hypothesis specifically states that the action was happening last year. Since the hypothesis is a more specific statement that is fully supported by the premise, it's an entailment."	entailment
+240	Ebe ngosi nkà na ọdịnala esichaghi ị́ké na katalọgụ maọbụ ịmado aha.	Ebe ihe ngosi ńká na ọdịnala adịghị enwe mmasị n'ihe ịmado aha.	neutral	Entailment.	entailment
+241	Ebe ngosi nkà na ọdịnala esichaghi ị́ké na katalọgụ maọbụ ịmado aha.	Ebe ngosi nkà na ọdịnala ahụ abụghị nke nwere mmasị n'akwụkwọ ngosi ịhe.	entailment	"I can help you with that!
+
+The answer is: entailment.
+
+In Igbo, the premise states that ""there is no book that has the same title as the traditional one or has a similar name."" The hypothesis states that ""the traditional book is not one that has interest in book titles."" 
+
+The premise implies that the traditional book has a unique title, which in turn implies that it's not one that has interest in book titles (because it's already distinct). Therefore, the premise entails the hypothesis."	entailment
+242	Ebe ngosi nkà na ọdịnala esichaghi ị́ké na katalọgụ maọbụ ịmado aha.	Ịsi ihe di ike nke ụlọ ihe ngosi ńká na ọdịnala bụ katalọgụ.	contradiction	Entailment.	entailment
+243	Ahịa ézì ndị a bụkwa ebe ndị nwekarịsịrị mmasị ịzụ ahịa na Beijing. 	Beijing nwere ahịa èzí nke gụnyere ụlọ ahịa na- enye mmasị nke ukwuu.	entailment	Entailment.	entailment
+244	Ahịa ézì ndị a bụkwa ebe ndị nwekarịsịrị mmasị ịzụ ahịa na Beijing. 	Ahịa ézì ndị ahụ nọ na Beijing bụ ọkacha nwee mmasị n'ụwa.	neutral	Entailment	entailment
+245	Ahịa ézì ndị a bụkwa ebe ndị nwekarịsịrị mmasị ịzụ ahịa na Beijing. 	Iwu nke siri ike na Beijing machiri ahịa èzí n'ime ókè obodo.	contradiction	Entailment.	entailment
+246	Ebe ọwa mmiri kachasị n'ikpere mmiri nọtwest dị mma iji mere ọdọ ụgbọ mmiri, mana ma mmiri ahụ na ájá dị ya nwere ị́ké iru unyi. 	Mmiri na osimiri ahụ na-adị ọcha mgbe niile.	contradiction	"I can help you with that!
+
+The answer is: contradiction.
+
+In Igbo, the premise states that the water is not always clean (ebe ọwa mmiri kachasị... mana ma mmiri ahụ na ájá dị ya nwere ị́ké iru unyi), which contradicts the hypothesis that the water is always clean (Mmiri na osimiri ahụ na-adị ọcha mgbe niile)."	contradiction
+247	Ebe ọwa mmiri kachasị n'ikpere mmiri nọtwest dị mma iji mere ọdọ ụgbọ mmiri, mana ma mmiri ahụ na ájá dị ya nwere ị́ké iru unyi. 	Mmiri ahụ na ájá dị ya nwere ị́ké iru inyi.	entailment	Entailment	entailment
+248	Ebe ọwa mmiri kachasị n'ikpere mmiri nọtwest dị mma iji mere ọdọ ụgbọ mmiri, mana ma mmiri ahụ na ájá dị ya nwere ị́ké iru unyi. 	Mmiri ahụ ruru inyi maka ihe mmetọ.	neutral	Entailment	entailment
+249	Ụlọelu ukwuu ndị ahụ bụ ụlọakụ, na striit ahụ ha na-eguzo bụ nke enyere aha otutu Milla de Oro maọbụ Golden Mile.	Ọ dịghị nke ọ bụla n'ime Ụlọelu ukwuu ndị nọ na Golden Mile bụ ụlọakụ.	contradiction	Contradiction.	contradiction
+250	Ụlọelu ukwuu ndị ahụ bụ ụlọakụ, na striit ahụ ha na-eguzo bụ nke enyere aha otutu Milla de Oro maọbụ Golden Mile.	Ụlọelu ukwuu ndị nọ na Golden Mile bụ ụlọakụ. 	entailment	Entailment.	entailment
+251	Ụlọelu ukwuu ndị ahụ bụ ụlọakụ, na striit ahụ ha na-eguzo bụ nke enyere aha otutu Milla de Oro maọbụ Golden Mile.	Ụlọelu ukwuu ndị nọ na Golden Mile bụ azụmahịa dị iche iche, gụnyere ụlọakụ.	neutral	Entailment.	entailment
+252	N'ụdị doro anya, mgbe ahụ, na ịsonye na World War II bidoro na British Commonwealth Air Training Plan, jiri eluigwe nwere nchekwa nke Canada gwado ndị ọkwọ ụgbọelu maka agha.	Canada nwere eluigwe nwere nchekwa.	entailment	Entailment	entailment
+253	N'ụdị doro anya, mgbe ahụ, na ịsonye na World War II bidoro na British Commonwealth Air Training Plan, jiri eluigwe nwere nchekwa nke Canada gwado ndị ọkwọ ụgbọelu maka agha.	Eluigwe Canada enweghị ogbunigwe.	neutral	Contradiction.	contradiction
+254	N'ụdị doro anya, mgbe ahụ, na ịsonye na World War II bidoro na British Commonwealth Air Training Plan, jiri eluigwe nwere nchekwa nke Canada gwado ndị ọkwọ ụgbọelu maka agha.	Eluigwe Canada dị ize ndụ karịa.	contradiction	Entailment	entailment
+255	Na ha nọ na-enye nsọpụrụ na ịnye aka, agbanyeghị na ha matara na ikpere mmiri ọma ha abụghị kwa nke ha ọzọ.	Ha na-enwe obi ilu na-ewesara onye ọbula ha na ha ga-eke ikpere mmiri  iwe ugbu a.	contradiction	Entailment	entailment
+256	Na ha nọ na-enye nsọpụrụ na ịnye aka, agbanyeghị na ha matara na ikpere mmiri ọma ha abụghị kwa nke ha ọzọ.	Ha na ndị ọzọ ga-ekezi ikpere mmiri ahụ ugbu a.	entailment	Entailment	entailment
+257	Na ha nọ na-enye nsọpụrụ na ịnye aka, agbanyeghị na ha matara na ikpere mmiri ọma ha abụghị kwa nke ha ọzọ.	Ha nwebụrụ narị miles ise nke ihu ikpere mmiri 	neutral	Neutral.	neutral
+258	Kublai Khan wuru isi obodo nke ya na 1279 n'ikpere mmiri Beihai Lake nke Beijing, ebe a na-egosi ụfọdụ akụ alaeze ya taa.	Kublai Khan wuru isi obodo na Taiwan.	contradiction	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the answer is **contradiction**.
+
+The premise states that Kublai Khan built his capital city near Beihai Lake in Beijing, while the hypothesis claims he built it in Taiwan. These two locations are different, hence the contradiction."	contradiction
+259	Kublai Khan wuru isi obodo nke ya na 1279 n'ikpere mmiri Beihai Lake nke Beijing, ebe a na-egosi ụfọdụ akụ alaeze ya taa.	Kublai Khan nwere akụ ga na Beijing.	entailment	Entailment.	entailment
+260	Kublai Khan wuru isi obodo nke ya na 1279 n'ikpere mmiri Beihai Lake nke Beijing, ebe a na-egosi ụfọdụ akụ alaeze ya taa.	Kublai Khan bụ nwoke a na-akwanyere ùgwù nke ọma.	neutral	Entailment.	entailment
+261	Ị na-anọ n'ime ndị obodo Anglo naanị ụlọ akwụkwọ Protestant ha na-anabata ụmụaka ha ndị Jew si Eastern Europe ndị gụpụtara baa n'ime ụlọakụ Westmount maọbụ kwapụ, ụzọ kwa, gaa Toronto. 	Eastern European Jews na-emekọrịta nke ọma ha na onye ọ bụla.	contradiction	Neutral.	neutral
+262	Ị na-anọ n'ime ndị obodo Anglo naanị ụlọ akwụkwọ Protestant ha na-anabata ụmụaka ha ndị Jew si Eastern Europe ndị gụpụtara baa n'ime ụlọakụ Westmount maọbụ kwapụ, ụzọ kwa, gaa Toronto. 	Ndị Jew abụghị ndị a chọrọ bụ ndị ọzọ fọrọ n'obodo ahụ.	neutral	Entailment.	entailment
+263	Ị na-anọ n'ime ndị obodo Anglo naanị ụlọ akwụkwọ Protestant ha na-anabata ụmụaka ha ndị Jew si Eastern Europe ndị gụpụtara baa n'ime ụlọakụ Westmount maọbụ kwapụ, ụzọ kwa, gaa Toronto. 	Ndị Jew na ndị obodo Anglo na-emekọrịta n'ụzọ dị mfe.	entailment	Entailment.	entailment
+264	Ọ bụrụ na-okwere ịme, kwee ka ịghọta izu nzuzo ahụ n'ọdịnihu. 	A banyela n'ime izu nzuzo ahụ tupu oge eruo; ọ ga-emebi obi ụtọ ya ma emechaa.	contradiction	Entailment.	entailment
+265	Ọ bụrụ na-okwere ịme, kwee ka ịghọta izu nzuzo ahụ n'ọdịnihu. 	Gbaa mbọ ka ịghọta izu nzuzo ahụ n'ọdịnihu, ma ọbụrụ na ọ ga-ekwe gị mee.	entailment	Entailment	entailment
+266	Ọ bụrụ na-okwere ịme, kwee ka ịghọta izu nzuzo ahụ n'ọdịnihu. 	Ị ga-achọpụta na klassị ahụ ga-adịrị gị mfe ma ọ bụrụ na ị ghọtara usoro akụkọ nke akwụkwọ ahụ.	neutral	Entailment	entailment
+267	Ebe olili ozu ya ga, 27 m (88ft) n'okpuru ala, bụ mabulu ka eji mee ya na okpuchitere 1,200 sq m (13,000 sq ft). 	E liri ya karịa 20m n'okpuru ala.	entailment	"I can help you with that!
+
+The answer is: contradiction.
+
+In Igbo, the premise states that the building is 27m high, while the hypothesis claims it is higher than 20m. Since 27m is indeed higher than 20m, the premise contradicts the hypothesis."	contradiction
+268	Ebe olili ozu ya ga, 27 m (88ft) n'okpuru ala, bụ mabulu ka eji mee ya na okpuchitere 1,200 sq m (13,000 sq ft). 	Ọ bụ onye ọha dị mkpa ámá àmà.	neutral	"I can help you with that!
+
+The answer is: NEUTRAL.
+
+The premise provides information about the size and features of a building, while the hypothesis makes a claim about the building's importance. There is no direct logical connection between the two, so the premise neither entails nor contradicts the hypothesis."	neutral
+269	Ebe olili ozu ya ga, 27 m (88ft) n'okpuru ala, bụ mabulu ka eji mee ya na okpuchitere 1,200 sq m (13,000 sq ft). 	Okpuruala ụlọ ebe olili ozu ya bụ osisi ka eji rụọ ya	contradiction	Entailment	entailment
+270	Cheta ka ị zoo ịhe onwunwe niile a na-ebupu ebupu pụọ n'ebe enwe nọ.	Zoo ihe onwunwe gị  n'ebe enwe nọ.	entailment	Entailment.	entailment
+271	Cheta ka ị zoo ịhe onwunwe niile a na-ebupu ebupu pụọ n'ebe enwe nọ.	Enwe ndị ahụ nwere nnukwu mmasị n'ọtutụ ịhe gunyere ịhe onwunwe gị.	neutral	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the premise entails the hypothesis. Therefore, the answer is: entailment.
+
+Here's a brief explanation:
+
+The premise states that someone is busy doing everything, including their personal belongings, and is being careful not to leave anything behind. The hypothesis suggests that this person has a great interest in many things, including their personal belongings. The premise implies that the person is taking care of their belongings, which aligns with the idea that they have a great interest in them."	entailment
+272	Cheta ka ị zoo ịhe onwunwe niile a na-ebupu ebupu pụọ n'ebe enwe nọ.	Ọ dịghị mkpa ka ị zoo ihe onwunwe gị n'ebe enwe nọ.	contradiction	Entailment.	entailment
+273	Ịhe dịka áfọ̀ 1,400 tupu e wue Palace of Estei ahụ, Milreu bụ kwa nnukwu ụlọ obibi onye ámá àmà . 	Milreu jibụ10 miles dị anya n'ihe ọbula.	neutral	Neutral.	neutral
+274	Ịhe dịka áfọ̀ 1,400 tupu e wue Palace of Estei ahụ, Milreu bụ kwa nnukwu ụlọ obibi onye ámá àmà . 	Milreu anọghị n'obodo ahụ. 	entailment	Contradiction	contradiction
+275	Ịhe dịka áfọ̀ 1,400 tupu e wue Palace of Estei ahụ, Milreu bụ kwa nnukwu ụlọ obibi onye ámá àmà . 	Milreu dịbụ nọọ n'etiti óbì obodo ahụ.	contradiction	Entailment.	entailment
+276	Ọnọdụ okpomọkụ osimiri na anọgharị n'agbata 18e na 24e C (64-75e F). 	Ọnọdụ okpomọkụ osimiri na-agabanwe kwa mgbe, mana ha anaghị agbada ala karịa Ọnọdụ okpomọkụ nke ịjụ oyi.	entailment	Entailment	entailment
+277	Ọnọdụ okpomọkụ osimiri na anọgharị n'agbata 18e na 24e C (64-75e F). 	Ọnọdụ okpomọkụ osimiri ahụ na-abụkarị nke na-anọ otu ebe n'áfọ̀ niile. 	contradiction	Entailment.	entailment
+278	Ọnọdụ okpomọkụ osimiri na anọgharị n'agbata 18e na 24e C (64-75e F). 	Ọnọdụ okpomọkụ osimiri na-adi elu n'ụbọchị, mgbe ọ na-ekpokarị ọkụ.	neutral	The answer is: neutral.	neutral
+279	National park Kinabalu bụ otu n'ime mpaghara isii nwere nchekwa na steeti ahu. 	Kinabalu national park nwere ényí iri na rhinos isii.	neutral	"I'd be happy to help!
+
+The answer is: NEUTRAL.
+
+The premise talks about Kinabalu national park being one of the six areas with conservation in that state, while the hypothesis makes a claim about the number of rhinos in the park. There is no direct relationship between the two statements, so the premise neither supports nor contradicts the hypothesis."	neutral
+280	National park Kinabalu bụ otu n'ime mpaghara isii nwere nchekwa na steeti ahu. 	Steeti ahụ ekpuchitela mpaghara, gụnyere nashọnalu paaki Kinabalu. 	entailment	Entailment	entailment
+281	National park Kinabalu bụ otu n'ime mpaghara isii nwere nchekwa na steeti ahu. 	E nwere na mgbakọta mpaghara atọ echekwara n'ime steeti ahụ.	contradiction	"I'd be happy to help!
+
+The premise states that Kinabalu National Park is one of the six protected areas in the state, while the hypothesis claims that there are only three protected areas in the state.
+
+In this case, the premise CONTRADICTS the hypothesis."	unknown
+282	Ị ga-ahụ vidiyo gbasara akụkọ nke Anne na nke Amsterdam mgbe ọ na-arụ ọrụ gunyere foto na ịhe nkà oge ndị ahụ. 	Ị gaghị ahụ foto.	contradiction	Contradiction.	contradiction
+283	Ị ga-ahụ vidiyo gbasara akụkọ nke Anne na nke Amsterdam mgbe ọ na-arụ ọrụ gunyere foto na ịhe nkà oge ndị ahụ. 	Ị ga-ahụ foto.	entailment	Entailment	entailment
+284	Ị ga-ahụ vidiyo gbasara akụkọ nke Anne na nke Amsterdam mgbe ọ na-arụ ọrụ gunyere foto na ịhe nkà oge ndị ahụ. 	Ị ga-ahu ụfọdụ foto esere na mbụ.	neutral	Entailment.	entailment
+285	Treasure Beach bụ naanị ebe ezumike e nwere ikwu maka ya, na ụlọ nkwari akụ olenaole gafere ọwa mmiri atọ.	E nweghị ọtụtụ nhọrọ ụlọ nkwari akụ maka ndị n'abia Treasure Beach.	entailment	Entailment	entailment
+286	Treasure Beach bụ naanị ebe ezumike e nwere ikwu maka ya, na ụlọ nkwari akụ olenaole gafere ọwa mmiri atọ.	E nwere ụlọ nkwari akụ akara kpakpando anọ nọ maka ndị ọbịa bịara Treasure Beach. 	neutral	"I'd be happy to help!
+
+The answer is: NEUTRAL"	neutral
+287	Treasure Beach bụ naanị ebe ezumike e nwere ikwu maka ya, na ụlọ nkwari akụ olenaole gafere ọwa mmiri atọ.	Treasure Beach bụ otu n'ime ọtụtụ ebe ntụrụndụ na mpaghara a.	contradiction	Entailment.	entailment
+288	Oge sọma na-eweta okpomọkụ (mana ọ dịghị ọkụ) ihu eluigwe na ọnọdụ okpomọkụ osimiri, mee ya dị mma iwuba, ịgwu mmiri na egwuregwu mmiri ndị ọzọ.	Ọ na-adịkarị ogo 100 maọbụ dịkarị a ọkụ n'oge sọma.	contradiction	Entailment.	entailment
+289	Oge sọma na-eweta okpomọkụ (mana ọ dịghị ọkụ) ihu eluigwe na ọnọdụ okpomọkụ osimiri, mee ya dị mma iwuba, ịgwu mmiri na egwuregwu mmiri ndị ọzọ.	Ọ na-abụkarị 75 n'oge sọma.	neutral	Neutral	neutral
+290	Oge sọma na-eweta okpomọkụ (mana ọ dịghị ọkụ) ihu eluigwe na ọnọdụ okpomọkụ osimiri, mee ya dị mma iwuba, ịgwu mmiri na egwuregwu mmiri ndị ọzọ.	ọ na-adị ọkụ n'ọnọdụ okpomọkụ n'oge sọma.	entailment	Contradiction.	contradiction
+291	N'etiti ọdọ mmiri ndị ahụ bụ otu n'ime ndị mmadụ bi nke ndị ọbịa na-atụ mkpụrụ ego buru n'obi na ọ ga-akụ n'isi mbe, ụzọ doro anya e ji enweta ihu ọma.	Ndị mmadụ anaghị atụbata ego n'ime  maka na ọ na-eweta chi ọjọọ.	contradiction	Contradiction.	contradiction
+292	N'etiti ọdọ mmiri ndị ahụ bụ otu n'ime ndị mmadụ bi nke ndị ọbịa na-atụ mkpụrụ ego buru n'obi na ọ ga-akụ n'isi mbe, ụzọ doro anya e ji enweta ihu ọma.	Ndị mmadụ na-atụbata mkpụrụ ego n'agbanyeghị na ihe ngosi sị mba.	neutral	Entailment.	entailment
+293	N'etiti ọdọ mmiri ndị ahụ bụ otu n'ime ndị mmadụ bi nke ndị ọbịa na-atụ mkpụrụ ego buru n'obi na ọ ga-akụ n'isi mbe, ụzọ doro anya e ji enweta ihu ọma.	Ndị mmadụ na-atunye mkpụrụ ego n'ime mmiri.	entailment	Entailment.	entailment
+294	Obodo ụgbọ mmiri nke Nafplio bụ ebe ọkacha mma ịga nleghari anya, maọbụ ikekwe ebe ị ga-eri nri ehihie mgbe ị nọ na njem gị.	Nafplio nwere ezigbo ebe nlepụ anya.	neutral	Entailment	entailment
+295	Obodo ụgbọ mmiri nke Nafplio bụ ebe ọkacha mma ịga nleghari anya, maọbụ ikekwe ebe ị ga-eri nri ehihie mgbe ị nọ na njem gị.	Nafplio bụ ajọ ebe obibi.	contradiction	Entailment	entailment
+296	Obodo ụgbọ mmiri nke Nafplio bụ ebe ọkacha mma ịga nleghari anya, maọbụ ikekwe ebe ị ga-eri nri ehihie mgbe ị nọ na njem gị.	Nafplio bụ ebe obibi enweghi ntụpọ.	entailment	Entailment	entailment
+297	Na Prinsengracht, Otto Frank na ezinụlọ ya zoro n'okpuru ụlọ ebe azụmahịa ha ruo ihe karịrị afọ abụọ tupu a chọpụta.	A nwụdere Otto Frank n'ụbọchị nke abụọ.	contradiction	The answer is: neutral.	neutral
+298	Na Prinsengracht, Otto Frank na ezinụlọ ya zoro n'okpuru ụlọ ebe azụmahịa ha ruo ihe karịrị afọ abụọ tupu a chọpụta.	Otto Frank zoro ezo ruo ihe karịrị ọnwa iri abụọ na ise 	entailment	Entailment.	entailment
+299	Na Prinsengracht, Otto Frank na ezinụlọ ya zoro n'okpuru ụlọ ebe azụmahịa ha ruo ihe karịrị afọ abụọ tupu a chọpụta.	Otto Frank zoro ruo mgbe ndị Nazi chọtara ya.	neutral	Entailment.	entailment
+300	Ọtụtụ ọchịchị steeti na ime obodo nwere mgbakwunye ọchịchọ nnyocha. 	Ndị ọchịchị ime obodo kwesiri ka ha mebe iwu nke ha.	neutral	Entailment	entailment
+301	Ọtụtụ ọchịchị steeti na ime obodo nwere mgbakwunye ọchịchọ nnyocha. 	Ndị ọchịchị ime obodo nwere ọchịchọ nke efu. 	contradiction	Entailment.	entailment
+302	Ọtụtụ ọchịchị steeti na ime obodo nwere mgbakwunye ọchịchọ nnyocha. 	E nwere nsogbu mgbakwunye ọchịchọ nnyocha diri ọchịchị ime obodo.	entailment	Entailment.	entailment
+303	Ndị otu nche ozi na-eme nnọkọ n'etiti 8 na 12 n'otu ọnwa. 	Otu nche ahụ na-enwe  nnọkọ 9 n'otu ọnwa.	neutral	Entailment.	entailment
+304	Ndị otu nche ozi na-eme nnọkọ n'etiti 8 na 12 n'otu ọnwa. 	Otu ndị nche ahụ mere nnọkọ n'ụbọchị niile n'ọnwa. 	contradiction	Entailment.	entailment
+305	Ndị otu nche ozi na-eme nnọkọ n'etiti 8 na 12 n'otu ọnwa. 	Ndị otu nche na-achikọba ọtụtụ nnọkọ n'afọ.	entailment	"I'd be happy to help!
+
+The answer is: NEUTRAL"	neutral
+306	Kosinadi, mbido ọrụ injinia bụ nke e mere mgbe mbụ.	Injiniarin nwere oge mmalite.	entailment	Entailment.	entailment
+307	Kosinadi, mbido ọrụ injinia bụ nke e mere mgbe mbụ.	Injiniarin bịara naanị n'oge ikpeazụ.	contradiction	Contradiction.	contradiction
+308	Kosinadi, mbido ọrụ injinia bụ nke e mere mgbe mbụ.	N'enweghị oge mmalite, Injiniarin nwere ike ịda n'oge nkebi ikpeazụ.	neutral	"I'd be happy to help you with that!
+
+The answer is: CONTRADICTION.
+
+In Igbo, the premise ""Kosinadi, mbido ọrụ injinia bụ nke e mere mgbe mbụ"" means ""However, the beginning of engineering work was done for the first time."" 
+
+The hypothesis ""N'enweghị oge mmalite, Injiniarin nwere ike ịda n'oge nkebi ikpeazụ"" means ""Without a starting time, an engineer can finish at the last minute.""
+
+These two statements are contradictory because the premise establishes a starting point for engineering work, while the hypothesis suggests that there is no starting time."	contradiction
+309	N'ihi ya, ndị mkpebi okwu gọọmenti na ndị njikwa na-anabata ụzọ echiche ọhụrụ, na-ele anya ụzọ dị iche iche esi emezu ebumnuche, na iji ozi ọhụrụ edu mkpebi. 	Ndị nnọchiteanya gọọmenti n'agbanwe usoro ha.	entailment	Entailment	entailment
+310	N'ihi ya, ndị mkpebi okwu gọọmenti na ndị njikwa na-anabata ụzọ echiche ọhụrụ, na-ele anya ụzọ dị iche iche esi emezu ebumnuche, na iji ozi ọhụrụ edu mkpebi. 	Ndị nnọchiteanya gọọmentị na-agbali iwelite ikikere ha site n'iche echiche ụzọ ọzọ. 	neutral	Entailment	entailment
+311	N'ihi ya, ndị mkpebi okwu gọọmenti na ndị njikwa na-anabata ụzọ echiche ọhụrụ, na-ele anya ụzọ dị iche iche esi emezu ebumnuche, na iji ozi ọhụrụ edu mkpebi. 	Ndị nnọchiteanya gọọmenti ekweghị agbanwe ụzọ ndụ ha.	contradiction	Contradiction.	contradiction
+312	Faịlụ ikpe nwere ike ikwesị ka atụgharịa ya maka ndị ahịa ahụ ndị gụrụ asụsụ ọzọ n'abụghị Bekee. 	Ana-ekwe ka faịlụ ikpe bụrụ naanị na Bekee.	contradiction	Contradiction.	contradiction
+313	Faịlụ ikpe nwere ike ikwesị ka atụgharịa ya maka ndị ahịa ahụ ndị gụrụ asụsụ ọzọ n'abụghị Bekee. 	E nwere ike itinye failụ ikpe na Chinese ma ọ bụ Russian. 	neutral	Entailment.	entailment
+314	Faịlụ ikpe nwere ike ikwesị ka atụgharịa ya maka ndị ahịa ahụ ndị gụrụ asụsụ ọzọ n'abụghị Bekee. 	E nwere ike itinye failụ ikpe na asụsụ ndị ọzọ. 	entailment	Entailment	entailment
+315	Mbọ ndị ọzọ a na-agba ugbu a nọ n'ụzọ maọbụ a na-atụ atụmatụ ya gụnyere nke	Ọtụtụ ḿbọ̀ anyị amalitelarị.	neutral	Entailment	entailment
+316	Mbọ ndị ọzọ a na-agba ugbu a nọ n'ụzọ maọbụ a na-atụ atụmatụ ya gụnyere nke	Anyị enweghị ihe ọzọ akwadoro maka ọdiniru.	contradiction	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the premise entails the hypothesis.
+
+In Igbo, the premise ""Mbọ ndị ọzọ a na-agba ugbu a nọ n'ụzọ maọbụ a na-atụ atụmatụ ya gụnyere nke"" roughly translates to ""Other efforts being made now are on the way or being planned, including this one.""
+
+The hypothesis ""Anyị enweghị ihe ọzọ akwadoro maka ọdiniru"" roughly translates to ""We have no other option for progress.""
+
+The premise implies that all other efforts are being made or planned, which leads to the conclusion that there are no other options left, hence the hypothesis.
+
+So, my answer is: entailment."	entailment
+317	Mbọ ndị ọzọ a na-agba ugbu a nọ n'ụzọ maọbụ a na-atụ atụmatụ ya gụnyere nke	Anyị nwere ihe akwadoro.	entailment	"I'd be happy to help you with that!
+
+The answer is: entailment"	entailment
+318	Tinye ịhe ndị dịka obere oge, ịhichapụ ịhe ederede mbụ nke kọmputa, na enweghị ohere ịnweta akwụkwọ ndị a chọrọ.	Ha hichapụrụ faịlụ kọmputa ahụ na IBM.	neutral	Entailment.	entailment
+319	Tinye ịhe ndị dịka obere oge, ịhichapụ ịhe ederede mbụ nke kọmputa, na enweghị ohere ịnweta akwụkwọ ndị a chọrọ.	Ha hichapụrụ failụ kọmputa ndị dị na mmalite.	entailment	Entailment	entailment
+320	Tinye ịhe ndị dịka obere oge, ịhichapụ ịhe ederede mbụ nke kọmputa, na enweghị ohere ịnweta akwụkwọ ndị a chọrọ.	Ha dowere faịlụ ndị dị na mmalite.	contradiction	Entailment.	entailment
+321	Mgbe ahụ, otu onye nnọchiteanya nke bịara nzute na mbụ bịa kwara izute onye mweta ọhụrụ ka ọ saa ajụjụ ma kpaa nsogbu ọbụla e gosipụtara n'ime akwụkwọ nnara ego. 	Onye nnọchiteanya bịara nleta n'otu awa. 	neutral	Entailment.	entailment
+322	Mgbe ahụ, otu onye nnọchiteanya nke bịara nzute na mbụ bịa kwara izute onye mweta ọhụrụ ka ọ saa ajụjụ ma kpaa nsogbu ọbụla e gosipụtara n'ime akwụkwọ nnara ego. 	E nweere nleta onye nnọchiteanya. 	entailment	Entailment.	entailment
+323	Mgbe ahụ, otu onye nnọchiteanya nke bịara nzute na mbụ bịa kwara izute onye mweta ọhụrụ ka ọ saa ajụjụ ma kpaa nsogbu ọbụla e gosipụtara n'ime akwụkwọ nnara ego. 	Ọ dịghị mgbe anyị nwetara nleta.	contradiction	Contradiction.	contradiction
+324	Ọ bụghị naanị na ịchekwa ego na-emetụta ọnọdụ akụnụba, mana akụnụba n'onwe ya na-emetụta Ịhọrọ ịhe a ga-echekwa. 	Ịhọrọ ma mmadụ ọ ga-echekwa ego ma ọ gaghị bụ nke akụnaụba ha na-emetuta. 	entailment	Entailment.	entailment
+325	Ọ bụghị naanị na ịchekwa ego na-emetụta ọnọdụ akụnụba, mana akụnụba n'onwe ya na-emetụta Ịhọrọ ịhe a ga-echekwa. 	Akụnụba na nchekwa ego anaghị enwe mmekọ n'ụzọ ọbụla. 	contradiction	Contradiction	contradiction
+326	Ọ bụghị naanị na ịchekwa ego na-emetụta ọnọdụ akụnụba, mana akụnụba n'onwe ya na-emetụta Ịhọrọ ịhe a ga-echekwa. 	Ndị bara ọgaranya nwekarịrị ike ịchekwa akụkụ ka ukwuu nke ego ha na-akpata.	neutral	Entailment	entailment
+327	Ị ji maatụ, otu ụlọ ọrụ nke anyị mụrụ maka ya nweere njikọ abụọ ndị nke chọrọ ka ụlọ ọrụ ahụ webata azụmahịa ọhụrụ gasi ma hazigharịa ka o nwee ị́ké rute ịhe ndị na-etolite nke azụmahịa chọrọ.	N'agbanyeghi na-enwere njikọ abụọ, ọ dịghị mkpa ụlọ ọrụ ahụ ime nhazigharị usoro ụlọ ọrụ ha.	contradiction	Contradiction.	contradiction
+328	Ị ji maatụ, otu ụlọ ọrụ nke anyị mụrụ maka ya nweere njikọ abụọ ndị nke chọrọ ka ụlọ ọrụ ahụ webata azụmahịa ọhụrụ gasi ma hazigharịa ka o nwee ị́ké rute ịhe ndị na-etolite nke azụmahịa chọrọ.	Ịjikọta ụlọ ọrụ abụọ n'ime otu ụlọ ọrụ na nhazigharị na-ebute gburu gburu ebe ọrụ a na-ahazighị ahazi. 	neutral	Entailment	entailment
+329	Ị ji maatụ, otu ụlọ ọrụ nke anyị mụrụ maka ya nweere njikọ abụọ ndị nke chọrọ ka ụlọ ọrụ ahụ webata azụmahịa ọhụrụ gasi ma hazigharịa ka o nwee ị́ké rute ịhe ndị na-etolite nke azụmahịa chọrọ.	Anyị nyochara ụlọ ọrụ nke gabigara njikọ abụọ ma ha aghaghị iji ngwa ngwa hazigharia iji zute mkpa azụmahịa ha.	entailment	Entailment.	entailment
+330	atụmatụ ahụ, anyị nọ n'echiche na a ga-ebu ụzọ nye ikikere ịkwụ ụgwọ tupu a na-enyocha na njem ahụ mere n'ezie.	Anyị mara na-ịkwụ ụgwọ ga-ewe ebighị ebi.	contradiction	Entailment.	entailment
+331	atụmatụ ahụ, anyị nọ n'echiche na a ga-ebu ụzọ nye ikikere ịkwụ ụgwọ tupu a na-enyocha na njem ahụ mere n'ezie.	Anyị cheere na ịkwụ ụgwọ ahụ nwere ike igabiga tụpụ enyochaba.	entailment	Entailment.	entailment
+332	atụmatụ ahụ, anyị nọ n'echiche na a ga-ebu ụzọ nye ikikere ịkwụ ụgwọ tupu a na-enyocha na njem ahụ mere n'ezie.	Anyị chere na-ịkwụ ụgwọ ga-agaru n'oge ma a ga-aghọgbu anyị.	neutral	Entailment.	entailment
+333	Tekinọlọji bụ e tinyere nkeọma n'usoro azụmahịa n'ime ụlọ ọrụ ndị a maka na a na-ahụta tekinọlọji dịka ịhe na-akwalite azụmahịa, ọ bụghị so ịhe ọrụ.	Advanced scheduling software bụ otu n'ime isi tekinọlọjị ụlọ ọrụ na-elekwasị anya.	neutral	Entailment.	entailment
+334	Tekinọlọji bụ e tinyere nkeọma n'usoro azụmahịa n'ime ụlọ ọrụ ndị a maka na a na-ahụta tekinọlọji dịka ịhe na-akwalite azụmahịa, ọ bụghị so ịhe ọrụ.	Tekinọlọji bụ naanị ngwa ọrụ ma ọ bụghị enyemaka ụlọ ọrụ.	contradiction	Contradiction.	contradiction
+335	Tekinọlọji bụ e tinyere nkeọma n'usoro azụmahịa n'ime ụlọ ọrụ ndị a maka na a na-ahụta tekinọlọji dịka ịhe na-akwalite azụmahịa, ọ bụghị so ịhe ọrụ.	Ndị ụlọ ọrụ a na-etinye nnukwu mkpa na tekinọlọji. 	entailment	Entailment.	entailment
+336	Okwu abụọ na-apụtakarị n'ihe edere nwere ị́ké ịba uru na nchọputa ọdịnihu.	Ịhe edere nwere ike ịgbanwe otu anyị si anwale ihe àtụ̀.	neutral	Entailment.	entailment
+337	Okwu abụọ na-apụtakarị n'ihe edere nwere ị́ké ịba uru na nchọputa ọdịnihu.	Ịhe edere nwere ike ịgbanwe nchọputa n'ọdịnihu. 	entailment	Entailment.	entailment
+338	Okwu abụọ na-apụtakarị n'ihe edere nwere ị́ké ịba uru na nchọputa ọdịnihu.	E nweghị ihe ọzọ a ga-eme n'ihe gbasara ịgbanwe ime nchọputa.	contradiction	Entailment.	entailment
+339	Ahịrị ndị ahụ jupụtara ịgbe na-egosi ọnọdụ ọdịmma ndị niile na-agbasa ozi ejikọrọ ọnụ na ahịrị ndị jupụtara na dayamọndụ na-egosi ntufu sịrị ị́ké dị (ma ọ dị negativu) n'iwere ọrụ nye onye ọzọ.	Ahịrị ahụ na-agabakọ na ogo ọdịmma nke ndị nzipụ ozi bụ 10%.	neutral	Neutral.	neutral
+340	Ahịrị ndị ahụ jupụtara ịgbe na-egosi ọnọdụ ọdịmma ndị niile na-agbasa ozi ejikọrọ ọnụ na ahịrị ndị jupụtara na dayamọndụ na-egosi ntufu sịrị ị́ké dị (ma ọ dị negativu) n'iwere ọrụ nye onye ọzọ.	Ahịrị ahụ anaghị egosi ihe ọ bụla n'abụghị ụzọ. 	contradiction	Contradiction.	contradiction
+341	Ahịrị ndị ahụ jupụtara ịgbe na-egosi ọnọdụ ọdịmma ndị niile na-agbasa ozi ejikọrọ ọnụ na ahịrị ndị jupụtara na dayamọndụ na-egosi ntufu sịrị ị́ké dị (ma ọ dị negativu) n'iwere ọrụ nye onye ọzọ.	Ahịrị ahụ na-egosi ọdịmma ole dị n'ime ndị nzipụ ozi niile.	entailment	Entailment	entailment
+342	Site na nlecha ọghọm a, Centrelink mapụtara ọtụtụ atụmatụ mgbochi hiwere ịsị na-ikụzi ndị nwere nrite na ndị na-ewe n'ọrụ gbasara ịhe ndị a chọrọ n'igbasa ozi maka mkpata ego.	Centrelink amaghị ka esi edozi nsogbu ahụ.	contradiction	Entailment	entailment
+343	Site na nlecha ọghọm a, Centrelink mapụtara ọtụtụ atụmatụ mgbochi hiwere ịsị na-ikụzi ndị nwere nrite na ndị na-ewe n'ọrụ gbasara ịhe ndị a chọrọ n'igbasa ozi maka mkpata ego.	Centrelink nweere ọtụtụ atụmatụ esi akuziri ndị mmadụ etu esi enye ozi nweta ego maka na gọọmentị na-atụfu nnukwu ego n'amaghị ama.	neutral	Entailment.	entailment
+344	Site na nlecha ọghọm a, Centrelink mapụtara ọtụtụ atụmatụ mgbochi hiwere ịsị na-ikụzi ndị nwere nrite na ndị na-ewe n'ọrụ gbasara ịhe ndị a chọrọ n'igbasa ozi maka mkpata ego.	Centrelink nwere ọtụtụ atụmatụ iji kuziere ndị mmadụ otu esi akọ akụkọ ụgwọ ọrụ.	entailment	Entailment	entailment
+345	Nke a na-enye ohere ịgosi atụmatụ ahụ tupu ndị ụlọ ọrụ ịmefukwu ego buru ibu n'ịruputa akuru ngwa na ngwa e ji arụpụta ịhe nọchi anya njiribido maka agba nke ngosipụta ịhe. 	Mgbe ahụ ha ga-enwe ike igosi ótú atụmatụ ahụ si rụọ ọrụ.	entailment	Entailment.	entailment
+346	Nke a na-enye ohere ịgosi atụmatụ ahụ tupu ndị ụlọ ọrụ ịmefukwu ego buru ibu n'ịruputa akuru ngwa na ngwa e ji arụpụta ịhe nọchi anya njiribido maka agba nke ngosipụta ịhe. 	Ha nwere ike igosi ụlọ ọrụ ahụ na o gosighi amamihe ịrụ ụlọ ọrụ mmepụta ihe ndị ọhụrụ. 	neutral	Entailment	entailment
+347	Nke a na-enye ohere ịgosi atụmatụ ahụ tupu ndị ụlọ ọrụ ịmefukwu ego buru ibu n'ịruputa akuru ngwa na ngwa e ji arụpụta ịhe nọchi anya njiribido maka agba nke ngosipụta ịhe. 	Ha enweghị echiche otu ha ga-esi gosipụta mmetụta nke ízụ̀kwa ego	contradiction	"I can help you with that!
+
+The answer is: entailment.
+
+(In Igbo, the language used in the premise and hypothesis, ""nke a na-enye"" means ""this shows"" and ""ha enweghị echiche"" means ""they don't have an idea"". The premise implies that they had an idea of how to show the effect, which contradicts the hypothesis that they don't have an idea.)"	entailment
+348	Mgbalị imekọ ihe ọnụ South Carolina wepụtara ọganihu ọzọ n'afọ sotere ya. 	Ọdịghị ghị onye nọ na South Carolina rụkọrọ ọrụ ọnụ.	contradiction	Contradiction.	contradiction
+349	Mgbalị imekọ ihe ọnụ South Carolina wepụtara ọganihu ọzọ n'afọ sotere ya. 	SC rukọtara ọrụ. 	entailment	Entailment.	entailment
+350	Mgbalị imekọ ihe ọnụ South Carolina wepụtara ọganihu ọzọ n'afọ sotere ya. 	Ndị demokrats na ndị republikan na South Carolina na-arụkọ ọrụ.	neutral	Neutral.	neutral
+351	Dịka Board ọfisi siri kwuo, n'amaokwu Board nke 605(b) asambodo abụghị nke a na-eweta ịche ịche nye Small Business Administration (SBA) Chief Counsel for Advocacy. 	Ndị Board ahụ enyeghị SBA asambodo ma ha hapuru ya ọfisi onye nyocha.	neutral	Entailment.	entailment
+352	Dịka Board ọfisi siri kwuo, n'amaokwu Board nke 605(b) asambodo abụghị nke a na-eweta ịche ịche nye Small Business Administration (SBA) Chief Counsel for Advocacy. 	Ndị Board enyeghi asambodo SBA ahụ. 	entailment	Entailment	entailment
+353	Dịka Board ọfisi siri kwuo, n'amaokwu Board nke 605(b) asambodo abụghị nke a na-eweta ịche ịche nye Small Business Administration (SBA) Chief Counsel for Advocacy. 	Ndị Board ahụ na-enyefe asambodo SBA kwa ụbọchị maka onye ọ bụla rịọrọ maka ya.	contradiction	Contradiction	contradiction
+354	Mgbe asọmpi mere n'ụlọ oriri na nkwari na ego ndị ọzọ eme furu, ịnyocha njem ahụ n'onwe ya ka a ga-eme.	Ọtụtụ ụlọ oriri na nkwari nke mba na-anabata iji kredit kaadị kwụọ ụgwọ	neutral	Entailment	entailment
+355	Mgbe asọmpi mere n'ụlọ oriri na nkwari na ego ndị ọzọ eme furu, ịnyocha njem ahụ n'onwe ya ka a ga-eme.	Njem ahụ n'onwe ya ka a ga-enyocha site na ụgwọ ụlọ oriri na nkwari. 	entailment	Entailment.	entailment
+356	Mgbe asọmpi mere n'ụlọ oriri na nkwari na ego ndị ọzọ eme furu, ịnyocha njem ahụ n'onwe ya ka a ga-eme.	O nweghị ụzọ ọ bụla a ga-eji nyochaa ma enwere njem emere ma ọ bụ na-enweghị.	contradiction	Contradiction.	contradiction
+357	Iji maa atụ, otu isi steeti anyị gara bụ ebe obibi nye ihe karịrị ụlọ ọrụ software 600. 	Isi obodo bụ ebe kachasị mma maka ụlọ ọrụ software.	neutral	Entailment.	entailment
+358	Iji maa atụ, otu isi steeti anyị gara bụ ebe obibi nye ihe karịrị ụlọ ọrụ software 600. 	Otu isi obodo nwere ọkà n'ọnụọgụgụ ụlọ ọrụ software. 	entailment	Entailment.	entailment
+359	Iji maa atụ, otu isi steeti anyị gara bụ ebe obibi nye ihe karịrị ụlọ ọrụ software 600. 	Ụlọ ọrụ software na-ezere isi obodo maka ihe gbasara iwu.	contradiction	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**.
+
+The premise talks about a specific event or fact (a trip to a place with over 600 software companies), while the hypothesis makes a general claim about software companies and their relationship with city planning and laws. There isn't a direct logical connection between the two, so they don't entail or contradict each other."	neutral
+360	Ị ji gbakọọ ịdị uchu n'ọrụ, ịmetacha ịhe ka o si kwesị abụghị nke a pụrụ ị mee. 	Ị nwere ike izuoke ma ị gbalisie ike.	contradiction	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: CONTRADICTION.
+
+The premise suggests that something cannot be done, while the hypothesis claims that it is possible to do it. They are opposing views, hence the contradiction."	contradiction
+361	Ị ji gbakọọ ịdị uchu n'ọrụ, ịmetacha ịhe ka o si kwesị abụghị nke a pụrụ ị mee. 	I nweghị ike izuoke.	entailment	Entailment.	entailment
+362	Ị ji gbakọọ ịdị uchu n'ọrụ, ịmetacha ịhe ka o si kwesị abụghị nke a pụrụ ị mee. 	Ị nweghị ike izuoke n'ihi na-anyị nile bụ ndị nwere ntụpọ miri emi.	neutral	Entailment.	entailment
+363	Onyembikọ n'ụlọ ahụ nke kwụrụ Hazmi na Mihdhar ụgwọ n'oge 2000 bụ nwaafọ obodo doro anya n'erubeisi n'iwu nwere ọtụtụ oge, bụrụ enyị ndị uwe ojii ọchịchị ịme obodo na ndị ọrụ FBI. 	Hamzi na Mihdhar zụtara ụlọ ma ọ nweghị onye ọ bụla ha na ha na-emekọrịta.	contradiction	Contradiction	contradiction
+364	Onyembikọ n'ụlọ ahụ nke kwụrụ Hazmi na Mihdhar ụgwọ n'oge 2000 bụ nwaafọ obodo doro anya n'erubeisi n'iwu nwere ọtụtụ oge, bụrụ enyị ndị uwe ojii ọchịchị ịme obodo na ndị ọrụ FBI. 	Hazmi na Mihdhar gbazitere otu ọnụ ụlọ maka otu afọ, n'ọnụ ego $500 kwa ụbọchị. 	neutral	Entailment	entailment
+365	Onyembikọ n'ụlọ ahụ nke kwụrụ Hazmi na Mihdhar ụgwọ n'oge 2000 bụ nwaafọ obodo doro anya n'erubeisi n'iwu nwere ọtụtụ oge, bụrụ enyị ndị uwe ojii ọchịchị ịme obodo na ndị ọrụ FBI. 	Hamzi na Mihdhar gbazitere otu ọnụ ụlọ.	entailment	Entailment.	entailment
+366	Maka njem ha ịga Bosnia, lee akụkọ Nyocha, ajụjụ nke onye otu Saudi al Qaeda, Oct. 3, 2001.	Onye otu al Qaeda gara Bosnia ugboro 18 na 2001.	neutral	Entailment	entailment
+367	Maka njem ha ịga Bosnia, lee akụkọ Nyocha, ajụjụ nke onye otu Saudi al Qaeda, Oct. 3, 2001.	Onye otu al Qaeda gara Bosnia. 	entailment	Entailment.	entailment
+368	Maka njem ha ịga Bosnia, lee akụkọ Nyocha, ajụjụ nke onye otu Saudi al Qaeda, Oct. 3, 2001.	E nweghị ihe akaebe nke onye otu al Quaeda ịga Bosnia.	contradiction	Contradiction.	contradiction
+369	Jane sịrị onye ọrụ New York e nyere ọchịchọ Mihdhar ka ọ bịanye aka n'akwụkwọ nkwenye FISA na-egosi na onye ọrụ ahụ ghọtara otu o kwesịrị isi mee ozi FISA. 	Jane jụrụ maka akwụkwọ nkwenye FISA nke onye ọka ikpe gọọmenti ukwu ga-ebịnye aka na ya.	neutral	Entailment.	entailment
+370	Jane sịrị onye ọrụ New York e nyere ọchịchọ Mihdhar ka ọ bịanye aka n'akwụkwọ nkwenye FISA na-egosi na onye ọrụ ahụ ghọtara otu o kwesịrị isi mee ozi FISA. 	Jane jụrụ maka akwụkwọ nkwenye FISA ka a bianye aka. 	entailment	Entailment	entailment
+371	Jane sịrị onye ọrụ New York e nyere ọchịchọ Mihdhar ka ọ bịanye aka n'akwụkwọ nkwenye FISA na-egosi na onye ọrụ ahụ ghọtara otu o kwesịrị isi mee ozi FISA. 	Jane kwuru na ọ dịghị nkwenye FISA dị mkpa.	contradiction	Contradiction.	contradiction
+372	E nweghị ịhe pụtara ìhè gbasara onye ọbụla n'ime ha n'ịhe banyere naanị ụzọ nchekwa nke dị mkpa nye nlele ebe nlele pụtara ìhè.	A chọpụtara ihe akaebe dị ichegbu onwe mgbe a na-eme nlele na-ebe nlele ahụ.	contradiction	Entailment.	entailment
+373	E nweghị ịhe pụtara ìhè gbasara onye ọbụla n'ime ha n'ịhe banyere naanị ụzọ nchekwa nke dị mkpa nye nlele ebe nlele pụtara ìhè.	Nlele ebe nlele ahụ na-agbado ụkwụ niile n'echiche ndị ọrụ kọstọm na-eme nyocha ahụ. 	neutral	Entailment.	entailment
+374	E nweghị ịhe pụtara ìhè gbasara onye ọbụla n'ime ha n'ịhe banyere naanị ụzọ nchekwa nke dị mkpa nye nlele ebe nlele pụtara ìhè.	Nlele ebe nlele ahụ enweghị ike ịchọpụta ihe akaebe ọ bula megide ha.	entailment	Entailment.	entailment
+375	Khallad ewepụtala agba nke abụọ, nke bụ na atọ nille mekọrọ njem ọnụ gaa Karachi.	Khallad sịrị na ọ maghị ihe ọ bụla gbasara ha atọ.	contradiction	"In Igbo, the premise translates to ""Khallad said he took a second-class ticket, which is a three-day journey to Karachi."" The hypothesis translates to ""Khallad said he didn't know anything about the three of them.""
+
+The answer is NEUTRAL. The premise talks about Khallad's travel arrangements, while the hypothesis talks about Khallad's knowledge of a different topic, so they don't logically entail or contradict each other."	neutral
+376	Khallad ewepụtala agba nke abụọ, nke bụ na atọ nille mekọrọ njem ọnụ gaa Karachi.	Khallad sịrị na ha atọ kaara imekọta njem ọnụ. 	entailment	Entailment.	entailment
+377	Khallad ewepụtala agba nke abụọ, nke bụ na atọ nille mekọrọ njem ọnụ gaa Karachi.	Khallad sịrị na e nwere ohere 50% na ha atọ nwere ike iso gaa Karachi n'October.	neutral	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**.
+
+The premise provides information about Khallad's travel plans, stating that he has booked a second-class ticket for a trip to Karachi. However, it doesn't provide any information about the probability of the trip happening in October, which is the focus of the hypothesis.
+
+The hypothesis, on the other hand, makes a claim about the probability of Khallad and his friends traveling to Karachi in October, but it doesn't contradict or entail the information provided in the premise.
+
+So, the relationship between the premise and hypothesis is neutral."	neutral
+378	Ozi nyocha, ajụjụ ọnụ nke a gbara Binalshibh, Oct. 1,2002.	Ndị nta-ọrụ FBI gbara Binalshibh ajụjụ ọnụ.	neutral	Entailment.	entailment
+379	Ozi nyocha, ajụjụ ọnụ nke a gbara Binalshibh, Oct. 1,2002.	A gbaara Binalshibh ajụjụ ọnụ na 2002.	entailment	Entailment	entailment
+380	Ozi nyocha, ajụjụ ọnụ nke a gbara Binalshibh, Oct. 1,2002.	Ọ dịghị mgbe a gwara Binalshibh okwu, ma o wee funarị ha.	contradiction	Contradiction.	contradiction
+381	Mihdhar nwetara visa U.S. ọhụrụ mgbe ụbọchị abụọ ejiri mee nzukọ CIA-FBI na New York gachara.	Mihdhar nwere Visa US iji banye n'obodo ahụ.	entailment	Entailment	entailment
+382	Mihdhar nwetara visa U.S. ọhụrụ mgbe ụbọchị abụọ ejiri mee nzukọ CIA-FBI na New York gachara.	Mihdhar enweghị mgbe o nwetara visa, ya mere o nweghị mgbe ọ bịara n' US.	contradiction	Contradiction.	contradiction
+383	Mihdhar nwetara visa U.S. ọhụrụ mgbe ụbọchị abụọ ejiri mee nzukọ CIA-FBI na New York gachara.	E nyere Mihdhar Visa n'ihi na ọ bụghị Ihe iyi egwu.	neutral	"The language is Igbo!
+
+After analyzing the premise and hypothesis, I would say it's a **contradiction**.
+
+The premise states that Mihdhar got a U.S. visa two days after the CIA-FBI meeting in New York, implying that the meeting might have been aware of the potential threat. The hypothesis, however, claims that Mihdhar was given a visa because he was not considered a threat. These two statements contradict each other."	contradiction
+384	N'agbanyeghị nnyocha afọ abụọ, ndị FBI enweghị ike ichọta onye òtù ọrụ ahụ ma ọ bụ ịchọpụta onye ọ bụ n'ezie.	Ndị FBI enweghị ike maọlị ịchọta nwoke ahụ kemgbe ọ hapụrụ Florida na 2001.	neutral	Entailment	entailment
+385	N'agbanyeghị nnyocha afọ abụọ, ndị FBI enweghị ike ichọta onye òtù ọrụ ahụ ma ọ bụ ịchọpụta onye ọ bụ n'ezie.	Ndị FBI enweghị ike ịchọpụta onye nwoke ahụ bụ. 	entailment	Entailment	entailment
+386	N'agbanyeghị nnyocha afọ abụọ, ndị FBI enweghị ike ichọta onye òtù ọrụ ahụ ma ọ bụ ịchọpụta onye ọ bụ n'ezie.	Ndị FBI chọpụtara onye ọ bụ ma tubà ya n'ụlọ mpkọrọ.	contradiction	Contradiction.	contradiction
+387	N'ịme ịkpe American 11,nzikọrita ozi nkịtị ikpeazụ site n'ụgbọelu ahụ bụ na 8:13 A.M. 	E nwere nzikọrịta ozi sitere na American 11.	entailment	Entailment	entailment
+388	N'ịme ịkpe American 11,nzikọrita ozi nkịtị ikpeazụ site n'ụgbọelu ahụ bụ na 8:13 A.M. 	E nweere nzikọrita ozi sitere na American 11 na nkeji 5 niile. 	neutral	Entailment	entailment
+389	N'ịme ịkpe American 11,nzikọrita ozi nkịtị ikpeazụ site n'ụgbọelu ahụ bụ na 8:13 A.M. 	Ọ dịghị mgbe enwere nzikọrịta ozi ọ bụla sitere na American 11.	contradiction	Contradiction.	contradiction
+390	Ị chọpụta na ọ gaara ewe mgbaka áká ọnụ buru ezigbo ibu ma dị ọsịsọ sitere n'áká gọọmenti German, nke nwedịrị ị́ké ịsị ị́ké nweta. 	Ọ bụrụ na emezuo ya nyocha ahụ nwere ike ịkpughe ebe ndị ngbalaga atọ ahụ nọ.	neutral	Entailment.	entailment
+391	Ị chọpụta na ọ gaara ewe mgbaka áká ọnụ buru ezigbo ibu ma dị ọsịsọ sitere n'áká gọọmenti German, nke nwedịrị ị́ké ịsị ị́ké nweta. 	Ndị gọọmenti German nwere ike ha enweela ihe isi ike ime nyocha ngwa ngwa zuru oke. 	entailment	Entailment.	entailment
+392	Ị chọpụta na ọ gaara ewe mgbaka áká ọnụ buru ezigbo ibu ma dị ọsịsọ sitere n'áká gọọmenti German, nke nwedịrị ị́ké ịsị ị́ké nweta. 	Nyocha ahụ ga-adị mfe ma n'agbagwojughị anya maka gọọmentị ịhazi.	contradiction	Entailment	entailment
+393	Ịkike ndị a ezughị ezu, mana enweghị nọọ ịhe buru ibu e mere iji mụbaa maọbụ hazie ha.	Ha agbanweghị usoro ihe omume onyunyo ha nke ukwuu.	neutral	Entailment.	entailment
+394	Ịkike ndị a ezughị ezu, mana enweghị nọọ ịhe buru ibu e mere iji mụbaa maọbụ hazie ha.	Ha emeghị ihe buru ibu iji gbanwee ihe.	entailment	Entailment.	entailment
+395	Ịkike ndị a ezughị ezu, mana enweghị nọọ ịhe buru ibu e mere iji mụbaa maọbụ hazie ha.	Ha gara ogo dị anya iji megharị ihe nile.	contradiction	Entailment.	entailment
+396	Email onye nyocha, n'agbanyeghị, gosiri na ọ na-enwe gbagwoju anya n'ọtụtụ ịdọáká na ntị na ịhe mgbochi nzikọrita ozi ndị si n'iwu gọọmenti na-akwagide otu ndị ọrụ mgbochi mpụ si eji ozi enwetara n'ụzọ nzuzo eme ịhe.	Onye nyocha ihe ahụ nyere nyocha nke doro anya nke oma.	contradiction	Entailment	entailment
+397	Email onye nyocha, n'agbanyeghị, gosiri na ọ na-enwe gbagwoju anya n'ọtụtụ ịdọáká na ntị na ịhe mgbochi nzikọrita ozi ndị si n'iwu gọọmenti na-akwagide otu ndị ọrụ mgbochi mpụ si eji ozi enwetara n'ụzọ nzuzo eme ịhe.	Onye nyocha ahụ ekwupụtaghị ịhe doro anya n'ọtụtụ ịhe. 	entailment	Entailment	entailment
+398	Email onye nyocha, n'agbanyeghị, gosiri na ọ na-enwe gbagwoju anya n'ọtụtụ ịdọáká na ntị na ịhe mgbochi nzikọrita ozi ndị si n'iwu gọọmenti na-akwagide otu ndị ọrụ mgbochi mpụ si eji ozi enwetara n'ụzọ nzuzo eme ịhe.	Akụkọ onye nyocha ihe ahụ ahazighị nke ọma nke bu na ọ dịghị onye nwere ike ịgụ ya.	neutral	Entailment	entailment
+399	Ụfọdụ ndị ọfisa ka e tinyere ka ha nye áká na ịkwapụ ndị nọ n'okpuru steepụ; ndị ọzọ ka e nyere ọrụ ịme ka a kwapụ plaza ahụ, ihu ụlọ, na steeshọn PATH. 	Ndi ọfịsa nwetera ọrụ nke ha.	entailment	Entailment	entailment
+400	Ụfọdụ ndị ọfisa ka e tinyere ka ha nye áká na ịkwapụ ndị nọ n'okpuru steepụ; ndị ọzọ ka e nyere ọrụ ịme ka a kwapụ plaza ahụ, ihu ụlọ, na steeshọn PATH. 	Ndị ọfisa gbasasiri nọọ ebe a chọrọ ha.	contradiction	Entailment.	entailment
+401	Ụfọdụ ndị ọfisa ka e tinyere ka ha nye áká na ịkwapụ ndị nọ n'okpuru steepụ; ndị ọzọ ka e nyere ọrụ ịme ka a kwapụ plaza ahụ, ihu ụlọ, na steeshọn PATH. 	E kenyera ndị ọfịsa ọrụ site na onye tọkarịsịrị.	neutral	Entailment.	entailment
+402	Na Septemba 9, ozi na-agbasasi ahu bịara site n'Afghanistan.	Anyị nwetere ozi si Afghanistan.	entailment	Entailment	entailment
+403	Na Septemba 9, ozi na-agbasasi ahu bịara site n'Afghanistan.	E nweghị ihe anyị nụrụ si n'Afghanistan ruo October.	contradiction	"I'd be happy to help!
+
+The premise and hypothesis are in Igbo, a Nigerian language. Here's the translation:
+
+PREMISE: On September 9, something happened in Afghanistan.
+HYPOTHESIS: We didn't hear anything from Afghanistan until October.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise talks about an event that occurred on September 9, while the hypothesis discusses the lack of information until October. They don't directly contradict or entail each other."	neutral
+404	Na Septemba 9, ozi na-agbasasi ahu bịara site n'Afghanistan.	A gwara anyị maka mbuso agha gaje ị bịa na Septemba 9.	neutral	Entailment	entailment
+405	E nweghị ị́ké ịzikọrịta ozi bụ otu ịhe pụtara ìhè n'ebe ọdachi ụgbọelu World Trade Center, Pentagon, na Somerset County, Pennsylvania, ebe ọtụtụ ndị ọrụ na ọtụtụ ndị okpuru ọchịchị iwu zaara ọkpụkpọ oku.	Nzikọrịta ozi gara nnọọ nke ọma na 9/11.	contradiction	Entailment	entailment
+406	E nweghị ị́ké ịzikọrịta ozi bụ otu ịhe pụtara ìhè n'ebe ọdachi ụgbọelu World Trade Center, Pentagon, na Somerset County, Pennsylvania, ebe ọtụtụ ndị ọrụ na ọtụtụ ndị okpuru ọchịchị iwu zaara ọkpụkpọ oku.	Ndị mmadụ nwere nsogbu ịzikọrịta ozi na World Trade Center maka na ígwè ọ́kụ́ nyuru na ígwè ekwentị nyụrụ anyụ.	neutral	Entailment	entailment
+407	E nweghị ị́ké ịzikọrịta ozi bụ otu ịhe pụtara ìhè n'ebe ọdachi ụgbọelu World Trade Center, Pentagon, na Somerset County, Pennsylvania, ebe ọtụtụ ndị ọrụ na ọtụtụ ndị okpuru ọchịchị iwu zaara ọkpụkpọ oku.	Ndi mmadụ nwere oge nhiaahụ izikọrịta ozi na World Trade Center.	entailment	Entailment.	entailment
+408	Ọchịchọ achọrọ ọ́bádátà ndị a ga-enwetanwu nwere ị́ké ịbọlite laisense draiva, akara ụgbọala na ndepụta akara ekwentị. 	Ndị nyocha ahụ riọkwara maka ohere ịga n'ọ́bádátà ọkachamara.	neutral	Entailment.	entailment
+409	Ọchịchọ achọrọ ọ́bádátà ndị a ga-enwetanwu nwere ị́ké ịbọlite laisense draiva, akara ụgbọala na ndepụta akara ekwentị. 	Ọtụtụ ozi dị ịche ịche bụ nke nọ n'ịme ọ́bádátà nọ anọ. 	entailment	The answer is NEUTRAL.	neutral
+410	Ọchịchọ achọrọ ọ́bádátà ndị a ga-enwetanwu nwere ị́ké ịbọlite laisense draiva, akara ụgbọala na ndepụta akara ekwentị. 	E nweghị ụzọ a ga-esi nweta ozi gbasara isiokwu ndị a n'ijiri ihe ndị dị adị.	contradiction	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the premise **contradicts** the hypothesis.
+
+The premise states that there are ways to obtain information about the topics mentioned (ọ́bádátà, laisense draiva, akara ụgbọala, and ndepụta akara ekwentị) using existing resources. However, the hypothesis claims that there is no way to obtain information about these topics using existing resources.
+
+So, the two statements are in direct opposition, making it a contradiction!"	contradiction
+411	Ị kwupụta na o na-enyo otú e siri zụọ ahịa ahụ enyo, onye nchịkwa ahụ wezụgaara onwe ya na Hazmi na Mihdhar, mana ọ bụghị tupu ha enweta enyemaka ha chọrọ. 	Onye nchịkwa kpọtụrụ ndị isi ozigbo ma jụ ịnyeaka n'ọnọdụ nke a.	contradiction	Entailment.	entailment
+412	Ị kwupụta na o na-enyo otú e siri zụọ ahịa ahụ enyo, onye nchịkwa ahụ wezụgaara onwe ya na Hazmi na Mihdhar, mana ọ bụghị tupu ha enweta enyemaka ha chọrọ. 	Onye nchịkwa rọpụtara enyemaka n'agbanyeghị obi ịlọ mmiri o nwere. 	entailment	Entailment.	entailment
+413	Ị kwupụta na o na-enyo otú e siri zụọ ahịa ahụ enyo, onye nchịkwa ahụ wezụgaara onwe ya na Hazmi na Mihdhar, mana ọ bụghị tupu ha enweta enyemaka ha chọrọ. 	Enyemaka ya gụnyere ego na inye aka inweta akwụkwọ njem.	neutral	Entailment.	entailment
+414	Na 2003, ọkpụkpọ aha ndị a bụ nke ememilara; ịhe niile gbasara iyi ọha egwu nke mba na mba na a natazi otu ọkpụkpọ ahụ, 315.	Ịhe gbasara iyi ọha egwu niile bụ nke a na-enye ntuaha dị elu maka ịdị mkpa.	neutral	Entailment.	entailment
+415	Na 2003, ọkpụkpọ aha ndị a bụ nke ememilara; ịhe niile gbasara iyi ọha egwu nke mba na mba na a natazi otu ọkpụkpọ ahụ, 315.	Ihe iyi ọha egwu niile na-enweta otu ụdị aha. 	entailment	Entailment	entailment
+416	Na 2003, ọkpụkpọ aha ndị a bụ nke ememilara; ịhe niile gbasara iyi ọha egwu nke mba na mba na a natazi otu ọkpụkpọ ahụ, 315.	A na-ekpe ikpe ihe iyi ọha egwu ọ bụla ma nye ya ọkwa n'onwe ya.	contradiction	Entailment.	entailment
+417	Ọfisa nke a, onye nọ larịị ele ọdịda South Tower, zie ya ndị ngalaba ESU na North Tower dịka South Tower daara.	E nweghị onye fọduru na North Tower mgbe South Tower dachara.	contradiction	Entailment.	entailment
+418	Ọfisa nke a, onye nọ larịị ele ọdịda South Tower, zie ya ndị ngalaba ESU na North Tower dịka South Tower daara.	South Tower dara nkeji 30 tupu onye ọfisa agwa ndị ngalaba ESU na North Tower okwu.	neutral	Entailment.	entailment
+419	Ọfisa nke a, onye nọ larịị ele ọdịda South Tower, zie ya ndị ngalaba ESU na North Tower dịka South Tower daara.	Onye ọfịsa ahụ hụrụ ọdịda South Tower.	entailment	Entailment	entailment
+420	Indianapolis bụ n'ezie otu n'ime ebe kachasị mma ndị na-eme ihe nkiri ịrụ ọrụ ọtụtụ	Ndị na-eme ihe nkiri hụrụ Indianapolis n'anya n'ihi ụlọ ọrụ nachọta ndị n'eme ihe nkiri dị ebe ahụ.	neutral	Entailment.	entailment
+421	Indianapolis bụ n'ezie otu n'ime ebe kachasị mma ndị na-eme ihe nkiri ịrụ ọrụ ọtụtụ	Ọ bụrụ na ị bụ onye na-eme ihe nkiri, i kwesịrị ịtụle ịkwaga Indianapolis.	entailment	Entailment.	entailment
+422	Indianapolis bụ n'ezie otu n'ime ebe kachasị mma ndị na-eme ihe nkiri ịrụ ọrụ ọtụtụ	O siri ike ịchọta ọrụ n'Indianapolis ma ọ bụrụ na ị nọ n'ụlọ ọrụ ihe nkiri, n'ihi na ọ bụkarịrị obodo tekinọlọji.	contradiction	"The language used is Igbo, a Nigerian language.
+
+The premise states that Indianapolis is one of the best places for filmmakers to work, while the hypothesis states that it is difficult to find work in Indianapolis if you are in the film industry, because it is a technological city.
+
+The answer is: contradiction."	contradiction
+423	Anyị na-arọpụta enyemaka site n'ekwenti awa 24 n'ụbọchị, mkpụrụ ụbọchị 7 n'izuka site na Prevention Information Resource Center&amp; Parent Help line.	Ndị mmadụ nwere ike izi anyị ozi site na mailụ maọbu iji imelụ.	contradiction	Entailment	entailment
+424	Anyị na-arọpụta enyemaka site n'ekwenti awa 24 n'ụbọchị, mkpụrụ ụbọchị 7 n'izuka site na Prevention Information Resource Center&amp; Parent Help line.	E nwere ike ịnweta anyị n'ekwenti n'oge ọbụla n'ụbọchị.	entailment	Entailment.	entailment
+425	Anyị na-arọpụta enyemaka site n'ekwenti awa 24 n'ụbọchị, mkpụrụ ụbọchị 7 n'izuka site na Prevention Information Resource Center&amp; Parent Help line.	Anyị na-enweta oku karịrị otu narị ụbọchị Mọndee na Fraịdee ọbụla. 	neutral	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is NEUTRAL. The premise talks about providing help 24/7, while the hypothesis mentions receiving over 100 calls on Mondays and Fridays. There's no direct logical connection between the two statements, so they don't entail or contradict each other."	neutral
+426	Ma igbe ndị a ga-anọ na nkechi ha ọtụtụ oge mgbe e jiri tọhee onyinye ndị ọzọ gara.	Igbe ndị a nwere ogbunigwe ndị dị njọ.	neutral	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is... neutral.
+
+The premise talks about the people (igbe ndị a) being patient and waiting for a long time when they receive gifts from others, while the hypothesis states that these people have bad habits (ogbunigwe ndị dị njọ). There's no direct connection or contradiction between the two statements, so I'd classify it as neutral."	neutral
+427	Ma igbe ndị a ga-anọ na nkechi ha ọtụtụ oge mgbe e jiri tọhee onyinye ndị ọzọ gara.	A ga-emepe igbe ndị a tupu a tọpee onyinye ndị ọzọ.	contradiction	Entailment.	entailment
+428	Ma igbe ndị a ga-anọ na nkechi ha ọtụtụ oge mgbe e jiri tọhee onyinye ndị ọzọ gara.	Igbe ndị a ga-adị na-emegheghị emeghe ruo nwa oge.	entailment	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the premise entails the hypothesis. Therefore, the answer is: entailment.
+
+In Igbo, the premise states that ""these people will stay in their houses for a long time when they receive gifts from others."" The hypothesis states that ""these people will not open their doors for a long time."" The premise implies that they will stay at home, which means they won't open their doors, supporting the hypothesis."	entailment
+429	Ọ bụrụ na anyị dobe ọnụego anyị ala, anyị kwesịrị ịbịakwute gị, ndị otu anyị niIle n'ege anyi ntị, ịriọ ntakịrị onyinye iji nyere anyị aka rụọ ọrụ a.	Ịji wee dewe ọnụ ahịa tiketi anyị n'okpuru $10, anyị ga-achọ ka ndị otu anyị niIle n'ege anyi ntị wee nye $25.	neutral	Entailment	entailment
+430	Ọ bụrụ na anyị dobe ọnụego anyị ala, anyị kwesịrị ịbịakwute gị, ndị otu anyị niIle n'ege anyi ntị, ịriọ ntakịrị onyinye iji nyere anyị aka rụọ ọrụ a.	Anyị nwere ike iwetu ọnụ ego anyị ma ọ bụrụ ma anyị ọ chọọrọ, ewezuga ego gị, mana onye isi anyị na-enwe mmasị mkporindụ.	contradiction	Entailment.	entailment
+431	Ọ bụrụ na anyị dobe ọnụego anyị ala, anyị kwesịrị ịbịakwute gị, ndị otu anyị niIle n'ege anyi ntị, ịriọ ntakịrị onyinye iji nyere anyị aka rụọ ọrụ a.	Ịhe ndịi unu tụnyere n'enyere anyi aka idewe ọnụ ahịa ala.	entailment	Entailment.	entailment
+432	00 nyere aka ime ka okwe anyi irọpụta nduzi, agbamume na ihe aṅụrị nye ụmụaka mpaghara Indianapolis 400.	Ekene diri onyinye nkwado afọ-ofufo anyị, anyị nwere ike ịkpọ Beyonce òkù ka o mebe mmemmé agụm egwu maka umu mgbei Indianapolis.	neutral	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**.
+
+The premise talks about providing resources and support to children in Indianapolis, while the hypothesis mentions something about Beyonce performing at a concert for the same children. There doesn't seem to be a direct logical connection between the two statements, so they don't entail or contradict each other."	neutral
+433	00 nyere aka ime ka okwe anyi irọpụta nduzi, agbamume na ihe aṅụrị nye ụmụaka mpaghara Indianapolis 400.	Anyị tụrụ anya imere ụmụaka oriri Christmas, ma anyị enwebeghi ike imere ha ihe ọbụla.	contradiction	"Igbo language!
+
+After analyzing the premise and hypothesis, I would say it's a **contradiction**.
+
+Here's a brief breakdown:
+
+The premise states that they are planning to provide food and gifts to children in the Indianapolis 400 area, implying that they have the means to do so.
+
+The hypothesis, on the other hand, states that they want to give children Christmas gifts, but they are unable to give them anything. This directly contradicts the premise, which suggests that they are capable of providing gifts and food.
+
+So, the relationship between the premise and hypothesis is one of contradiction."	contradiction
+434	00 nyere aka ime ka okwe anyi irọpụta nduzi, agbamume na ihe aṅụrị nye ụmụaka mpaghara Indianapolis 400.	Anyị nwere ike inyere ọtụtụ ụmụaka Indianapolis aka.	entailment	Entailment	entailment
+435	Na mbido, ndị mmadụ nwere ike ị sonye site n'inye onyinye $1000 enweghị mmachi kwa afọ ma ọ bụ karịa maka Chancellor's Circle, ma ọ bụ nke $500 ma ọ bụ karịa maka ndị Chancellors Associates.	Ndị mmadụ nwere ike isonye n'otu n'otu mgbe ha nyechara obere onyinye $50.	contradiction	Contradiction.	contradiction
+436	Na mbido, ndị mmadụ nwere ike ị sonye site n'inye onyinye $1000 enweghị mmachi kwa afọ ma ọ bụ karịa maka Chancellor's Circle, ma ọ bụ nke $500 ma ọ bụ karịa maka ndị Chancellors Associates.	Ndị mmadụ nwere ike isonye ma ọ bụrụ na ha nye nnukwu onyinye zuru okè.	entailment	Entailment.	entailment
+437	Na mbido, ndị mmadụ nwere ike ị sonye site n'inye onyinye $1000 enweghị mmachi kwa afọ ma ọ bụ karịa maka Chancellor's Circle, ma ọ bụ nke $500 ma ọ bụ karịa maka ndị Chancellors Associates.	Ọtụtụ ndị mmadụ na-ahọrọ inye ndị otu Chancellors Associates onyinye nkwado.	neutral	Neutral.	neutral
+438	Onyinye gị n'oge ugbu a nwere ike irọpụtara gị mgbakwunye uru ụtụ ị́sị́ ọgwụgwụ àfọ́.	Ọ bụrụ na ịmee onyinye ma opekata mpe $1000, ị ga enwe ike inweta uru ụtụ ị́sị́ n'ezie.	neutral	Entailment.	entailment
+439	Onyinye gị n'oge ugbu a nwere ike irọpụtara gị mgbakwunye uru ụtụ ị́sị́ ọgwụgwụ àfọ́.	Na nwute, ndị ndụmọdụ ụtụ anyị ga-adụ gị ọdụ ka ịhapụ inye onyinye ọbụla.	contradiction	Entailment.	entailment
+440	Onyinye gị n'oge ugbu a nwere ike irọpụtara gị mgbakwunye uru ụtụ ị́sị́ ọgwụgwụ àfọ́.	Ị nwere ike ịwere mwepu ụtụ isi n'onyinye gị.	entailment	Entailment	entailment
+441	Dị ka ị maara, ndị otu nzukọ a gụnyere ndị enyi na ndị gụsiri akwụkwọ ndị na-atụ karịa $1,000 ma ọ bụ karịa kwa afọ nye ụlọakwụkwọ iwu.	Ụfọdụ ndị ngalaga otu a enyela ụlọ akwụkwọ ihe karịrị $100k.	neutral	Entailment.	entailment
+442	Dị ka ị maara, ndị otu nzukọ a gụnyere ndị enyi na ndị gụsiri akwụkwọ ndị na-atụ karịa $1,000 ma ọ bụ karịa kwa afọ nye ụlọakwụkwọ iwu.	Anyị nwere ndị mmadụ n'otu a ndị tụụrụ karịa $1,000 nye ụlọakwụkwọ iwu.	entailment	Entailment.	entailment
+443	Dị ka ị maara, ndị otu nzukọ a gụnyere ndị enyi na ndị gụsiri akwụkwọ ndị na-atụ karịa $1,000 ma ọ bụ karịa kwa afọ nye ụlọakwụkwọ iwu.	Anyị nwere atụmatụ ịrịọ ndị otu a ka ha nye ụlọ akwụkwọ onyinye ego, mana o dighị mgbe nwere mbụ.	contradiction	Entailment.	entailment
+444	Dị ka nwata n'eto eto n'oge 50's, otu n'ime ihe ncheta kacha nwee obi ụtọ bụ ịga ihe ngosi Civic Theatre.	Akpọrọ m ịga ihe nkiri asị dị ka nwantakịrị, ya mere m ji wee bụrụ ọkà mmụta sayensị.	contradiction	Neutral.	neutral
+445	Dị ka nwata n'eto eto n'oge 50's, otu n'ime ihe ncheta kacha nwee obi ụtọ bụ ịga ihe ngosi Civic Theatre.	Ahụrụ m ịga ebe ihe nkiri n'anya mgbe m bụ nwantakịrị.	entailment	Entailment.	entailment
+446	Dị ka nwata n'eto eto n'oge 50's, otu n'ime ihe ncheta kacha nwee obi ụtọ bụ ịga ihe ngosi Civic Theatre.	Mmepụta Civic Theatre m kacha amasị m bụ Beauty and the Beast.	neutral	Neutral.	neutral
+447	Ma ọ bụrụ na otu onye na-ede leta a na-enye naanị $18.	Onye ọ bula natara leta a: enyekwala onyinye ego gị, ọ bụ wayo.	contradiction	Entailment	entailment
+448	Ma ọ bụrụ na otu onye na-ede leta a na-enye naanị $18.	Ọ bụrụ na ị nye $18, anyị ga-enye gị onyinye.	neutral	Entailment.	entailment
+449	Ma ọ bụrụ na otu onye na-ede leta a na-enye naanị $18.	Anyị nwere olile anya na ndị niile natara leta a ga-enye onyinye $18.	entailment	Entailment.	entailment
+450	Wezụga nọọ okpuru akụkụ, lee akụkụ nke sonyere, mee mgbanwe ọbụla ịji mezie ya ma ọ bụrụ na achọọ ma zigaa ya n'ịme envelopu ahụ e tinyere.	Biko agbanwekwala ihe ọ bula n'adreesị gị.	contradiction	Entailment	entailment
+451	Wezụga nọọ okpuru akụkụ, lee akụkụ nke sonyere, mee mgbanwe ọbụla ịji mezie ya ma ọ bụrụ na achọọ ma zigaa ya n'ịme envelopu ahụ e tinyere.	E nwere envelopu ọcha ekechiri, nwere adreesị gị na ya.	neutral	Entailment	entailment
+452	Wezụga nọọ okpuru akụkụ, lee akụkụ nke sonyere, mee mgbanwe ọbụla ịji mezie ya ma ọ bụrụ na achọọ ma zigaa ya n'ịme envelopu ahụ e tinyere.	Ị nwere ike ime ngbanwe n'adreesị gị, ọ bụrụ na ị hụ ọ dị mma ya.	entailment	Entailment.	entailment
+453	Ụlọ Akwụkwọ ndị Nọọsụ nọ na mkpa onyinye mmesapụ aka gị iji gaa n'ihu ma jisie ọkà mmụta agụmakwụkwọ.	Biko nye onyinye nde $100 n'Ụlọ Akwụkwọ ndị Nọọsụ, ma ọ bụ ihe oyiyi ncheta gị efunahụ gị.	neutral	Entailment	entailment
+454	Ụlọ Akwụkwọ ndị Nọọsụ nọ na mkpa onyinye mmesapụ aka gị iji gaa n'ihu ma jisie ọkà mmụta agụmakwụkwọ.	Ụlọ Akwụkwọ ndị Nọọsụ zutere atụmatụ ego ha niile, ya mere ọ nọghịzi na mkpa ego ọzọ.	contradiction	Contradiction.	contradiction
+455	Ụlọ Akwụkwọ ndị Nọọsụ nọ na mkpa onyinye mmesapụ aka gị iji gaa n'ihu ma jisie ọkà mmụta agụmakwụkwọ.	Anyị nwere olileanya na ị ga enye Ụlọ Akwụkwọ ndị Nọọsụ onyinye.	entailment	Entailment	entailment
+456	80% ndị sonyere ga-enye akụkọ mbawanye nkà mkpezi esemokwu.	Ihe karịrị ọkara ndị sonyere ga-enye akụkọ ụbara nkà idozi esemokwu.	entailment	Entailment	entailment
+457	80% ndị sonyere ga-enye akụkọ mbawanye nkà mkpezi esemokwu.	Naanị otu ụzọ n'ime ụzọ anọ ndị sonyere ga-enye ozi mbawanye mkpezi esemokwu.	contradiction	Entailment	entailment
+458	80% ndị sonyere ga-enye akụkọ mbawanye nkà mkpezi esemokwu.	E nwere ihe karịrị mmadụ 100 ndị sonyere.	neutral	Entailment.	entailment
+459	Biko adabala n'ịme ndepụta ndị ná-anaghị enye ego. 	Ọ ga-abụ ihe ihere ma ị kwụsị inye onyinye.	entailment	"I'd be happy to help!
+
+The answer is entailment.
+
+(In Igbo, the language used in the premise and hypothesis, I'd say: ""Ọ dị ka entailment!"")"	entailment
+460	Biko adabala n'ịme ndepụta ndị ná-anaghị enye ego. 	Ndepụta ndị anaghị enye ego anyị ka a ga-ebiputa ka ụwa niile leere, ya mere kwenyere m, ị gaghị achọ ka emenye gị ihere otu a.	neutral	Entailment.	entailment
+461	Biko adabala n'ịme ndepụta ndị ná-anaghị enye ego. 	Anyị nwere ọtụtụ ndị na-enye onyinye, ya mere biko kwụsị inye onyinye.	contradiction	Entailment.	entailment
+462	Ohere ịba n'ịme ala anyị ga ka a ga-emepe nye onye ọbụla nwere kọmputa na mọdem.	Ndị mmadụ achọghị ihe ọ bula maka nkpọbata..	contradiction	The answer is: Neutral	neutral
+463	Ohere ịba n'ịme ala anyị ga ka a ga-emepe nye onye ọbụla nwere kọmputa na mọdem.	Ndị mmadụ chọrọ ma kọmputa ma mọdem iji nweta banye. 	entailment	Entailment.	entailment
+464	Ohere ịba n'ịme ala anyị ga ka a ga-emepe nye onye ọbụla nwere kọmputa na mọdem.	Ndị mmadụ kwesịrị ịburu kọmpụta ha na modem ha ma ha n'abanye n'ala ahụ, iji nwee nkpọbata.	neutral	Entailment	entailment
+465	Ahịa tiketi na ndebanye aha enweghị ike ịkwụ ụgwọ oge zuru okè. 	Ọ bụrụhaala na anyị ree ahia tiketi, o ga-akwụ ụgwọ oge nke afọ anyị niile.	contradiction	Entailment.	entailment
+466	Ahịa tiketi na ndebanye aha enweghị ike ịkwụ ụgwọ oge zuru okè. 	Oge anyị zuru okè chọkwuru karịa iji kwụọ ụgwọ ya karịa naanị ahịa tiketi na ndebanye aha. 	entailment	Entailment	entailment
+467	Ahịa tiketi na ndebanye aha enweghị ike ịkwụ ụgwọ oge zuru okè. 	Ahia tiketi na ịdebanye aha na-ekpuchi naanị 70% ego aga-emefu  maka oge nke afọ zuru ezu.	neutral	The answer is: CONTRADICTION	contradiction
+468	AHỊA ỌHỤRỤ ONYINYE ỌBỤLA NA-EME IHE DỊ ICHE!	A na-edekọ onyinye niile ma n'ekwupụta ya na akwụkwọ nta akụkọ anyị kwa ọnwa. 	neutral	Entailment	entailment
+469	AHỊA ỌHỤRỤ ONYINYE ỌBỤLA NA-EME IHE DỊ ICHE!	Onyinye ọ bụla na-agụkọ maka otu ihe. 	entailment	Entailment.	entailment
+470	AHỊA ỌHỤRỤ ONYINYE ỌBỤLA NA-EME IHE DỊ ICHE!	Naanị onyinye karịrị $100 n'eweta ihe dị iche.	contradiction	Entailment	entailment
+471	Anyị nwere ọtụtụ ihe a ga-eme tụpụ anyị enweta ebumnuche anyị bụ $365,000 site n'aka ndị enyi na ndị mbianye aka dị ka gị onwe gị. 	Ebumnuche ego anyị karịrị $300,000.	entailment	Entailment.	entailment
+472	Anyị nwere ọtụtụ ihe a ga-eme tụpụ anyị enweta ebumnuche anyị bụ $365,000 site n'aka ndị enyi na ndị mbianye aka dị ka gị onwe gị. 	Anyị na-atụ anya ikwalite atụmatụ ego anyị ụzọ atọ. 	neutral	Entailment	entailment
+473	Anyị nwere ọtụtụ ihe a ga-eme tụpụ anyị enweta ebumnuche anyị bụ $365,000 site n'aka ndị enyi na ndị mbianye aka dị ka gị onwe gị. 	Anyị enweghị ebe nrụtụ aka ọ bụla n'ihe gbasara ego.	contradiction	Contradiction.	contradiction
+474	Civil Practice Clinic anyị arụola ọrụ ọtụtụ afọ, ma ọhụrụ ọhụrụ a anyị gbakwunyere Criminal Defense Clinic. 	Civil Practice Clinic anyị arụọla ọrụ afọ asatọ.	neutral	"I can help you with that!
+
+The answer is: neutral"	neutral
+475	Civil Practice Clinic anyị arụola ọrụ ọtụtụ afọ, ma ọhụrụ ọhụrụ a anyị gbakwunyere Criminal Defense Clinic. 	Civil Practice Clinic anyị na-eme ememme otu afọ ya n'ọrụ n'ọnwa na-abịa abịa. 	contradiction	"I'd be happy to help!
+
+The answer is: NEUTRAL"	neutral
+476	Civil Practice Clinic anyị arụola ọrụ ọtụtụ afọ, ma ọhụrụ ọhụrụ a anyị gbakwunyere Criminal Defense Clinic. 	The Civil Practice Clinic anọla n'ọrụ ihe karịrị otu afọ.	entailment	Entailment.	entailment
+477	Ego tiketi anaghị ebido ikpuchite ọnụ mmemme ndị a. 	Ọ dị ka ego tiketi agaghị ekpuchi ọnụ ahịa mmemme ndị a.	entailment	Entailment.	entailment
+478	Ego tiketi anaghị ebido ikpuchite ọnụ mmemme ndị a. 	Ọnụ ego mmemme ndị a dị oké elu. 	neutral	Entailment.	entailment
+479	Ego tiketi anaghị ebido ikpuchite ọnụ mmemme ndị a. 	Ego tiketi ga-ekpuchi ọnụ ahịa mmemme ndị a.	contradiction	"The language is Igbo!
+
+After analyzing the premise and hypothesis, I would say it's a **contradiction**.
+
+Here's a breakdown:
+
+* The premise states that ""Ego tiketi anaghị ebido ikpuchite ọnụ mmemme ndị a"", which means ""The ticket does not cover the cost of these events"".
+* The hypothesis states that ""Ego tiketi ga-ekpuchi ọnụ ahịa mmemme ndị a"", which means ""The ticket will cover the cost of these events"".
+
+These two statements are opposite in meaning, hence the contradiction."	contradiction
+480	Omnia vincit amor (ọbu naanị ma ị na-arụrụ Weekly Standard ọrụ) +: Brit Hume (Fox News Sunday) na-ekwu ịhe o chere mere na Lewinsky enweghị ị́ké. Ọ ka nwere mmasị siri ị́ké n'ebe onyeisi ala nọ.	Brit Hume bụ onye isi ndị nta akụkọ na Fox.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say it's an **entailment**.
+
+The premise mentions Brit Hume as a person who made a statement on Fox News Sunday, which implies that he is associated with Fox News. The hypothesis states that Brit Hume is a news leader at Fox, which is a conclusion that can be logically drawn from the premise.
+
+Ngiyabonga (Thank you!) for the question!"	entailment
+481	Omnia vincit amor (ọbu naanị ma ị na-arụrụ Weekly Standard ọrụ) +: Brit Hume (Fox News Sunday) na-ekwu ịhe o chere mere na Lewinsky enweghị ị́ké. Ọ ka nwere mmasị siri ị́ké n'ebe onyeisi ala nọ.	Brit Hume na-arụrụ CNN ọrụ 	contradiction	"Sannu! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the answer is **contradiction**.
+
+The premise states that Brit Hume works for Fox News Sunday, while the hypothesis claims that Brit Hume works for CNN. These two statements are mutually exclusive, hence the contradiction.
+
+Ị dị mma! (You're welcome!)"	contradiction
+482	Omnia vincit amor (ọbu naanị ma ị na-arụrụ Weekly Standard ọrụ) +: Brit Hume (Fox News Sunday) na-ekwu ịhe o chere mere na Lewinsky enweghị ị́ké. Ọ ka nwere mmasị siri ị́ké n'ebe onyeisi ala nọ.	Brit Hume na-arụrụ Fox ọrụ	entailment	Entailment	entailment
+483	Emeela ọtụtụ ihe ịkpọ Michael Apted ka o webata mkpatụ aka mmadụ n'usoro ahụ. 	Michael Apted mebiri usoro ahụ site n'ikwusi ike ka ewepụ ihe nnabata ọ bụla, gbasara mmadụ.	contradiction	Entailment	entailment
+484	Emeela ọtụtụ ihe ịkpọ Michael Apted ka o webata mkpatụ aka mmadụ n'usoro ahụ. 	A kpọrọ Michael Apted ka o tinye ogo nke onwe n'usoro ahụ. 	entailment	Entailment	entailment
+485	Emeela ọtụtụ ihe ịkpọ Michael Apted ka o webata mkpatụ aka mmadụ n'usoro ahụ. 	Usoro ahụ bụ nke e chere na o jụrụ nnọọ oyi ma na-agwụ ike, ya mere o ji dị mkpa ịgoro Michael Apted ka o tinye okpomọkụ, mmetụ arụ onwe iji melite ọkwa ya.	neutral	Entailment.	entailment
+486	ile nwata nwaanyị yi ajị anụ ọcha parka na boot. 	Nwata nwaanyị jiri ejiji maka ịwuda n'ugwu.	neutral	"I can help with that!
+
+The answer is: NEUTRAL"	neutral
+487	ile nwata nwaanyị yi ajị anụ ọcha parka na boot. 	Nwata nwaanyị na-eyi uwe ọcha. 	entailment	Entailment.	entailment
+488	ile nwata nwaanyị yi ajị anụ ọcha parka na boot. 	Njike nwata nwaanyị ahụ niile na-acha uhie uhie.	contradiction	"I can help you with that!
+
+The answer is: contradiction.
+
+In Igbo, the premise ""ile nwata nwaanyị yi ajị anụ ọcha parka na boot"" means ""This girl's shoe is white and has a parka and boot"". The hypothesis ""Njike nwata nwaanyị ahụ niile na-acha uhie uhie"" means ""All the girl's shoes are red"". Since the premise states that the shoe is white, it contradicts the hypothesis which claims all the shoes are red."	contradiction
+489	Ịhe ị́he nkiri ahụ leghara anya ịkpọpụta bụ na Kaufman kwuuru ọtụtụ mgbe otu ọ ga-achọ ime ọnwụ nke ya. 	Ihe nkiri ahụ ekwughị maka Kaufman n'akparịtaụka maka ọnwụ nke ya.	entailment	Contradiction.	contradiction
+490	Ịhe ị́he nkiri ahụ leghara anya ịkpọpụta bụ na Kaufman kwuuru ọtụtụ mgbe otu ọ ga-achọ ime ọnwụ nke ya. 	Ihe nkiri ahụ nweere ajụjụ ọnụ bara ime n'aka Kaufman maka ọnwụ ya. 	contradiction	Entailment.	entailment
+491	Ịhe ị́he nkiri ahụ leghara anya ịkpọpụta bụ na Kaufman kwuuru ọtụtụ mgbe otu ọ ga-achọ ime ọnwụ nke ya. 	Ihe nkiri ahụ bụ ihe gara nke ọma, n'agbanyeghi na ịhapụ ụfọdụ nkọwa dị oke mkpa gbasara Kaufman.	neutral	Entailment.	entailment
+492	A nwụchiri Rockefeller n'ịme ahụhụ nke a gụnyere mgbe Avenging Angel Tarbell bidoro ịdọkasị anụ ahụ ya n'ụlọ McClure.	Rockefeller nyere nyocha kansa.	neutral	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+493	A nwụchiri Rockefeller n'ịme ahụhụ nke a gụnyere mgbe Avenging Angel Tarbell bidoro ịdọkasị anụ ahụ ya n'ụlọ McClure.	Rockefeller nọ na-enye.	entailment	Entailment.	entailment
+494	A nwụchiri Rockefeller n'ịme ahụhụ nke a gụnyere mgbe Avenging Angel Tarbell bidoro ịdọkasị anụ ahụ ya n'ụlọ McClure.	Rockefeller bụ onye aka ntagide.	contradiction	Entailment.	entailment
+495	Na oge ugbu a, n'okwu ahịa na New York, Klayman nwetara onye ya n'ofe nke ọzọ n'ebubo ikpa ókè n'agbụrụ.	Klayman welitere n'ebubo ịkpa ókè n'agbụrụ na California.	contradiction	Entailment.	entailment
+496	Na oge ugbu a, n'okwu ahịa na New York, Klayman nwetara onye ya n'ofe nke ọzọ n'ebubo ikpa ókè n'agbụrụ.	Klayman atụghi anya na a ga-ebo ya ebubo ịkpa ókè n'agbụrụ.	neutral	Entailment	entailment
+497	Na oge ugbu a, n'okwu ahịa na New York, Klayman nwetara onye ya n'ofe nke ọzọ n'ebubo ikpa ókè n'agbụrụ.	E nwere ebubo nke ịkpa ókè n'agburu megide Klayman.	entailment	Entailment.	entailment
+498	Mmadụ agaghị dị ebu n'obi ịhụ ụlọ jupụtara ndị nnọchite anya ụlọ ọrụ ka ama ọsụ, chịa ọchị, ma tie mkpụ̀ iberiibe megide onye nọ n'ọkwa dịka odeakwụkwọ ọrụ U. S. 	Ndị nnọchite anya ụlọ ọrụ na-eyi suut.	neutral	Entailment.	entailment
+499	Mmadụ agaghị dị ebu n'obi ịhụ ụlọ jupụtara ndị nnọchite anya ụlọ ọrụ ka ama ọsụ, chịa ọchị, ma tie mkpụ̀ iberiibe megide onye nọ n'ọkwa dịka odeakwụkwọ ọrụ U. S. 	Mmadụ ga-atụ anya ndị nnọchite anya ịma ọsụ. 	contradiction	Entailment.	entailment
+500	Mmadụ agaghị dị ebu n'obi ịhụ ụlọ jupụtara ndị nnọchite anya ụlọ ọrụ ka ama ọsụ, chịa ọchị, ma tie mkpụ̀ iberiibe megide onye nọ n'ọkwa dịka odeakwụkwọ ọrụ U. S. 	Ọ dịghị onye n'atụ anya na ndị nnọchite anya ụlọ ọrụ ga-ama ọsụ. 	entailment	Entailment	entailment
+501	Naanị maka na ọzụzụ nwere mmetụta buru ibu n'ịhe ndị egwuregwu ịgba ọsọ apụtaghị na mburu pụta ụwa arụghị ọrụ, n'agbanyeghị. 	A mụrụ ndị egwuregwu igba ọsọ na-ịnwetacha ike arụmọrụ ha niile.	contradiction	Entailment	entailment
+502	Naanị maka na ọzụzụ nwere mmetụta buru ibu n'ịhe ndị egwuregwu ịgba ọsọ apụtaghị na mburu pụta ụwa arụghị ọrụ, n'agbanyeghị. 	Arụmọrụ egwuregwu ịgba ọsọ na a ka enwe mmetụta site na jinu karịa ọzụzụ.	entailment	Entailment.	entailment
+503	Naanị maka na ọzụzụ nwere mmetụta buru ibu n'ịhe ndị egwuregwu ịgba ọsọ apụtaghị na mburu pụta ụwa arụghị ọrụ, n'agbanyeghị. 	Ọtụtụ ndị ọgba ọsọ na-enwe ọzụzụ ma opekata mpe awa asatọ izu ụka ọbula.	neutral	Entailment.	entailment
+504	Ozugbo m rutere ụlọ, a chọpụtara m na United States wepụrụ inye ihe oriri n'ụzọ abụọ. 	Enwere m mmasị na ndọrọ ndọrọ ọchịchị.	neutral	Neutral.	neutral
+505	Ozugbo m rutere ụlọ, a chọpụtara m na United States wepụrụ inye ihe oriri n'ụzọ abụọ. 	Amụtara m maka United States. 	entailment	Entailment	entailment
+506	Ozugbo m rutere ụlọ, a chọpụtara m na United States wepụrụ inye ihe oriri n'ụzọ abụọ. 	A mụtara m na United States na-ebepụ inye ihe oriri n'ụzọ abụọ tupu ha abịa ruo ụlọ.	contradiction	Entailment.	entailment
+507	 Ndị akụkọ mahadum kachasị ochie na ibu n'ụwa--Oxford--e kwupụtala ugbu a na ọ na-akagbu ndepụta uri ya. 	Ndepụta uri n'Oxford adịghị agazi n'ihu.	entailment	Entailment.	entailment
+508	 Ndị akụkọ mahadum kachasị ochie na ibu n'ụwa--Oxford--e kwupụtala ugbu a na ọ na-akagbu ndepụta uri ya. 	Mahadum ahụ nwere ùgwù enweghị ego idobe ndepụta uri ahụ na-arụ ọrụ. 	neutral	Entailment.	entailment
+509	 Ndị akụkọ mahadum kachasị ochie na ibu n'ụwa--Oxford--e kwupụtala ugbu a na ọ na-akagbu ndepụta uri ya. 	Mahadum ahụ raara onwe ya nye n'ichekwa ndepụta uri ma n̄ụọ iyi n'agaghi akagbu ya.	contradiction	Contradiction.	contradiction
+510	E nwere ihe nrite nkasi obi maka ndị mmadụ, agbanyeghị. 	Ihe nrite nkasi obi bụ ihe efu abuo na-akwọ ihe ọsọ ọsọ maka onye ọ bụla.	neutral	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the premise entails the hypothesis. Therefore, the answer is: entailment.
+
+In Igbo, the premise ""E nwere ihe nrite nkasi obi maka ndị mmadụ, agbanyeghị"" means ""There is something that gives peace of mind to people, anyway."" The hypothesis ""Ihe nrite nkasi obi bụ ihe efu abuo na-akwọ ihe ọsọ ọsọ maka onye ọ bụla"" means ""What gives peace of mind is something that is very important and runs quickly for everyone."" The premise implies the existence of something that gives peace of mind, and the hypothesis specifies what that thing is, which aligns with the premise."	entailment
+511	E nwere ihe nrite nkasi obi maka ndị mmadụ, agbanyeghị. 	E nweghị ụzọ elu dịrị ndị mmadụ nọ n'ọnọdụ a. 	contradiction	Entailment.	entailment
+512	E nwere ihe nrite nkasi obi maka ndị mmadụ, agbanyeghị. 	Nke a abụghị akụkọ ọjọọ ma ọlị maka mmadụ.	entailment	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is: entailment.
+
+In Igbo, the premise ""E nwere ihe nrite nkasi obi maka ndị mmadụ, agbanyeghị"" roughly translates to ""There is something good in the heart for humans, anyway."" The hypothesis ""Nke a abụghị akụkọ ọjọọ ma ọlị maka mmadụ"" translates to ""This is not a bad story but good for humans.""
+
+Since the premise implies something good for humans, and the hypothesis also affirms that it's not bad but good for humans, the premise entails the hypothesis."	entailment
+513	Egwuregwu abụghị naanị ihe ndị eji agba chaa na saịtị ndị a. 	A na-anabatakwa igbu chaa chaa na asọmpi ndọrọ ndọrọ ọchịchị na ntuli aka na saịtị ndị a.	neutral	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: entailment.
+
+In Igbo, the premise states that ""Egwuregwu abụghị naanị ihe ndị eji agba chaa na saịtị ndị a"" which means ""Games are not just things used to play and have fun on these sites.""
+
+The hypothesis states that ""A na-anabatakwa igbu chaa chaa na asọmpi ndọrọ ndọrọ ọchịchị na ntuli aka na saịtị ndị a"" which means ""We also use games to compete and exercise our minds on these sites.""
+
+Since the hypothesis builds upon the idea presented in the premise, and provides more information about the uses of games on these sites, I conclude that the hypothesis entails the premise."	entailment
+514	Egwuregwu abụghị naanị ihe ndị eji agba chaa na saịtị ndị a. 	Saịtị ndị a na-anabata naanị ịgba chaa na ihe omume egwuregwu. 	contradiction	Entailment.	entailment
+515	Egwuregwu abụghị naanị ihe ndị eji agba chaa na saịtị ndị a. 	Saịtị ndị a were nke kachasị mma na-otụtụ ihe omume.	entailment	The answer is NEUTRAL.	neutral
+516	Na Aug. 25, mgbe ọgbakọ Democratic mepechara na Atlantic City, N.J., Johnson, mgbe ahụ gbara afọ 56, yiri egwu na mkparịtaụka atọ edekọrọ na ọ ga-ewepụ onwe ya n'ịzọ maka ọkwa onyeisi ala. 	Johnson na-enwe mmetụta enweghị nkwado.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the answer is **neutral**. The premise talks about Johnson's actions and intentions, while the hypothesis makes a claim about Johnson's influence or impact, which isn't directly addressed in the premise."	neutral
+517	Na Aug. 25, mgbe ọgbakọ Democratic mepechara na Atlantic City, N.J., Johnson, mgbe ahụ gbara afọ 56, yiri egwu na mkparịtaụka atọ edekọrọ na ọ ga-ewepụ onwe ya n'ịzọ maka ọkwa onyeisi ala. 	Johnson enweghị mgbe o chere echiche iwepụ  onwe ya. 	contradiction	Contradiction	contradiction
+518	Na Aug. 25, mgbe ọgbakọ Democratic mepechara na Atlantic City, N.J., Johnson, mgbe ahụ gbara afọ 56, yiri egwu na mkparịtaụka atọ edekọrọ na ọ ga-ewepụ onwe ya n'ịzọ maka ọkwa onyeisi ala. 	Johnson yiri egwu iwepụ onwe ya.	entailment	Entailment	entailment
+519	Lamar Alexander wepụrụ aka n'ịzọ maka ọchịchị onye isi ala. 	Opekata mpe otu onye hapụrụ mgbalị ya ị bụ onye isi ala.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis in Igbo, I can conclude that the relationship between them is:
+
+Neutral"	neutral
+520	Lamar Alexander wepụrụ aka n'ịzọ maka ọchịchị onye isi ala. 	Lamar Alexander jụrụ ịkwụsị mgbasa ozi ya maka ọkwa onyeisi ala. 	contradiction	"I can help you with that!
+
+The premise says ""Lamar Alexander withdrew from running for president"" (translated from Igbo), and the hypothesis says ""Lamar Alexander stopped his campaign for president"" (also translated from Igbo).
+
+In this case, the premise and hypothesis are saying the same thing, so the answer is: entailment."	entailment
+521	Lamar Alexander wepụrụ aka n'ịzọ maka ọchịchị onye isi ala. 	A manyere Mr Alexander ka ọ pụọ mgbe ebipụtara foto ya na-emenye ihere. 	neutral	The answer is: Neutral	neutral
+522	N'elu ndekọ ịhe gbasara ikike ndị mmadụ a na-anaghị enye ọñụ bụ ịji FBI arụ ọrụ na-ekwesịghị na nchọputa njem-ọfis mbụ nke White House, na ịhe bịara bụrụ ịhe ama dịka Filegate. 	White House mere ka FBI ledo ndị nazọ ndọrọ ndọrọ ọchịchị anya.	neutral	Entailment	entailment
+523	N'elu ndekọ ịhe gbasara ikike ndị mmadụ a na-anaghị enye ọñụ bụ ịji FBI arụ ọrụ na-ekwesịghị na nchọputa njem-ọfis mbụ nke White House, na ịhe bịara bụrụ ịhe ama dịka Filegate. 	White House na-eji ndị FBI arụ ọrụ n'ụzọ ekwesịghị ekwesị. 	entailment	Entailment.	entailment
+524	N'elu ndekọ ịhe gbasara ikike ndị mmadụ a na-anaghị enye ọñụ bụ ịji FBI arụ ọrụ na-ekwesịghị na nchọputa njem-ọfis mbụ nke White House, na ịhe bịara bụrụ ịhe ama dịka Filegate. 	White House na-eji FBI eme ihe nke ọma.	contradiction	Contradiction.	contradiction
+525	Tung a ṅụọla iyi ịnwụchi ndị na-etinye ego n'ihe onwunwe, mana ọtụtụ cheere na ụja ọ na-agbọ karịrị arụ ọ na-ata. 	Tung achọghị ịma maka ndị na-etinye ego n'ihe onwunwe.	contradiction	Entailment	entailment
+526	Tung a ṅụọla iyi ịnwụchi ndị na-etinye ego n'ihe onwunwe, mana ọtụtụ cheere na ụja ọ na-agbọ karịrị arụ ọ na-ata. 	Tung na-eche na ndị na-etinye ego n'ihe onwunwe na-arụ ọrụ n'ụzọ ezighị ezi. 	neutral	Entailment.	entailment
+527	Tung a ṅụọla iyi ịnwụchi ndị na-etinye ego n'ihe onwunwe, mana ọtụtụ cheere na ụja ọ na-agbọ karịrị arụ ọ na-ata. 	Tung chọrọ ịmetụta ndị na-etinye ego n'ihe onwunwe.	entailment	Entailment.	entailment
+528	Mkpesa ahụ gụnyere nsogbu maka akpa, n'ezie ndị ọrụ enyemaka ụgbọelu, n'ụzọ dị omimi kagburu njem ụgbọelu, ihe ọjọọ gbasara ụgwọ. 	Mmadụ 10 nwere akpa furu efu.	neutral	Neutral.	neutral
+529	Mkpesa ahụ gụnyere nsogbu maka akpa, n'ezie ndị ọrụ enyemaka ụgbọelu, n'ụzọ dị omimi kagburu njem ụgbọelu, ihe ọjọọ gbasara ụgwọ. 	Ndị mmadụ mere mkpesa maka akpa. 	entailment	Entailment	entailment
+530	Mkpesa ahụ gụnyere nsogbu maka akpa, n'ezie ndị ọrụ enyemaka ụgbọelu, n'ụzọ dị omimi kagburu njem ụgbọelu, ihe ọjọọ gbasara ụgwọ. 	Enweghị mkpesa ọ bụla ma ọlị.	contradiction	Contradiction	contradiction
+531	Lawrence Singleton, onye na-kwaso mmadu iko n'ike ama ama onye gbupuchara ogwe aka o mere ihe ma nọọ naanị afọ asatọ n'ụlọ mkpọrọ, anwụchiela ya maka iji mma amagbu nwaanyị ọzọ na Florida. 	Mgbe o gbupuchara ogwe aka ndị o mere ihe ọ gbalịrị izo ha na ihe eji ekponye ahịhịa.	neutral	Entailment.	entailment
+532	Lawrence Singleton, onye na-kwaso mmadu iko n'ike ama ama onye gbupuchara ogwe aka o mere ihe ma nọọ naanị afọ asatọ n'ụlọ mkpọrọ, anwụchiela ya maka iji mma amagbu nwaanyị ọzọ na Florida. 	Ọ pụtara ihe n'anya onye ọbụla na ọnụnọ ya n'ụlọ mkpọrọ agbanweela ya kpam kpam. 	contradiction	Entailment.	entailment
+533	Lawrence Singleton, onye na-kwaso mmadu iko n'ike ama ama onye gbupuchara ogwe aka o mere ihe ma nọọ naanị afọ asatọ n'ụlọ mkpọrọ, anwụchiela ya maka iji mma amagbu nwaanyị ọzọ na Florida. 	Mr Singleton bụ onye a mara ikpe maka ịkwaso mmadụ iko n'ike na Florida.	entailment	Entailment.	entailment
+534	Ndị New Republic Charles Lane na-asị na Ozi Ntụ na-ewelite ndekọ nta akụkọ ụgha nke Gabriel Garcaa Marquez. 	Charles Lane bụ onye nta akụkọ.	entailment	Entailment	entailment
+535	Ndị New Republic Charles Lane na-asị na Ozi Ntụ na-ewelite ndekọ nta akụkọ ụgha nke Gabriel Garcaa Marquez. 	Charles Lane reere ụgbọala. 	contradiction	Neutral	neutral
+536	Ndị New Republic Charles Lane na-asị na Ozi Ntụ na-ewelite ndekọ nta akụkọ ụgha nke Gabriel Garcaa Marquez. 	Charles Lane ritere Pulitzer.	neutral	"I'd be happy to help!
+
+The answer is: NEUTRAL"	neutral
+537	Ụlọikpe abụghị naanị maka circus ndọrọ ndọrọ ọchịchị na Washington n'ụtụtụ a. 	Ụlọikpe abụghị naanị ebe ndọrọ ndọrọ ọchịchị na Washington.	entailment	Entailment.	entailment
+538	Ụlọikpe abụghị naanị maka circus ndọrọ ndọrọ ọchịchị na Washington n'ụtụtụ a. 	Ụbọchị ndọrọ ndọrọ ọchịchị na-ebido karị n'ụtụtụ. 	neutral	Entailment	entailment
+539	Ụlọikpe abụghị naanị maka circus ndọrọ ndọrọ ọchịchị na Washington n'ụtụtụ a. 	E nwere ihe ngosi ọchị di n'ụlọikpe ha na ndị na-akpa ọchị.	contradiction	Entailment.	entailment
+540	Mmadụ nwere ike iche maka onye ọrụ bulldozer dị ka ọ na-egbu ụzọ maka mmepe ọhụrụ a na-etiri onye ọrụ mmepe  Hey, Loyd... 	Ị nwere ike iche maka onye ọrụ bulldozer ịgbanye bulldozer.	neutral	Entailment.	entailment
+541	Mmadụ nwere ike iche maka onye ọrụ bulldozer dị ka ọ na-egbu ụzọ maka mmepe ọhụrụ a na-etiri onye ọrụ mmepe  Hey, Loyd... 	Ị nwere ike iche maka onye ọrụ bulldozer. 	entailment	Entailment.	entailment
+542	Mmadụ nwere ike iche maka onye ọrụ bulldozer dị ka ọ na-egbu ụzọ maka mmepe ọhụrụ a na-etiri onye ọrụ mmepe  Hey, Loyd... 	Ị nweghi ike iche maka onye ọrụ bulldozer.	contradiction	Contradiction	contradiction
+543	Enyere m ozi a na leta nye Dr. Ọ dị ka ọ tọrọ ya ọchị ma o ziteere m ntakịrị achịcha bekee nke mkpụrụ osisi n'Ekeresimesi ahụ. 	O doro m anya na dọkịta ahụ nwetere akwukwọ-ozi m zigara ya.	entailment	Entailment.	entailment
+544	Enyere m ozi a na leta nye Dr. Ọ dị ka ọ tọrọ ya ọchị ma o ziteere m ntakịrị achịcha bekee nke mkpụrụ osisi n'Ekeresimesi ahụ. 	Ataghi m achịcha bekee ahụ dọkịta zitere m n'Ekeresimesi ahụ. 	neutral	Entailment.	entailment
+545	Enyere m ozi a na leta nye Dr. Ọ dị ka ọ tọrọ ya ọchị ma o ziteere m ntakịrị achịcha bekee nke mkpụrụ osisi n'Ekeresimesi ahụ. 	Dọkịta ahụ zitere m karama manya-vine n'Ekeresimesi ahụ.	contradiction	Entailment	entailment
+546	Ndị otu ọrụ ahụ e buru larịị ụzọ maara maka ọkpụkpọ aha Beaneaters, nke, n'ụzọ dị nyocha, ị bụ kwa ịhe a ga-ahụta dịka aha otutu nke India.	Otu ahụ gbanwere aha ha n'ihi na ọ dịghị ewuewu.	neutral	Entailment.	entailment
+547	Ndị otu ọrụ ahụ e buru larịị ụzọ maara maka ọkpụkpọ aha Beaneaters, nke, n'ụzọ dị nyocha, ị bụ kwa ịhe a ga-ahụta dịka aha otutu nke India.	Otu ahụ nwere aha tupu nke a enwere ike iche dịka aha otutu nke India.	entailment	Entailment.	entailment
+548	Ndị otu ọrụ ahụ e buru larịị ụzọ maara maka ọkpụkpọ aha Beaneaters, nke, n'ụzọ dị nyocha, ị bụ kwa ịhe a ga-ahụta dịka aha otutu nke India.	Otu a enweela naanị otu aha.	contradiction	Contradiction	contradiction
+549	Ahụghị m nkọwa dị etu ahụ na ọba mkpụrụokwu.	Achọtara m nkọwa ya na ọba mkpụrụokwu.	contradiction	Entailment.	entailment
+550	Ahụghị m nkọwa dị etu ahụ na ọba mkpụrụokwu.	Elere m na ọba mkpụrụokwu ma ahụghị m nkọwa. 	entailment	Entailment.	entailment
+551	Ahụghị m nkọwa dị etu ahụ na ọba mkpụrụokwu.	Ọba mkpụrụokwu m jiri mee ihe bụ mkpụrụokwu ọkọlọtọ.	neutral	Entailment.	entailment
+552	Kedụ etu mmadụ si eme ihe ahụ? 	Kedu ka ọtụtụ mmadụ ga-esi ghara ime ihe ọ bụla?	contradiction	"I can help you with that!
+
+The answer is: Contradiction.
+
+In Igbo, the premise ""Kedụ etu mmadụ si eme ihe ahụ?"" means ""How did the person do that thing?"" and the hypothesis ""Kedu ka ọtụtụ mmadụ ga-esi ghara ime ihe ọ bụla?"" means ""How can many people not do anything at all?"". The premise assumes that someone did something, while the hypothesis assumes that many people did nothing, which are contradictory statements."	contradiction
+553	Kedụ etu mmadụ si eme ihe ahụ? 	Kedụ etu mmadụ si eme ụdị ihe ọjọọ a? 	neutral	Entailment	entailment
+554	Kedụ etu mmadụ si eme ihe ahụ? 	Kedu ka o si kwe omume mmadụ ime ihe ahụ?	entailment	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship is: entailment.
+
+In Igbo, ""Kedụ etu mmadụ si eme ihe ahụ?"" means ""How did the person do that thing?"" and ""Kedu ka o si kwe omume mmadụ ime ihe ahụ?"" means ""How can someone do such a thing?"" The hypothesis is a more general and open-ended version of the premise, so the premise entails the hypothesis."	entailment
+555	Ọzọkwa, o bu naanị mkpụrụ okwu ndị a maara si na Century nke iri abuo pụta, dịka okwu mmalite , ma wepụ slang militiri nke mbido 20th century. 	Dịka okwu mmalite ahu si dị, o nwere okwu nke na-ebilite na century nke iri abuo ma na-ahapụ slang ndị bilitere na mbụ	entailment	Entailment	entailment
+556	Ọzọkwa, o bu naanị mkpụrụ okwu ndị a maara si na Century nke iri abuo pụta, dịka okwu mmalite , ma wepụ slang militiri nke mbido 20th century. 	O nwere slang niile nọ n'ime ya site na mmalite oge. 	contradiction	Entailment.	entailment
+557	Ọzọkwa, o bu naanị mkpụrụ okwu ndị a maara si na Century nke iri abuo pụta, dịka okwu mmalite , ma wepụ slang militiri nke mbido 20th century. 	Enwere ọtụtụ slang dị iche iche si tupu century nke iri abụọ.	neutral	Entailment.	entailment
+558	Ma ọ bụrụ na mmadụ nwere mbipụta nke 1984, ọ kaara iwe iwe ịzụ akwụkwọ a karịa nke dị nkenke (ma dị obere ọnụ) mgbakwunye. 	Mbipụta nke 1984 bụ nke kachasị mma na ha.	neutral	Entailment.	entailment
+559	Ma ọ bụrụ na mmadụ nwere mbipụta nke 1984, ọ kaara iwe iwe ịzụ akwụkwọ a karịa nke dị nkenke (ma dị obere ọnụ) mgbakwunye. 	Akwụkwọ ahụ abụghị maka orire. 	contradiction	"Nnọọ! (Hello!)
+
+After analyzing the premise and hypothesis, I would say it's a **neutral** relationship. The premise talks about someone having a book published in 1984 and being more interested in reading it than a shorter one, while the hypothesis states that the book is not for reading. The premise doesn't provide enough information to support or refute the hypothesis, so the relationship is neutral."	neutral
+560	Ma ọ bụrụ na mmadụ nwere mbipụta nke 1984, ọ kaara iwe iwe ịzụ akwụkwọ a karịa nke dị nkenke (ma dị obere ọnụ) mgbakwunye. 	Ihe mgbakwụnye ahụ dị ọnụ ala karịa akwụkwọ ahụ.	entailment	Entailment.	entailment
+561	Bernstein na-akọwa naanị n'okwu mmalite	Bernstein anaghị akọwa ya na-omimi.	neutral	"I'd be happy to help you with that!
+
+The premise ""Bernstein na-akọwa naanị n'okwu mmalite"" translates to ""Bernstein only explains the basics"" in English.
+
+The hypothesis ""Bernstein anaghị akọwa ya na-omimi"" translates to ""Bernstein does not explain it thoroughly"" in English.
+
+Based on the translations, I would say that the premise **contradicts** the hypothesis. The premise suggests that Bernstein explains something (albeit only the basics), while the hypothesis suggests that Bernstein does not explain it thoroughly, implying that he doesn't explain it at all."	unknown
+562	Bernstein na-akọwa naanị n'okwu mmalite	Bernstein kọwara ya naanị na n'ebe nchịkọta. 	contradiction	Entailment	entailment
+563	Bernstein na-akọwa naanị n'okwu mmalite	Okwu mmeghe ahụ nwere nkọwa.	entailment	Entailment	entailment
+564	Ọ bụghị ihe inye uche ka iwu machie isiokwu ndị a, naanị maka ọ rara ahụ, ma mgbe afọ iri abụọ nke nnabata omume ọzọ gachara, ka onye ofesi chọpụta ihe na-atọ ọchị maka ha. 	Ọbụna ndị na-asụ asụsụ obodo na-enwe nsogbụ mgbe ụfọdụ n'ihe ọchị.	neutral	Entailment	entailment
+565	Ọ bụghị ihe inye uche ka iwu machie isiokwu ndị a, naanị maka ọ rara ahụ, ma mgbe afọ iri abụọ nke nnabata omume ọzọ gachara, ka onye ofesi chọpụta ihe na-atọ ọchị maka ha. 	Ịhe ọchị bụ otu n'ime ihe na-akachasị ndị mba ọzọ mfe nghọta n'ozuzu. 	contradiction	Entailment.	entailment
+566	Ọ bụghị ihe inye uche ka iwu machie isiokwu ndị a, naanị maka ọ rara ahụ, ma mgbe afọ iri abụọ nke nnabata omume ọzọ gachara, ka onye ofesi chọpụta ihe na-atọ ọchị maka ha. 	Isiokwu ndị a na-esiri ndị mba ọzọ ike ịghọta.	entailment	Entailment.	entailment
+567	Na mmechi, mmadụ ga-akpachapụ anya maka mgbatị nke bu otu mpụta dị nọọ ịche. 	A na-ewekarị ndị editọ n'ọrụ ka ha chọpụta ụdị mmejọ a.	neutral	Entailment.	entailment
+568	Na mmechi, mmadụ ga-akpachapụ anya maka mgbatị nke bu otu mpụta dị nọọ ịche. 	Mgbatị bụ nnukwu ụzọ e si eme ka ịhe okwu pụtara doo anya.	contradiction	Entailment.	entailment
+569	Na mmechi, mmadụ ga-akpachapụ anya maka mgbatị nke bu otu mpụta dị nọọ ịche. 	Ihe ọ pụtara nwere ike ịgbanwe mgbe ị na-agbalị ime ka okwu dị ogologo.	entailment	"Nnọọ! (That's ""okay"" in Igbo, the language of the premise and hypothesis.)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is NEUTRAL. The premise talks about what happens when someone is trying to remember something, while the hypothesis discusses the possibility of change when trying to make something long-lasting. They don't seem to directly support or contradict each other."	neutral
+570	Mee ka ịsị gị jiri okpomọkụ bute ajụ ibu. 	Itinye okpomọkụ n'isi mmadụ bụ ụzọ dị mma iji kwalite nlekwasị anya na itinye uche.	contradiction	Entailment.	entailment
+571	Mee ka ịsị gị jiri okpomọkụ bute ajụ ibu. 	Oké okpomọkụ nwere ị́ké ịme ka ajụ buo mmadụ oge ụfọdụ. 	entailment	Entailment	entailment
+572	Mee ka ịsị gị jiri okpomọkụ bute ajụ ibu. 	Taa, o ji ogo ise karịa nkezi oge.	neutral	"I'll respond in Igbo, the African language you've provided the premise and hypothesis in.
+
+O di neutral. (It is neutral.)"	neutral
+573	O nweghị ọrụ ọzọ na omenala buru ibu n'iweda onwe ala. 	Ọtụtụ ọrụ na-akwanyere onwe ha ùgwù.	neutral	Entailment.	entailment
+574	O nweghị ọrụ ọzọ na omenala buru ibu n'iweda onwe ala. 	Ọtụtụ ndị ọrụ nwere omenala nke iweda onye ha ala. 	contradiction	Entailment.	entailment
+575	O nweghị ọrụ ọzọ na omenala buru ibu n'iweda onwe ala. 	O nweghị ọrụ ọzọ nwere omenala siri ike nke nkwutọ gbasara onwe ya.	entailment	Entailment.	entailment
+576	N'olu nwere ịnya ịsị, nkịrịka nke ahụ nwetagoro aha mkparị n'ime akụkọ ndị nọ n'obodo na-eji echichi ndị ahụ ekwu okwu na mkparịta ụka nke onwe, n'ebe a na-eme ísí na akwụkwọ njiri mara a na-egosibeghi. 	Akwụkwọ ndị ahụ enweghị aha ọma ma ọlị.	contradiction	Contradiction.	contradiction
+577	N'olu nwere ịnya ịsị, nkịrịka nke ahụ nwetagoro aha mkparị n'ime akụkọ ndị nọ n'obodo na-eji echichi ndị ahụ ekwu okwu na mkparịta ụka nke onwe, n'ebe a na-eme ísí na akwụkwọ njiri mara a na-egosibeghi. 	Akwụkwọ ndị ahụ enweghị  aha ọma. 	entailment	Entailment	entailment
+578	N'olu nwere ịnya ịsị, nkịrịka nke ahụ nwetagoro aha mkparị n'ime akụkọ ndị nọ n'obodo na-eji echichi ndị ahụ ekwu okwu na mkparịta ụka nke onwe, n'ebe a na-eme ísí na akwụkwọ njiri mara a na-egosibeghi. 	Akwụkwọ ndị ahụ nwere ọtụtụ asịrị sitere na ndị nwunye ụlọ.	neutral	Neutral.	neutral
+579	Ọ bụrụ na lite/light na-akọwa nọọ ụdịdị biya ahụ (dịka	Biya nwere ike ịnwe ntunye aha lite maọbụ light.	entailment	Entailment.	entailment
+580	Ọ bụrụ na lite/light na-akọwa nọọ ụdịdị biya ahụ (dịka	Lite na light bụ ihe e ji akọwa mmanya vine na mmanya ọ́kụ́. 	contradiction	Entailment.	entailment
+581	Ọ bụrụ na lite/light na-akọwa nọọ ụdịdị biya ahụ (dịka	Lite biya enweghị pasentị ihe na-aba n'anya dị elu 	neutral	Entailment	entailment
+582	Mkpọaha ahụ arugbugoro arugbu bụ nke e jiri rụọ ọrụ ebe a achọghị ma ya maọbụ ọzọ. 	Ndị mmadụ na-agbali ịchọta mkpọaha ọzọ.	neutral	Entailment.	entailment
+583	Mkpọaha ahụ arugbugoro arugbu bụ nke e jiri rụọ ọrụ ebe a achọghị ma ya maọbụ ọzọ. 	E jiri mkpọaha ahụ mee ihe nke ukwuu. 	entailment	Entailment.	entailment
+584	Mkpọaha ahụ arugbugoro arugbu bụ nke e jiri rụọ ọrụ ebe a achọghị ma ya maọbụ ọzọ. 	Ekwesịrị iji mkpọaha ahụ mee ihe karịa.	contradiction	Entailment	entailment
+585	N'elu ịhe niile ndị a, anyị nwere ihe mwute nke bụ na edemede na-akọwa ihe nkeọma na-anọ n'uche n'ezie nke na-eme ka nsogbu ahụ karịa. 	Ndị mmadụ nwekariri ike ichetakarị aka edemede adịghị  mma.	contradiction	Entailment.	entailment
+586	N'elu ịhe niile ndị a, anyị nwere ihe mwute nke bụ na edemede na-akọwa ihe nkeọma na-anọ n'uche n'ezie nke na-eme ka nsogbu ahụ karịa. 	Akwụkwọ e dere nkeọma ga-ekwe ncheta karịa ịhe edejọrọ edejọ. 	entailment	Entailment	entailment
+587	N'elu ịhe niile ndị a, anyị nwere ihe mwute nke bụ na edemede na-akọwa ihe nkeọma na-anọ n'uche n'ezie nke na-eme ka nsogbu ahụ karịa. 	Edemede edere nke ọma dị oké ọnụ ịmeputa.	neutral	Entailment.	entailment
+588	Nke agwa nke a chere ha n'ihu ma jutu ha anya, ndị Britain kwetara ịnye ha úgwù site n'iji mkpụrụ edemede ukwu e depụta mkpụrụ okwu ahụ.	Ndị Britain enweghị nkwanye ùgwù.	contradiction	Contradiction.	contradiction
+589	Nke agwa nke a chere ha n'ihu ma jutu ha anya, ndị Britain kwetara ịnye ha úgwù site n'iji mkpụrụ edemede ukwu e depụta mkpụrụ okwu ahụ.	Ndị Britain weghara ọnọdụ ego mba ụwa. 	neutral	Entailment.	entailment
+590	Nke agwa nke a chere ha n'ihu ma jutu ha anya, ndị Britain kwetara ịnye ha úgwù site n'iji mkpụrụ edemede ukwu e depụta mkpụrụ okwu ahụ.	Ndị Britain nāzu ahịa nke ukwuu na gburugburu ụwa.	entailment	Entailment.	entailment
+591	Mgbe ụfọdụ ọ na-abụkarị nke kacha aghọ ahụghọ, kwa. 	Ọ nwere ike isiezigbo ike ịchọpụta mgbe ụfọdụ.	entailment	Entailment	entailment
+592	Mgbe ụfọdụ ọ na-abụkarị nke kacha aghọ ahụghọ, kwa. 	Ọ na-eme ezigbo obere mkpọtụ n'ihi ịhe ejiri nwayọọ fachie injinu. 	neutral	The answer is: Neutral	neutral
+593	Mgbe ụfọdụ ọ na-abụkarị nke kacha aghọ ahụghọ, kwa. 	Ọ na-adịbụ mfe nke ọma mgbe niile ịchọpụta site n'ebe ọ bụla dị anya.	contradiction	The answer is: contradiction	contradiction
+594	Ka o siri mee, n'ezie, e nwere olu asụsụ bekee pụrụ iche n'ime Britain karịa n'ime North America, na onye ọbụla wepụtagoro oge gee ha ma na ụfọdụ abụghị a na-aghọtakọ ọnụ. 	Britain nwere ọtụtụ asụsụ Bekee dị iche iche, na-akari ndị nọ na North America n'ọnụ ọgụgụ.	entailment	Entailment.	entailment
+595	Ka o siri mee, n'ezie, e nwere olu asụsụ bekee pụrụ iche n'ime Britain karịa n'ime North America, na onye ọbụla wepụtagoro oge gee ha ma na ụfọdụ abụghị a na-aghọtakọ ọnụ. 	Asụsụ North America na Britain bụ nọọ otu ịhe, na ndị mmadụ enweghị ị́ké ịchọpụta ndịche ọbụla n'etiti ha. 	contradiction	Contradiction.	contradiction
+596	Ka o siri mee, n'ezie, e nwere olu asụsụ bekee pụrụ iche n'ime Britain karịa n'ime North America, na onye ọbụla wepụtagoro oge gee ha ma na ụfọdụ abụghị a na-aghọtakọ ọnụ. 	Ndị si na North America na-enwe oge mhia ahụ ịghọta ọkara ihe a sụrụ na asụsụ Britain.	neutral	Entailment.	entailment
+597	Onye na-asa ajụjụ na Tennessee jiri ihu igwe nkịta kọwaa 'n'oge, mgbe eluigwe na-enweghị mmiri ozuzo', nke nwere ị́ké ịpụta n'okwu ihu igwe nkịta nke na-arụtu aka n'oge ọkọchị nke Ọgọọst. 	Dika onye na-asa ajụjụ ahụ si kwuo, ihu igwe nkịta bụ ihe eji akọwa oge udu mmiri.	contradiction	Entailment.	entailment
+598	Onye na-asa ajụjụ na Tennessee jiri ihu igwe nkịta kọwaa 'n'oge, mgbe eluigwe na-enweghị mmiri ozuzo', nke nwere ị́ké ịpụta n'okwu ihu igwe nkịta nke na-arụtu aka n'oge ọkọchị nke Ọgọọst. 	Juun na Julaị na-ekpokwa ọ́kụ́ nke ukwuu na Tennessee. 	neutral	Entailment	entailment
+599	Onye na-asa ajụjụ na Tennessee jiri ihu igwe nkịta kọwaa 'n'oge, mgbe eluigwe na-enweghị mmiri ozuzo', nke nwere ị́ké ịpụta n'okwu ihu igwe nkịta nke na-arụtu aka n'oge ọkọchị nke Ọgọọst. 	Ihu igwe na-ekpo ọ́kụ́ ma enweghi mmiri ozuzo ọtụtụ ụbọchị n'Ọgọọst.	entailment	Entailment.	entailment

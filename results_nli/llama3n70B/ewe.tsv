@@ -1,0 +1,1121 @@
+Unnamed: 0	premise	hypothesis	label	llm	verbalized
+0	Enyo, nyemen,o esia ŋu bum hã o, evɔ nyemekpɔ ŋudzedze o, eye megava dze nuƒoƒo kplii.	Nyemegaƒo nu ake o.	contradiction	Entailment.	entailment
+1	Enyo, nyemen,o esia ŋu bum hã o, evɔ nyemekpɔ ŋudzedze o, eye megava dze nuƒoƒo kplii.	Medo domedzui ale gbegbe be ɖeko megadze nuƒoƒo kpliie nye esia.	entailment	Entailment.	entailment
+2	Enyo, nyemen,o esia ŋu bum hã o, evɔ nyemekpɔ ŋudzedze o, eye megava dze nuƒoƒo kplii.	Mǐhe nya vevie ŋutɔ.	neutral	Entailment.	entailment
+3	Wogblɔ nam be le nuwuwu la, woakplɔ ame aɖe si mado go la vɛ nam.	Womegblɔ nam be mado go ame aɖeke kpɔ o.	contradiction	Entailment	entailment
+4	Wogblɔ nam be le nuwuwu la, woakplɔ ame aɖe si mado go la vɛ nam.	Wogblɔ nam be woyɔ ɖekakpui aɖe si ado go kplim.	entailment	Entailment.	entailment
+5	Wogblɔ nam be le nuwuwu la, woakplɔ ame aɖe si mado go la vɛ nam.	Ɖekakpui la tsi megbe vie hafi va.	neutral	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+6	Nu sɔgbɔ li si ŋu nate ŋu ƒo nu le ale gbegbe be, ɖeko mabe esia nenɔ anyi boŋu.	Adzrom be magblɔ nu siwo katã menya ku ɖe eŋu la na wò.	contradiction	Neutral	neutral
+7	Nu sɔgbɔ li si ŋu nate ŋu ƒo nu le ale gbegbe be, ɖeko mabe esia nenɔ anyi boŋu.	Nyemele nya aɖeke gblɔ ge ku ɖe ŋu o, to egbɔ be nu sɔgbɔ lii si ŋu miake ɖo hafi.	entailment	Entailment.	entailment
+8	Nu sɔgbɔ li si ŋu nate ŋu ƒo nu le ale gbegbe be, ɖeko mabe esia nenɔ anyi boŋu.	Nyemagblɔ dugãa ƒe ŋutinya o elabena nu sɔgbɔ lii woagblɔ ku ɖe eŋu.	neutral	Neutral	neutral
+9	Eya ta nyemenya nu si tae tututu o.	Menye nu si ta wòdzɔ ɖo.	contradiction	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say it's a **neutral** relationship between them."	neutral
+10	Eya ta nyemenya nu si tae tututu o.	Nyemenya nu si ta wòɖoli suku ɖo o.	neutral	"I can help you with that!
+
+The answer is: entailment.
+
+(Eya ta nyemenya nu si tae tututu o and Nyemenya nu si ta wòɖoli suku ɖo o are both in the Ewe language, and the premise logically leads to the hypothesis.)"	entailment
+11	Eya ta nyemenya nu si tae tututu o.	Nyemenya nu si ta wòɖoli suku ɖo o.	entailment	"I'd be happy to help!
+
+The answer is: Neutral."	neutral
+12	Nye ɖeka koe tea ŋu nana euh, nuɖɔɖomɔa zɔ̃na na, na xɔ fafɛ me dodokpɔa.	Medoa dzidzɔ nam be nye ɖeka koe tea ŋu zãna nuɖɔɖomɔa hena dodokpɔawo.	neutral	Entailment	entailment
+13	Nye ɖeka koe tea ŋu nana euh, nuɖɔɖomɔa zɔ̃na na, na xɔ fafɛ me dodokpɔa.	Wowɔa dodokpɔawo le xɔ fafɛ la me.	entailment	Entailment	entailment
+14	Nye ɖeka koe tea ŋu nana euh, nuɖɔɖomɔa zɔ̃na na, na xɔ fafɛ me dodokpɔa.	Mǐa dome ame aɖewo ʋu du tsɔ nuɖɔɖomɔawo vɛ na dodokpɔa.	contradiction	Entailment.	entailment
+15	Menye euh, kpɔvitɔ ƒe amegã xɔgbɔ̃ɖeme abe ale si Rick gblɔe ene.	Megale dɔ wɔm va se ɖe egbe.	contradiction	Neutral.	neutral
+16	Menye euh, kpɔvitɔ ƒe amegã xɔgbɔ̃ɖeme abe ale si Rick gblɔe ene.	Mexɔ gbɔɖeme le ƒè 2002 lia me.	neutral	Neutral.	neutral
+17	Menye euh, kpɔvitɔ ƒe amegã xɔgbɔ̃ɖeme abe ale si Rick gblɔe ene.	Rick gblɔe na wò be mexɔ gbɔɖeme.	entailment	Entailment	entailment
+18	Gabuɖigbalẽwo le ɔfisi dzi nam eye, ɛ̃, enye Cutty machin-chose tɔ, nenema woyɔa asisinɔ lae.	Asisinɔ so woyɔa be Cutty la ƒe ɣletikukufe nye $ 10 000	neutral	Entailment	entailment
+19	Gabuɖigbalẽwo le ɔfisi dzi nam eye, ɛ̃, enye Cutty machin-chose tɔ, nenema woyɔa asisinɔ lae.	Asisinɔ aɖe lii si woyɔa be Cutty	entailment	Entailment	entailment
+20	Gabuɖigbalẽwo le ɔfisi dzi nam eye, ɛ̃, enye Cutty machin-chose tɔ, nenema woyɔa asisinɔ lae.	Míaƒe asisinɔ aɖeke metɔ Cutty o.	contradiction	Entailment	entailment
+21	Ɖetugbui si ate ŋu kpe ɖe ŋunye lale dua ƒe akpe kemɛ.	Ɖetugbui si ƒe kpekpeɖeŋu mehiã la gbɔ dzidzi le afi sia gbɔ.	entailment	Entailment	entailment
+22	Ɖetugbui si ate ŋu kpe ɖe ŋunye lale dua ƒe akpe kemɛ.	Ɖetugbui si akpe ɖe ŋunye la gbɔ le miles 5 tso afi sia.	neutral	Entailment.	entailment
+23	Ɖetugbui si ate ŋu kpe ɖe ŋunye lale dua ƒe akpe kemɛ.	Ame aɖeke mate ŋu kpe ɖe ŋunye o.	contradiction	Entailment.	entailment
+24	Womese wo nɔewo gɔme le ame siwo yia gbea dzi kple esiwo nye aƒemeviwo la nya me o, ke boŋu enye...	Woƒoe se be yewo katã yewoawɔ dɔ le agbleawo me.	contradiction	Entailment	entailment
+25	Womese wo nɔewo gɔme le ame siwo yia gbea dzi kple esiwo nye aƒemeviwo la nya me o, ke boŋu enye...	Womete ŋu nɔ wo nɔewo gɔme sem le ame si awɔ agbledɔ kple esi awɔ aƒemedɔ nya me o.	entailment	Entailment	entailment
+26	Womese wo nɔewo gɔme le ame siwo yia gbea dzi kple esiwo nye aƒemeviwo la nya me o, ke boŋu enye...	Womete ŋu nɔ wo nɔewo gɔme sem le ame si awɔ dɔ le ɖetigble me kple esi anɔ anyigba tutum nya la me o.	neutral	Entailment	entailment
+27	Medi be magblɔ be wodzi vi atɔ̃, wo dome ame ɖeka ku.	Wo viwo katã tsi agbe.	contradiction	Entailment	entailment
+28	Medi be magblɔ be wodzi vi atɔ̃, wo dome ame ɖeka ku.	Vi ɖeka le atɔ̃ dzi kuna.	entailment	Entailment.	entailment
+29	Medi be magblɔ be wodzi vi atɔ̃, wo dome ame ɖeka ku.	Vi si ku la, wodzii dɔnɔvi.	neutral	Entailment	entailment
+30	Egblɔ be aɖatsiwo koe nɔ sasram tso ŋkuwo dzi nae eye wògblɔ be, eye wogblɔ be Joe va xɔxɔa nu.	Esi wònɔ gbɔgblɔm be woalia xɔxɔa nu la, aɖatsi nɔ ŋkuwo dzi nae.	entailment	Entailment	entailment
+31	Egblɔ be aɖatsiwo koe nɔ sasram tso ŋkuwo dzi nae eye wògblɔ be, eye wogblɔ be Joe va xɔxɔa nu.	Esi wòtutu Joe do le xɔxɔa nu la, etutu eƒe aɖatsiwo kaba.	contradiction	Entailment	entailment
+32	Egblɔ be aɖatsiwo koe nɔ sasram tso ŋkuwo dzi nae eye wògblɔ be, eye wogblɔ be Joe va xɔxɔa nu.	Joe kpɔkpɔ do dzidzɔ nae ale gbegbe be edze avi fafã	neutral	Neutral.	neutral
+33	Nenye be yameʋua ganɔ dzo bim hã la, nu ka tae, ɖee euh, wòabi dzo eye subunu aɖe nasre eye be kekeliŋusẽ la nadoa. 	Woate ŋu alé afɔ na kekeliŋusẽ le dzobibi me.	neutral	Entailment	entailment
+34	Nenye be yameʋua ganɔ dzo bim hã la, nu ka tae, ɖee euh, wòabi dzo eye subunu aɖe nasre eye be kekeliŋusẽ la nadoa. 	Subunu aɖe mee kekeliŋusẽ la do le esime yameʋu la bi dzo.	entailment	Entailment.	entailment
+35	Nenye be yameʋua ganɔ dzo bim hã la, nu ka tae, ɖee euh, wòabi dzo eye subunu aɖe nasre eye be kekeliŋusẽ la nadoa. 	Kekeliŋusẽ la manya do le dzobibi me o.	contradiction	Entailment.	entailment
+36	Kpovitɔ ƒe amegã Clem Francis ye nye esi, ewɔ dɔ xɔ gbɔɖeme le US Air Force 	Amegã la nye US Air Force ƒe ame si xɔ gbɔɖeme	entailment	Entailment	entailment
+37	Kpovitɔ ƒe amegã Clem Francis ye nye esi, ewɔ dɔ xɔ gbɔɖeme le US Air Force 	Kɔsiɖa aɖewo koe nye esia esi Amegã la xɔ gbɔɖeme.	neutral	Entailment	entailment
+38	Kpovitɔ ƒe amegã Clem Francis ye nye esi, ewɔ dɔ xɔ gbɔɖeme le US Air Force 	Amerika ʋakɔ ƒe amegã la dze eƒe dɔa gɔme kɔsiɖa sia me.	contradiction	Entailment	entailment
+39	ɛ̃, edzɔ le afi si mɔ eve alo etɔ̃ va le le kɔsiɖa me eye womenya afi si wole dzodzom le yiyim o.	Yameʋu siwo vana kɔsiɖa ɖeka me la wu ɖeka.	entailment	Entailment	entailment
+40	ɛ̃, edzɔ le afi si mɔ eve alo etɔ̃ va le le kɔsiɖa me eye womenya afi si wole dzodzom le yiyim o.	Ale si yamemɔzɔzɔ le agbɔ sɔm la nye kuxi.	neutral	Neutral.	neutral
+41	ɛ̃, edzɔ le afi si mɔ eve alo etɔ̃ va le le kɔsiɖa me eye womenya afi si wole dzodzom le yiyim o.	Yameʋu aɖeke mevana gbeɖe o.	contradiction	Neutral.	neutral
+42	Wowɔ woƒe numetoto kuɖe awu siwo me woɖe ya le la ŋu eye wòxɔ ɣeyiɣi nam nenye be edo awu blibo si me woɖe ya le la.	Tutu hena ɣletimenudodowo zazã blibo la yia ɣleti etɔ̃ hafi wua enu	neutral	Neutral	neutral
+43	Wowɔ woƒe numetoto kuɖe awu siwo me woɖe ya le la ŋu eye wòxɔ ɣeyiɣi nam nenye be edo awu blibo si me woɖe ya le la.	Numetoto hena ɣletimenudodo siwo me ya mele o la zazã xɔa ɣeyiɣi geɖe.	entailment	Entailment	entailment
+44	Wowɔ woƒe numetoto kuɖe awu siwo me woɖe ya le la ŋu eye wòxɔ ɣeyiɣi nam nenye be edo awu blibo si me woɖe ya le la.	Míate ŋu tu wò ɖo hena awu siwo me ya mele o la zazã tso  fifi yi ɖe ƒèa nu wuwu	contradiction	Entailment	entailment
+45	Medi be magblɔ be afɔku aɖeke mele eme be woatsɔ nuwowo la ayi ɖe xɔ me o, elabena mete ŋu le wowo ge o, meka ŋusẽ si woatsɔ adze anyigba lae o.	Yameʋukula la tsi dzo na nuwowo la.	neutral	Entailment.	entailment
+46	Medi be magblɔ be afɔku aɖeke mele eme be woatsɔ nuwowo la ayi ɖe xɔ me o, elabena mete ŋu le wowo ge o, meka ŋusẽ si woatsɔ adze anyigba lae o.	Ŋutete aɖeke melii na nuwowo la be wòawo o	entailment	Entailment	entailment
+47	Medi be magblɔ be afɔku aɖeke mele eme be woatsɔ nuwowo la ayi ɖe xɔ me o, elabena mete ŋu le wowo ge o, meka ŋusẽ si woatsɔ adze anyigba lae o.	Ŋutete gã aɖe lii be nuwowo la nawo.	contradiction	Entailment	entailment
+48	Eye, ale kee esia sɔ kple nu si wɔm mele lae mahã.	Nyemenya nu si wòɖi na wò o.	contradiction	Entailment	entailment
+49	Eye, ale kee esia sɔ kple nu si wɔm mele lae mahã.	Nye ŋutɔe dzro le ewɔm.	entailment	"I can help you with that!
+
+The answer is: entailment"	entailment
+50	Eye, ale kee esia sɔ kple nu si wɔm mele lae mahã.	Mele agbagba dzem be mawu nye tameɖoɖo la nu kɔsiɖa si gbɔna me.	neutral	Entailment.	entailment
+51	Gawu la, lãwo sina ɣe sia ɣi, vevitɔ, gbɔ̃wo.	Gbɔ̃wo sina dona le gbɔ̃kpo la me gbe sia gbe.	neutral	"I can help you with that!
+
+The language used appears to be Ewe, a language spoken in Togo and Ghana.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is:
+
+Entailment"	entailment
+52	Gawu la, lãwo sina ɣe sia ɣi, vevitɔ, gbɔ̃wo.	Gbɔ̃wo sina dona edziedzi.	entailment	Entailment	entailment
+53	Gawu la, lãwo sina ɣe sia ɣi, vevitɔ, gbɔ̃wo.	Wona be gbɔ̃awo nɔ dedie le lãmesẽ me.	contradiction	Entailment.	entailment
+54	Esi míeyi eme la, ʋɔtruawo nɔ tutu.	Ʋɔtruawo katã nɔ ʋuʋu.	contradiction	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I'd say the answer is: neutral."	neutral
+55	Esi míeyi eme la, ʋɔtruawo nɔ tutu.	Safuiawo le mía gbɔ.	neutral	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I'd say it's **neutral**. The premise talks about Esi being at the farm, and the rain not falling, while the hypothesis mentions Safuiawo going to the farm. There's no direct connection or opposition between the two statements, so it's neutral."	neutral
+56	Esi míeyi eme la, ʋɔtruawo nɔ tutu.	Míeyi ɖe eme to egbɔ be wotu ʋuawo katã kple safui.	entailment	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I'd say the relationship is: entailment."	entailment
+57	Ekem, ɖe ko medze agbagba tsɔ nuƒuƒoƒoawo de flikpe me.	kakaɖedzi le asinye be ne mekpɔ nuƒuƒoƒoawo ko la, makpɔ ŋuɖoɖo na nua.	neutral	Entailment	entailment
+58	Ekem, ɖe ko medze agbagba tsɔ nuƒuƒoƒoawo de flikpe me.	Susu aɖeke mele asinye ku ɖe ale si woawɔ kple nuƒuƒoƒoawo o; meɖe kuku miɖe egɔme nam ale be mase nu dzinya sia me.	contradiction	Entailment	entailment
+59	Ekem, ɖe ko medze agbagba tsɔ nuƒuƒoƒoawo de flikpe me.	Mabui le ŋuɖoɖoawo nu.	entailment	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say it's a **neutral** relationship between them. The premise talks about Ekem doing something with a certain object, while the hypothesis makes a statement about Mabui and something else. There's no direct logical connection between the two, so it's neither an entailment nor a contradiction."	contradiction
+60	Eye nu sia tso ale si vinɔawo noa aɖitama la gbɔ.	Vinɔawo nye aɖitamanolawo.	neutral	Entailment.	entailment
+61	Eye nu sia tso ale si vinɔawo noa aɖitama la gbɔ.	Momeŋlɔ atike aɖeke alo tsɔ wo na vinɔawo o.	contradiction	Entailment	entailment
+62	Eye nu sia tso ale si vinɔawo noa aɖitama la gbɔ.	Vinɔawo noa aɖitama	entailment	Entailment.	entailment
+63	ɛ̃, enyo vavã; Tsi dzaa?	Tsidzadza la mele fu ɖem nam o.	neutral	"I can help you with that!
+
+The answer is: Neutral"	neutral
+64	ɛ̃, enyo vavã; Tsi dzaa?	Xexea kɔ eye tsidzadza xã le eme.	entailment	"I can help you with that!
+
+The answer is: neutral"	neutral
+65	ɛ̃, enyo vavã; Tsi dzaa?	Ɣe si le bibim madzudzɔ la nyra ŋutɔ.̀	contradiction	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+66	oh home kae le amegbetɔ ƒe agbe si eye ne ate ŋu gbugbɔ ame aɖe axɔ loo alo maxɔe oa.	Agbe ɖe sia ɖe le vevie bene woada aɖinod;;o le eŋu eye be woagana mɔnukpɔkpɔ yeyee.	neutral	Entailment	entailment
+67	oh home kae le amegbetɔ ƒe agbe si eye ne ate ŋu gbugbɔ ame aɖe axɔ loo alo maxɔe oa.	Amegbetɔ aɖeke medze be woagbugbɔ axɔe o.	contradiction	Entailment	entailment
+68	oh home kae le amegbetɔ ƒe agbe si eye ne ate ŋu gbugbɔ ame aɖe axɔ loo alo maxɔe oa.	To vovo na amexɔxɔ la, agbea le vevie.	entailment	"I'll be happy to help!
+
+The answer is: entailment.
+
+(Note: The language used appears to be Ewe, a language spoken in Togo and Ghana. If I'm correct, please let me know!)"	entailment
+69	Edo kuxi gã aɖe le wo susukpɔkplɔ me	Nyemekpɔ katsatsa ƒe kuxi sia ƒomevi kpɔ o.	neutral	"I can help with that!
+
+The answer is: entailment"	entailment
+70	Edo kuxi gã aɖe le wo susukpɔkplɔ me	Menye katsatsae nye kuxia o.	contradiction	Entailment.	entailment
+71	Edo kuxi gã aɖe le wo susukpɔkplɔ me	Katsatsa manyatalenui sia he kuxi aɖe vɛ.	entailment	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say it's an **entailment**."	entailment
+72	Nua dze abe nu wɔnuku ene, ɛ̃. Nyemeka ɖe edzi be wote ŋu ɖe mɔ le nu siawo wɔwɔ ŋu o.	Mewɔ nuku nam be woɖe nublanuikpɔkpɔ fia o.	contradiction	Entailment	entailment
+73	Nua dze abe nu wɔnuku ene, ɛ̃. Nyemeka ɖe edzi be wote ŋu ɖe mɔ le nu siawo wɔwɔ ŋu o.	Ewɔ nuku nam be woɖe mɔ na wo be natsɔ nu ɖuɖu kple nu nono le eme.	neutral	Entailment.	entailment
+74	Nua dze abe nu wɔnuku ene, ɛ̃. Nyemeka ɖe edzi be wote ŋu ɖe mɔ le nu siawo wɔwɔ ŋu o.	Ewɔ  nuku nam be wote ŋu do le eme.	entailment	Entailment	entailment
+75	Oh, le esia me hã, vinyewo xɔ ƒè bla eve vɔ ɖeke kple bla eve vɔ ene fifia, ekem, nyema	Esia mehiãm o, elabena, vinyewo xɔ wu ƒè bla eve.	entailment	Entailment.	entailment
+76	Oh, le esia me hã, vinyewo xɔ ƒè bla eve vɔ ɖeke kple bla eve vɔ ene fifia, ekem, nyema	Mate ŋu xɔ wo elabena wogogo wo nɔewo le ƒè me.	neutral	Entailment.	entailment
+77	Oh, le esia me hã, vinyewo xɔ ƒè bla eve vɔ ɖeke kple bla eve vɔ ene fifia, ekem, nyema	Ele nam be mawɔe elabena wo kple eve xɔ ƒè ewo kple wuiɖeke.	contradiction	Entailment	entailment
+78	ɛ̃, ame siwo, siwo ate ŋu nɔ dɔme le ɣeyiɣi ɖe sia ɖe alo esiwo ƒe nyametsotso woate ŋu do vlo nenye be woatso nyame la,	ɛ̃, ame siwo ate ŋu ava eme be womate ŋu wɔ nyametsotso nyuitɔwo o la.	entailment	Entailment	entailment
+79	ɛ̃, ame siwo, siwo ate ŋu nɔ dɔme le ɣeyiɣi ɖe sia ɖe alo esiwo ƒe nyametsotso woate ŋu do vlo nenye be woatso nyame la,	Ɛ̃, ame siwo dɔ mele wuwum o la.	neutral	Entailment	entailment
+80	ɛ̃, ame siwo, siwo ate ŋu nɔ dɔme le ɣeyiɣi ɖe sia ɖe alo esiwo ƒe nyametsotso woate ŋu do vlo nenye be woatso nyame la,	ɛ̃ ame siwo ƒe nyametsotso ŋutete meɖiɖi kpɔ o la.	contradiction	Entailment	entailment
+81	Wome va haɖe o, wogale tsaɖiɖi dzi, wozɔ mɔ tso ƒè bla adẽawo ƒe nuwuwu ke.	Woyi ɖe togodo tsaɖiɖi tso ƒè 1970 lia ke.	entailment	Neutral.	neutral
+82	Wome va haɖe o, wogale tsaɖiɖi dzi, wozɔ mɔ tso ƒè bla adẽawo ƒe nuwuwu ke.	Wolɔ̃a togodo tsaɖiɖi. 	neutral	Entailment.	entailment
+83	Wome va haɖe o, wogale tsaɖiɖi dzi, wozɔ mɔ tso ƒè bla adẽawo ƒe nuwuwu ke.	Nyitsɔ laa wowu woƒe togodo tsaɖiɖi la nu.	contradiction	Entailment.	entailment
+84	nu ka ta nàwɔ aerobic ɖoe	Ate ŋu ɖe ale si nènɔ aerobic wɔm la me na mi mahã?	entailment	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I'd say it's a **neutral** relationship. The premise states a fact about someone not doing aerobic exercise, while the hypothesis asks a question about whether someone who doesn't do aerobic exercise can still be healthy. The premise doesn't provide a direct answer to the hypothesis, so it's neither an entailment nor a contradiction."	contradiction
+85	nu ka ta nàwɔ aerobic ɖoe	Aerobic lé dzi nam elabena ele nam be mawɔ dɔ aɖe si ku ɖe dzi kple kawo ƒe ʋaʋa ŋuti.	neutral	"Ewe language!
+
+After analyzing the premise and hypothesis, I would say the relationship is: NEUTRAL."	neutral
+86	nu ka ta nàwɔ aerobic ɖoe	Meɖe kuku, dzudzɔ nuƒoƒo tso aerobic ŋu.	contradiction	Entailment.	entailment
+87	enyo, esia ya ganyo, nyemesusu esia o, ɛ̃.	Susu vlui aɖe wònye si ŋu meɖe asi le le kɔsiɖa si va yi la me.	contradiction	"I'd be happy to help!
+
+The answer is: NEUTRAL"	neutral
+88	enyo, esia ya ganyo, nyemesusu esia o, ɛ̃.	Nu vevi aɖee.	entailment	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I'd say the relationship is: neutral."	neutral
+89	enyo, esia ya ganyo, nyemesusu esia o, ɛ̃.	Nu mawɔmawɔ si dzi nètɔ asi la nye nu vevi aɖe.	neutral	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+90	Vidaɖiƒe zi eve le kɔsiɖa me, wole eyɔm be ametsitsiwo ƒe ŋkeke, gake eyina ametsitsiwo ƒe nɔƒe.	Woʋua vidaɖiƒea gbe sia gbe na ɖevi siwo mexɔ ƒè atɔ̃ o la ɖeɖe ko.	contradiction	Entailment.	entailment
+91	Vidaɖiƒe zi eve le kɔsiɖa me, wole eyɔm be ametsitsiwo ƒe ŋkeke, gake eyina ametsitsiwo ƒe nɔƒe.	Nyateƒe me la, woɖea asi le wo ŋu wodona zi eve le kɔsiɖa ɖeka me nenye be ametsitsiawo lɔ̃ ko.	neutral	Entailment.	entailment
+92	Vidaɖiƒe zi eve le kɔsiɖa me, wole eyɔm be ametsitsiwo ƒe ŋkeke, gake eyina ametsitsiwo ƒe nɔƒe.	Ametsitsiwo daɖiƒe wonye eye woda ŋkɔ ɖe edzi be ametsitsiwo ƒe nɔƒe.	entailment	Entailment	entailment
+93	Esiae nye woƒe taɖodzinu oh	Esiae widze agbagba be yewoawɔ.	entailment	"Ne woƒe Ewe! 😊
+
+After analyzing the premise and hypothesis, I would say the relationship between them is: Neutral."	neutral
+94	Esiae nye woƒe taɖodzinu oh	Womedi nu sia kpɔ gbeɖe o.	contradiction	"In Ewe, a language spoken in Ghana and Togo, I'd be happy to help!
+
+After analyzing the premise and hypothesis, I conclude that the relationship between them is:
+
+Neutral"	neutral
+95	Esiae nye woƒe taɖodzinu oh	Woƒe asi su woƒe taɖodzinu la dzi.	neutral	Entailment.	entailment
+96	Ne wò asi nasu tu dzi la, ele be nazã wò asi eveawo.	tu madanyuiewo ƒe afã tso ale si wozãe alɔɖekae la gbɔ.	neutral	"I can help you with that! Since the premise and hypothesis are in the Ewe language, I'll do my best to analyze them.
+
+After examining the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise talks about something happening to someone's farm, while the hypothesis mentions a different topic, which seems unrelated to the premise. There doesn't appear to be a clear logical connection between the two statements, so I wouldn't classify it as entailment or contradiction."	contradiction
+97	Ne wò asi nasu tu dzi la, ele be nazã wò asi eveawo.	Nɔnɔme nyuitɔ na tuwo zazãe nye be woawɔ afɔ eve ŋudɔ.	contradiction	"I'd be happy to help!
+
+Since the premise and hypothesis are in Ewe, a language spoken in Togo and Ghana, I'll do my best to analyze them.
+
+After examining the premise and hypothesis, I would say that the relationship between them is: **neutral**.
+
+The premise talks about someone not being at home when a certain event occurred, while the hypothesis discusses the possibility of someone being responsible for a particular action. The two statements don't seem to directly support or contradict each other, hence the neutral relationship."	neutral
+98	Ne wò asi nasu tu dzi la, ele be nazã wò asi eveawo.	Nenye be nèbe yeanya tu ŋudɔ nyuie la,ele be nazã wò alɔ eveawo.	entailment	"I'd be happy to help you with that!
+
+The language used appears to be Ewe, a Gbe language spoken in Togo and Ghana.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is:
+
+ENTAILMENT"	entailment
+99	eye euh teti wotso afi aɖe vɛ, nyemenya afi si wòtso vɛ o evɔ	Nyemenya afi si esia tso o gake la etsɔ nyuie.	entailment	"Egbe! (Hello!)
+
+After analyzing the premise and hypothesis in Ewe, I can conclude that the relationship between them is:
+
+Neutral"	neutral
+100	eye euh teti wotso afi aɖe vɛ, nyemenya afi si wòtso vɛ o evɔ	Ele vavam kabakaba evɔ nyemenya asi si wòtso o.	neutral	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the answer is: entailment."	entailment
+101	eye euh teti wotso afi aɖe vɛ, nyemenya afi si wòtso vɛ o evɔ	Egbɔna abe ahũ ene eye menye ɣeyiɣi si tututu wòava ɖo.	contradiction	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the relationship is: NEUTRAL."	neutral
+102	ao, le nyateƒe me la, nyemenyae o, nyemebui o	Nyemenya nu gã aɖe ku ɖe eŋu o.	entailment	"I can help you with that! The language appears to be Ewe, a language spoken in Togo and Ghana.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: NEUTRAL."	neutral
+103	ao, le nyateƒe me la, nyemenyae o, nyemebui o	Ɖekemanyala menye le lɔlɔ̃nyawo me	neutral	"I'll do my best to help!
+
+Since the premise and hypothesis are in Ewe, a language spoken in Togo and Ghana, I'll respond accordingly.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: NEUTRAL."	neutral
+104	ao, le nyateƒe me la, nyemenyae o, nyemebui o	Mele esram ƒè geɖewoe nye esia.	contradiction	"I'd be happy to help!
+
+The language used appears to be Ewe, a language spoken in Togo and Ghana.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is:
+
+neutral"	neutral
+105	ɛ̃, ame nyui ŋutɔ wonye, ènya, e	Mesusu be enya be amenyui yenye	neutral	"I'd be happy to help!
+
+The answer is: entailment"	entailment
+106	ɛ̃, ame nyui ŋutɔ wonye, ènya, e	Ao, enyra ku ŋutɔ	contradiction	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the relationship is: entailment"	entailment
+107	ɛ̃, ame nyui ŋutɔ wonye, ènya, e	ɛ̃, ame nyui ŋutɔ wònye	entailment	Entailment	entailment
+108	ɛ̃, edoe ɖa be wonetsɔ euh afɔtutunu ɖeka esi miazã	Edoe ɖa be woneƒle ʋuʋugbɔ̃mɔ	contradiction	"What a beautiful Ewe language!
+
+After analyzing the premise and hypothesis, I'd say it's a **neutral** relationship. The premise talks about something happening in the morning (afiafɔtutunu), while the hypothesis discusses something related to a farm (woneƒle). The two statements don't necessarily agree or disagree with each other, so it's a neutral connection."	neutral
+109	ɛ̃, edoe ɖa be wonetsɔ euh afɔtutunu ɖeka esi miazã	Edoe ɖa be wonedi afɔtutunu	entailment	Entailment	entailment
+110	ɛ̃, edoe ɖa be wonetsɔ euh afɔtutunu ɖeka esi miazã	Enɔ didim be yeatutu ʋua kple anyigbatutunu	neutral	"I can help with that!
+
+The answer is: entailment"	entailment
+111	ŋutifafa mele teƒe sia o, woda tu fifi laa le mɔ̃ gã la dzi le aƒe etɔ̃ dometsotso tso míatɔ gbɔ	Tudada la va eme le teƒe si dzidzi mile 100 tso gbɔnye	contradiction	Entailment	entailment
+112	ŋutifafa mele teƒe sia o, woda tu fifi laa le mɔ̃ gã la dzi le aƒe etɔ̃ dometsotso tso míatɔ gbɔ	Tudada la tsɔ ɖe nye aƒe gbɔ eye wodo vɔvɔ̃ nam ale gbegbe be meɖe mɔ nam be mado o.	neutral	"I can help with that!
+
+After analyzing the premise and hypothesis in the Ewe language, I can conclude that the relationship between them is:
+
+Neutral"	neutral
+113	ŋutifafa mele teƒe sia o, woda tu fifi laa le mɔ̃ gã la dzi le aƒe etɔ̃ dometsotso tso míatɔ gbɔ	Woda tu le gbɔnye, nyateƒeme la, teƒe sia menyo o	entailment	Entailment	entailment
+114	euh-huh nyawoe me meɖo gɔmesese tututu o	Nyemeda asi ɖe wò nya dzi o, nua ɖo gɔmesese	contradiction	Entailment	entailment
+115	euh-huh nyawoe me meɖo gɔmesese tututu o	Mekpɔ be wònya dzɔ le eƒe gɔmesese ɖoɖo ta.	neutral	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the relationship is: entailment."	entailment
+116	euh-huh nyawoe me meɖo gɔmesese tututu o	Wò nya dzɔ be womele gɔwo me sem o	entailment	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say it's a **neutral** relationship between the two. The premise doesn't necessarily confirm or deny the hypothesis."	neutral
+117	Mele agbagba dzem be maku ɖe eŋu	Mele agbagba dzem be maku ɖe eŋu	entailment	Entailment	entailment
+118	Mele agbagba dzem be maku ɖe eŋu	Mele tɔnye sinu wɔm	neutral	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+119	Mele agbagba dzem be maku ɖe eŋu	Maŋlɔ nya sia be eye nyemagakpɔ megbe gbeɖe o	contradiction	"I'd be happy to help!
+
+Since I'm a friendly chatbot who answers in Ewe, a language spoken in Togo and Ghana, I'll provide the answer in Ewe.
+
+Ne dɔkui! (That's okay!)
+
+The answer is: neutral.
+
+Mele agbagba dzem be maku ɖe eŋu (The premise) and Maŋlɔ nya sia be eye nyemagakpɔ megbe gbeɖe o (The hypothesis) do not have a direct logical relationship, so the premise neither entails nor contradicts the hypothesis."	neutral
+120	Míele asi sɔm ɖe míaƒe gege ɖe tsɔmeɖaŋununyawɔnawo me	Míele nu siwo le vevie hena gege ɖe tsɔmeɖaŋununyawo me ɖoɖo la tum	entailment	Entailment	entailment
+121	Míele asi sɔm ɖe míaƒe gege ɖe tsɔmeɖaŋununyawɔnawo me	Miele trãzistɔwo wɔm, ale míaƒe tsɔme la anɔ nunya madzɔlaƒewo kpɔkplɔ te	neutral	Entailment	entailment
+122	Míele asi sɔm ɖe míaƒe gege ɖe tsɔmeɖaŋununyawɔnawo me	Míele didim be míaxe mɔ na aɖaŋununya bene mega ɖu dzi o	contradiction	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the relationship between them is: neutral."	neutral
+123	Le kpɔɖeŋu me, le kɔkɔƒe la, ameŋunukuiwo atrɔ violɛ	Le kɔkɔƒe la, ameŋunukuiawo ƒe afã koe atrɔ violɛ	contradiction	Entailment	entailment
+124	Le kpɔɖeŋu me, le kɔkɔƒe la, ameŋunukuiwo atrɔ violɛ	Ate ŋu vca eme be ameŋunukuiawo natrɔ amadede faa	entailment	Entailment	entailment
+125	Le kpɔɖeŋu me, le kɔkɔƒe la, ameŋunukuiwo atrɔ violɛ	ɣe aɖewo :gi la, ameŋunukuiawo atrɔ blɔ faa	neutral	Entailment	entailment
+126	Daniel Yamins nye ɖekakpui akɔŋutabula triakɔ aɖe	M. Yamins tre le akɔŋutabubu me ŋutɔ	entailment	Entailment	entailment
+127	Daniel Yamins nye ɖekakpui akɔŋutabula triakɔ aɖe	M. Yamins ku eɖokui ɖe flinutatakɔŋutabubu ŋu	neutral	Entailment	entailment
+128	Daniel Yamins nye ɖekakpui akɔŋutabula triakɔ aɖe	M. Yamins's nye aɖaŋunutala gã gake mesesẽ le akɔŋtabubu me o	contradiction	Entailment	entailment
+129	Eye nenye be ele nenema la, ɖee wogogona liƒoa edziedzia?	Menya be wometena ɖe liƒo la ŋu gbeɖe o	contradiction	Entailment	entailment
+130	Eye nenye be ele nenema la, ɖee wogogona liƒoa edziedzia?	Medi be manya, wonɔa Angleterre edziedzia?	neutral	"The premise and hypothesis are in Ewe, a language spoken in Togo and Ghana.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise asks a question about someone's ability to speak a language, while the hypothesis makes a statement about someone's origin being from England. There is no logical connection or contradiction between the two statements."	contradiction
+131	Eye nenye be ele nenema la, ɖee wogogona liƒoa edziedzia?	Nuƒola la dzro be yeaɖe nume ku ɖe ale si edziedzi la, woɖo woƒe sẽƒe kloe la ŋu	entailment	"I can help you with that!
+
+The answer is: entailment"	entailment
+132	Eye mesusu be nuŋunukui aɖe lii le anyigbadzi nugbagbewo gbɔ si nana be wodzia tẽe le nɔnɔme si fia be wole ʋiʋlim na agbetsitsi na dzidzime aɖe si le ta kekem la ta.	Anyigbadzi nugbagbewo le tɔtrɔm fũu	entailment	Entailment	entailment
+133	Eye mesusu be nuŋunukui aɖe lii le anyigbadzi nugbagbewo gbɔ si nana be wodzia tẽe le nɔnɔme si fia be wole ʋiʋlim na agbetsitsi na dzidzime aɖe si le ta kekem la ta.	Dzodzo si li nue anyigbadzi nugbagbewo trɔna lena	neutral	Entailment	entailment
+134	Eye mesusu be nuŋunukui aɖe lii le anyigbadzi nugbagbewo gbɔ si nana be wodzia tẽe le nɔnɔme si fia be wole ʋiʋlim na agbetsitsi na dzidzime aɖe si le ta kekem la ta.	Anyigbadzi nugbagbewo metrɔna gbeɖe o	contradiction	Entailment	entailment
+135	Le kpotiti sia nu la, ahuhɔ̃enu aɖeke mate ŋu lɔ nyadzɔdzɔ geɖe ɖe eme o	Ahuhɔ̃enu dzɔdzɔewo nye nyalesafui siwo xɔa agba sɔgbɔ 	contradiction	Entailment	entailment
+136	Le kpotiti sia nu la, ahuhɔ̃enu aɖeke mate ŋu lɔ nyadzɔdzɔ geɖe ɖe eme o	Ahuhɔ̃enu dzɔdzɔewo menyo na nyalélé o	entailment	Entailment	entailment
+137	Le kpotiti sia nu la, ahuhɔ̃enu aɖeke mate ŋu lɔ nyadzɔdzɔ geɖe ɖe eme o	Nyalésafui bubuwo lii siwo nye atukpanuwo hena anyigbanunya nyawo lélé ɖi to kekelilɔdzewo dzi	neutral	Neutral	neutral
+138	Le esia nu la, menyo be ametsitsiwo nafia ale si wowɔa aye la ɖevi siwo adze abɔsokpo gɔme o, abe ale si wowɔnae ɣe aɖewo ɣi ahenɔ kpekpeɖeŋu nam wo le puzzle wɔwɔ kple esiawo tɔgbi me ene o	ɖevi siwo tsi hena abɔsokpoyiyi la sesẽ hena ŋuɖoɖokpɔkpɔ na fefe siwo nyena aɖaŋunuwo hewu esiwo nyena nudetometyɔwo	contradiction	Entailment	entailment
+139	Le esia nu la, menyo be ametsitsiwo nafia ale si wowɔa aye la ɖevi siwo adze abɔsokpo gɔme o, abe ale si wowɔnae ɣe aɖewo ɣi ahenɔ kpekpeɖeŋu nam wo le puzzle wɔwɔ kple esiawo tɔgbi me ene o	Ɖevi siwo tsi na abɔsokpoyiyi la mehiã kpekpeɖe geɖe hafi anya ale si wowɔa ayee o	entailment	Entailment	entailment
+140	Le esia nu la, menyo be ametsitsiwo nafia ale si wowɔa aye la ɖevi siwo adze abɔsokpo gɔme o, abe ale si wowɔnae ɣe aɖewo ɣi ahenɔ kpekpeɖeŋu nam wo le puzzle wɔwɔ kple esiawo tɔgbi me ene o	Ɖevi siwo le abɔsokpo de ge la ƒe susu metsi ale teƒewo o alebe woate ŋu awɔ puzzle esi ametsitsi makpe ɖe wo ŋu o	neutral	Entailment	entailment
+141	Wotu [dukɔ sia] le vovokpɔkpɔ me nya sia nu be amegbetɔwo katã le sɔsɔe	Nya siwo kiu ɖe esia ŋu la, woŋlɔ wo ɖe agbalẽ bubu geɖe me.	neutral	Entailment	entailment
+142	Wotu [dukɔ sia] le vovokpɔkpɔ me nya sia nu be amegbetɔwo katã le sɔsɔe	Ame aɖewo bunae be amewo katã sɔ	entailment	Entailment	entailment
+143	Wotu [dukɔ sia] le vovokpɔkpɔ me nya sia nu be amegbetɔwo katã le sɔsɔe	Wotu dukɔ sia le xɔse sia nu be ame aɖewo nyo wu ame mlɔeawo	contradiction	"What a beautiful Ewe language!
+
+After analyzing the premise and hypothesis, I would say it's a **neutral** relationship between them. The premise and hypothesis don't seem to directly support or contradict each other."	neutral
+144	Ɖee wòhiã be magakafui ɖe edzia?	Meka ɖe edzi kemkem kloe be mele edzi ɖu ge le echec ƒe fefe sia me	contradiction	"I can help you with that!
+
+The answer is: entailment"	entailment
+145	Ɖee wòhiã be magakafui ɖe edzia?	mele dokuinye biam be ɖee wogahiã dzesidede tso asinye wu mahã?	entailment	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+146	Ɖee wòhiã be magakafui ɖe edzia?	ɖee wòle be makafui ɖe edzi le ale si wòsrɔ̃ sãŋku nyuie la ta mahã?	neutral	"I can help with that!
+
+The answer is: Neutral"	neutral
+147	woate ŋu tu togodo kadede nublawonɔewo le didime vovovo nu	Woate ŋu zã didime bubuwo ahatu nudoɖakpɔ na spin ƒe kadedenublawonɔewo	entailment	"What a beautiful Ewe language!
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: entailment."	entailment
+148	woate ŋu tu togodo kadede nublawonɔewo le didime vovovo nu	Spin ƒe nublawonɔewo le vevie ŋutɔ hena aɖaŋuɖenunya si kpɔa nyalénuwo gbɔ	neutral	"What a beautiful Ewe language!
+
+After analyzing the premise and hypothesis, I would say the relationship is: **neutral**.
+
+The premise talks about something happening at a specific time (didime vovovo nu) and the hypothesis mentions a condition related to spinning (Spin ƒe), which doesn't seem to be directly related to the premise. There's no clear logical connection between the two statements, so I wouldn't say it entails or contradicts each other."	neutral
+149	woate ŋu tu togodo kadede nublawonɔewo le didime vovovo nu	Womate ŋu susu spin ƒe nublawonɔewo le didime vovovo nu o	contradiction	Entailment	entailment
+150	(kple dzodzoewɔwɔ) ao, ao, nyemedi be nàku o!	Nyemedi be nàku o !	entailment	Entailment	entailment
+151	(kple dzodzoewɔwɔ) ao, ao, nyemedi be nàku o!	Ne nèku la, mekam o !	contradiction	"I'd be happy to help!
+
+The premise and hypothesis are in Ewe, a language spoken in Ghana and Togo.
+
+Here's the translation:
+
+PREMISE: ""If it rains, I will go to the farm, and I will work!""
+HYPOTHESIS: ""I will go to the farm!""
+
+Based on the translation, I'd say the relationship between the premise and hypothesis is:
+
+ENTAILMENT"	entailment
+152	(kple dzodzoewɔwɔ) ao, ao, nyemedi be nàku o!	Mese veve ŋutɔ nenye be nèku !	neutral	"I can help with that!
+
+The premise and hypothesis are in the Ewe language, which is spoken in Togo and Ghana.
+
+Here's a breakdown of the premise and hypothesis:
+
+PREMISE: (kple dzodzoewɔwɔ) ao, ao, nyemedi be nàku o!
+Translation: ""And the old man said, 'I will not go!'""
+
+HYPOTHESIS: Mese veve ŋutɔ nenye be nèku!
+Translation: ""I said I will not go there!""
+
+Based on the translations, I would say that the premise and hypothesis are NEUTRAL. The premise talks about an old man saying he won't go, while the hypothesis talks about the speaker saying they won't go there. The two statements are not directly related, and neither entails nor contradicts the other."	neutral
+153	Wode ka ve nae le dutoƒo le todexe 19 lia gbe ƒè 1875 me le San Jose le Californie	Wonɔa ka dem ve na amewo le dutoƒo le Californie va sẽ ɖe ƒè 1875 lia me	entailment	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the answer is: entailment.
+
+The premise provides specific information about an event that occurred in San Jose, California in 1875, and the hypothesis makes a more general claim about an event happening in California in 1875. The premise supports and is consistent with the hypothesis, therefore, it entails the hypothesis."	entailment
+154	Wode ka ve nae le dutoƒo le todexe 19 lia gbe ƒè 1875 me le San Jose le Californie	Womekpɔ nya manyiomanyio aɖeke ku ɖe eŋu o eya ta woɖe asi le eŋu	contradiction	Neutral	neutral
+155	Wode ka ve nae le dutoƒo le todexe 19 lia gbe ƒè 1875 me le San Jose le Californie	Wode ka ve nae le aʋahoho ɖe duse ŋu kple sɔfifĩ ta	neutral	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the relationship between them is: NEUTRAL.
+
+The premise talks about an event that occurred in San Jose, California in 1875, while the hypothesis mentions aʋahoho (a type of tree) and sɔfifĩ (a type of fruit), which seem unrelated to the premise. There is no clear connection or contradiction between the two, so I conclude that they are neutral."	neutral
+156	Le ʋunyaʋunya gã sia me la, atiaƒu gbemumu keklẽ la le kpetowo me tom	Aƒu la le blɔ tsiɖitsiɖi eye wozrɔ̃ abe atukpa ene	contradiction	"I'd be happy to help!
+
+After analyzing the premise and hypothesis in the Ewe language, I conclude that the relationship between them is:
+
+Neutral"	neutral
+157	Le ʋunyaʋunya gã sia me la, atiaƒu gbemumu keklẽ la le kpetowo me tom	Aƒu la yɔ fũu kple akpa sue siwo lewo ɖokuio tum ɖe meli la ŋu.	neutral	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+158	Le ʋunyaʋunya gã sia me la, atiaƒu gbemumu keklẽ la le kpetowo me tom	Aƒu la le amamui eye wòde abe ɖee wòle fiefiem ene	entailment	"I can help you with that! 😊
+
+The language used appears to be Ewe, a language spoken in Togo and Ghana.
+
+After analyzing the premise and hypothesis, I would say the relationship between them is: **neutral**.
+
+The premise talks about something happening at a specific time (le ʋunyaʋunya) and the state of being of some entities (atiaƒu gbemumu keklẽ la), while the hypothesis discusses a different topic (aƒu la le amamui eye wòde abe ɖee wòle fiefiem ene). There doesn't seem to be a direct logical connection between the two, so I wouldn't classify it as an entailment or a contradiction."	contradiction
+159	Seɖoɖo yeye aɖe si kpɔmɔ na dodo le ƒè 1860 liawo ƒe dzimaɖiwo me	le ƒè 1870 liawo me la, seɖoɖo la katã lolo eye du la nɔ amenumawɔe dziɖuɖu te	contradiction	"Ewe language!
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: NEUTRAL.
+
+The premise talks about an event in 1860, while the hypothesis talks about an event in 1870. There is no direct logical connection between the two statements, so they neither entail nor contradict each other."	neutral
+160	Seɖoɖo yeye aɖe si kpɔmɔ na dodo le ƒè 1860 liawo ƒe dzimaɖiwo me	Ƒè 1890liao me nye ʋunyaʋunya ɣeyiɣiwo	entailment	Neutral.	neutral
+161	Seɖoɖo yeye aɖe si kpɔmɔ na dodo le ƒè 1860 liawo ƒe dzimaɖiwo me	seɖoɖo yeye la le didim be yeakeke ta na dɔwɔtɔwo ƒe sewo.	neutral	Entailment	entailment
+162	Le eya gbɔ la, susu deŋgɔ ɖe sia ɖe tsona hahomedzeɖoɖo gbɔ, le ɖevi kple eƒe denunyawɔe teƒenɔlawo dome le hahodɔwɔwɔ aɖe me.	Ɖeviwo metu zãna susu deŋgɔwo o.	contradiction	Entailment	entailment
+163	Le eya gbɔ la, susu deŋgɔ ɖe sia ɖe tsona hahomedzeɖoɖo gbɔ, le ɖevi kple eƒe denunyawɔe teƒenɔlawo dome le hahodɔwɔwɔ aɖe me.	Tɔƒodede nye dɔ aɖe si bɔ ɖe denunyawɔe geɖewo gbɔ.	neutral	Entailment	entailment
+164	Le eya gbɔ la, susu deŋgɔ ɖe sia ɖe tsona hahomedzeɖoɖo gbɔ, le ɖevi kple eƒe denunyawɔe teƒenɔlawo dome le hahodɔwɔwɔ aɖe me.	Dɔwɔwɔ ɖe du le vevie hena susu deŋgɔwo mama.	entailment	Entailment.	entailment
+165	Rezadores alo rezadoras, siwo nye gbɔgbɔ̃metatɔwo le kɔ aɖewo me, esiwo kplɔa hamea le ameɖikɔnuwo, amekɔkɔewo ƒe azãwo me nenye be nunɔla melii o.	Hamea aɖeke menɔ anyi si ƒe tatɔwo menye nunɔlawo o.	contradiction	Entailment.	entailment
+166	Rezadores alo rezadoras, siwo nye gbɔgbɔ̃metatɔwo le kɔ aɖewo me, esiwo kplɔa hamea le ameɖikɔnuwo, amekɔkɔewo ƒe azãwo me nenye be nunɔla melii o.	Kɔ aɖewo me ƒe gbɔgbɔmetatɔ aɖewo menye nunɔlawo o.	entailment	Entailment.	entailment
+167	Rezadores alo rezadoras, siwo nye gbɔgbɔ̃metatɔwo le kɔ aɖewo me, esiwo kplɔa hamea le ameɖikɔnuwo, amekɔkɔewo ƒe azãwo me nenye be nunɔla melii o.	Gbɔgbɔmetatɔwo aɖewo ƒe ɖawo le yibɔ	neutral	Entailment.	entailment
+168	Le hahome nudzɔɖeamedzi kãtatawo me la, mɔnukpɔkpɔ bene woana ɖoɖoawo nayi edzi nyuie akpe ɖe ɖeviawo ŋu bene woase dzodzro ɖiwonɔewo kple tovowvowo, xɔsewo kple amewo ƒe seselelãmewo gɔme.	Ɖeviwo ate ŋu asrɔ̃ nu si me amewo sɔ alo to vovo le la gɔme	entailment	Entailment	entailment
+169	Le hahome nudzɔɖeamedzi kãtatawo me la, mɔnukpɔkpɔ bene woana ɖoɖoawo nayi edzi nyuie akpe ɖe ɖeviawo ŋu bene woase dzodzro ɖiwonɔewo kple tovowvowo, xɔsewo kple amewo ƒe seselelãmewo gɔme.	ɖeviwo ade dzersi kɔkɔƒe si nu ameƒome vovovoawo to vovo le.	neutral	Entailment	entailment
+170	Le hahome nudzɔɖeamedzi kãtatawo me la, mɔnukpɔkpɔ bene woana ɖoɖoawo nayi edzi nyuie akpe ɖe ɖeviawo ŋu bene woase dzodzro ɖiwonɔewo kple tovowvowo, xɔsewo kple amewo ƒe seselelãmewo gɔme.	Ɖeviawo mate ŋu srɔ̃ naneke o.	contradiction	Entailment	entailment
+171	Nyenye gãtɔ si nɔ Dzemeni gɔmeɖosea si le aʋa megbe lae nye nu si nazi dziɖuɖua te ɖe anyi wu.	Nazi dziɖuɖua ɖe mɔ le esia ŋu.	contradiction	Entailment.	entailment
+172	Nyenye gãtɔ si nɔ Dzemeni gɔmeɖosea si le aʋa megbe lae nye nu si nazi dziɖuɖua te ɖe anyi wu.	Nazi dziɖuɖua wu ame siwo katã ƒe alɔ le eme lae.	neutral	Entailment.	entailment
+173	Nyenye gãtɔ si nɔ Dzemeni gɔmeɖosea si le aʋa megbe lae nye nu si nazi dziɖuɖua te ɖe anyi wu.	Nazi dziɖuɖua ɖe asi esia dzi.	entailment	Entailment	entailment
+174	Sonja, ɖevi la dze via nyɔnu la ƒe dɔdzeamedziwo sɔsrɔ̃	Ame aɖeke medoa dɔmedzui sesẽ o	contradiction	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the relationship is: NEUTRAL."	neutral
+175	Sonja, ɖevi la dze via nyɔnu la ƒe dɔdzeamedziwo sɔsrɔ̃	Sonja nye ɖevi ko.	entailment	Entailment	entailment
+176	Sonja, ɖevi la dze via nyɔnu la ƒe dɔdzeamedziwo sɔsrɔ̃	Sonja tsaka	neutral	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I'd say it's a **contradiction**.
+
+In the premise, it's stated that Sonja doesn't have a certain quality (dze via nyɔnu la ƒe dɔdzeamedziwo sɔsrɔ̃), while the hypothesis asserts that Sonja has that quality (Sonja tsaka). These two statements are mutually exclusive, hence the contradiction."	contradiction
+177	6 le ƒè bla atɔ̃ vɔ atɔ̃ siwo do ŋgɔ na dumeʋala, kodzoɖiƒea wɔ ŋusẽ sia ŋudɔ kple aɖaŋudzedze	Ɣe aɖewo ɣi le ƒè ewoawo siwo do ŋgɔ na dumeʋa la me la, kodziɖoƒea wɔ ŋusẽ sia ŋudɔ.	entailment	Entailment	entailment
+178	6 le ƒè bla atɔ̃ vɔ atɔ̃ siwo do ŋgɔ na dumeʋala, kodzoɖiƒea wɔ ŋusẽ sia ŋudɔ kple aɖaŋudzedze	Le ƒè bla atɔ̃ vɔ atɔ̃ siwo kplɔ ame yi ɖe dumeʋa la gbɔ la, kodzoɖiƒea wɔ ŋusẽ sia ŋudɔ zi ene.	neutral	Entailment	entailment
+179	6 le ƒè bla atɔ̃ vɔ atɔ̃ siwo do ŋgɔ na dumeʋala, kodzoɖiƒea wɔ ŋusẽ sia ŋudɔ kple aɖaŋudzedze	le ƒè bla atɔ̃ vɔ atɔ̃ siwo kplɔ ame yi ɖe dumamaʋa la gbɔ la, kodzoɖiƒea wɔ ŋusẽ sia ŋudɔ zi miliɔ̃ atɔ̃.	contradiction	Entailment	entailment
+180	Aƒetɔ, maka ɖe edzi na wò be wogblɔ nya siawo katã nam.	Megblɔ na wò be menya nya siawo katã	entailment	Entailment	entailment
+181	Aƒetɔ, maka ɖe edzi na wò be wogblɔ nya siawo katã nam.	Nutakpɔla ƒe kunya wogblɔ nam.	neutral	Entailment.	entailment
+182	Aƒetɔ, maka ɖe edzi na wò be wogblɔ nya siawo katã nam.	Nyamekɔkɔ geɖe lii si woɣla ɖem.	contradiction	Entailment.	entailment
+183	Howɔwɔawo tɔtɔ aʋafia Blood le eƒe fuɖenamedrɔ̃ewo me.	Aʋafia Blood tea ŋu bu nu aɖe siwo doa dziku nae madzudzɔmadzudzɔ la ŋu.	contradiction	Entailment	entailment
+184	Howɔwɔawo tɔtɔ aʋafia Blood le eƒe fuɖenamedrɔ̃ewo me.	Howɔwɔ aɖewo tsi aʋafia Blood ƒe tamebubuwo nu.	entailment	Entailment.	entailment
+185	Howɔwɔawo tɔtɔ aʋafia Blood le eƒe fuɖenamedrɔ̃ewo me.	Avuvia ƒe ɣlidodo nyɔ aʋafia la tso eƒe tamebubuwo me.	neutral	Entailment	entailment
+186	Evɔ nyemate ŋu ŋlɔ be be esi nyemenye naneke wu kluvi le nyruiwò gbɔ le Barbade o la, wò ya edea bubu ŋunye o	Èɖea dɔmenyo fianam esime menye kluvi nɔ Barbade.	entailment	Entailment.	entailment
+187	Evɔ nyemate ŋu ŋlɔ be be esi nyemenye naneke wu kluvi le nyruiwò gbɔ le Barbade o la, wò ya edea bubu ŋunye o	Enye tamesẽla le ŋunye eye etsɔnam abe afɔtutunu ene.	contradiction	"I can help you with that!
+
+The answer is: Neutral"	neutral
+188	Evɔ nyemate ŋu ŋlɔ be be esi nyemenye naneke wu kluvi le nyruiwò gbɔ le Barbade o la, wò ya edea bubu ŋunye o	Esi menye nyruiwò tɔ la, eƒoam gbe sia gbe.	neutral	Entailment	entailment
+189	Anyigba la le afi ma, abe mile etɔ̃ le ŋgɔ ene - gbe siwo mesɔ wo la ɖo abe gli ene hebu dziɣɔli la ʋĩi	Nuƒoxlãme nyakpɔwo do ta ɖa.	entailment	Entailment.	entailment
+190	Anyigba la le afi ma, abe mile etɔ̃ le ŋgɔ ene - gbe siwo mesɔ wo la ɖo abe gli ene hebu dziɣɔli la ʋĩi	Ame aɖeke mele ƒukpo si ŋu wole tetem dɔ la, dzi o.	neutral	Entailment	entailment
+191	Anyigba la le afi ma, abe mile etɔ̃ le ŋgɔ ene - gbe siwo mesɔ wo la ɖo abe gli ene hebu dziɣɔli la ʋĩi	Anyigba aɖeke mele dzedzem ɖe wo le miles geɖe va kpe godoo o, aƒua ɖeɖe koe li yi ʋĩi.	contradiction	Entailment	entailment
+192	Fia bubutɔ ƒe amedɔdɔ kple bubume Sunderland ƒometɔ menye ameklewo ƒe anyigba sia dzi.	Ame dɔdɔwo le Fia Bubutɔ si, siwo dometɔ ɖeka menye.	entailment	Entailment.	entailment
+193	Fia bubutɔ ƒe amedɔdɔ kple bubume Sunderland ƒometɔ menye ameklewo ƒe anyigba sia dzi.	Fia Bubutɔ ɖom ɖe afi sia kɔsiɖa ɖekae nye esia.	neutral	Entailment.	entailment
+194	Fia bubutɔ ƒe amedɔdɔ kple bubume Sunderland ƒometɔ menye ameklewo ƒe anyigba sia dzi.	Nyemexɔa gbeɖeɖe tso Fia Bubutɔ gbɔ o.	contradiction	Entailment.	entailment
+195	Egblɔ be, menyi esia fe ɖe wò,alo mesusunae nenema.	Mesusui kpɔ be yenyi naneke fe ɖe wò o.	contradiction	Entailment	entailment
+196	Egblɔ be, menyi esia fe ɖe wò,alo mesusunae nenema.	Enyi fe ɖe wò le kpekpeɖeŋu si nènae esime wònye wɔmi va yi la ta	neutral	"I can help you with that!
+
+The answer is: entailment"	entailment
+197	Egblɔ be, menyi esia fe ɖe wò,alo mesusunae nenema.	Enɔ ebum be yenyi nanefe ɖe wò.	entailment	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the answer is: entailment.
+
+Here's a brief breakdown:
+
+Premise: ""Egblɔ be, menyi esia fe ɖe wò, alo mesusunae nenema."" (If it's a farm, it's not good to leave it idle, so we should cultivate it.)
+
+Hypothesis: ""Enɔ ebum be yenyi nanefe ɖe wò."" (We should cultivate the farm well.)
+
+The premise implies that the farm should be cultivated, and the hypothesis states that the farm should be cultivated well. Since the hypothesis is a more specific and positive version of the premise, it entails the premise."	entailment
+198	Anye ne menyae nyuie wu be mate ɖe Jamaïque ŋu kplikpã alea le zãme.	Mezɔ mɔ hete ɖe Jamaïque ŋu le ɣe ƒe xɔɖoɖo megbe	entailment	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I'd say it's **neutral**. The premise talks about someone having a mate in Jamaica who is a farmer, while the hypothesis mentions something about a person from Jamaica having a certain characteristic or behavior. The two statements don't seem to directly support or contradict each other."	neutral
+199	Anye ne menyae nyuie wu be mate ɖe Jamaïque ŋu kplikpã alea le zãme.	Meɖo meli gã aɖe yi Jamaïque	neutral	Entailment.	entailment
+200	Anye ne menyae nyuie wu be mate ɖe Jamaïque ŋu kplikpã alea le zãme.	Ŋukeke mee nye kple srɔ̃nye míeva ɖo Jamaïque le.	contradiction	Entailment.	entailment
+201	Blood ƒe susuwo yi esia kple nu bubuwo gbɔ esime wòle meridienne la dzi.	Blood ku drẽ manyatalenui aɖe le ŋudɔ me.	contradiction	"What a lovely question in Ewe!
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: **neutral**.
+
+The premise talks about the characteristics of blood (it's red, has a specific temperature, and flows through the meridian), while the hypothesis mentions something about blood being able to cure many diseases. The two statements don't necessarily agree or disagree with each other, so the relationship is neutral."	neutral
+202	Blood ƒe susuwo yi esia kple nu bubuwo gbɔ esime wòle meridienne la dzi.	Blood ganɔ tame bum le alɔ̃ me.	entailment	"I can help with that!
+
+The premise and hypothesis are in Ewe, a language spoken in Togo and Ghana. Here's the translation:
+
+PREMISE: The blood in the body is not good for the health of the person.
+HYPOTHESIS: The blood is not good for the person's health.
+
+Based on the translations, I would say the relationship between the premise and hypothesis is: entailment."	entailment
+203	Blood ƒe susuwo yi esia kple nu bubuwo gbɔ esime wòle meridienne la dzi.	Blood nɔ tame bum vevie ku ɖe zi mamlɔetɔ si woùkpɔ nɔa la ŋu.	neutral	"I'd be happy to help!
+
+Since I understand Ewe, I can analyze the premise and hypothesis for you.
+
+The premise states that ""Blood is not flowing well in the body, and that's why the person is feeling weak and dizzy.""
+
+The hypothesis states that ""Blood is not circulating well in the body, which is why the person is feeling weak and dizzy.""
+
+Based on my analysis, I would say that the premise and hypothesis have the same meaning, which means they **entail** each other."	unknown
+204	Kakaɖedzi lii be mele egblɔ ge na wò.	Enyo, magblɔe na wò.	entailment	Entailment.	entailment
+205	Kakaɖedzi lii be mele egblɔ ge na wò.	Medega nu eye mele abe mumu ene.	contradiction	"I can help you with that!
+
+The answer is: Neutral"	neutral
+206	Kakaɖedzi lii be mele egblɔ ge na wò.	Esi nèdo ŋugbe be yemagblɔ esia o tae mele egblɔm na wò ɖoe.	neutral	Entailment	entailment
+207	Ah, abe ale kee?	Ame aɖe le biabiam be akpa ka yeayi hã.	entailment	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the relationship is: NEUTRAL.
+
+The premise ""Ah, abe ale kee?"" is a question asking ""What's the matter with you?"" or ""What's wrong with you?"", whereas the hypothesis ""Ame aɖe le biabiam be akpa ka yeayi hã"" is a statement meaning ""We will go to the farm to work tomorrow"". There's no logical connection or opposition between the two, so the relationship is neutral."	neutral
+208	Ah, abe ale kee?	Nyabiala la ɖeka koe lii eye ame aɖeke melii wòaƒo nu kplii o.	contradiction	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the answer is: NEUTRAL.
+
+The premise ""Ah, abe ale kee?"" is a question that asks ""What's happening at home?"" or ""What's going on at home?"", whereas the hypothesis ""Nyabiala la ɖeka koe lii eye ame aɖeke melii wòaƒo nu kplii o"" talks about a completely different topic, which is about someone not being happy with a particular situation.
+
+There's no direct connection or relation between the premise and the hypothesis, so it's neutral."	neutral
+209	Ah, abe ale kee?	Ame si le nya la biam la le kabakaba dzi eye ehiã be yeanya fifi laa mɔ si yeato la. 	neutral	"What a delightful question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the relationship between them is... **neutral**.
+
+The premise ""Ah, abe ale kee?"" is a question that roughly translates to ""Is it a certain thing?"" or ""Is it so?"", whereas the hypothesis is a statement that seems unrelated to the question being asked. The hypothesis appears to be discussing something about a person being at a market, but it doesn't provide a direct answer to the question posed in the premise.
+
+Therefore, I conclude that the premise and hypothesis are neutral, as they don't logically entail or contradict each other."	neutral
+210	Nyemawɔ fia ƒe gbedeasi la ŋudɔ alɔ gblɔdɔe o.	Fia ƒe gbedeasi dziwɔwɔ tsi tsitre ɖe nyenye ŋu.	neutral	Entailment	entailment
+211	Nyemawɔ fia ƒe gbedeasi la ŋudɔ alɔ gblɔdɔe o.	Mebu tame geɖe le fia ƒe gbedeasi la ŋu.	entailment	Entailment.	entailment
+212	Nyemawɔ fia ƒe gbedeasi la ŋudɔ alɔ gblɔdɔe o.	Mede asi agbalẽ te be woawɔ ɖe fia ƒe gbedeasi la dzi tamemabue.	contradiction	Entailment	entailment
+213	Ede dzesii be ate ŋu ava eme be yeagbugbɔ asi yi megbe kabae.	Ede dzesii be ŋkeke blibo la le ŋgɔ na ye be yeagbugbɔ si yi megbe	contradiction	"What a beautiful language!
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: entailment.
+
+In Ewe, the premise and hypothesis seem to be consistent with each other, with the hypothesis being a natural consequence of the premise."	entailment
+214	Ede dzesii be ate ŋu ava eme be yeagbugbɔ asi yi megbe kabae.	Ede dzesii be ele be yeawɔ kaba.	entailment	Entailment	entailment
+215	Ede dzesii be ate ŋu ava eme be yeagbugbɔ asi yi megbe kabae.	Ne ɖee ye hã nɔ teƒe ma ke la, woanyakpoɔe.	neutral	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the relationship is: **neutral**."	neutral
+216	Egblɔ nublanuitɔe kple amenumavedɔme na ametɔe be, ke hã la, enye eye wòwɔ nu si woate ŋui le ƒè etɔ siawo me	Menye dzidzɔnya nae be ewu ame gbogbo mawo le ƒè etɔ̃ siawo me o.	neutral	Entailment	entailment
+217	Egblɔ nublanuitɔe kple amenumavedɔme na ametɔe be, ke hã la, enye eye wòwɔ nu si woate ŋui le ƒè etɔ siawo me	Eƒo nu dzidzɔtɔe le eƒe dɔwo kple amenyenye ŋu.	contradiction	Entailment	entailment
+218	Egblɔ nublanuitɔe kple amenumavedɔme na ametɔe be, ke hã la, enye eye wòwɔ nu si woate ŋui le ƒè etɔ siawo me	Enɔ nu ƒom kple nublanuigbe.	entailment	Entailment	entailment
+219	Mesusui be esia sɔ kple wò didi.	Meka ɖe edzi be esia tɔwòwo wɔnae.	entailment	"I'd be happy to help!
+
+In Ewe, the language of the premise and hypothesis, I've analyzed the statements, and here's my response:
+
+The relationship between the premise and hypothesis is: entailment."	entailment
+220	Mesusui be esia sɔ kple wò didi.	Mexlẽ nu ku ɖe wò dukɔ kple wò denunyawɔe ŋu.	neutral	"I can help you with that!
+
+The answer is: Neutral."	neutral
+221	Mesusui be esia sɔ kple wò didi.	Meka ɖe edzi be esia mevaa eme edziedzi le mia gbɔ o.	contradiction	"I'd be happy to help!
+
+Since I'm proficient in Ewe, a language spoken in Togo and Ghana, I can analyze the premise and hypothesis for you.
+
+After examining the premise and hypothesis, I conclude that the relationship between them is:
+
+Neutral"	neutral
+222	.nkumiamia aɖe ŋlɔ eƒe ŋgo.	Nukoko hãnyã aɖe dze le mo nae.	contradiction	"I can help you with that!
+
+Since I'm fluent in Ewe, I can analyze the premise and hypothesis for you.
+
+The premise "".nkumiamia aɖe ŋlɔ eƒe ŋgo"" translates to ""The child is playing outside.""
+
+The hypothesis ""Nukoko hãnyã aɖe dze le mo nae"" translates to ""The child is not playing outside.""
+
+Given the translations, I would say that the premise **contradicts** the hypothesis."	unknown
+223	.nkumiamia aɖe ŋlɔ eƒe ŋgo.	Ese nu tɔdziname aɖe le eƒe dɔgbo me.	neutral	"I can help you with that!
+
+The answer is: entailment.
+
+(Note: The language used appears to be Ewe, a language spoken in Ghana and Togo. If you have any questions or need further assistance, feel free to ask!)"	entailment
+224	.nkumiamia aɖe ŋlɔ eƒe ŋgo.	Emia ŋkuwo	entailment	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say it's an **entailment**."	entailment
+225	Enɔ ekpɔ kple dzidzɔ ŋku, gake, esi wòkpɔ eƒe ŋkume si ɖe gbɔdzɔgbɔdzɔ fia kple monyanyra si ŋlɔ eƒe ŋugo la, eya hã ŋutɔ tɔ trɔ.	Eƒe mo trɔ esi wòkpɔ etɔ	entailment	Entailment	entailment
+226	Enɔ ekpɔ kple dzidzɔ ŋku, gake, esi wòkpɔ eƒe ŋkume si ɖe gbɔdzɔgbɔdzɔ fia kple monyanyra si ŋlɔ eƒe ŋugo la, eya hã ŋutɔ tɔ trɔ.	Eƒo mo klẽ esi wõkpo eƒe monyanyra la.	contradiction	Entailment	entailment
+227	Enɔ ekpɔ kple dzidzɔ ŋku, gake, esi wòkpɔ eƒe ŋkume si ɖe gbɔdzɔgbɔdzɔ fia kple monyanyra si ŋlɔ eƒe ŋugo la, eya hã ŋutɔ tɔ trɔ.	Menya ne ele dɔmedzui dom le ye ŋu o	neutral	"Egɔn! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: NEUTRAL.
+
+The premise talks about the consequences of not taking care of one's farm, while the hypothesis seems to be making a statement about the importance of being diligent. While they might be related, they don't directly entail or contradict each other."	neutral
+228	Ele zɔzɔm blewu yiɖaƒoxlã gli la eye woto agbo gãwo me ge ɖe gbadza la dzi.	Esi wònye be wotu ʋɔa kple safui la, edzo kpo fla afobɛ la hege ɖe aƒea me.	contradiction	Neutral.	neutral
+229	Ele zɔzɔm blewu yiɖaƒoxlã gli la eye woto agbo gãwo me ge ɖe gbadza la dzi.	Agbo gãwo koe nye afi si woto age ɖe aƒeadogba dzi.	neutral	Entailment	entailment
+230	Ele zɔzɔm blewu yiɖaƒoxlã gli la eye woto agbo gãwo me ge ɖe gbadza la dzi.	Agbo gãwo lii si woato age ɖe aƒeadogba dzi	entailment	Entailment	entailment
+231	Egblɔ kple dziku be,menyae be nèle enya ge godoo	Enɔ susum be wole ka de ge ve na ame aɖe.	entailment	"I'd be happy to help!
+
+Since the premise and hypothesis are in Ewe, a language spoken in Togo and Ghana, I'll do my best to analyze them.
+
+After careful consideration, I would say that the relationship between the premise and hypothesis is **neutral**. The premise talks about the existence of certain things (egblɔ, dziku, menyae, etc.), while the hypothesis makes a claim about susum (a type of spirit) and its relationship with the community. The two statements don't seem to directly support or contradict each other.
+
+Please let me know if you'd like me to clarify anything or if you have more questions!"	neutral
+232	Egblɔ kple dziku be,menyae be nèle enya ge godoo	Aʋafia si lé fiafi aɖe lae wònye	neutral	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+233	Egblɔ kple dziku be,menyae be nèle enya ge godoo	Edi mɔnu si wòato asi dzo le dua mle alebe magayi gakpɔme o	contradiction	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+234	Nyateƒeme, ale ke wɔ malé wo atu esime míeganɔ ƒoƒose wɔm?	Nyemete ŋu ƒoe ɖe ɖokuinye nu be made wo gaxɔme o	entailment	Entailment	entailment
+235	Nyateƒeme, ale ke wɔ malé wo atu esime míeganɔ ƒoƒose wɔm?	Mekpɔ be wosu asinye esime ke mekpɔ wo ko	contradiction	Entailment	entailment
+236	Nyateƒeme, ale ke wɔ malé wo atu esime míeganɔ ƒoƒose wɔm?	Nyematsɔe ake ɖokuinye kpɔ nenye be mede wo mɔ o	neutral	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+237	Menyae ƒè sia me.	Menɔ eminyam tso ƒè ɖekae nye esi, evɔ eya ŋutɔ menya o	neutral	"I can help with that!
+
+The answer is: entailment.
+
+(Menyae ƒè sia me = I have a book. Menɔ eminyam tso ƒè ɖekae nye esi, evɔ eya ŋutɔ menya o = If someone has a book, then that person is educated, and an educated person is respected in the community.)
+
+In Ewe, a language spoken in Ghana and Togo, the premise ""Menyae ƒè sia me"" (I have a book) entails the hypothesis, which implies that having a book is a sign of being educated, and therefore, respected in the community."	entailment
+238	Menyae ƒè sia me.	Mezu esia abe kɔsiɖa ɖeka lɔƒoe nye esia ene.	contradiction	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say it's **neutral**. The premise ""Menyae ƒè sia me"" (I don't know what happened to me) doesn't provide enough information to either support or contradict the hypothesis ""Mezu esia abe kɔsiɖa ɖeka lɔƒoe nye esia ene"" (Something bad has happened to someone in our family)."	neutral
+239	Menyae ƒè sia me.	Meti eyome le ƒè mamlɔe me	entailment	"I'll be happy to help you with that!
+
+In Ewe, the premise ""Menyae ƒè sia me"" translates to ""There is no man in the house.""
+
+The hypothesis ""Meti eyome le ƒè mamlɔe me"" translates to ""I don't know if there is someone in the house.""
+
+Since the premise asserts that there is no man in the house, and the hypothesis expresses uncertainty about the presence of someone (not specifically a man) in the house, the premise does not provide conclusive evidence to support or refute the hypothesis. Therefore, the relationship between the premise and the hypothesis is NEUTRAL."	neutral
+240	Agbalẽŋugbalẽwo kple agbalẽnutinu siwo le aklamakpɔ la me la melɔ wo katã si li la ɖe eme o	Aklamakpɔdzikpɔla la medina be woade yewo agbalẽ me o	neutral	Entailment	entailment
+241	Agbalẽŋugbalẽwo kple agbalẽnutinu siwo le aklamakpɔ la me la melɔ wo katã si li la ɖe eme o	Boblodogbalẽwo medoa dzidzɔ na agbaleklamakpɔa o	entailment	Entailment	entailment
+242	Agbalẽŋugbalẽwo kple agbalẽnutinu siwo le aklamakpɔ la me la melɔ wo katã si li la ɖe eme o	Nu gã si nakpɔ le agbalẽklamakpɔa mee nye agbaleŋugbalẽwo	contradiction	Entailment.	entailment
+243	Asi siwo le gbadza ƒe la nye teƒe nyui aɖe si nàte ŋu ƒle nu le le Pekin.	Asiwo ɖina kle gbadza ƒe le Pekin siwo me fiase adodoewo le	entailment	"I can help you with that!
+
+The answer is: entailment.
+
+In Ewe, the premise and hypothesis both suggest that Asiwo is related to Pekin, and the premise provides more specific information about Asiwo's actions in Pekin, which supports the hypothesis."	entailment
+244	Asi siwo le gbadza ƒe la nye teƒe nyui aɖe si nàte ŋu ƒle nu le le Pekin.	Asi siwo ɖina le gbadzaƒe le Beijing lawoe nye nyuiotɔwo le xexea me	neutral	"I can help you with that!
+
+The answer is: entailment"	entailment
+245	Asi siwo le gbadza ƒe la nye teƒe nyui aɖe si nàte ŋu ƒle nu le le Pekin.	Pekin ƒè se sesẽ la meɖemɔ na gb adzaƒesi mawo tɔgbi le dugã la titina	contradiction	Entailment	entailment
+246	Ƒugo gãtɔ si le dziehe ɣetoɖoƒe kpadzi nye melidzeƒe nui aɖe evɔ tsia kple aƒua ate ŋu aƒo ɖi.	Tsia kple ƒutaa nɔa kɔkɔe ɣe sia ɣi	contradiction	Entailment	entailment
+247	Ƒugo gãtɔ si le dziehe ɣetoɖoƒe kpadzi nye melidzeƒe nui aɖe evɔ tsia kple aƒua ate ŋu aƒo ɖi.	Tsia kple ƒuta ate ŋu ƒoɖi	entailment	Entailment	entailment
+248	Ƒugo gãtɔ si le dziehe ɣetoɖoƒe kpadzi nye melidzeƒe nui aɖe evɔ tsia kple aƒua ate ŋu aƒo ɖi.	Tsia ƒoɖi le nugbegblewo dede eme ta	neutral	Entailment.	entailment
+249	Dziƒoxɔ mawo nye gadzraɖoƒewo eye woda ŋkɔ ɖe mɔ si dzi wole la be la Milla de Oro alo Golden Mile	Dziƒoxɔ siwo le Golden Mile dzi :fe ɖeke menye gadzraɖoƒe o	contradiction	Entailment	entailment
+250	Dziƒoxɔ mawo nye gadzraɖoƒewo eye woda ŋkɔ ɖe mɔ si dzi wole la be la Milla de Oro alo Golden Mile	Golden Mile dzidziƒoxɔwo nye gadzraɖoƒewo	entailment	Entailment	entailment
+251	Dziƒoxɔ mawo nye gadzraɖoƒewo eye woda ŋkɔ ɖe mɔ si dzi wole la be la Milla de Oro alo Golden Mile	Golden Mile dzidziƒoxɔwo nye dɔwɔƒe ƒomevi vovovowo, ɖewo nye gadzraɖoƒewo	neutral	Entailment	entailment
+252	Eme kɔ ƒãa be hafi woage ɖe Xexemeʋa Ecelia me la, Eŋlisigbedodu Ƒoƒuawo dze tutuɖo gɔme le Canada ƒe yame si le dedie wu la, ale be yameʋukulawo nadzraɖo ɖi na aʋa la.	Canada ƒe yame nɔ dedie wu	entailment	Entailment	entailment
+253	Eme kɔ ƒãa be hafi woage ɖe Xexemeʋa Ecelia me la, Eŋlisigbedodu Ƒoƒuawo dze tutuɖo gɔme le Canada ƒe yame si le dedie wu la, ale be yameʋukulawo nadzraɖo ɖi na aʋa la.	Nuwowo aɖeke menɔ Canada ƒe yame o	neutral	Entailment	entailment
+254	Eme kɔ ƒãa be hafi woage ɖe Xexemeʋa Ecelia me la, Eŋlisigbedodu Ƒoƒuawo dze tutuɖo gɔme le Canada ƒe yame si le dedie wu la, ale be yameʋukulawo nadzraɖo ɖi na aʋa la.	Canada ƒe skiwo nyraku ŋutɔ	contradiction	Entailment	entailment
+255	To egbɔ be wonya nyuie be yewoƒe ƒuta nyui la meganye yewo tɔ o hã la, wometsɔ ɖeke le eme o, eye wogale dɔ tsɔm nyuie	Heliheli kple ametsitsri ɖeɖe ko wole ɖeɖem fia ame sia me fifi si wonya be amewo le yewoƒe ƒuta la zã ge kple yewoe	contradiction	Entailment	entailment
+256	To egbɔ be wonya nyuie be yewoƒe ƒuta nyui la meganye yewo tɔ o hã la, wometsɔ ɖeke le eme o, eye wogale dɔ tsɔm nyuie	Ele na wo be wo kple ame bubuwo woazã tɔgo la fifia	entailment	"I can help you with that!
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: NEUTRAL."	neutral
+257	To egbɔ be wonya nyuie be yewoƒe ƒuta nyui la meganye yewo tɔ o hã la, wometsɔ ɖeke le eme o, eye wogale dɔ tsɔm nyuie	Tsã la, woƒe ƒuta didi mile alafa atɔ̃ sɔŋ.	neutral	Entailment	entailment
+258	Le ƒè 1279 lia me la, Kublai Khan tu eƒe fiadu ɖe Beihai tagba ƒe gowo dzi le Pekin, afi si eƒe fiakesinɔnu aɖewo gale egbeegbe	Kubilai Khan tu fiadu aɖe ɖe Taiwan	contradiction	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I'd say the answer is: neutral.
+
+The premise talks about Kublai Khan's journey to Beihai and Pekin, but it doesn't provide any information about Taiwan, which is the focus of the hypothesis. Therefore, the premise neither supports nor contradicts the hypothesis."	neutral
+259	Le ƒè 1279 lia me la, Kublai Khan tu eƒe fiadu ɖe Beihai tagba ƒe gowo dzi le Pekin, afi si eƒe fiakesinɔnu aɖewo gale egbeegbe	Kublai Khan ƒe kesinɔnu aɖewo le Beijing	entailment	Entailment	entailment
+260	Le ƒè 1279 lia me la, Kublai Khan tu eƒe fiadu ɖe Beihai tagba ƒe gowo dzi le Pekin, afi si eƒe fiakesinɔnu aɖewo gale egbeegbe	Kublai Khan nye bubume aɖe	neutral	Entailment	entailment
+261	Esi wonye be enɔ bɔbɔe na wo be wonɔ wo ɖokuiwo dem e:nlisiawo me la, Protestant sukusukuwo koe lɔ̀ be yewovi yuɖatɔ siwo le Yurɔpa Ɣedzeƒe la naxɔ ɖaseɖigbalẽ tso Westmount alo be woaga te ŋu yi ɖe Toronto ake.	Yuɖatɔ siwo le Yurɔpa Ɣedzeƒe la woa ɖeka kple ame sia ame nyuie	contradiction	Entailment	entailment
+262	Esi wonye be enɔ bɔbɔe na wo be wonɔ wo ɖokuiwo dem e:nlisiawo me la, Protestant sukusukuwo koe lɔ̀ be yewovi yuɖatɔ siwo le Yurɔpa Ɣedzeƒe la naxɔ ɖaseɖigbalẽ tso Westmount alo be woaga te ŋu yi ɖe Toronto ake.	dua metɔ mamlɔeawo melɔ̃a yuɖatɔwo o	neutral	Neutral	neutral
+263	Esi wonye be enɔ bɔbɔe na wo be wonɔ wo ɖokuiwo dem e:nlisiawo me la, Protestant sukusukuwo koe lɔ̀ be yewovi yuɖatɔ siwo le Yurɔpa Ɣedzeƒe la naxɔ ɖaseɖigbalẽ tso Westmount alo be woaga te ŋu yi ɖe Toronto ake.	Yuɖatɔwo wɔa ɖeka bɔbɔe kple eŋlisiawo.	entailment	Entailment	entailment
+264	Ne miate ŋui la, mite ɖe nusesẽ la ŋu do ŋgɔ	Migaxlẽ nusesẽ la do ɣɔ o, atsi vivisese nu na mi emegbe	contradiction	"I can help you with that!
+
+The answer is: entailment"	entailment
+265	Ne miate ŋui la, mite ɖe nusesẽ la ŋu do ŋgɔ	Midze agbagba miase nublaɖo la me do ŋgɔ ne miate ŋui	entailment	Entailment.	entailment
+266	Ne miate ŋui la, mite ɖe nusesẽ la ŋu do ŋgɔ	Nusɔsrɔ̃a anɔ godui na mi nenye be miese agbalẽa ƒe sesẽƒe gɔme	neutral	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the relationship is: NEUTRAL."	neutral
+267	Eƒe yɔdo, mɛta 27 (88 pieds) le anyigba tume, nye kpe zɔzrɔ̃e eye wòkeke ɖe mɛta trɔɖo m²  200 dzi (13 000 pieds carrés)	Eƒe yɔdo si me woɖii ɖo la tito wu mɛta 20	entailment	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I'd say it's a **neutral** relationship. The premise provides information about the size of a building (27 meters high, 200 square meters), while the hypothesis makes a claim about the building being less than 20 meters high. The premise doesn't directly support or contradict the hypothesis, so the relationship is neutral."	neutral
+268	Eƒe yɔdo, mɛta 27 (88 pieds) le anyigba tume, nye kpe zɔzrɔ̃e eye wòkeke ɖe mɛta trɔɖo m²  200 dzi (13 000 pieds carrés)	Enye ameŋukuta vevi aɖe	neutral	Neutral	neutral
+269	Eƒe yɔdo, mɛta 27 (88 pieds) le anyigba tume, nye kpe zɔzrɔ̃e eye wòkeke ɖe mɛta trɔɖo m²  200 dzi (13 000 pieds carrés)	Wogba eƒe yɔdoxɔ ƒe tame kple atigbogblowo	contradiction	Entailment	entailment
+270	Miɖo ŋui ne miaɣla miaƒe nu siwo anɔ asitsɔƒe la ɖe fiɛwo	Miɣla miaƒe nu tɔxɛwo nenye be miedze fiɛwo kpɔkpɔ	entailment	Entailment	entailment
+271	Miɖo ŋui ne miaɣla miaƒe nu siwo anɔ asitsɔƒe la ɖe fiɛwo	Fiɛwo dia nu geɖe, miaƒe nunɔamesiwo hã le eme	neutral	Entailment	entailment
+272	Miɖo ŋui ne miaɣla miaƒe nu siwo anɔ asitsɔƒe la ɖe fiɛwo	miehiã be miaɣla nunɔamesiawo ɖe fiɛawo o	contradiction	Entailment.	entailment
+273	Ƒè 1 400 do ŋgɔ na Estei Fiasa tutu la, Milreu hã nye agblenutome ƒe aƒe gã aɖe si nye ameŋukuta aɖe tɔ	Milreu didi tso nuwo gbɔ abe mile 10 ene	neutral	Entailment	entailment
+274	Ƒè 1 400 do ŋgɔ na Estei Fiasa tutu la, Milreu hã nye agblenutome ƒe aƒe gã aɖe si nye ameŋukuta aɖe tɔ	Milreu nɔ agblenutowo me	entailment	Entailment	entailment
+275	Ƒè 1 400 do ŋgɔ na Estei Fiasa tutu la, Milreu hã nye agblenutome ƒe aƒe gã aɖe si nye ameŋukuta aɖe tɔ	Milreu nɔ dugã la titina	contradiction	Entailment	entailment
+276	Tsia ƒe dzoxɔxɔ anɔ °C 18 kple 24 dome (°F 64 yi 75)	Ƒuwo ƒe dzoxɔxɔ le tɔtrɔm gbe sia gbe gake meɖiɖi yi sikpe ɖoƒe gɔme kpɔ o	entailment	Entailment	entailment
+277	Tsia ƒe dzoxɔxɔ anɔ °C 18 kple 24 dome (°F 64 yi 75)	Ƒuwo ƒe dzoxɔxɔ nɔa ɖeka le ƒèa katã me	contradiction	Entailment	entailment
+278	Tsia ƒe dzoxɔxɔ anɔ °C 18 kple 24 dome (°F 64 yi 75)	Kpɔ dzodzowo dea dzi le ŋkeke me nenye be dzodzo le wɔwɔm la	neutral	Entailment	entailment
+279	Kinabalu ƒe lãveme nye lãve ade siwo ta woʋlina le nutoame dometɔ ɖeka	Atiglinyi ewo kple ɖɛgbo adẽ le Kinabalu lãve la me	neutral	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the answer is: entailment."	entailment
+280	Kinabalu ƒe lãveme nye lãve ade siwo ta woʋlina le nutoame dometɔ ɖeka	Dziɖuɖua ƒe nutowo li si ta wòʋlina, Kinabalu ƒe dukɔaƒe lãve hã le eme	entailment	Entailment	entailment
+281	Kinabalu ƒe lãveme nye lãve ade siwo ta woʋlina le nutoame dometɔ ɖeka	Nuto etɔ̃e li si ta dziɖuɖua kpɔna	contradiction	"I can help you with that!
+
+The premise and hypothesis are in Ewe, a language spoken in Togo and Ghana. Here's the breakdown:
+
+PREMISE: Kinabalu ƒe lãveme nye lãve ade siwo ta woʋlina le nutoame dometɔ ɖeka
+Translation: Kinabalu's farm is the one that has the most beautiful flowers in the village.
+
+HYPOTHESIS: Nuto etɔ̃e li si ta dziɖuɖua kpɔna
+Translation: The village has the most beautiful flowers.
+
+In this case, the premise entails the hypothesis. The premise provides more specific information about Kinabalu's farm, but it also supports the general statement made in the hypothesis.
+
+So, the answer is: entailment."	entailment
+282	Miele nɔnɔmetata ʋuʋu kpɔ ge ku ɖe Anne kple Amsterdam ŋu le ɣeyiɣi si me woxɔ dua kpakple fotowo kple ɣe ma ɣi nuwo ŋu	Miele foto aɖeke kpɔ ge o	contradiction	Entailment.	entailment
+283	Miele nɔnɔmetata ʋuʋu kpɔ ge ku ɖe Anne kple Amsterdam ŋu le ɣeyiɣi si me woxɔ dua kpakple fotowo kple ɣe ma ɣi nuwo ŋu	Miele fotowo kpɔ ge	entailment	Entailment	entailment
+284	Miele nɔnɔmetata ʋuʋu kpɔ ge ku ɖe Anne kple Amsterdam ŋu le ɣeyiɣi si me woxɔ dua kpakple fotowo kple ɣe ma ɣi nuwo ŋu	Miele foto gbãtɔwo ƒe ɖewo kpɔ ge	neutral	Entailment	entailment
+285	Treasure Beach le abe teƒe ɖeka si amedzrodzeƒe le ene, amedzrodzeƒe aɖewo kaka ɖe ƒutago etɔ̃ nu	Amedzrodzeƒe metsitsiã meli aɖeke na ame siwo yina ɖe Treasure Beach o	entailment	Entailment	entailment
+286	Treasure Beach le abe teƒe ɖeka si amedzrodzeƒe le ene, amedzrodzeƒe aɖewo kaka ɖe ƒutago etɔ̃ nu	Amedzrodzeƒe xɔ ŋkɔ aɖe li na nukpɔk;pɔ tsaɖila siwo vana Teasure Beach la	neutral	Entailment	entailment
+287	Treasure Beach le abe teƒe ɖeka si amedzrodzeƒe le ene, amedzrodzeƒe aɖewo kaka ɖe ƒutago etɔ̃ nu	Teasure Beach nye futagodu sue siwo bɔ ɖe nutoame la dometɔ ɖeka	contradiction	Entailment	entailment
+288	Le afo si gbɔna me la xexea me kɔna (dzodzo manɔ eme o) eye ƒu ƒe dzoxɔxɔ ƒe dziyiyi nana be tsiƒuƒu, ƒugɔme yiyi nyea nu vivi aɖe kpakple tɔdzidɔ bubuawo hã	Le afo me la, dzodzoa dena kɔkɔƒe 100 kple edzivɔwo	contradiction	Entailment	entailment
+289	Le afo si gbɔna me la xexea me kɔna (dzodzo manɔ eme o) eye ƒu ƒe dzoxɔxɔ ƒe dziyiyi nana be tsiƒuƒu, ƒugɔme yiyi nyea nu vivi aɖe kpakple tɔdzidɔ bubuawo hã	Edziedzi la enyea 75 le afo me	neutral	Neutral	neutral
+290	Le afo si gbɔna me la xexea me kɔna (dzodzo manɔ eme o) eye ƒu ƒe dzoxɔxɔ ƒe dziyiyi nana be tsiƒuƒu, ƒugɔme yiyi nyea nu vivi aɖe kpakple tɔdzidɔ bubuawo hã	Dzodzo wɔna le afo me	entailment	Entailment	entailment
+291	Le tsidoawo me la, ɖeka li si me vavalawo dea ga henɔ mɔ kpɔm be klo ɖeka teti nado, mɔkpɔkpɔ hena dzɔgbenyui	Amewo medaa ga ɖe eme gbeɖe o elabena esia hea dzɔgbevɔ̃e vana	contradiction	"The language used is Ewe, a Gbe language spoken in Togo and Ghana.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise and hypothesis do not logically imply or contradict each other. They seem to be discussing different ideas or scenarios."	neutral
+292	Le tsidoawo me la, ɖeka li si me vavalawo dea ga henɔ mɔ kpɔm be klo ɖeka teti nado, mɔkpɔkpɔ hena dzɔgbenyui	Amewo daa ga ɖe eme to egbɔ be woŋlɔ ɖe nufiakpeawo dzi be womegawɔe nenema o lae	neutral	Entailment	entailment
+293	Le tsidoawo me la, ɖeka li si me vavalawo dea ga henɔ mɔ kpɔm be klo ɖeka teti nado, mɔkpɔkpɔ hena dzɔgbenyui	Amewo ƒu ga gbe ɖe eme	entailment	"What a beautiful Ewe language!
+
+After analyzing the premise and hypothesis, I would say the relationship is: NEUTRAL.
+
+The premise talks about a situation where someone is not doing something because of a certain reason, while the hypothesis makes a statement about people doing something. There isn't a direct logical connection between the two, so they don't entail or contradict each other."	neutral
+294	Melidzeƒe du Nauplie nye teƒe nyui aɖe si dzi woato aka dua me alo adi teƒe bubu aɖu nu le le tsaɖiɖi me	Nu dzena nyuie tso Nauplie	neutral	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I'd say it's an **entailment**."	entailment
+295	Melidzeƒe du Nauplie nye teƒe nyui aɖe si dzi woato aka dua me alo adi teƒe bubu aɖu nu le le tsaɖiɖi me	Nafplio menye gnu nyui aɖeke o	contradiction	"I can help you with that!
+
+The premise and hypothesis are in the Ewe language, which is a Gbe language spoken in Togo and Ghana.
+
+After analyzing the premise and hypothesis, I would say that the premise entails the hypothesis.
+
+So, the answer is: entailment."	entailment
+296	Melidzeƒe du Nauplie nye teƒe nyui aɖe si dzi woato aka dua me alo adi teƒe bubu aɖu nu le le tsaɖiɖi me	Nafplio nye gunu adodui	entailment	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say it's a **neutral** relationship between them. The premise talks about Melidzeƒe doing something in Nauplie, while the hypothesis simply states that Nafplio is a beautiful city (gunu adodui means ""beautiful city"" in Ewe). There's no direct connection or contradiction between the two statements."	contradiction
+297	Le Prinsengracht la, otto Frank kple eƒe ƒomea ɣla ɖe woƒe nudzaƒe ƒe guxɔ me ƒè eve sɔŋ hafi wova ke ɖe wo ŋu	Wole Otto Frank le ŋkeke evelia gbe	contradiction	Entailment	entailment
+298	Le Prinsengracht la, otto Frank kple eƒe ƒomea ɣla ɖe woƒe nudzaƒe ƒe guxɔ me ƒè eve sɔŋ hafi wova ke ɖe wo ŋu	Otto Franck nɔ ɣlaɣla me wu ɣleti 25	entailment	"The language is Ewe!
+
+After analyzing the premise and hypothesis, I would say the relationship is: NEUTRAL"	neutral
+299	Le Prinsengracht la, otto Frank kple eƒe ƒomea ɣla ɖe woƒe nudzaƒe ƒe guxɔ me ƒè eve sɔŋ hafi wova ke ɖe wo ŋu	Otto Franck ɣla eɖokui va se ɖe esime naziwo va kpɔe	neutral	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say it's an **entailment**.
+
+Here's a brief breakdown:
+
+The premise mentions Otto Frank and his family hiding in a secret annex (Prinsengracht), which implies that Otto Frank was hiding from the Nazis.
+
+The hypothesis states that Otto Frank was hiding from the Nazis, which aligns with the information provided in the premise.
+
+So, the premise entails the hypothesis."	entailment
+300	Nutome dziɖuɖu kple du geɖewo ɖo akɔŋta ɖoɖo anyi	Nutome dziɖuɖuwo ateŋu ɖo woawo ŋutɔ ƒe sewo anyi	neutral	Entailment	entailment
+301	Nutome dziɖuɖu kple du geɖewo ɖo akɔŋta ɖoɖo anyi	Nutome dziɖuɖuwo meɖo dzi zizĩ aɖeke o	contradiction	Entailment	entailment
+302	Nutome dziɖuɖu kple du geɖewo ɖo akɔŋta ɖoɖo anyi	Dzi zizĩ li na akɔŋta ɖoɖo bubuwo tso nutome dziɖuɖuwo gbɔ	entailment	Entailment	entailment
+303	Dedienɔnɔ nyanyanana habɔbɔa wɔ gododo 8 kple 12 ɣleti sia ɣleti	Dedienɔnɔ habɔbɔa wɔa gododo 9 le ɣleti ɖeka me	neutral	"I can help you with that!
+
+The answer is: neutral"	neutral
+304	Dedienɔnɔ nyanyanana habɔbɔa wɔ gododo 8 kple 12 ɣleti sia ɣleti	Dedienɔnɔ habɔbɔa wɔa doa go gbe sia gbe le ɣletia me	contradiction	Entailment	entailment
+305	Dedienɔnɔ nyanyanana habɔbɔa wɔ gododo 8 kple 12 ɣleti sia ɣleti	Dedienɔnɔ habɔbɔa woa takpekpe geɖewo ƒe sia ƒe	entailment	Entailment	entailment
+306	Gɔmedze aɖaŋudɔ va eme do ŋugɔ	Aɖaŋudɔ va eme le gɔmedze ɣeyiɣi me	entailment	Entailment	entailment
+307	Gɔmedze aɖaŋudɔ va eme do ŋugɔ	Ɖoƒe mamlɔe ko aɖaŋudɔ kpɔ eme vava le	contradiction	Entailment	entailment
+308	Gɔmedze aɖaŋudɔ va eme do ŋugɔ	Aɖaŋudɔa akpɔ gege ne gɔmedze numekuku medo ŋugɔ o	neutral	Entailment	entailment
+309	Dunyagbɔkpɔlawo kple dziɖuɖua kplɔlawo ɖo susu bubuwo anyi le alesi woawɔ akpɔ tɔɖɔdzinuawo ɖoƒe gbɔ to nyanyanana bubuwo me 	Dziɖuɖua teƒenɔlawo trɔ woƒe nukpɔsusu	entailment	Entailment	entailment
+310	Dunyagbɔkpɔlawo kple dziɖuɖua kplɔlawo ɖo susu bubuwo anyi le alesi woawɔ akpɔ tɔɖɔdzinuawo ɖoƒe gbɔ to nyanyanana bubuwo me 	Dziɖuɖua teƒenɔlawo na ŋusẽ wo ɖokuiwo to susu ɖeɖe vovovowo me	neutral	Entailment	entailment
+311	Dunyagbɔkpɔlawo kple dziɖuɖua kplɔlawo ɖo susu bubuwo anyi le alesi woawɔ akpɔ tɔɖɔdzinuawo ɖoƒe gbɔ to nyanyanana bubuwo me 	Dziɖuɖua teƒenɔlawo gbe agbenɔnɔ tɔtrɔ	contradiction	Entailment	entailment
+312	Edze be woatrɔ agbalɛwo ɖe gbe bubu me na asisinɔ siwo se gbe bubu to vovo na Ŋlissigbe	Woɖe mɔ le dɔwɔna ƒe agbalɛwo ŋu ko le Ŋlissigbe me	contradiction	Entailment	entailment
+313	Edze be woatrɔ agbalɛwo ɖe gbe bubu me na asisinɔ siwo se gbe bubu to vovo na Ŋlissigbe	Woateŋu ŋlɔ agbalɛwo ɖe chinoi alo russe gbe me	neutral	"I'd be happy to help!
+
+After analyzing the premise and hypothesis in the Ewe language, I conclude that the relationship between them is: **neutral**."	neutral
+314	Edze be woatrɔ agbalɛwo ɖe gbe bubu me na asisinɔ siwo se gbe bubu to vovo na Ŋlissigbe	Woateŋu ŋlɔ agbalɛwo ɖe gbe bubuwo me	entailment	Entailment	entailment
+315	Agbagbadzedze alo nuɖoɖi bubuwo ɖo	Miaƒe agbagbadzedze geɖewo le dɔ wɔm vɔ	neutral	"I can help you with that!
+
+The answer is: entailment"	entailment
+316	Agbagbadzedze alo nuɖoɖi bubuwo ɖo	Mieɖo naneke ɖe tsɔ si gbɔna ŋu o	contradiction	"I'd be happy to help!
+
+Since I'm proficient in Ewe, a language spoken in Ghana and Togo, I can analyze the premise and hypothesis.
+
+Here's my assessment:
+
+The premise ""Agbagbadzedze alo nuɖoɖi bubuwo ɖo"" roughly translates to ""The old man is not at home.""
+
+The hypothesis ""Mieɖo naneke ɖe tsɔ si gbɔna ŋu o"" roughly translates to ""I don't think he is at the farm.""
+
+In this case, the premise and hypothesis are NEUTRAL. The premise states the old man is not at home, while the hypothesis expresses doubt about the old man being at the farm. These statements don't directly contradict or entail each other."	neutral
+317	Agbagbadzedze alo nuɖoɖi bubuwo ɖo	Mieɖo nane daɖi vɔ	entailment	"I can help with that!
+
+In Ewe, the language of the premise and hypothesis, I'd say the relationship between the premise and hypothesis is:
+
+Neutral"	neutral
+318	Woatsɔ nuwo abe ɣeyiɣi suewo mɔɖaŋu nuwo ɖeɖe ɖa kple agbalɛ veviewo ƒe mɔnumakpɔkpɔ	Wo tutu IBM ƒe mɔɖaŋunuwo	neutral	Neutral	neutral
+319	Woatsɔ nuwo abe ɣeyiɣi suewo mɔɖaŋu nuwo ɖeɖe ɖa kple agbalɛ veviewo ƒe mɔnumakpɔkpɔ	Wo tutu mɔɖaŋua ƒe dzɔdzɔme nuwo	entailment	Entailment	entailment
+320	Woatsɔ nuwo abe ɣeyiɣi suewo mɔɖaŋu nuwo ɖeɖe ɖa kple agbalɛ veviewo ƒe mɔnumakpɔkpɔ	Wogble dzɔdzɔmenuwo katã ɖi	contradiction	Neutral	neutral
+321	Emegbe la, teƒenɔla si va do ŋugɔ la axɔ nudzrala ke aɖo eye adzr biabiawo me kplii ku ɖe nua ƒe ɖewo ŋuti	Teƒenɔla wɔ gaƒoƒo ɖeka tsaɖiɖi	neutral	"What a beautiful Ewe language!
+
+After analyzing the premise and hypothesis, I would say the relationship is: NEUTRAL.
+
+The premise talks about something happening when someone does not have a certain thing (va do ŋugɔ la), and the consequence of that action (adzr biabiawo me kplii ku ɖe nua ƒe ɖewo ŋuti). The hypothesis, on the other hand, states that a certain person (Teƒenɔla) has a certain quality (wɔ gaƒoƒo ɖeka tsaɖiɖi). There doesn't seem to be a direct logical connection between the two, so I wouldn't say it's an entailment or a contradiction."	contradiction
+322	Emegbe la, teƒenɔla si va do ŋugɔ la axɔ nudzrala ke aɖo eye adzr biabiawo me kplii ku ɖe nua ƒe ɖewo ŋuti	Teƒenɔla ɖeka va srãwo kpɔ	entailment	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is: entailment.
+
+In the premise, it's stated that ""teƒenɔla si va do ŋugɔ la"" which implies that teƒenɔla is doing something. The hypothesis ""Teƒenɔla ɖeka va srãwo kpɔ"" is a more specific statement about what teƒenɔla is doing, which is consistent with the premise. Therefore, the premise entails the hypothesis."	entailment
+323	Emegbe la, teƒenɔla si va do ŋugɔ la axɔ nudzrala ke aɖo eye adzr biabiawo me kplii ku ɖe nua ƒe ɖewo ŋuti	Miexɔ ame dzidzi kpɔ aɖeke o	contradiction	Entailment.	entailment
+324	Gadzadzraɖo kple kesinɔnua le tetem ɖe wo nɔewo dzi	Tsitsiã wɔwɔ na gadzadzra ɖo kpɔ ŋusẽ ɖe kesinɔnua dzi	entailment	Entailment.	entailment
+325	Gadzadzraɖo kple kesinɔnua le tetem ɖe wo nɔewo dzi	Kesinɔnu kple ganyaŋunyawo meɖo kadede o	contradiction	Entailment	entailment
+326	Gadzadzraɖo kple kesinɔnua le tetem ɖe wo nɔewo dzi	Kesinɔtɔwo ɖo ŋutete adzra woƒe kesinɔnu ƒe akpa ɖe ɖi	neutral	Entailment.	entailment
+327	Le kpɔɖeŋu me hatsotso aɖe si ŋu miewɔ numekuku tso la, wotsãe kple dɔwɔƒe bubu alebe woateŋu asitsatsa ƒe hiãhiãwo nu	Nenye be wotsã dɔwɔƒe hã mehiã be woa ɖɔli eƒe tatɔwo o	contradiction	Entailment	entailment
+328	Le kpɔɖeŋu me hatsotso aɖe si ŋu miewɔ numekuku tso la, wotsãe kple dɔwɔƒe bubu alebe woateŋu asitsatsa ƒe hiãhiãwo nu	Dɔwɔƒe eve ƒe tsatsã wɔ ɖeka kple eƒe tɔtrɔ na dɔwɔwɔ nɔnɔme gbegblẽ	neutral	Entailment	entailment
+329	Le kpɔɖeŋu me hatsotso aɖe si ŋu miewɔ numekuku tso la, wotsãe kple dɔwɔƒe bubu alebe woateŋu asitsatsa ƒe hiãhiãwo nu	Miele ŋuku ɖe dɔwɔƒe aɖe si wotsã zi eve eye wotrɔ ɖe dɔwɔwɔ dzi zizĩ yeyewo ŋu 	entailment	Entailment	entailment
+330	Le eƒe wɔwɔme la, miexa nu be woaɖe mɔ na fexexe do ŋugɔ hafi akpɔ be mɔzɔzɔ̃ va eme nyateƒe	Mienya fexexe axɔ ɣeyɣi geɖe	contradiction	Entailment	entailment
+331	Le eƒe wɔwɔme la, miexa nu be woaɖe mɔ na fexexe do ŋugɔ hafi akpɔ be mɔzɔzɔ̃ va eme nyateƒe	Miesusu be fexexe ado ŋugɔ na ŋuku lele ɖe ŋu	entailment	Entailment	entailment
+332	Le eƒe wɔwɔme la, miexa nu be woaɖe mɔ na fexexe do ŋugɔ hafi akpɔ be mɔzɔzɔ̃ va eme nyateƒe	Miesusu be woaxe fe ɖoɖa mi do ŋugɔ eye woa fi mi	neutral	Entailment	entailment
+333	Aɖaŋudɔwo ŋuti nunya le dɔwɔƒe siawo me menye abe dɔwɔnu ko ene o gake fafadenume ene	Mɔɖaŋu ɖoɖo nye aɖaŋu ŋuti nunya vevie aɖe si gbɔ dɔwɔƒewo kpɔ na 	neutral	Entailment	entailment
+334	Aɖaŋudɔwo ŋuti nunya le dɔwɔƒe siawo me menye abe dɔwɔnu ko ene o gake fafadenume ene	Aɖaŋu ŋuti nunya menye dɔwɔnu ko fafadenume hã	contradiction	Entailment	entailment
+335	Aɖaŋudɔwo ŋuti nunya le dɔwɔƒe siawo me menye abe dɔwɔnu ko ene o gake fafadenume ene	Dɔwɔƒe siawo na asi xɔxɔ gã ɖe aɖaŋu ŋuti nunya	entailment	Entailment.	entailment
+336	Nukpɔsusu eve si dzena le gbegbɔgblɔ agbalɛ̃ ŋɔŋlɔ me ateŋu na nɔnɔme bubu numekuku si gbɔna la	Gbegbɔgblɔ agbalɛ̃ ŋɔŋlɔ ateŋu trɔ alesi miedoa nuawo ƒe suewo kpɔ	neutral	Entailment	entailment
+337	Nukpɔsusu eve si dzena le gbegbɔgblɔ agbalɛ̃ ŋɔŋlɔ me ateŋu na nɔnɔme bubu numekuku si gbɔna la	Gbegbɔgblɔ agbalɛ̃ ŋɔŋlɔ ateŋu trɔ numekuku si gbɔna	entailment	Entailment	entailment
+338	Nukpɔsusu eve si dzena le gbegbɔgblɔ agbalɛ̃ ŋɔŋlɔ me ateŋu na nɔnɔme bubu numekuku si gbɔna la	Naneke meli si miawɔ atrɔ numekukua o	contradiction	Neutral	neutral
+339	Fli siwo le aɖaka me ɖe dɔ ɖolawo katã ƒe nyoname fia eye kpexɔasime fliwo ɖe aɖawɔwɔ nyawo ƒe nu siwwo bu le dɔwɔwɔ me ɖo ɖe akpa bubu gbɔ	Fliawo akɔŋtawo ɖe alesi miaƒe dɔ ɖolawo ƒe nyoname le 10 ɖe alafa	neutral	Neutral	neutral
+340	Fli siwo le aɖaka me ɖe dɔ ɖolawo katã ƒe nyoname fia eye kpexɔasime fliwo ɖe aɖawɔwɔ nyawo ƒe nu siwwo bu le dɔwɔwɔ me ɖo ɖe akpa bubu gbɔ	Fliawo meɖe naneke fia wu mɔwo o	contradiction	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the relationship is: NEUTRAL.
+
+The premise talks about the characteristics of a person who is not lazy, while the hypothesis makes a statement about someone being lazy. They don't directly contradict or entail each other, as they're discussing different aspects of laziness."	neutral
+341	Fli siwo le aɖaka me ɖe dɔ ɖolawo katã ƒe nyoname fia eye kpexɔasime fliwo ɖe aɖawɔwɔ nyawo ƒe nu siwwo bu le dɔwɔwɔ me ɖo ɖe akpa bubu gbɔ	Fliawo ɖe miaƒe dɔ ɖolawo ƒe nyoname fia	entailment	Entailment	entailment
+342	Centerlink ɖo mɔnu vovovowo siwo tu ɖe afɔkuwo bubu ŋu alebe gomekpɔlawo ateŋu na akɔŋta ku ɖe woƒe nunɔamesiwo ŋu	Centerlink menya alesi wɔa ɖɔ kuxia ɖo o	contradiction	"I'd be happy to help you with that!
+
+After analyzing the premise and hypothesis in the Ewe language, I can conclude that the relationship between them is:
+
+Neutral"	neutral
+343	Centerlink ɖo mɔnu vovovowo siwo tu ɖe afɔkuwo bubu ŋu alebe gomekpɔlawo ateŋu na akɔŋta ku ɖe woƒe nunɔamesiwo ŋu	Centerlink ɖo mɔnu geɖe afia ale si amewo aɖo akɔŋta ku ɖe woƒe ga nyawo ŋu elabe esia na dziɖuɖua gble ga geɖe	neutral	Entailment	entailment
+344	Centerlink ɖo mɔnu vovovowo siwo tu ɖe afɔkuwo bubu ŋu alebe gomekpɔlawo ateŋu na akɔŋta ku ɖe woƒe nunɔamesiwo ŋu	Centerlink ɖo mɔnu geɖewo afia ɖeviwo ale si woakpɔ woƒe ga nyawo gbɔ	entailment	"I'll do my best to help!
+
+After analyzing the premise and hypothesis in the Ewe language, I would say that the relationship between them is: **neutral**.
+
+The premise and hypothesis seem to be talking about different aspects of Centerlink, and there isn't a clear logical connection between them that would imply entailment or contradiction."	contradiction
+345	Esia na wɔwɔa ɖeɖefiawo akpeɖe dɔwɔƒewo ŋu be wɔaga gblẽ ga le gɔmedzedze le dɔwɔnuwo ƒeƒle me o	Emegbe woateŋu ɖe ale si ɖoɖoa wɔadɔ afia	entailment	Neutral	neutral
+346	Esia na wɔwɔa ɖeɖefiawo akpeɖe dɔwɔƒewo ŋu be wɔaga gblẽ ga le gɔmedzedze le dɔwɔnuwo ƒeƒle me o	Woateŋu aɖefia dɔwɔƒea be mesɔ be woatu dɔwɔƒe yeyewo o	neutral	Entailment	entailment
+347	Esia na wɔwɔa ɖeɖefiawo akpeɖe dɔwɔƒewo ŋu be wɔaga gblẽ ga le gɔmedzedze le dɔwɔnuwo ƒeƒle me o	Womeɖo susu aɖeke ku ɖe ga ƒe ŋusẽkpɔɖeamedzi o	contradiction	Neutral.	neutral
+348	Ɣetoɖoƒe Carolina ƒe agbagbadzedzewo he dziɖuɖu vae le ƒe si va me	Ameaɖeke me me kpeɖe ameŋu le ɣetoɖoƒe Carolina o	contradiction	Entailment	entailment
+349	Ɣetoɖoƒe Carolina ƒe agbagbadzedzewo he dziɖuɖu vae le ƒe si va me	SC wɔdɔ ɖe du	entailment	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the relationship is: NEUTRAL."	neutral
+350	Ɣetoɖoƒe Carolina ƒe agbagbadzedzewo he dziɖuɖu vae le ƒe si va me	Republicain kple democrat tɔwo wɔdɔ ɖe du le ɣetoɖoƒe Carolina 	neutral	Entailment	entailment
+351	Le ameŋukuta ɖe ƒe nyanu la wometsɔ ɖaseɖigbalɛ̃wo ɖo ɖe Small Business Administration ƒe aƒetɔ o	Aɖaŋuɖeha metsɔ ɖaseɖigbalɛ̃wo na SBA eye womedae ɖe amesi kpɔa gbɔ ƒe dɔwɔƒe o	neutral	Entailment	entailment
+352	Le ameŋukuta ɖe ƒe nyanu la wometsɔ ɖaseɖigbalɛ̃wo ɖo ɖe Small Business Administration ƒe aƒetɔ o	Aɖaŋuɖeha metsɔ ɖaseɖigbalɛ̃wo na SBA o	entailment	Entailment	entailment
+353	Le ameŋukuta ɖe ƒe nyanu la wometsɔ ɖaseɖigbalɛ̃wo ɖo ɖe Small Business Administration ƒe aƒetɔ o	Aɖaŋuɖeha ma SBA ɖaseɖigbalɛ̃ na ame sia ame si bia	contradiction	Entailment	entailment
+354	Anyo be woale ŋuku ɖe mɔzɔzɔ̃ ganyawo ŋu nenye wosɔ kple bubuwo ŋu	Amedzrodzeƒe dua me tɔwo lɔ̃ fexexe to gaxɔgbalɛ̃vi dzi	neutral	Neutral	neutral
+355	Anyo be woale ŋuku ɖe mɔzɔzɔ̃ ganyawo ŋu nenye wosɔ kple bubuwo ŋu	Woale ŋuku ɖe mɔzɔzɔa ŋu to amedzrodzeƒe ganyawo me	entailment	Entailment	entailment
+356	Anyo be woale ŋuku ɖe mɔzɔzɔ̃ ganyawo ŋu nenye wosɔ kple bubuwo ŋu	Mɔnu aɖeke meli ne woanya be mɔzɔzɔ̃a kpɔ eme va vava o	contradiction	Entailment	entailment
+357	Le kpɔɖeŋu me, mieyi dugã aɖe si ɖo  ɖoɖodɔwɔƒe 600 me	Du gãwo me nye teƒe adodoe na ɖoɖodɔwɔƒewo	neutral	Entailment	entailment
+358	Le kpɔɖeŋu me, mieyi dugã aɖe si ɖo  ɖoɖodɔwɔƒe 600 me	Du gã aɖe ɖo ɖoɖodɔƒewo tɔn ɖeka	entailment	Entailment	entailment
+359	Le kpɔɖeŋu me, mieyi dugã aɖe si ɖo  ɖoɖodɔwɔƒe 600 me	Ɖoɖodɔwɔƒewo de axa na gawo le se nyawo ƒe susu ta	contradiction	Entailment	entailment
+360	Ne miedidi dɔwɔwɔ nyui la woteŋu akpɔ blibo nyenye o	Ateŋu de blibo nenye be netsɔmɔnu geɖewo	contradiction	Entailment	entailment
+361	Ne miedidi dɔwɔwɔ nyui la woteŋu akpɔ blibo nyenye o	Mateŋu de blibo kpɔ o	entailment	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the answer is: entailment.
+
+Here's a breakdown:
+
+Premise: ""Ne miedidi dɔwɔwɔ nyui la woteŋu akpɔ blibo nyenye o"" roughly translates to ""If you don't have a farm, you won't get a farm tool.""
+
+Hypothesis: ""Mateŋu de blibo kpɔ o"" roughly translates to ""You won't get a farm tool.""
+
+The premise implies that not having a farm means you won't get a farm tool, and the hypothesis states that you won't get a farm tool. Since the hypothesis is a direct consequence of the premise, I conclude that the premise entails the hypothesis."	entailment
+362	Ne miedidi dɔwɔwɔ nyui la woteŋu akpɔ blibo nyenye o	Miateŋu de blibo elabe mi katã mienye ame made blibowo	neutral	Entailment	entailment
+363	Amesi haya xɔ na Hazmi kple Mihdhar le ƒe 2000 lia me nye dumevi si wɔa ɖe sewo dzi eye woɖo kadede nyui kple FBI kpakple kpovitɔwo	Hazmi kple Mihdhar ƒle aƒe aɖe eye womeɖo kadodo aɖeke kple ameaɖeke o	contradiction	Entailment	entailment
+364	Amesi haya xɔ na Hazmi kple Mihdhar le ƒe 2000 lia me nye dumevi si wɔa ɖe sewo dzi eye woɖo kadede nyui kple FBI kpakple kpovitɔwo	Hazmi kple Mihdhar haya xɔ na ƒea katã kple $500 gbe sia gbe	neutral	Entailment	entailment
+365	Amesi haya xɔ na Hazmi kple Mihdhar le ƒe 2000 lia me nye dumevi si wɔa ɖe sewo dzi eye woɖo kadede nyui kple FBI kpakple kpovitɔwo	Hazmi kple Mihdhar haya xɔ	entailment	Entailment	entailment
+366	Na woƒe Bosnie ƒe mɔzɔzɔ̃ la, woakpɔ Sauditɔ si nye Al Qaeda menɔla aɖe nyabiabia numeɖeɖe le kele, 3 ƒe 2001 me	Al Qaeda menɔtɔ aɖe yi Bosnie zi 18 le ƒe 2001 me	neutral	Entailment	entailment
+367	Na woƒe Bosnie ƒe mɔzɔzɔ̃ la, woakpɔ Sauditɔ si nye Al Qaeda menɔla aɖe nyabiabia numeɖeɖe le kele, 3 ƒe 2001 me	Al Qaeda menɔtɔ aɖe yi Bosnie	entailment	Entailment	entailment
+368	Na woƒe Bosnie ƒe mɔzɔzɔ̃ la, woakpɔ Sauditɔ si nye Al Qaeda menɔla aɖe nyabiabia numeɖeɖe le kele, 3 ƒe 2001 me	Kpeɖodzi aɖeke meli be Al Qaeda menɔtɔ aɖe yi Bosnie o	contradiction	Entailment	entailment
+369	Jane bia New-York dɔwɔwɔtɔ si kpɔa Mihdhar didi gbɔ be woade asi agbalɛ̃ aɖe te ese ale si wowɔ FISA nyanyanana	Jane bia be dua ƒe ʋɔnudrɔ̃la nade asi FISA agbalɛ̃ aɖe te 	neutral	Entailment	entailment
+370	Jane bia New-York dɔwɔwɔtɔ si kpɔa Mihdhar didi gbɔ be woade asi agbalɛ̃ aɖe te ese ale si wowɔ FISA nyanyanana	Jane bia be woade asi FISA agbalɛ̃ ŋuɖoɖo aɖe te	entailment	Entailment	entailment
+371	Jane bia New-York dɔwɔwɔtɔ si kpɔa Mihdhar didi gbɔ be woade asi agbalɛ̃ aɖe te ese ale si wowɔ FISA nyanyanana	Jane gblɔ be FISA ŋuɖoɖo agbalɛ̃ aɖeke mehiã o	contradiction	Entailment	entailment
+372	Naneke medo le woŋu si ku ɖe dedienɔnɔ ɖoɖo le checkpoint o	Kpeɖodzi geɖewo dze le ŋukulele ɖe nu ŋu le checkpoint o	contradiction	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I'd say the relationship is: NEUTRAL."	neutral
+373	Naneke medo le woŋu si ku ɖe dedienɔnɔ ɖoɖo le checkpoint o	Numekakawo le checkpointwo le dedikpɔlawo ƒe nutovokpɔkpɔ me	neutral	Entailment	entailment
+374	Naneke medo le woŋu si ku ɖe dedienɔnɔ ɖoɖo le checkpoint o	Checkpoint meteŋu kpɔ Kpeɖodziwo ɖe woŋu o	entailment	Entailment	entailment
+375	Khallad hã gblɔ nya bubu, wo etɔ̃a zɔ mɔ yi Karachi	Khallad be gblɔ be menya naneke ku ɖe wo etɔ̃a ŋu o	contradiction	"I can help you with that!
+
+The answer is: entailment"	entailment
+376	Khallad hã gblɔ nya bubu, wo etɔ̃a zɔ mɔ yi Karachi	Khallad be ɖewohĩ wo etɔ̃a zɔ mɔ ɖe du	entailment	Entailment	entailment
+377	Khallad hã gblɔ nya bubu, wo etɔ̃a zɔ mɔ yi Karachi	Khallad be aklama 50% li be wo etɔ̃a yi Karachi le kele me	neutral	Entailment	entailment
+378	Numekuku akɔŋta, Binalshibh nyabiabia, le kele 1 ƒe 2002 lia me	FBI dɔwɔwɔƒe tɔxɛ aɖe bia nya Binalshib	neutral	Entailment	entailment
+379	Numekuku akɔŋta, Binalshibh nyabiabia, le kele 1 ƒe 2002 lia me	Wobia nya Binalshib le ƒe 2002 liame	entailment	Entailment	entailment
+380	Numekuku akɔŋta, Binalshibh nyabiabia, le kele 1 ƒe 2002 lia me	Wome ƒonu na Binalbish kpɔ o eye wobu	contradiction	Entailment	entailment
+381	Mihdhar xɔ america visa le ŋkeke eve me le CIA-FBI  gododo megbe	Mihdhar ɖo america visa tsɔ va dua me	entailment	Entailment	entailment
+382	Mihdhar xɔ america visa le ŋkeke eve me le CIA-FBI  gododo megbe	Mihdhar meɖo visa kpɔ o eyata meva miagbɔ kpɔ o	contradiction	Entailment	entailment
+383	Mihdhar xɔ america visa le ŋkeke eve me le CIA-FBI  gododo megbe	Mihdhar xɔ visa elabena menye ŋɔdidonametɔ o	neutral	Entailment	entailment
+384	Le ƒe eve numekuku megbe la, FBI meteŋu de dzesi hadɔwɔla o 	FBI meteŋu kpɔ ŋutsua le eƒe dzodzo le Floride le ƒe 2001 me o	neutral	Entailment	entailment
+385	Le ƒe eve numekuku megbe la, FBI meteŋu de dzesi hadɔwɔla o 	FBI meteŋu kpɔ amesi wonye o	entailment	Entailment	entailment
+386	Le ƒe eve numekuku megbe la, FBI meteŋu de dzesi hadɔwɔla o 	FBI meteŋu kpɔ amea o	contradiction	Entailment	entailment
+387	Le americatɔ 11lia gome la, yameʋua dzeɖoɖo mamlɔe va eme le 08h13lia me	Dzɖoɖowo va eme tso american11lia gbɔ	entailment	Entailment	entailment
+388	Le americatɔ 11lia gome la, yameʋua dzeɖoɖo mamlɔe va eme le 08h13lia me	Dzeɖoɖowo tso american11lia gbɔ miniti 5 sia miniti	neutral	Entailment	entailment
+389	Le americatɔ 11lia gome la, yameʋua dzeɖoɖo mamlɔe va eme le 08h13lia me	Dzeɖoɖo aɖeke menɔ american 11lia dome kpɔ o	contradiction	Entailment	entailment
+390	Eƒe nusi wofɔ anye ne ehiã kpekpeɖeŋu tso Germany dziɖuɖua gbɔ la, asesẽ na xɔxɔ	Ne numekukuawo de to la, aɖe sisila etɔ̃awo ƒe teƒe afia	neutral	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+391	Eƒe nusi wofɔ anye ne ehiã kpekpeɖeŋu tso Germany dziɖuɖua gbɔ la, asesẽ na xɔxɔ	Germany dziɖuɖua ateŋu kpɔ kuxi le numekuku de to me	entailment	Entailment	entailment
+392	Eƒe nusi wofɔ anye ne ehiã kpekpeɖeŋu tso Germany dziɖuɖua gbɔ la, asesẽ na xɔxɔ	Numekuku ateŋu nɔ bɔboe na dziɖuɖua	contradiction	Neutral.	neutral
+393	Eƒe ŋtetewo mesu o, gake ʋɛ aɖewo koe ŋu wotrɔ asi le	Wometrɔ woƒe amekpɔkpɔ ɖoɖo o	neutral	Entailment	entailment
+394	Eƒe ŋtetewo mesu o, gake ʋɛ aɖewo koe ŋu wotrɔ asi le	Wome wɔ nu gã aɖeke na nɔnɔmea tɔtrɔ o	entailment	"Nice one in Ewe!
+
+After analyzing the premise and hypothesis, I'd say it's a **neutral** relationship. The premise talks about something happening when there's no obstacle, while the hypothesis discusses the possibility of someone doing something because of a particular reason. They don't necessarily support or contradict each other."	neutral
+395	Eƒe ŋtetewo mesu o, gake ʋɛ aɖewo koe ŋu wotrɔ asi le	Wodze agbagba geɖe xedzra nuwo katã ɖo	contradiction	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the relationship is: NEUTRAL"	neutral
+396	Numekula ƒe agbalɛ̃ ɖe fia be etsaka ŋukumekaka geɖe kple se mɔxenuwo le nyananawo mamã me kpakple se si kplɔa ŋutasela nyanyananalawo to numekuku mɔwo dzi	Numekula ƒe numekuku me kɔ	contradiction	Entailment	entailment
+397	Numekula ƒe agbalɛ̃ ɖe fia be etsaka ŋukumekaka geɖe kple se mɔxenuwo le nyananawo mamã me kpakple se si kplɔa ŋutasela nyanyananalawo to numekuku mɔwo dzi	Numekula mekɔ nu gɖewo me nyui o	entailment	"What a beautiful Ewe language!
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: entailment.
+
+The premise provides more information about Numekula, and the hypothesis is a more general statement that can be inferred from the premise."	entailment
+398	Numekula ƒe agbalɛ̃ ɖe fia be etsaka ŋukumekaka geɖe kple se mɔxenuwo le nyananawo mamã me kpakple se si kplɔa ŋutasela nyanyananalawo to numekuku mɔwo dzi	Numekula ƒe nuŋɔŋlɔa baɖa ale gbegbe be ameaɖeke meteŋu le exlɛm o	neutral	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+399	Asarafomegã ɖewo le amewo ɖeɖe le adzawo me; bubuwo le gbadza dzi kple metro ʋudzeƒea	Asrafomegãwo ɖo woawotɔ ƒe dɔdeasiwo	entailment	"I can help with that! 😊
+
+After analyzing the premise and hypothesis in Ewe, a language spoken in Ghana and Togo, I can conclude that the relationship between them is:
+
+Neutral"	neutral
+400	Asarafomegã ɖewo le amewo ɖeɖe le adzawo me; bubuwo le gbadza dzi kple metro ʋudzeƒea	Asrafomegãwo yi afisi ko wohiã le ɖoɖomanɔ ŋui	contradiction	Neutral	neutral
+401	Asarafomegã ɖewo le amewo ɖeɖe le adzawo me; bubuwo le gbadza dzi kple metro ʋudzeƒea	Wona dɔdeasi asrafomegãwo le ŋugɔ dodo le dɔme ta	neutral	Entailment	entailment
+402	Le anyɔnyɔ 9lia me la, dzɔgbevɔ̃e nyanyanana aɖe tso Afghanistan, va	Miexɔ nyanyananawo tso Afghanistan	entailment	Entailment	entailment
+403	Le anyɔnyɔ 9lia me la, dzɔgbevɔ̃e nyanyanana aɖe tso Afghanistan, va	Miese Afghanistan ŋukɔ va se ɖe kele me o	contradiction	Entailment	entailment
+404	Le anyɔnyɔ 9lia me la, dzɔgbevɔ̃e nyanyanana aɖe tso Afghanistan, va	Woxlɔ̃ nu mi ku ɖe anyɔnyɔ 9lia amedzidzedze ŋu	neutral	Entailment	entailment
+405	Dzeɖoɖo manɔ anyi nye nu sesẽ si nɔ World Trade Center, Pentagone, Somerest kple Pennsylvanie ƒe gbagba me 	Dzeɖoɖo nɔ anyi nyui le anyɔnyɔ 11lia me	contradiction	Entailment	entailment
+406	Dzeɖoɖo manɔ anyi nye nu sesẽ si nɔ World Trade Center, Pentagone, Somerest kple Pennsylvanie ƒe gbagba me 	Amewo meteŋu ƒonu kple World Trade Center o elabena dziɖegbe ŋusẽ li eye kaƒomɔwo nu tso	neutral	Entailment	entailment
+407	Dzeɖoɖo manɔ anyi nye nu sesẽ si nɔ World Trade Center, Pentagone, Somerest kple Pennsylvanie ƒe gbagba me 	Esesẽ na amewo be woaɖo dze kple Worlde Trade Center	entailment	Entailment	entailment
+408	Numekukuwo le nyatakakadzraɖoƒewo me ateŋu na woakpɔ ʋukuku gbalɛvi kple eƒe number kpakple kaƒomɔ nuleɖi	Numekulawo bia hã be woaɖe mɔ le nyatakakadzraɖoƒewo ŋu na yewo	neutral	Entailment	entailment
+409	Numekukuwo le nyatakakadzraɖoƒewo me ateŋu na woakpɔ ʋukuku gbalɛvi kple eƒe number kpakple kaƒomɔ nuleɖi	Nyanyanana geɖewo li tonyatakakadzraɖoƒe siwo li me	entailment	Entailment	entailment
+410	Numekukuwo le nyatakakadzraɖoƒewo me ateŋu na woakpɔ ʋukuku gbalɛvi kple eƒe number kpakple kaƒomɔ nuleɖi	Mɔnu aɖeke meli woato akpɔ nyanyanana ku ɖe dzɔtsoƒe siwo li o	contradiction	Entailment	entailment
+411	Dɔdzikpɔla teɖa le Hazmi kple Mihdhar ŋu le esi wokpɔ ɖikeke gake esia meva eme do ŋugɔ woƒe kpekpeɖeŋu xɔxɔ o	 Dɔdzikpɔla yɔ dziɖuɖumegãwo zi ɖeka emegbe egbe eƒe kpekpeɖeŋu nana le nya sia me	contradiction	Entailment	entailment
+412	Dɔdzikpɔla teɖa le Hazmi kple Mihdhar ŋu le esi wokpɔ ɖikeke gake esia meva eme do ŋugɔ woƒe kpekpeɖeŋu xɔxɔ o	Dɔdzikpɔla na eƒe kpekpeɖeŋu togbɔ ɖikeke nɔ eme	entailment	Entailment	entailment
+413	Dɔdzikpɔla teɖa le Hazmi kple Mihdhar ŋu le esi wokpɔ ɖikeke gake esia meva eme do ŋugɔ woƒe kpekpeɖeŋu xɔxɔ o	Kpekpeɖeŋua na be woteŋu xɔ mɔzɔgbalɛ̃wo	neutral	Entailment	entailment
+414	Wo wu yɔyɔ siawo nu le ƒe 2003lia me, ŋɔdidoname ƒe nyawo kata xɔ yɔyɔ ɖeka fifia, 315	Dɔwɔna siwo katã ku ɖe ŋɔdidonameŋu trɔ zu nu si le vevie na mi	neutral	Entailment	entailment
+415	Wo wu yɔyɔ siawo nu le ƒe 2003lia me, ŋɔdidoname ƒe nyawo kata xɔ yɔyɔ ɖeka fifia, 315	Biabia siwo katã ku ɖe ŋɔdidoname ŋu xɔ dzesi ɖeka ŋukume	entailment	Entailment	entailment
+416	Wo wu yɔyɔ siawo nu le ƒe 2003lia me, ŋɔdidoname ƒe nyawo kata xɔ yɔyɔ ɖeka fifia, 315	Ŋɔdidoname nya ɖe sia ɖe gbɔ kpɔkpɔ anɔ eɖokui si	contradiction	Entailment	entailment
+417	Asrafomegã si kpɔ xɔgã mu la gblɔe na ESU dɔwɔƒetɔwo le dziehe xɔgã ɖeɖe me	Ameaɖeke menɔ dziehe xɔgã me le anyiehe tɔ ƒe gbagba me o	contradiction	Entailment	entailment
+418	Asrafomegã si kpɔ xɔgã mu la gblɔe na ESU dɔwɔƒetɔwo le dziehe xɔgã ɖeɖe me	Anyiehe xɔgã gbã miniti 30 do ŋugɔ hafi asrafomegã ƒonu kple ESU dɔwɔƒetɔwo le dziehe xɔgã me	neutral	Entailment	entailment
+419	Asrafomegã si kpɔ xɔgã mu la gblɔe na ESU dɔwɔƒetɔwo le dziehe xɔgã ɖeɖe me	Asrafomegã kpɔ anyiehe xɔgã ƒe gbagba teƒe	entailment	Entailment	entailment
+420	Indianapolis nye teƒe nyui aɖe na fefwɔlawo dɔwɔwɔ	 Fefewɔlawo lɔ̃a Indianapolis ɖe eƒe casting dɔwɔƒe geɖe siwo le eme ta	neutral	Entailment	entailment
+421	Indianapolis nye teƒe nyui aɖe na fefwɔlawo dɔwɔwɔ	Abe fefwɔla ene la, mieɖola ʋu atsi Indianapolis	entailment	Entailment	entailment
+422	Indianapolis nye teƒe nyui aɖe na fefwɔlawo dɔwɔwɔ	Asesẽ miakpɔ dɔ le Indianapolis nenye be le sinima kple fefewɔwɔ kpa dzi, elabe aɖaŋudɔ ŋuti nunya du wonye	contradiction	Entailment	entailment
+423	Miena kpekpeɖeŋu to kaƒomɔ dzi gaƒoƒo 24 ɖe gaƒoƒo dzi, ŋkeke 7 ɖe ŋkeke dzi to nyanyananawo dɔwɔƒe le mɔxexe nu kple dzilawo kpekpeɖeŋu ka dzi	E-mail alo aɖakagbalɛ̃vi dzi ko amewo ateŋu ayɔ mi to	contradiction	Neutral	neutral
+424	Miena kpekpeɖeŋu to kaƒomɔ dzi gaƒoƒo 24 ɖe gaƒoƒo dzi, ŋkeke 7 ɖe ŋkeke dzi to nyanyananawo dɔwɔƒe le mɔxexe nu kple dzilawo kpekpeɖeŋu ka dzi	Miateŋu yɔ mi to kaƒomɔ dzi le ŋkekea me katã	entailment	Entailment	entailment
+425	Miena kpekpeɖeŋu to kaƒomɔ dzi gaƒoƒo 24 ɖe gaƒoƒo dzi, ŋkeke 7 ɖe ŋkeke dzi to nyanyananawo dɔwɔƒe le mɔxexe nu kple dzilawo kpekpeɖeŋu ka dzi	Miexɔ yɔyɔ alafawo dzoɖa kple fiɖawo gbe	neutral	Neutral.	neutral
+426	Elabena aɖakavi siawo anɔ woƒe bablawo me ɣeyiɣi didi aɖe le esime woaʋu nunana bubuwo	Afɔku nuwoe le aɖakaviawo me	neutral	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I would say the answer is: entailment."	entailment
+427	Elabena aɖakavi siawo anɔ woƒe bablawo me ɣeyiɣi didi aɖe le esime woaʋu nunana bubuwo	Woaʋu nubabla siawo do ŋugɔ na nunana bubuwo	contradiction	Entailment.	entailment
+428	Elabena aɖakavi siawo anɔ woƒe bablawo me ɣeyiɣi didi aɖe le esime woaʋu nunana bubuwo	Aɖakavi siawo anɔ tutu ɣeyiɣi aɖe	entailment	Entailment	entailment
+429	Miakpɔ mi nenye be  miaɖiɖi miaƒe asi dzi, hahometɔwo abia kpekpeɖeŋu si akpeɖe mia ŋu miawɔ dɔdeasia	Miehiã be miaƒe nyaselawo katã nawɔ $25 nunana alebe miateŋu ɖiɖi tiketiwo dzi kpɔtɔ	neutral	Neutral	neutral
+430	Miakpɔ mi nenye be  miaɖiɖi miaƒe asi dzi, hahometɔwo abia kpekpeɖeŋu si akpeɖe mia ŋu miawɔ dɔdeasia	Miateŋu ɖiɖi miaƒe as dzi ne mmiedi gake miaƒetɔ lɔ̃a eƒe dzidzeme	contradiction	Entailment	entailment
+431	Miakpɔ mi nenye be  miaɖiɖi miaƒe asi dzi, hahometɔwo abia kpekpeɖeŋu si akpeɖe mia ŋu miawɔ dɔdeasia	Miaƒe nunanawo kpeaɖe miaŋu mieɖiɖi asiwo	entailment	Entailment	entailment
+432	00 na nuxlɔ̃amenyawo mi, ŋusẽdodowo kple ɖevi 400 ƒe dzefefe le Indianapolis nutoame	To nunanawo dzi la mieteŋu kpe Beyonce wova dziha ne Indianapolis tsɔẽviwo	neutral	Neutral	neutral
+433	00 na nuxlɔ̃amenyawo mi, ŋusẽdodowo kple ɖevi 400 ƒe dzefefe le Indianapolis nutoame	Miekpɔmɔ be miaɖu Nöel azã na ɖeviwo gake mieteŋu wɔ naneke nawo o	contradiction	Neutral.	neutral
+434	00 na nuxlɔ̃amenyawo mi, ŋusẽdodowo kple ɖevi 400 ƒe dzefefe le Indianapolis nutoame	Mieteŋu kpeɖe Indianapolis viwo geɖewo ŋu	entailment	Entailment	entailment
+435	Le ɣeyiɣi gbãtɔ me la, vavalawo ateŋu wɔ $1000nunana na Chacelors's Circle alo $500 na Chancellor's Associates tɔwo	Ɖokuisinɔdɔwɔtɔ vavalawo ateŋu kpɔ gome le $50 nunana megbe	contradiction	Neutral	neutral
+436	Le ɣeyiɣi gbãtɔ me la, vavalawo ateŋu wɔ $1000nunana na Chacelors's Circle alo $500 na Chancellor's Associates tɔwo	Amewo ateŋu kpɔ gome nenye be wowɔ nunana gã	entailment	Entailment	entailment
+437	Le ɣeyiɣi gbãtɔ me la, vavalawo ateŋu wɔ $1000nunana na Chacelors's Circle alo $500 na Chancellor's Associates tɔwo	Ame geɖewo lɔ̃ Chacellors Aassociates nunana	neutral	Entailment	entailment
+438	Miaƒe ateŋu na amlɔkɔe mɔnukpɔkpɔ bubuwo mi le ƒe nuwuwu 	Ne miewɔ $1000 nunana la kakaɖedzi li be miateŋu kpɔ gome le amlɔkɔe mɔnukpɔkpɔwo me	neutral	Entailment	entailment
+439	Miaƒe ateŋu na amlɔkɔe mɔnukpɔkpɔ bubuwo mi le ƒe nuwuwu 	Dzɔgbevɔ̃etɔ la, miaƒe amlɔkɔe toɖoƒolawo ateŋu gblɔna mi be miawɔ nunana ɖeke o	contradiction	Entailment	entailment
+440	Miaƒe ateŋu na amlɔkɔe mɔnukpɔkpɔ bubuwo mi le ƒe nuwuwu 	Miateŋu xɔ amlɔkɔewo ɖiɖi dzi kpɔtɔ le miaƒe nunanawo dzi	entailment	Entailment	entailment
+441	Abe alesi mienyae la, hatsotso sia menɔlawo nye xɔlɔ̃ kple amexoxo siwo wɔa $1000 nunana ƒe sia ƒe le sefiafia suku	Hatsotso sia metɔ aɖewo wɔ $100000 nunana le suku	neutral	"I can help you with that!
+
+The answer is: neutral.
+
+In the Ewe language, the premise talks about Abe having $1000, while the hypothesis talks about Hatsotso having $100000. There is no direct relationship or contradiction between the two statements, so the premise neither entails nor contradicts the hypothesis."	contradiction
+442	Abe alesi mienyae la, hatsotso sia menɔlawo nye xɔlɔ̃ kple amexoxo siwo wɔa $1000 nunana ƒe sia ƒe le sefiafia suku	Ame aɖewo le hatsotso sia me wɔ $1000 nunana le sefiafia suku	entailment	Entailment	entailment
+443	Abe alesi mienyae la, hatsotso sia menɔlawo nye xɔlɔ̃ kple amexoxo siwo wɔa $1000 nunana ƒe sia ƒe le sefiafia suku	Miedi be miabia hatsotso sia be woawɔ ga ƒe nunana na sukua gake miegblɔe haɖe o	contradiction	Entailment	entailment
+444	Abe ƒe 50 me viwo ene la, nye ŋukuɖodzinuwo dometɔ ɖeka nye fefewɔƒe yiyi	Nye melɔ̃ fefewɔƒe yiyi le nye ɖevime o, eyata metrɔ zu dzɔdzɔmeŋutinunyala	contradiction	Entailment	entailment
+445	Abe ƒe 50 me viwo ene la, nye ŋukuɖodzinuwo dometɔ ɖeka nye fefewɔƒe yiyi	Melɔ̃a fefewɔƒe yiyi le nye ɖevime	entailment	Entailment	entailment
+446	Abe ƒe 50 me viwo ene la, nye ŋukuɖodzinuwo dometɔ ɖeka nye fefewɔƒe yiyi	Nye fefe vevitɔ le Civic Theatre me nye La Belle et la B̂ete	neutral	"Nice one in Ewe!
+
+After analyzing the premise and hypothesis, I'd say it's **neutral**. The premise talks about Abe having 50 people at the viwo event, but it doesn't provide any information about the hypothesis, which is about a play (La Belle et la Bête) at the Civic Theatre. There's no clear connection or contradiction between the two, so it's neutral."	neutral
+447	Ne ame sia me si xɔ agbalɛvi sia na $18	Amesiwo katã xɔ agbalɛvi sia:  miegana naneke o, enye fififi mɔnu aɖe	contradiction	Entailment	entailment
+448	Ne ame sia me si xɔ agbalɛvi sia na $18	Ne mietsɔ $18 na la, miatsɔ nunana aɖe na mi	neutral	Entailment	entailment
+449	Ne ame sia me si xɔ agbalɛvi sia na $18	Miele mɔ kpɔm be ame siwo míeɖo agbalẽ ɖo ɖe la dometɔ ɖe sia ɖe ana $18 kpekpeɖeŋu	entailment	Entailment	entailment
+450	Mitso gɔmea ko ɖa,mide dzesi tiatia si dze,miwɔ trɔtrɔ siwo hiã le miaƒeadrɛs ŋueye miɖoe ɖa to agbalẽkotoku me.	Taflatsemigawɔ trɔtrɔ aɖeke le miaƒe adrɛs ŋu o.	contradiction	Entailment.	entailment
+451	Mitso gɔmea ko ɖa,mide dzesi tiatia si dze,miwɔ trɔtrɔ siwo hiã le miaƒeadrɛs ŋueye miɖoe ɖa to agbalẽkotoku me.	Mi:do miaƒe adrɛs ɖa le agbalẽkotoku me.	neutral	Entailment	entailment
+452	Mitso gɔmea ko ɖa,mide dzesi tiatia si dze,miwɔ trɔtrɔ siwo hiã le miaƒeadrɛs ŋueye miɖoe ɖa to agbalẽkotoku me.	Ne edzro mia miate ŋu atrɔ asi le miaƒe adres ŋu faa.	entailment	Entailment	entailment
+453	Dɔyɔlawo ƒe hehenaƒea hiã miaƒe kpekpeɖeŋu hena eƒe ŋgɔgbedede kple eƒe nufiafiaɖaŋu dodoɖeŋgɔ deŋgɔ ʈaʋliʋli.	Miwɔ dɔmenyɔnunana dɔlar miliɔ̃ alafa ɖeka na dɔnɔdzikpɔƒe hehenaƒea ne miedzi be yewoabu yewoƒe ŋkuɖodzikpetata.	neutral	Neutral.	neutral
+454	Dɔyɔlawo ƒe hehenaƒea hiã miaƒe kpekpeɖeŋu hena eƒe ŋgɔgbedede kple eƒe nufiafiaɖaŋu dodoɖeŋgɔ deŋgɔ ʈaʋliʋli.	Dɔnɔdzikpɔƒe hehenaƒea ɖo eƒe taɖodzinuwo katɑ̃ gbɔ si wɔe be womegahiɑ̃ gakpekpeɖeŋu aɖeke o.	contradiction	Neutral	neutral
+455	Dɔyɔlawo ƒe hehenaƒea hiã miaƒe kpekpeɖeŋu hena eƒe ŋgɔgbedede kple eƒe nufiafiaɖaŋu dodoɖeŋgɔ deŋgɔ ʈaʋliʋli.	Miele mɔ kpɔm be miawɔ kpekpeɖeŋu nunana aɖe na dɔnɔdzikpɔƒe hehenaƒea.	entailment	Entailment	entailment
+456	Ame blanyi le alafa me siwo anye gomekpɔlawo la aɖe afia be nuteƒekpɔkpɔ de ŋgɔ le yewo si le kuxiwo gbɔ kpɔkpɔ me.	Gomekpɔlawo ƒe afɑ̃ aɖe afia be ŋutete le yewo si le kuxi gɑ̃wo gbɔ kpɔkpɔ me.	entailment	Entailment.	entailment
+457	Ame blanyi le alafa me siwo anye gomekpɔlawo la aɖe afia be nuteƒekpɔkpɔ de ŋgɔ le yewo si le kuxiwo gbɔ kpɔkpɔ me.	Ne woma gomekpɔlawo ɖe akpa ene mea, akpa ɖeka koe te ŋu ɖe ŋutete si woatsɔ akpɔ kuxiwo gbɔ fia.	contradiction	Entailment.	entailment
+458	Ame blanyi le alafa me siwo anye gomekpɔlawo la aɖe afia be nuteƒekpɔkpɔ de ŋgɔ le yewo si le kuxiwo gbɔ kpɔkpɔ me.	Gomekpɔlawo wu ame alafa ɖeka.	neutral	Entailment.	entailment
+459	Mikpɔ egbɔ be miaƒe nunalawo ƒe dzidziɖedzi nagatsi akpo dzi o.	Aɖe fu ne mietɔte kpekpeɖeŋu nana.	entailment	Neutral.	neutral
+460	Mikpɔ egbɔ be miaƒe nunalawo ƒe dzidziɖedzi nagatsi akpo dzi o.	Miaƒe nunala siwo ŋuti asixɔxɔ megale o ƒe nuleɖigbalẽ do le nyadzɔdzɔgbalẽwo me, eyata mexɔe se be miadzi be woaɖi gbɔ yewo nenema gbegbe o.	neutral	Entailment	entailment
+461	Mikpɔ egbɔ be miaƒe nunalawo ƒe dzidziɖedzi nagatsi akpo dzi o.	Nulawo gbɔ miaƒe hiahiã nu, le esia ta mitɔte nunana.	contradiction	Entailment	entailment
+462	Kɔmpuita kple internet dzi kadonu nye mɔɖenu siwo ana be ame aɖe nàkpɔ gome le miaƒe hehenaƒea.	Be woayi gbeadzi la amewo mehiã naneke o.	contradiction	Entailment	entailment
+463	Kɔmpuita kple internet dzi kadonu nye mɔɖenu siwo ana be ame aɖe nàkpɔ gome le miaƒe hehenaƒea.	Be woage ɖe hehenaƒea ele be kɔmpuita kple internet dzi kadonua nanɔ ame si.	entailment	Entailment	entailment
+464	Kɔmpuita kple internet dzi kadonu nye mɔɖenu siwo ana be ame aɖe nàkpɔ gome le miaƒe hehenaƒea.	Ele be amewo nàtsɔ woƒe kɔmpuita kple internet dzi kadonua ɖe asi esi wole gegem ɖe teƒea hena mɔɖeɖe.	neutral	Entailment	entailment
+465	Tikitiwo dzadzra kple nudɔdɔwo wɔwɔ makpɔ miaƒe gakuxiwo gbɔ na ƴeƴiƴia o.	Ne mienya dzra tikitiwo ko la, miate ŋu akpɔ ƴeƴiƴia ƒe gagnawo gbɔ.	contradiction	Entailment	entailment
+466	Tikitiwo dzadzra kple nudɔdɔwo wɔwɔ makpɔ miaƒe gakuxiwo gbɔ na ƴeƴiƴia o.	Miehiã ga geɖe be miatsɔ akpɔ ƴeƴiƴia ƒe nuhiahiãwo gbɔ wu ga si miakpɔ to tikitiwo dzadzra kple nudɔdɔwo wɔwɔ.	entailment	Entailment.	entailment
+467	Tikitiwo dzadzra kple nudɔdɔwo wɔwɔ makpɔ miaƒe gakuxiwo gbɔ na ƴeƴiƴia o.	Tikitiwo dzadzra kple nudɔdɔwo wɔwɔ akpɔ miaƒe gakuxiwo gbɔ blaadre le alafa dzi na ƴeƴiƴia katã ko.	neutral	Neutral	neutral
+468	AGBA YEYE! NUNANA ƉESIAƉE NAA TƆTRƆ NƆA AME ŊU!	Woŋlɔ nudzɔdzɔ ɖesiaɖe ɖi eye wokaa nya ta le eŋu le ƴletia ƒe nyadzɔdzɔ me.	neutral	"What a beautiful Ewe language!
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: entailment.
+
+In Ewe, ""AGBA YEYE!"" is an expression of excitement or surprise, and the rest of the premise describes a situation where NUNANA is doing something with TƆTRƆ NƆA AME ŊU. The hypothesis builds upon this situation, providing more details about what's happening, which aligns with the premise.
+
+So, the hypothesis logically follows from the premise, making it an entailment!"	entailment
+469	AGBA YEYE! NUNANA ƉESIAƉE NAA TƆTRƆ NƆA AME ŊU!	Asixɔxɔ le nunana ɖesiaɖe ŋu.	entailment	"Nice to chat with you in Ewe!
+
+After analyzing the premise and hypothesis, I'd say it's an **entailment**."	entailment
+470	AGBA YEYE! NUNANA ƉESIAƉE NAA TƆTRƆ NƆA AME ŊU!	Nunana siwo gbɔ dɔlar alafa ɖeka ŋu le tɔxɛ.	contradiction	"I'd be happy to help!
+
+The answer is: NEUTRAL"	neutral
+471	Mɔ si le ŋgɔa didi be miaɖo miaƒe taɖodzinu si nye dɔlar 365 000 tso mi mìa xɔlɔ̃wo kple nudɔdɔ dɔlawo gbɔ.	Mìaƒe gahiahiã kɔ gbɔ dɔlar 300 000.	entailment	Entailment	entailment
+472	Mɔ si le ŋgɔa didi be miaɖo miaƒe taɖodzinu si nye dɔlar 365 000 tso mi mìa xɔlɔ̃wo kple nudɔdɔ dɔlawo gbɔ.	Mìaƒe dzidzie nye be mìadzi mìaƒe ganyawo ɖe edzi zi gbɔ zi etɔ̃.	neutral	Entailment	entailment
+473	Mɔ si le ŋgɔa didi be miaɖo miaƒe taɖodzinu si nye dɔlar 365 000 tso mi mìa xɔlɔ̃wo kple nudɔdɔ dɔlawo gbɔ.	Ga kpɔkpɔ mɔnu ɖeka gobii mele mìasi o.	contradiction	Neutral.	neutral
+474	Mìaƒe dɔdaƒe nɔɖokui si si kpɔa dukɔmeviwo ƒe nya ŋutɔŋutɔ gbɔ le dɔ wɔm ƒe geɖee nye sia eye mìetsɔ nuvlowɔlawo taʋiʋli tɔ ɖeka kpe ɖe eŋu medzidzi o.	Mìaƒe dɔdaƒe nɔɖokui si si kpɔa dukɔmeviwo ƒe nya ŋutɔŋutɔ gbɔ le dɔ wɔm ƒe enyie nye esia.	neutral	Entailment	entailment
+475	Mìaƒe dɔdaƒe nɔɖokui si si kpɔa dukɔmeviwo ƒe nya ŋutɔŋutɔ gbɔ le dɔ wɔm ƒe geɖee nye sia eye mìetsɔ nuvlowɔlawo taʋiʋli tɔ ɖeka kpe ɖe eŋu medzidzi o.	Dukɔmeviwo ƒe nya ŋutɔŋutɔ gbɔ kpɔkpɔ le mìaƒe ɖokuisi dɔdaƒea aɖu dɔdzitɔtɔ ƒe ƒe gbãtɔ ƒe azã ƴleti si gbɔna.	contradiction	Entailment	entailment
+476	Mìaƒe dɔdaƒe nɔɖokui si si kpɔa dukɔmeviwo ƒe nya ŋutɔŋutɔ gbɔ le dɔ wɔm ƒe geɖee nye sia eye mìetsɔ nuvlowɔlawo taʋiʋli tɔ ɖeka kpe ɖe eŋu medzidzi o.	Se si ku ɖe dukɔmeviwo ƒe dɔwɔwɔ ŋu dze egɔme ƒe ɖekae nye esia.	entailment	Entailment	entailment
+477	Tikiti dzadzra ƒe ga mesu na ɖoɖowɔɖia o.	Ewɔ nam abe tikitiwo dzadzra ƒe ga màsu akpɔ ɖoɖoawo ƒe nya gbɔ o.	entailment	Entailment.	entailment
+478	Tikiti dzadzra ƒe ga mesu na ɖoɖowɔɖia o.	Ga si wokã ɖe ɖoɖoawo ŋuti kɔ akpa.	neutral	Entailment.	entailment
+479	Tikiti dzadzra ƒe ga mesu na ɖoɖowɔɖia o.	Ga si mìakpɔ tso tikitiawo dzadzra me asɔ ta na ɖoɖoawo gbɔ kpɔkpɔ.	contradiction	Entailment.	entailment
+480	Omnia Vincit amor (nenye be nèle dɔ wɔm na Weekly Standard ko): Brit Hume (si wɔ Fox News Sunday wɔna) la le nya biam eɖokui ku ɖe susu kawo ta Lewinsky mate ŋui o ɖo. Egale lɔlɔ̃ tsɔm na zimenɔla la.	Brit Hume nye nyakakadɔwɔlawo ƒe tatɔ le Fox.	neutral	Entailment	entailment
+481	Omnia Vincit amor (nenye be nèle dɔ wɔm na Weekly Standard ko): Brit Hume (si wɔ Fox News Sunday wɔna) la le nya biam eɖokui ku ɖe susu kawo ta Lewinsky mate ŋui o ɖo. Egale lɔlɔ̃ tsɔm na zimenɔla la.	Brit Hume wɔa dɔ na CNN.	contradiction	Neutral.	neutral
+482	Omnia Vincit amor (nenye be nèle dɔ wɔm na Weekly Standard ko): Brit Hume (si wɔ Fox News Sunday wɔna) la le nya biam eɖokui ku ɖe susu kawo ta Lewinsky mate ŋui o ɖo. Egale lɔlɔ̃ tsɔm na zimenɔla la.	Brit Hume wɔa dɔ na Fox.	entailment	Entailment	entailment
+483	Wowɔ geɖe be woakpe ɖe Michael Apted ŋuti be wòade agbe film siwo kplɔ wonɔewo ɖo.	Michael Apted gblẽ wɔnawo katã le esi wòɖe vividodoɖe ame ŋu kple veveseɖe ame ŋu ɖa.	contradiction	Entailment	entailment
+484	Wowɔ geɖe be woakpe ɖe Michael Apted ŋuti be wòade agbe film siwo kplɔ wonɔewo ɖo.	Woxɔ Michael Apted be wòava de agbe tɔxɛ aɖe wɔnawo me.	entailment	Entailment	entailment
+485	Wowɔ geɖe be woakpe ɖe Michael Apted ŋuti be wòade agbe film siwo kplɔ wonɔewo ɖo.	Wokpɔ be wɔnawo fa eye dzo mele wo me o, le susu sia ta woxɔ Michael Apted be wòatrɔ asi le wo ŋu etɔxɛ.	neutral	Entailment	entailment
+486	Mikpɔ ɖetugbi sia le parka si wotso lã fu ƴi do atsyɔ̃ na kple eƒe damaɖuia ɖa.	Ɖetugbi aɖe do awu si aɖe mɔ nɛ be wòafe le sno me.	neutral	Entailment	entailment
+487	Mikpɔ ɖetugbi sia le parka si wotso lã fu ƴi do atsyɔ̃ na kple eƒe damaɖuia ɖa.	Ɖetugbi aɖe do awu ƴi.	entailment	Entailment	entailment
+488	Mikpɔ ɖetugbi sia le parka si wotso lã fu ƴi do atsyɔ̃ na kple eƒe damaɖuia ɖa.	Ɖetugbi aɖe do nu dzĩ helĩhelĩ.	contradiction	Entailment.	entailment
+489	Womegblɔ alesi tututue Kaufman dzi be yeatrɔ asi le ye ŋutɔ ƒe ku ŋu le filmea me wòsɔ o.	Makpɔ Kaufman wòanɔ nu ƒom tso eya ŋutɔ ƒe ku ŋu o.	entailment	Entailment	entailment
+490	Womegblɔ alesi tututue Kaufman dzi be yeatrɔ asi le ye ŋutɔ ƒe ku ŋu le filmea me wòsɔ o.	Wobia gbe Kaufman le filmea me wòƒo nu tso eya ŋutɔ ƒe ku ŋu.	contradiction	Entailment	entailment
+491	Womegblɔ alesi tututue Kaufman dzi be yeatrɔ asi le ye ŋutɔ ƒe ku ŋu le filmea me wòsɔ o.	Filmea nye esi ŋu woka ga kpekpe aɖe ɖo evɔ womebu Kaufman ƒe wɔƒe veviwo ɖe eme o.	neutral	Entailment	entailment
+492	Nu te ɖe Rockefeller dzi esime wòde dzesi be Avenging Angel Tarbell te nutata ɖe eƒe ŋutigbalẽ ŋuti le McClure gbɔ.	Rockefeller te numekuku tso kãsa ŋu.	neutral	"I can help you with that!
+
+The answer is: entailment.
+
+(Note: The language used appears to be Ewe, a language spoken in Ghana and Togo.)"	entailment
+493	Nu te ɖe Rockefeller dzi esime wòde dzesi be Avenging Angel Tarbell te nutata ɖe eƒe ŋutigbalẽ ŋuti le McClure gbɔ.	Rockefeller nana nu ame.	entailment	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I'd say the answer is: entailment.
+
+The premise mentions Rockefeller, and the hypothesis also talks about Rockefeller, stating that ""Rockefeller is a person"" (nana nu ame). The premise provides more information about Rockefeller, but it doesn't contradict the hypothesis. Instead, it supports and implies that Rockefeller is a person, which is the hypothesis."	entailment
+494	Nu te ɖe Rockefeller dzi esime wòde dzesi be Avenging Angel Tarbell te nutata ɖe eƒe ŋutigbalẽ ŋuti le McClure gbɔ.	Rockefeller nye nuŋuvela.	contradiction	Entailment.	entailment
+495	Medidi o, wotso Klayman nu be ede kɔta aɖe dzi le asitsanya aɖe me le New York.	Wotso Klayman nu le Californie be ede kɔta aɖe dzi.	contradiction	Entailment.	entailment
+496	Medidi o, wotso Klayman nu be ede kɔta aɖe dzi le asitsanya aɖe me le New York.	Klayman mele mɔ kpɔm be woatso ye nu le kɔta aɖe dzidede ƒe nya me o.	neutral	Entailment	entailment
+497	Medidi o, wotso Klayman nu be ede kɔta aɖe dzi le asitsanya aɖe me le New York.	Wotsɔ nya aɖewo ɖe Klayman ŋu be ede kɔta aɖe dzi.	entailment	Entailment.	entailment
+498	Ame aɖeke masusui be xɔ aɖe si ɖɔ kple dɔwɔƒe dzi kpɔlawo la naho eye woanɔ Amérika ƒe dɔ ƒe nyawo gbɔ kpɔgbalẽŋlɔla dzum o.	Dɔwɔƒedzikpɔlawo do dziwuiwo.	neutral	Entailment	entailment
+499	Ame aɖeke masusui be xɔ aɖe si ɖɔ kple dɔwɔƒe dzi kpɔlawo la naho eye woanɔ Amérika ƒe dɔ ƒe nyawo gbɔ kpɔgbalẽŋlɔla dzum o.	Edze kɔtɛ be dɔwɔƒe dzikpɔlawo nava te ƴlidodo.	contradiction	Entailment	entailment
+500	Ame aɖeke masusui be xɔ aɖe si ɖɔ kple dɔwɔƒe dzi kpɔlawo la naho eye woanɔ Amérika ƒe dɔ ƒe nyawo gbɔ kpɔgbalẽŋlɔla dzum o.	Edze kɔtɛ be dɔwɔƒe dzikpɔlawo nava te ƴlidodo.	entailment	Entailment.	entailment
+501	Viɖe aɖeke mele nya sia me na amegbetɔwo o.	Wodzia kamedelawo kple dzɔdzɔme ŋutete si wova ɖea ɖe go emegbe.	contradiction	Entailment	entailment
+502	Viɖe aɖeke mele nya sia me na amegbetɔwo o.	Ŋutilã mamla de ŋgɔ wu dzɔdzɔme ŋutete.	entailment	"I'd be happy to help!
+
+The answer is: NEUTRAL"	neutral
+503	Viɖe aɖeke mele nya sia me na amegbetɔwo o.	Kamedela akpa gãtɔwo mlãa woƒe ŋutilã gaƒoƒo enyi ya tete kwasiɖa sia kwasiɖa.	neutral	Neutral.	neutral
+504	Esi meɖo aƒe me la, wokã nya ta be Amerika dzudzɔ kpekpeɖeŋu nana le mɔ eve nu.	Mekpɔa ŋudzedze ɖe dunyahehe ŋu.	neutral	Neutral.	neutral
+505	Esi meɖo aƒe me la, wokã nya ta be Amerika dzudzɔ kpekpeɖeŋu nana le mɔ eve nu.	Mese nya tso Amerika ŋu.	entailment	Entailment.	entailment
+506	Esi meɖo aƒe me la, wokã nya ta be Amerika dzudzɔ kpekpeɖeŋu nana le mɔ eve nu.	Woka nyata be Amerika aɖiɖi eƒe nunanawo dzi akpɔtɔ le mɔ eve nu.	contradiction	Entailment	entailment
+507	Xexeame katã ƒe yuniversiti ƒe nyadzɔdzɔgbalẽ gãtɔ kple xoxotɔ...Oxford...ka nya ta be wote fli ɖe yeƒe hakpanyawo nuleɖigbalẽa me	Hakpanyanuleɖigbalẽ si le Oxford meganye yeye o.	entailment	Entailment	entailment
+508	Xexeame katã ƒe yuniversiti ƒe nyadzɔdzɔgbalẽ gãtɔ kple xoxotɔ...Oxford...ka nya ta be wote fli ɖe yeƒe hakpanyawo nuleɖigbalẽa me	Ga menɔ yuniversiti xɔ ŋkɔa si be wòana eƒe hakpanyanuleɖigbalẽ nanɔ yeye o.	neutral	Entailment	entailment
+509	Xexeame katã ƒe yuniversiti ƒe nyadzɔdzɔgbalẽ gãtɔ kple xoxotɔ...Oxford...ka nya ta be wote fli ɖe yeƒe hakpanyawo nuleɖigbalẽa me	Wode dɔ asi na yuniversitia be wòakpɔ hakpanyanuleɖigbalẽawo dzi eye wòdo ŋugbe be yemate fli ɖe wo me o.	contradiction	Entailment	entailment
+510	Akɔfafa nunana aɖe li na ameƒomea.	Akɔfafa nunana sia nye nututsakanu gbɔlo si ƒe dɔwɔwɔ de ŋgɔ.	neutral	Entailment.	entailment
+511	Akɔfafa nunana aɖe li na ameƒomea.	Viɖe aɖeke mele nya sia me na amegbetɔwo o.	contradiction	"I'd be happy to help you with that!
+
+The answer is: NEUTRAL"	neutral
+512	Akɔfafa nunana aɖe li na ameƒomea.	Menye nyatakaka baɖa aɖeke na ameƒomea o.	entailment	Entailment.	entailment
+513	Menye kamedenuwɔnawo dzi koe woato ada tsatsa le nyatakakadzraɖoƒe siawo dzi o.	Woda asi ɖe tsatsa dada to dunyahenyawo kple akɔdanyawo hã dzi le nyatakakadzraɖoƒe sia.	neutral	Entailment	entailment
+514	Menye kamedenuwɔnawo dzi koe woato ada tsatsa le nyatakakadzraɖoƒe siawo dzi o.	Kamedenuwɔnawo ƒe tsatsa dada dzi koe woda asi ɖo le nyatakakadzraɖoƒe siawo.	contradiction	Entailment.	entailment
+515	Menye kamedenuwɔnawo dzi koe woato ada tsatsa le nyatakakadzraɖoƒe siawo dzi o.	Nyatakakadzraɖoƒe siawo de ŋgɔ le nu geɖe me.	entailment	Entailment	entailment
+516	N.J.Johnson si xɔ ƒe 56 do dziku gblɔ nya siwo woleɖi le go etɔ̃ me be yemegadzi be yeakpɔ gome le dukplɔla ƒe akɔdanyawo me o le gododo si democrate habɔbɔa wɔ le Atlantic City le August 25 lia dzi.	Johnson de dzesi be amewo megale ye dzi o	neutral	Entailment.	entailment
+517	N.J.Johnson si xɔ ƒe 56 do dziku gblɔ nya siwo woleɖi le go etɔ̃ me be yemegadzi be yeakpɔ gome le dukplɔla ƒe akɔdanyawo me o le gododo si democrate habɔbɔa wɔ le Atlantic City le August 25 lia dzi.	Johnson mesusui kpɔ be yeade megbe o.	contradiction	Entailment.	entailment
+518	N.J.Johnson si xɔ ƒe 56 do dziku gblɔ nya siwo woleɖi le go etɔ̃ me be yemegadzi be yeakpɔ gome le dukplɔla ƒe akɔdanyawo me o le gododo si democrate habɔbɔa wɔ le Atlantic City le August 25 lia dzi.	Johnson do dziku be yeade megbe.	entailment	Entailment	entailment
+519	Lamar Alexander ɖe ta le eƒe mɔnukpɔkpɔ si su esi be wòazu dukplɔla te.	Neglogodo la ame ɖeka ya teti gbe kpɔ be yemazu dukplɔla o.	entailment	Entailment	entailment
+520	Lamar Alexander ɖe ta le eƒe mɔnukpɔkpɔ si su esi be wòazu dukplɔla te.	Lamar Alexander gbe be yemaɖe asi le dukplɔla ƒe hoʋiʋlia me o.	contradiction	Entailment.	entailment
+521	Lamar Alexander ɖe ta le eƒe mɔnukpɔkpɔ si su esi be wòazu dukplɔla te.	Eva zi aƒetɔ Alexander dzi be wòtɔte hoʋiʋlia le esi wokaka eƒe foto maɖɔʋuwo ta.	neutral	Entailment	entailment
+522	To vo na nya ɖefuname siwo ku ɖe eŋu va yi mea, etu afɔ amegbetɔwo ƒe dzena hã dzi vevitɔ esi wòzã FBI le nya aɖe si wona ŋkɔ be Filgate ƒe nya me.	Amerika dziɖuɖudɔwɔƒea zã FBI tsɔ zɔ̃ amesiwo katã le ho ʋlim be yewoanye dukplɔla gɔme.	neutral	Entailment	entailment
+523	To vo na nya ɖefuname siwo ku ɖe eŋu va yi mea, etu afɔ amegbetɔwo ƒe dzena hã dzi vevitɔ esi wòzã FBI le nya aɖe si wona ŋkɔ be Filgate ƒe nya me.	Amerika dziɖuɖudɔwɔƒea zã FBI le mɔ gbegblẽ nu.	entailment	Entailment	entailment
+524	To vo na nya ɖefuname siwo ku ɖe eŋu va yi mea, etu afɔ amegbetɔwo ƒe dzena hã dzi vevitɔ esi wòzã FBI le nya aɖe si wona ŋkɔ be Filgate ƒe nya me.	Amerika dziɖuɖudɔwɔƒea zã FBI le mɔ si sɔ nu.	contradiction	Entailment.	entailment
+525	Tung do ŋugbe be yeƒe asi asẽ ɖe amesiwo kɔ xɔwo ƒe asi yi dzi, gake amewo susui be howɔwɔ gbɔlo ko wòanye.	Tung metsɔ ɖe le eme na ame siwo kɔ xɔwo ƒe asi yi dzi ƒe nya me o.	contradiction	Entailment	entailment
+526	Tung do ŋugbe be yeƒe asi asẽ ɖe amesiwo kɔ xɔwo ƒe asi yi dzi, gake amewo susui be howɔwɔ gbɔlo ko wòanye.	Tung kpɔe be ame siwo kɔ xɔwo ƒe asi yi dzi la le nuwɔm tsitre ɖe ɖoɖo si le se nu la ŋu.	neutral	Entailment	entailment
+527	Tung do ŋugbe be yeƒe asi asẽ ɖe amesiwo kɔ xɔwo ƒe asi yi dzi, gake amewo susui be howɔwɔ gbɔlo ko wòanye.	Tung dzi be yeakpɔ ŋusẽ ɖe ame siwo le xɔwo ƒe asi kɔm yi dzi la dzi.	entailment	Entailment.	entailment
+528	kple fedonamegbalẽvi vɔɖiwo ŋu.	Ame ewo bu woƒe agbawo.	neutral	"I'd be happy to help!
+
+Since I'm fluent in Ewe, I can analyze the premise and hypothesis for you.
+
+The premise ""kple fedonamegbalẽvi vɔɖiwo ŋu"" roughly translates to ""And the old man's farm is there.""
+
+The hypothesis ""Ame ewo bu woƒe agbawo"" roughly translates to ""We will build our house.""
+
+After analyzing both, I conclude that the relationship between the premise and hypothesis is **neutral**. The premise talks about the location of an old man's farm, while the hypothesis discusses building a house, which are unrelated topics."	neutral
+529	kple fedonamegbalẽvi vɔɖiwo ŋu.	Amewo fɔ nya ɖe agbawo ƒe bubu ŋu.	entailment	"I can help with that!
+
+The answer is: neutral"	neutral
+530	kple fedonamegbalẽvi vɔɖiwo ŋu.	Womeŋlɔ nya siwo amewo fɔ ɖe te le woƒe agba bubuwo ta ɖi o.	contradiction	"I'd be happy to help!
+
+After analyzing the premise and hypothesis in the Ewe language, I would say that the relationship between them is:
+
+Neutral"	neutral
+531	Lawrence Singleton si doa avu na amewo, si wole de ga ƒe enyi pɛ ko la tɔ hɛ nyɔnu bubu aɖe le Florida le esi wotso abɔ nɛ vɔ megbe.	Esi wòtso abɔ na amesiwo dzi wòdze la, etsɔ wo ƴla ɖe gbelɔnu me.	neutral	Entailment	entailment
+532	Lawrence Singleton si doa avu na amewo, si wole de ga ƒe enyi pɛ ko la tɔ hɛ nyɔnu bubu aɖe le Florida le esi wotso abɔ nɛ vɔ megbe.	Ame sia ame susui be eƒe gaxɔmenɔnɔ trɔ eƒe agbe kura.	contradiction	Neutral.	neutral
+533	Lawrence Singleton si doa avu na amewo, si wole de ga ƒe enyi pɛ ko la tɔ hɛ nyɔnu bubu aɖe le Florida le esi wotso abɔ nɛ vɔ megbe.	Aƒetɔ Singleton nye ame si wobu fɔ le Floride be enye akpasese amegbɔdɔla.	entailment	Entailment	entailment
+534	Le Charles Lane si nye New Republic nyakakadɔwɔla nya nu la, adzotsoamenya nye nya aɖe si le amebaɖanyenye dim ɖe edzi le Gabriel Garcia Marquez nyakakanya nu.	Charles Lane nye nyakakadɔwɔla.	entailment	Entailment.	entailment
+535	Le Charles Lane si nye New Republic nyakakadɔwɔla nya nu la, adzotsoamenya nye nya aɖe si le amebaɖanyenye dim ɖe edzi le Gabriel Garcia Marquez nyakakanya nu.	Charles Lane dzra ʋuwo.	contradiction	Entailment.	entailment
+536	Le Charles Lane si nye New Republic nyakakadɔwɔla nya nu la, adzotsoamenya nye nya aɖe si le amebaɖanyenye dim ɖe edzi le Gabriel Garcia Marquez nyakakanya nu.	Charles Lane kpɔ ga home aɖe tso nya sia me.	neutral	Entailment	entailment
+537	Se nyawo gbɔ kpɔƒe ɖeka menye dɔwɔƒe si ate ŋu akpɔ nya siawo gbɔ le Washington ŋdi sia o.	Menye kodzoɖoƒea koe nye dunyahehawo ƒe godoƒe ɖeka kolia si le Washington.	entailment	Entailment.	entailment
+538	Se nyawo gbɔ kpɔƒe ɖeka menye dɔwɔƒe si ate ŋu akpɔ nya siawo gbɔ le Washington ŋdi sia o.	Wotɔa dunyahehawo ƒe wɔnawo dzi le ŋdi kpadzi.	neutral	Neutral.	neutral
+539	Se nyawo gbɔ kpɔƒe ɖeka menye dɔwɔƒe si ate ŋu akpɔ nya siawo gbɔ le Washington ŋdi sia o.	Dzidzɔdonamenuwo koe va nɔ kodzoɖoƒea, vevitɔ	contradiction	Neutral.	neutral
+540	Ame ate ŋu akpɔe le susu me be bulldozer ʋukula aɖe le mɔ aɖe dzram ɖo ɖe ŋgɔyiyi yeye aɖe ŋu, si xɔtula Hey, Loyd...	Àte ŋu akpɔe le susu me be bulldozer ʋukula aɖe le bulldozer gɔme dzem	neutral	Entailment.	entailment
+541	Ame ate ŋu akpɔe le susu me be bulldozer ʋukula aɖe le mɔ aɖe dzram ɖo ɖe ŋgɔyiyi yeye aɖe ŋu, si xɔtula Hey, Loyd...	Àte ŋu akpɔ bulldozer dɔwɔla aɖe le susu me	entailment	Entailment	entailment
+542	Ame ate ŋu akpɔe le susu me be bulldozer ʋukula aɖe le mɔ aɖe dzram ɖo ɖe ŋgɔyiyi yeye aɖe ŋu, si xɔtula Hey, Loyd...	Màte ŋu akpɔ bulldozer dɔwɔla aɖe le susu me o	contradiction	Entailment	entailment
+543	Meyɔe le lɛta aɖe si meŋlɔ na Ðɔkta la me Edze abe ɖe wòdo dzidzɔ nɛ ene, eye wòɖo atikutsetsebolo sue aɖe ɖem hena Kristmas ɖuɖu.	Meka ɖe edzi be ɖɔktaa xɔ lɛta si meɖo ɖee.	entailment	Entailment	entailment
+544	Meyɔe le lɛta aɖe si meŋlɔ na Ðɔkta la me Edze abe ɖe wòdo dzidzɔ nɛ ene, eye wòɖo atikutsetsebolo sue aɖe ɖem hena Kristmas ɖuɖu.	Nyemeɖu abolo si ɖɔktaa ɖo ɖem le Kristmas ma dzi o	neutral	Entailment	entailment
+545	Meyɔe le lɛta aɖe si meŋlɔ na Ðɔkta la me Edze abe ɖe wòdo dzidzɔ nɛ ene, eye wòɖo atikutsetsebolo sue aɖe ɖem hena Kristmas ɖuɖu.	Ðɔktaa ɖo wein ƒe aɖa ɖeka ɖem le Kristmas ma dzi	contradiction	Entailment	entailment
+546	Wotsɔ ŋkɔ si dzi woaɖo ŋkui be Bean Eaters yɔa ƒuƒoƒoa tsã, si, nusi wɔ nuku be woate ŋu abu hã be enye Indiatɔwo ƒe megbeŋkɔ.	Wotrɔ woƒe ƒuƒoƒoa ƒe ŋkɔ, elabena mexɔ ŋkɔ fũ o.	neutral	Entailment	entailment
+547	Wotsɔ ŋkɔ si dzi woaɖo ŋkui be Bean Eaters yɔa ƒuƒoƒoa tsã, si, nusi wɔ nuku be woate ŋu abu hã be enye Indiatɔwo ƒe megbeŋkɔ.	Ŋkɔ aɖe nɔ ƒuƒoƒoa si do ŋgɔ na esia si woate ŋu abu hã be enye Indiatɔwo ƒe megbeŋkɔ.	entailment	Entailment	entailment
+548	Wotsɔ ŋkɔ si dzi woaɖo ŋkui be Bean Eaters yɔa ƒuƒoƒoa tsã, si, nusi wɔ nuku be woate ŋu abu hã be enye Indiatɔwo ƒe megbeŋkɔ.	Ŋkɔ ɖeka koe nɔ habɔbɔa si.	contradiction	Entailment	entailment
+549	Nyemete ŋu kpɔ gɔmesese ma tɔgbe le nyagɔmeɖegbalẽ aɖe me o	Mekpɔ gɔmesesea le nyagɔmeɖegbalẽa me	contradiction	Entailment	entailment
+550	Nyemete ŋu kpɔ gɔmesese ma tɔgbe le nyagɔmeɖegbalẽ aɖe me o	Melé ŋku ɖe nyagɔmeɖegbalẽa me eye nyemeke ɖe gɔmesese aɖeke ŋu o.	entailment	Entailment	entailment
+551	Nyemete ŋu kpɔ gɔmesese ma tɔgbe le nyagɔmeɖegbalẽ aɖe me o	Nyagɔmeɖegbalẽ si mezã lae nye nyagɔmeɖegbalẽ si wozãna ɖaa.	neutral	Entailment	entailment
+552	Aleke ame ate ŋu awɔ esia?	Aleke ame geɖe mate ŋu awɔ naneke o?	contradiction	"In Ewe, a language spoken in Ghana and Togo, I'd be happy to help!
+
+The premise ""Aleke ame ate ŋu awɔ esia?"" can be translated to ""Did Aleke's mother buy something at the market?""
+
+The hypothesis ""Aleke ame geɖe mate ŋu awɔ naneke o?"" can be translated to ""Did Aleke's mother buy something at the market yesterday?""
+
+In this case, the hypothesis provides more specific information (yesterday) than the premise, but it doesn't contradict or confirm the premise. Therefore, the relationship between the premise and hypothesis is **neutral**."	neutral
+553	Aleke ame ate ŋu awɔ esia?	Aleke ame aɖe ate ŋu awɔ nu gbegblẽ sia tɔgbe?	neutral	"I'd be happy to help!
+
+In Ewe, the premise ""Aleke ame ate ŋu awɔ esia?"" translates to ""Did Aleke's mother buy a house?""
+
+The hypothesis ""Aleke ame aɖe ate ŋu awɔ nu gbegblẽ sia tɔgbe?"" translates to ""Did Aleke's mother buy a house in the village yesterday?""
+
+Based on the translations, I would say the relationship between the premise and hypothesis is **entailment**. The hypothesis provides more specific information about the event mentioned in the premise, but it does not contradict it."	entailment
+554	Aleke ame ate ŋu awɔ esia?	Aleke wòate ŋu adzɔe be ame ɖeka ko nawɔ esia?	entailment	Entailment	entailment
+555	Tsɔ kpe ɖe eŋu la, nya siwo wonya be wofɔ ƒe alafa 20 lia ɖe te, le ŋgɔdonyaa nu, gake eŋlɔ ƒe alafa 20 lia ƒe gɔmedzedze me asrafowo ƒe nyagbɔgblɔ be.	Le ŋgɔdonyaa nu la, nya siwo dzɔ tso ƒe alafa 20 lia me la le eme, gake mebua gbegbɔgblɔ siwo do ŋgɔ la ŋu o.	entailment	Entailment	entailment
+556	Tsɔ kpe ɖe eŋu la, nya siwo wonya be wofɔ ƒe alafa 20 lia ɖe te, le ŋgɔdonyaa nu, gake eŋlɔ ƒe alafa 20 lia ƒe gɔmedzedze me asrafowo ƒe nyagbɔgblɔ be.	Gbegbɔgblɔ siwo katã le eme tso ɣeyiɣiawo ƒe gɔmedzedze ke la le eme.	contradiction	Entailment	entailment
+557	Tsɔ kpe ɖe eŋu la, nya siwo wonya be wofɔ ƒe alafa 20 lia ɖe te, le ŋgɔdonyaa nu, gake eŋlɔ ƒe alafa 20 lia ƒe gɔmedzedze me asrafowo ƒe nyagbɔgblɔ be.	Gbegbɔgblɔ vovovo geɖewo li siwo woŋlɔ do ŋgɔ na ƒe alafa blaevelia.	neutral	Entailment.	entailment
+558	Ne ƒe 1984 tɔa le ame aɖe si la, ate ŋu ado dziku na wo ŋutɔ be ele be woaƒle agbalẽ sia tsɔ wu be woaƒle Kpekpeɖeŋunu si le kpuie wu (eye wòxɔ asi wu).	Ƒe 1984 tɔae nye nyuitɔ kekeake.	neutral	Entailment	entailment
+559	Ne ƒe 1984 tɔa le ame aɖe si la, ate ŋu ado dziku na wo ŋutɔ be ele be woaƒle agbalẽ sia tsɔ wu be woaƒle Kpekpeɖeŋunu si le kpuie wu (eye wòxɔ asi wu).	Womedzra agbalẽa o.	contradiction	Entailment	entailment
+560	Ne ƒe 1984 tɔa le ame aɖe si la, ate ŋu ado dziku na wo ŋutɔ be ele be woaƒle agbalẽ sia tsɔ wu be woaƒle Kpekpeɖeŋunu si le kpuie wu (eye wòxɔ asi wu).	Nuɖuɖu si wotsɔ kpe ɖe eŋu la ƒe asi bɔbɔ wu agbalẽa.	entailment	Entailment.	entailment
+561	Bernstein ɖe eme le ŋgɔdonya me	Bernstein mele eme ɖem titotito o.	neutral	"In Ewe, a language spoken in Ghana and Togo, I'd be happy to help you with that.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: neutral.
+
+Here's a breakdown of the sentences:
+
+Premise: ""Bernstein ɖe eme le ŋgɔdonya me"" - Bernstein is not in the same group as me.
+Hypothesis: ""Bernstein mele eme ɖem titotito o"" - Bernstein is not a friend of mine, literally ""Bernstein is not my friend friend"".
+
+The premise talks about Bernstein not being in the same group, while the hypothesis talks about Bernstein not being a friend. These two statements are not directly related, and one does not necessarily imply or contradict the other. Therefore, the relationship between them is neutral."	neutral
+562	Bernstein ɖe eme le ŋgɔdonya me	Nyataƒoƒoa me ko Bernstein ɖe eme le.	contradiction	"Nice question in Ewe!
+
+After analyzing the premise and hypothesis, I'd say it's an **entailment**.
+
+Here's a brief breakdown:
+
+* The premise ""Bernstein ɖe eme le ŋgɔdonya me"" can be translated to ""Bernstein is the one who wrote the book.""
+* The hypothesis ""Nyataƒoƒoa me ko Bernstein ɖe eme le"" can be translated to ""It is Bernstein who wrote the book.""
+
+The premise and hypothesis convey the same meaning, with the hypothesis being a rephrased version of the premise. Therefore, the premise entails the hypothesis."	entailment
+563	Bernstein ɖe eme le ŋgɔdonya me	Nugɔmeɖeɖe aɖe nɔ kpɔkplɔyiɖemea me.	entailment	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+564	Womegblɔ be nya siawo nye se o, evɔ asesẽ na amedzro be wòanya vovototo si le wozazã feŋuɖutɔe me nenye be wògaxɔ ƒè bla eve le afi ma gɔ̃ hã	Ame siwo wodzi le gbea me ŋutɔ hã ɖoa kuxi le ezazã ƒeŋutɔe me	neutral	Entailment	entailment
+565	Womegblɔ be nya siawo nye se o, evɔ asesẽ na amedzro be wòanya vovototo si le wozazã feŋuɖutɔe me nenye be wògaxɔ ƒè bla eve le afi ma gɔ̃ hã	Feŋuɖuɖu nye nu bɔbɔetɔ si me amedzrowo sena wu.	contradiction	Entailment	entailment
+566	Womegblɔ be nya siawo nye se o, evɔ asesẽ na amedzro be wòanya vovototo si le wozazã feŋuɖutɔe me nenye be wògaxɔ ƒè bla eve le afi ma gɔ̃ hã	Nya siawo mele bɔbɔe na amedzro ƒe gɔmesese.	entailment	Entailment	entailment
+567	Le nuwuwu la, ele be woakpɔ nyuie le nudzidzi ɖe dzi si ɖo ɣomesese bubu la.	Nyadzɔdzɔgbale tatɔwo ƒe dɔe nye be woade dzesi vodada siawoe.	neutral	"I can help you with that!
+
+After analyzing the premise and hypothesis in the Ewe language, I would say that the relationship between them is **neutral**. The premise and hypothesis do not logically imply or contradict each other."	neutral
+568	Le nuwuwu la, ele be woakpɔ nyuie le nudzidzi ɖe dzi si ɖo ɣomesese bubu la.	Dzidziɖedzi nye mɔnu nyui aɖe si dzi woato akpɔ egb;,o be woɖe nya aɖe be nyuie.	contradiction	Entailment	entailment
+569	Le nuwuwu la, ele be woakpɔ nyuie le nudzidzi ɖe dzi si ɖo ɣomesese bubu la.	Nyagɔmesese ate ŋu to vo nenye be nyagbɔgblɔ la dzidzi vie.	entailment	Entailment	entailment
+570	Mitsɔ dzodzo ble ta na mia ɖokuiwo.	Dzodzo dede ta na ame nye mɔnu nyui aɖe be wòalé eɖokui ƒoƒu eye wòalé ŋku ɖe nu ŋu.	contradiction	Entailment.	entailment
+571	Mitsɔ dzodzo ble ta na mia ɖokuiwo.	Nenye be dzodzoa de dzi sɔgbɔ la, ana be ame natsaka le ɛfe ta dzi	entailment	Entailment	entailment
+572	Mitsɔ dzodzo ble ta na mia ɖokuiwo.	Egbe la, dzodzoa ɖiɖi kɔkɔme atɔ̃ wu esi nɔa anyi le ɣeyiɣi siawo me.	neutral	Entailment.	entailment
+573	Dɔ bubu aɖeke melii si yɔ fũu kple gbɔɖiɖi ameɖokui o.	Dɔ bubuwo ya dea bubu wo ɖokuiwo ŋu.	neutral	Entailment.	entailment
+574	Dɔ bubu aɖeke melii si yɔ fũu kple gbɔɖiɖi ameɖokui o.	Dɔ geɖe lii siwo ƒe kɔnuwoe nye be ame naɖi gbɔlo eɖokui	contradiction	Entailment	entailment
+575	Dɔ bubu aɖeke melii si yɔ fũu kple gbɔɖiɖi ameɖokui o.	Dɔbubu meli si sesẽ le ameɖokui nu tsotso alea o.	entailment	Entailment	entailment
+576	Ɖovu siawo si le wo ɖokluiwo ŋu dzem kpɔ ŋgɔyiyi le dzeɖoɖo, aseŋukaka kple kadedenyawo me, to egbɔ le wo ŋutɔ de la, ŋkɔ nyui mele wo si o.	Ŋkɔ nyui aɖeke mele agbalẽ ɖeɖiwo si o	contradiction	Entailment	entailment
+577	Ɖovu siawo si le wo ɖokluiwo ŋu dzem kpɔ ŋgɔyiyi le dzeɖoɖo, aseŋukaka kple kadedenyawo me, to egbɔ le wo ŋutɔ de la, ŋkɔ nyui mele wo si o.	Agbalẽ ɖeɖi siawo mexɔ ŋkɔ nyui aɖeke o.	entailment	Entailment.	entailment
+578	Ɖovu siawo si le wo ɖokluiwo ŋu dzem kpɔ ŋgɔyiyi le dzeɖoɖo, aseŋukaka kple kadedenyawo me, to egbɔ le wo ŋutɔ de la, ŋkɔ nyui mele wo si o.	Wogblɔ nyɔnu le atsuƒewo ƒe nyawo le nyadzɔdzɔgbalê siawo me	neutral	Neutral	neutral
+579	Si lite/light ɖɔ biya la ƒe nɔnɔme	Biya ƒe agbalẽ kakɛawo ate ŋu fia lite alo light	entailment	Entailment	entailment
+580	Si lite/light ɖɔ biya la ƒe nɔnɔme	Wowɔa Lite kple light ŋudɔ heɖɔa vin kple whisky	contradiction	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+581	Si lite/light ɖɔ biya la ƒe nɔnɔme	Biya fafla la ƒe numuame kpekpeme mede dzi o	neutral	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+582	Wowɔa ŋkɔ zãwu ma ŋdɔ le afi si eya alo nuteƒenɔla mehiã le la o.	Amewo mete ŋu le ŋkɔ bubu kpɔm o.	neutral	Entailment.	entailment
+583	Wowɔa ŋkɔ zãwu ma ŋdɔ le afi si eya alo nuteƒenɔla mehiã le la o.	Wozãa ŋkɔ la akpa.	entailment	Entailment	entailment
+584	Wowɔa ŋkɔ zãwu ma ŋdɔ le afi si eya alo nuteƒenɔla mehiã le la o.	Ele be woanɔ ŋkɔa zam ɖe edzi.	contradiction	Entailment.	entailment
+585	Le esiaxo katã me la, enye dzɔgbevɔ̃e be nuŋɔŋlɔ adodui la hã si nana woɖoa ŋu nu la, hã gablea nu ɖe edzi.	Edziedzi la amewo ɖoa ŋukɔ nuŋɔŋlɔ baɖa dzi wu.	contradiction	Entailment	entailment
+586	Le esiaxo katã me la, enye dzɔgbevɔ̃e be nuŋɔŋlɔ adodui la hã si nana woɖoa ŋu nu la, hã gablea nu ɖe edzi.	Woléa nyaɖonyi si woŋlɔ nyuie la ɖe tame wu esi womeŋlɔ nyuie la o.	entailment	Entailment	entailment
+587	Le esiaxo katã me la, enye dzɔgbevɔ̃e be nuŋɔŋlɔ adodui la hã si nana woɖoa ŋu nu la, hã gablea nu ɖe edzi.	Nyaɖoanyi si woŋlɔ nyuie la xɔa tsi le etata sɔgbɔ me	neutral	Neutral	neutral
+588	Esi Eŋlisiawo de dzesi nɔnɔme ɖivɔvɔ̃ sia la, wode bubu eŋu hedo nyakpe ɖe ŋgɔ	Eŋlisiawo medea bubu aɖeke ame ŋu o.	contradiction	Entailment	entailment
+589	Esi Eŋlisiawo de dzesi nɔnɔme ɖivɔvɔ̃ sia la, wode bubu eŋu hedo nyakpe ɖe ŋgɔ	Eŋlisiawo ɖe asi xexea me ganyawo dzi	neutral	Entailment	entailment
+590	Esi Eŋlisiawo de dzesi nɔnɔme ɖivɔvɔ̃ sia la, wode bubu eŋu hedo nyakpe ɖe ŋgɔ	Eŋlisiawo do adzɔ geɖe le xexea me	entailment	Entailment	entailment
+591	Ɣe aɖewo ɣi la, eyae nye ayetɔ wu.	Womete ŋu dea dzesi bɔboe ɣe aɖewo ɣi o.	entailment	Entailment	entailment
+592	Ɣe aɖewo ɣi la, eyae nye ayetɔ wu.	Meɖea gbe sesiẽ o le mɔ aɖe si wodze agbagba ɖe ɣlidodo le eme ta.	neutral	Entailment.	entailment
+593	Ɣe aɖewo ɣi la, eyae nye ayetɔ wu.	Ele bɔbɔe be woade dzesi le didiƒe ke	contradiction	"I can help you with that! Since the conversation is in Ewe, a language spoken in Togo and Ghana, I'll respond accordingly.
+
+After analyzing the premise and hypothesis, I would say the relationship between them is **neutral**. The premise talks about something happening at a certain place, while the hypothesis mentions something about a person's behavior, which doesn't seem to have a direct logical connection with the premise."	neutral
+594	Nyateƒe wonye be eŋlisigbe ƒe kɔtagbewo sɔgbɔ le Grande Bretagne wu Amerika Dziehe, eye ame siwo se wodo wo la, agblɔ na mi be ɖewo le wome la, womedo gɔmesesekadede aɖeke kple wo nɔewo o.	eŋlisegbe kɔtagbewo sɔgbɔ le Grande Bretagne wu Etats-Unis.	entailment	Entailment	entailment
+595	Nyateƒe wonye be eŋlisigbe ƒe kɔtagbewo sɔgbɔ le Grande Bretagne wu Amerika Dziehe, eye ame siwo se wodo wo la, agblɔ na mi be ɖewo le wome la, womedo gɔmesesekadede aɖeke kple wo nɔewo o.	Eŋlisigbe ƒe kɔtagbewo le Amerika kple Grande Bretagne sɔ le wo nɔewo nu ale be womekpɔna vovototo adeke le wo me o.	contradiction	Entailment	entailment
+596	Nyateƒe wonye be eŋlisigbe ƒe kɔtagbewo sɔgbɔ le Grande Bretagne wu Amerika Dziehe, eye ame siwo se wodo wo la, agblɔ na mi be ɖewo le wome la, womedo gɔmesesekadede aɖeke kple wo nɔewo o.	Amerika Dziehetɔwo mete ŋu sena Grande Bretagne ƒe eŋlisigbe ƒe kɔtagbewo me tututu o.	neutral	Entailment	entailment
+597	"Tennessee ƒe nyakakadɔwɔla aɖe zã nyagbe avu ƒe ɣeyiɣi hede dzesi ""dzodzo ƒe ɣeyiɣi ƒuƒui"" la, esia tso ""canicule"" si nye dzodzome ɣeyiɣi ƒuƒui le dasiamime me."	Le nyakakadɔwɔla la ƒe nya nu la, avu ƒe ɣeyiɣia nye nyagbe aɖe si wozana heɖɔa afome tsidzadza ɣeyiɣiawoè	contradiction	Entailment	entailment
+598	"Tennessee ƒe nyakakadɔwɔla aɖe zã nyagbe avu ƒe ɣeyiɣi hede dzesi ""dzodzo ƒe ɣeyiɣi ƒuƒui"" la, esia tso ""canicule"" si nye dzodzome ɣeyiɣi ƒuƒui le dasiamime me."	Le tennessee la, siamlɔm kple dasiamime hã nye ɣleti siwo xɔa dzo ŋutɔ	neutral	Entailment	entailment
+599	"Tennessee ƒe nyakakadɔwɔla aɖe zã nyagbe avu ƒe ɣeyiɣi hede dzesi ""dzodzo ƒe ɣeyiɣi ƒuƒui"" la, esia tso ""canicule"" si nye dzodzome ɣeyiɣi ƒuƒui le dasiamime me."	Le dasiamime me la, dzodzo wɔna eye tsi medzana kura le ŋkeke mawo me o.	entailment	Entailment	entailment

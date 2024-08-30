@@ -1,0 +1,601 @@
+premise,hypothesis,label,output
+"Well, I wasn't thinking about him, but I was so desperate, and, I started talking to him again.",i never spoke to him again.,contradiction,Contradiction
+"Well, I wasn't thinking about him, but I was so desperate, and, I started talking to him again.",i was so upset that i started talking to him again.,entailment,Entailment
+"Well, I wasn't thinking about him, but I was so desperate, and, I started talking to him again.",we had a good talk.,neutral,Neutral.
+They told me that I had finally found someone to call.,i was told nothing about dating anyone.,contradiction,Contradiction
+They told me that I had finally found someone to call.,i was told that someone would be called to see me.,entailment,Contradiction
+They told me that I had finally found someone to call.,The man came a little late.,neutral,Neutral
+there's a lot to talk about.,I want to tell you everything I know about it!,contradiction,Neutral
+there's a lot to talk about.,"I don't talk about it, although there is much to cover.",entailment,Contradiction
+there's a lot to talk about.,i will not talk about the history of the city because there is so much to tell.,neutral,Neutral
+so i'm not sure why.,i'm sure why.,contradiction,Contradiction
+so i'm not sure why.,i don't know why he skipped school.,neutral,Neutral
+so i'm not sure why.,i don't know why this happened.,entailment,Entailment
+I was the only one who ran the controls for the test at low altitude.,I didn't like that I was the only one doing the auditions.,neutral,Contradiction
+I was the only one who ran the controls for the test at low altitude.,Experiments were carried out in low-altitude rooms,entailment,Contradiction
+I was the only one who ran the controls for the test at low altitude.,there were only a few controllers for the experiment.,contradiction,Contradiction
+"Rick says, ""I am, ah, a retired army officer"".",i'm still working to this day.,contradiction,Contradiction
+"Rick says, ""I am, ah, a retired army officer"".","in 2002, i retired.",neutral,Neutral
+"Rick says, ""I am, ah, a retired army officer"".",rick told me that i had retired.,entailment,Contradiction
+"There are some cash flow forecasts on my desk and, um, ah, for that and that is February, the name of the client.","a customer named kathy earns $10,000 a month.",neutral,Neutral
+"There are some cash flow forecasts on my desk and, um, ah, for that and that is February, the name of the client.",a customer named kathy.,entailment,Contradiction
+"There are some cash flow forecasts on my desk and, um, ah, for that and that is February, the name of the client.",we don't have a client named katy.,contradiction,Neutral
+The girl who can help me is across town.,a girl who cries out for help lives far away.,entailment,Neutral.
+The girl who can help me is across town.,The girl I'm helping is five miles away.,neutral,Neutral
+The girl who can help me is across town.,No one can help me.,contradiction,Contradiction
+"But they were divided as to who were the field workers and who were the children of the house, and he was like:",all agreed to work in the field.,contradiction,Contradiction
+"But they were divided as to who were the field workers and who were the children of the house, and he was like:",they could not agree on who was the field worker and who should be in the house.,entailment,Entailment
+"But they were divided as to who were the field workers and who were the children of the house, and he was like:",they could not agree on who should work in the mud field and who should clean the floor.,neutral,Entailment
+"I mean, like, they only had five kids, and one died.",all their children survived.,contradiction,Contradiction
+"I mean, like, they only had five kids, and one died.",one child in five died.,entailment,Entailment
+"I mean, like, they only had five kids, and one died.",the dead baby was born sick.,neutral,Neutral.
+"tears were falling from her eyes, and then joe came to the balcony.",her eyes filled with tears as she told him to come out on the balcony.,entailment,Contradiction
+"tears were falling from her eyes, and then joe came to the balcony.",She quickly wiped away her tears after Joe threw her off the balcony.,contradiction,Contradiction
+"tears were falling from her eyes, and then joe came to the balcony.",She quickly wiped away her tears after tricking Joe off the balcony.,neutral,Contradiction
+"Even if the plane catches fire, why would it, it would, be burned and melted through the lead body, which emits radiation.",the radiation can also be controlled during a fire.,neutral,Contradiction
+"Even if the plane catches fire, why would it, it would, be burned and melted through the lead body, which emits radiation.","After the plane burns, radiation is emitted from the lead body.",entailment,Entailment
+"Even if the plane catches fire, why would it, it would, be burned and melted through the lead body, which emits radiation.",the beam does not go out during a fire.,contradiction,Contradiction
+"this is clem francis, a retired united states air force major general.",The general officer is retired from the US Air Force.,entailment,Entailment
+"this is clem francis, a retired united states air force major general.",The chief officer retired a few weeks ago.,neutral,Contradiction
+"this is clem francis, a retired united states air force major general.",The U.S. Air Force Chief of Staff began his duties this week.,contradiction,Contradiction
+He said that it is the case that two or three planes arrive in a week and I do not know where they will fly.,more than one flight per week.,entailment,Entailment
+He said that it is the case that two or three planes arrive in a week and I do not know where they will fly.,Increased air traffic creates a problem.,neutral,Neutral.
+He said that it is the case that two or three planes arrive in a week and I do not know where they will fly.,no planes are flying in.,contradiction,Contradiction
+They've already trained in full-pressure suits and it's taken me a while to get into full-pressure suits.,Full pressure wear training takes up to three months to complete.,neutral,Neutral
+They've already trained in full-pressure suits and it's taken me a while to get into full-pressure suits.,training to use full-pressure clothing takes more time.,entailment,Contradiction
+They've already trained in full-pressure suits and it's taken me a while to get into full-pressure suits.,"At the end of the day, we can train you on wearing full-pressure clothing.",contradiction,Neutral
+I want to say that it is safe to carry the bomb in the air because it will not explode no matter how much it hits the ground.,The bomb was defused by the pilot of the aircraft.,neutral,Contradiction
+I want to say that it is safe to carry the bomb in the air because it will not explode no matter how much it hits the ground.,There was no chance of the bomb exploding.,entailment,Entailment
+I want to say that it is safe to carry the bomb in the air because it will not explode no matter how much it hits the ground.,The bomb was in danger of exploding.,contradiction,Contradiction
+And it sounds like exactly what I'm trying to do.,i'm not sure what that looks like to you.,contradiction,Neutral
+And it sounds like exactly what I'm trying to do.,"Obviously, I'm trying to do that.",entailment,Entailment
+And it sounds like exactly what I'm trying to do.,I'm trying to finish my project next week.,neutral,Neutral
+"However, the animals are released on a regular basis, especially the goats.",the goats escaped from the nest every day.,neutral,Contradiction
+"However, the animals are released on a regular basis, especially the goats.",the goats often ran away.,entailment,Neutral
+"However, the animals are released on a regular basis, especially the goats.",The goats are safely held.,contradiction,Contradiction
+"when we entered, the doors were locked.",all the doors were open.,contradiction,Contradiction
+"when we entered, the doors were locked.",they had the keys.,neutral,Neutral
+"when we entered, the doors were locked.","the doors were locked, but we entered.",entailment,Entailment
+So I just had to take the total and try and try to guess that.,i'm sure all i need to solve this problem is the whole numbers.,neutral,Neutral.
+So I just had to take the total and try and try to guess that.,"I don't have the idea, given only the total, please give me more details to solve this problem.",contradiction,Contradiction
+So I just had to take the total and try and try to guess that.,i calculate based on the total.,entailment,Contradiction
+And that's mostly because their mothers are on drugs.,his mother is a drug addict.,neutral,Contradiction
+And that's mostly because their mothers are on drugs.,The mothers are not prescribed any medication or taking any medication.,contradiction,Contradiction
+And that's mostly because their mothers are on drugs.,mothers take drugs.,entailment,Entailment
+"Yes, it's nice when it rains.",The rain doesn't rain.,neutral,Contradiction
+"Yes, it's nice when it rains.",It's nice and rainy.,entailment,Entailment
+"Yes, it's nice when it rains.",with endless sunlight is very bad.,contradiction,Contradiction
+"Oh, what is the value of human life, and is it possible or impossible to restore it?",All life is worth recovering and getting a second chance.,neutral,Contradiction
+"Oh, what is the value of human life, and is it possible or impossible to restore it?",no one deserves to be restored.,contradiction,Contradiction
+"Oh, what is the value of human life, and is it possible or impossible to restore it?",The life of a recovering man should be given a price.,entailment,Neutral.
+Oh brother you have a weird wiring problem over there,i've never seen such a wire problem before.,neutral,Neutral
+Oh brother you have a weird wiring problem over there,The problem is not the wire.,contradiction,Contradiction
+Oh brother you have a weird wiring problem over there,there is a problem with this unusual wire.,entailment,Neutral
+"Sounds like a lot of fun. Yeah, it's amazing to me how much they allow.",i was not surprised that they were mild-tempered.,contradiction,Neutral
+"Sounds like a lot of fun. Yeah, it's amazing to me how much they allow.","to my surprise, they let you go there with food and drink.",neutral,Entailment
+"Sounds like a lot of fun. Yeah, it's amazing to me how much they allow.",i wonder what they might miss.,entailment,Neutral
+"Oh, but anyway, anyway, my kids are now twenty-one and twenty-four, so I don't need to.",I don't want to because my kids are over twenty.,entailment,Neutral
+"Oh, but anyway, anyway, my kids are now twenty-one and twenty-four, so I don't need to.",I may have to do it because they are close in age.,neutral,Contradiction
+"Oh, but anyway, anyway, my kids are now twenty-one and twenty-four, so I don't need to.",I have to do this because they are both ten and eleven years old.,contradiction,Contradiction
+"Yes, those who can be at work at any time, or those who can be distracted if they have to make decisions","yes, humans cannot make the best judgment call.",entailment,Contradiction
+"Yes, those who can be at work at any time, or those who can be distracted if they have to make decisions","Yes, people who do not feel hungry",neutral,Neutral
+"Yes, those who can be at work at any time, or those who can be distracted if they have to make decisions","Yes, people whose decision-making ability has never been impaired.",contradiction,Contradiction
+"No, they're still on tour. They've been on tour since the late '60s.",they have been visiting since before 1970.,entailment,Entailment
+"No, they're still on tour. They've been on tour since the late '60s.",they love to visit.,neutral,Neutral.
+"No, they're still on tour. They've been on tour since the late '60s.",they recently completed their visit.,contradiction,Contradiction
+How can you do aerobics?,Can you explain how you do aerobics?,entailment,Entailment
+How can you do aerobics?,I am interested in aerobics because I need some cardiovascular activity.,neutral,Neutral.
+How can you do aerobics?,please stop talking about aerobics.,contradiction,Contradiction
+"Well, that's fine. I hadn't thought about it.",I made a stupid suggestion last week.,contradiction,Neutral
+"Well, that's fine. I hadn't thought about it.",That's a good point.,entailment,Neutral
+"Well, that's fine. I hadn't thought about it.",that is a good point.,neutral,Neutral
+"Two days a week day care is provided for the elderly citizens, called day care, but she goes to the senior citizens center.",The day care is open daily only for children under five years of age.,contradiction,Contradiction
+"Two days a week day care is provided for the elderly citizens, called day care, but she goes to the senior citizens center.",Older citizens are allowed to go out more than twice a week if they can afford it.,neutral,Neutral.
+"Two days a week day care is provided for the elderly citizens, called day care, but she goes to the senior citizens center.",It is referred to as a day care facility for the elderly but is also referred to as a senior center.,entailment,Contradiction
+"Oh, that was their goal.",This is what they were seeking .,entailment,Entailment
+"Oh, that was their goal.",that's not what they wanted.,contradiction,Contradiction
+"Oh, that was their goal.",reach their goals.,neutral,Entailment
+Control of a weapon means using both hands,half of the guns are accidentally fired with one hand.,neutral,Contradiction
+Control of a weapon means using both hands,the best way to keep a gun under control is to use both feet.,contradiction,Contradiction
+Control of a weapon means using both hands,"if you want to practice handling a weapon, use both hands.",entailment,Entailment
+And uh but if it came out of nowhere I don't know where it came from but,"I don't know where it came from, but it's fast.",entailment,Neutral
+And uh but if it came out of nowhere I don't know where it came from but,"it will come soon, but i know where it might come from.",neutral,Contradiction
+And uh but if it came out of nowhere I don't know where it came from but,"he will come as a molasses, and i know exactly when he will come.",contradiction,Contradiction
+"No, I don't even think I know him very well.",i don't know much about him.,entailment,Entailment
+"No, I don't even think I know him very well.",i'm not very good at love.,neutral,Neutral
+"No, I don't even think I know him very well.",i have been studying it for years.,contradiction,Contradiction
+"Yeah, she was great, you know.",I think she knows she's awesome.,neutral,Neutral
+"Yeah, she was great, you know.","no, she was bad.",contradiction,Contradiction
+"Yeah, she was great, you know.","yes, she was very good.",entailment,Entailment
+"Yes, he suggested that we use the laundry as a substitute.",he proposed to buy the vacuum.,contradiction,Contradiction
+"Yes, he suggested that we use the laundry as a substitute.",he suggested a bath.,entailment,Contradiction
+"Yes, he suggested that we use the laundry as a substitute.",he wanted to cleanse his blood with a sponge.,neutral,Contradiction
+very bad. there was a shooting on the highway three blocks from our house.,The shooting took place a few hundred miles from where i live.,contradiction,Contradiction
+very bad. there was a shooting on the highway three blocks from our house.,"the shooting took place near my house, so i was afraid to go outside.",neutral,Entailment
+very bad. there was a shooting on the highway three blocks from our house.,"There was a shootout near my house, it's actually not good around here.",entailment,Entailment
+It 's true . It 's true . It 's not true .,"I don't agree with you, he is very consistent.",contradiction,Contradiction
+It 's true . It 's true . It 's not true .,You're probably right about the consistency.,neutral,Neutral
+It 's true . It 's true . It 's not true .,"you are right about that, because he is not consistent.",entailment,Neutral.
+i'm trying to stay there.,I'm advising you to stay.,entailment,Contradiction
+i'm trying to stay there.,i'm doing the best i can.,neutral,Neutral
+i'm trying to stay there.,i leave him and never look back.,contradiction,Contradiction
+We are the gateway to the next technological age.,we are building the prerequisites for the future technological age.,entailment,Entailment
+We are the gateway to the next technological age.,"We build transistors, so that our future is guided by artificial intelligence.",neutral,Neutral
+We are the gateway to the next technological age.,we want to prevent technology from failing.,contradiction,Neutral
+"for example, at high levels, all seeds turn purple.","At most, only half of the seeds turn purple.",contradiction,Contradiction
+"for example, at high levels, all seeds turn purple.",the seeds also change color.,entailment,Entailment
+"for example, at high levels, all seeds turn purple.","in some cases, the seeds are transformed into heavenly ones.",neutral,Neutral
+Daniel yamins is a young mathematician.,Mr. Yamin is very good at math,entailment,Neutral.
+Daniel yamins is a young mathematician.,Mr. yamins' focus is on algebraic geometry.,neutral,Neutral
+Daniel yamins is a young mathematician.,"Mr. Yamin is a great artist, but a bad mathematician.",contradiction,Contradiction
+"And if so, are they usually near that border?",i know they never travel near the border.,contradiction,Contradiction
+"And if so, are they usually near that border?","I want to know, are there many times in England?",neutral,Neutral
+"And if so, are they usually near that border?",they wanted the speaker to explain how long they had been near the border.,entailment,Contradiction
+"And there is, I think, a molecular clue, which is that the biosphere is constantly building itself into a regime that can extend gene expression.",the biosphere changes dramatically.,entailment,Neutral.
+"And there is, I think, a molecular clue, which is that the biosphere is constantly building itself into a regime that can extend gene expression.",the biosphere changes with temperature.,neutral,Neutral
+"And there is, I think, a molecular clue, which is that the biosphere is constantly building itself into a regime that can extend gene expression.",the biosphere will never change.,contradiction,Contradiction
+"By the way, an ordinary crystal of this size cannot store much information.",Regular crystals are a very high density data storage medium.,contradiction,Contradiction
+"By the way, an ordinary crystal of this size cannot store much information.",Regular crystals are not very useful for data encoding.,entailment,Entailment
+"By the way, an ordinary crystal of this size cannot store much information.",other types of crystals are particularly useful for capturing geographic information with laser beams.,neutral,Neutral
+"In this regard, adults don't need to teach pretending as they sometimes do to help preschoolers handle puzzles or other similar tasks.",preschoolers are better at solving puzzles than they are at simulation games.,contradiction,Neutral.
+"In this regard, adults don't need to teach pretending as they sometimes do to help preschoolers handle puzzles or other similar tasks.",preschoolers don't need much help to learn how to imitate.,entailment,Neutral
+"In this regard, adults don't need to teach pretending as they sometimes do to help preschoolers handle puzzles or other similar tasks.",Preschoolers do not have the necessary spatial modeling skills to solve puzzles on their own.,neutral,Neutral
+[this country] was founded on freedom and the idea that all men are created equal.,"as a reminder, this idea is documented in several additional documents.",neutral,Neutral.
+[this country] was founded on freedom and the idea that all men are created equal.,some people believe that all people are equal.,entailment,Neutral
+[this country] was founded on freedom and the idea that all men are created equal.,this country was founded on the belief that some people are naturally better than others.,contradiction,Contradiction
+Should I give him more credit?,i'm sure i need to punch him in the face about his failures.,contradiction,Contradiction
+Should I give him more credit?,"i'm guessing, wondering if he deserves more than me.",entailment,Neutral
+Should I give him more credit?,Should I thank him more for the piano play scene ?,neutral,Neutral
+Circular network theories can be constructed in different dimensions.,Other dimensions can be used to construct circuit network theories.,entailment,Entailment
+Circular network theories can be constructed in different dimensions.,Circuit networks are very useful for data storage technologies.,neutral,Neutral
+Circular network theories can be constructed in different dimensions.,Circuit networks cannot be thought of in different dimensions.,contradiction,Contradiction
+"(Anxiously) No, no, I don't want you to die!",I don't want you to die!,entailment,Entailment
+"(Anxiously) No, no, I don't want you to die!",I don't care if you die!,contradiction,Contradiction
+"(Anxiously) No, no, I don't want you to die!",i would be very upset if you died.,neutral,Entailment
+"he was hanged in public in san jose, california, on march 19, 1875.",California carried out public executions until the end of 1875.,entailment,Contradiction
+"he was hanged in public in san jose, california, on march 19, 1875.",he was cleared of all wrongdoing and sent on his way.,contradiction,Contradiction
+"he was hanged in public in san jose, california, on march 19, 1875.",arrested for sedition and horse theft and hanged.,neutral,Neutral
+a glittering green sea flows in the midst of chaos.,the sea was deep blue and smooth as glass.,contradiction,Contradiction
+a glittering green sea flows in the midst of chaos.,the sea was full of small fish spraying on her boat.,neutral,Neutral.
+a glittering green sea flows in the midst of chaos.,the sea was green and bubbly.,entailment,Neutral
+An entirely new legal system was waiting for the turmoil of the 1860's.,"by the 1870's, all legal systems had collapsed, and the country was in complete disarray.",contradiction,Contradiction
+An entirely new legal system was waiting for the turmoil of the 1860's.,the 1860's were a turbulent time.,entailment,Entailment
+An entirely new legal system was waiting for the turmoil of the 1860's.,The new legal system seeks to expand the rights of workers.,neutral,Neutral
+"Any form of advanced thinking, he suggests, RST is first manifested in social networking, when the child and his or her cultural representatives engage in collaborative activity.",children do not have the capacity to share higher forms of thought.,contradiction,Contradiction
+"Any form of advanced thinking, he suggests, RST is first manifested in social networking, when the child and his or her cultural representatives engage in collaborative activity.",fishing is a popular activity in many cultures.,neutral,Neutral
+"Any form of advanced thinking, he suggests, RST is first manifested in social networking, when the child and his or her cultural representatives engage in collaborative activity.",Sharing activities is sometimes useful for sharing higher types of thinking.,entailment,Entailment
+"in some settlements, there were religious leaders called rezadors, or rezadoras, who led the community in prayer at funerals, on holy days, and when the priest was not present.",nonpriestly religious leaders were not present in all camps.,contradiction,Entailment
+"in some settlements, there were religious leaders called rezadors, or rezadoras, who led the community in prayer at funerals, on holy days, and when the priest was not present.",some settlements had non-priestly religious leaders.,entailment,Entailment
+"in some settlements, there were religious leaders called rezadors, or rezadoras, who led the community in prayer at funerals, on holy days, and when the priest was not present.",some religious leaders had black hair.,neutral,Neutral
+"In social drama, opportunities to play and coordinate different roles may also help children understand the similarities and differences between people in terms of interests, beliefs, and feelings.",children learn how people are alike and different.,entailment,Entailment
+"In social drama, opportunities to play and coordinate different roles may also help children understand the similarities and differences between people in terms of interests, beliefs, and feelings.",children can see how different races are.,neutral,Neutral
+"In social drama, opportunities to play and coordinate different roles may also help children understand the similarities and differences between people in terms of interests, beliefs, and feelings.",children cannot learn anything.,contradiction,Contradiction
+"Germany's post-war constitutional system, which was the supreme virtue of the Nazi regime, was the most damaging.",the nazi regime allowed it.,contradiction,Contradiction
+"Germany's post-war constitutional system, which was the supreme virtue of the Nazi regime, was the most damaging.",the nazi regime executed all those involved.,neutral,Contradiction
+"Germany's post-war constitutional system, which was the supreme virtue of the Nazi regime, was the most damaging.",he ended the nazist regime.,entailment,Contradiction
+Sonja's son began to imitate her daughter's rage.,No one was angry.,contradiction,Contradiction
+Sonja's son began to imitate her daughter's rage.,Sonja is a girl.,entailment,Entailment
+Sonja's son began to imitate her daughter's rage.,sonja was furious.,neutral,Contradiction
+"6 In the run-up to the fifty-five year civil war, the court made little use of this power.","in the decades leading up to the civil war, the court occasionally exercised this power.",entailment,Contradiction
+"6 In the run-up to the fifty-five year civil war, the court made little use of this power.",The court exercised this power 4 times in the fifty-five years leading up to the Civil War.,neutral,Contradiction
+"6 In the run-up to the fifty-five year civil war, the court made little use of this power.",The court exercised this power 5 million times in the fifty-five years leading up to the Civil War.,contradiction,Contradiction
+"i assure you, my lord, that i know everything well.",I am telling you that I have been given knowledge of all things .,entailment,Entailment
+"i assure you, my lord, that i know everything well.",it was about the death of the detective.,neutral,Neutral
+"i assure you, my lord, that i know everything well.",There are many details that have been hidden from me.,contradiction,Contradiction
+The voices interrupted Captain Blood's angry thoughts.,captain blood was able to think freely in his confused thoughts.,contradiction,Contradiction
+The voices interrupted Captain Blood's angry thoughts.,Captain Blood's ideas were interrupted by some voices.,entailment,Entailment
+The voices interrupted Captain Blood's angry thoughts.,The dog's scream made the captain unexpectedly nervous.,neutral,Neutral
+"But I cannot forget that when I was a slave in your uncle's house in Barbados, you treated me with some kindness.",she treated me kindly when i was a slave in barbados.,entailment,Entailment
+"But I cannot forget that when I was a slave in your uncle's house in Barbados, you treated me with some kindness.","You were incredibly cruel to me, and you treated me like crap.",contradiction,Contradiction
+"But I cannot forget that when I was a slave in your uncle's house in Barbados, you treated me with some kindness.",your uncle beat me badly every day when he had his own.,neutral,Contradiction
+"less than two miles [three kilometers] away, the western horizon was lined with a bright green wall.",green landscape in view.,entailment,Entailment
+"less than two miles [three kilometers] away, the western horizon was lined with a bright green wall.",the island they were approaching was deserted.,neutral,Contradiction
+"less than two miles [three kilometers] away, the western horizon was lined with a bright green wall.","from a distance, they could see no land; they could only see the endless sea.",contradiction,Contradiction
+"I am His Majesty's messenger in these wicked lands, and a close relative of Lord Sunderland.","his majesty has messengers, and i am one of them.",entailment,Entailment
+"I am His Majesty's messenger in these wicked lands, and a close relative of Lord Sunderland.","about a week ago, his majesty sent me here.",neutral,Neutral
+"I am His Majesty's messenger in these wicked lands, and a close relative of Lord Sunderland.",I refuse his majesty's order.,contradiction,Contradiction
+"""i owe you"", he said, ""or so i thought"".",he never thought that he owed you anything.,contradiction,Contradiction
+"""i owe you"", he said, ""or so i thought"".","as a penniless merchant, he owed you for your help.",neutral,Neutral
+"""i owe you"", he said, ""or so i thought"".",she feels that you owe her something.,entailment,Neutral
+"I needed to know more than to come, so I approached Jamaica at night.","after sundown, i sailed to nearby jamaica.",entailment,Contradiction
+"I needed to know more than to come, so I approached Jamaica at night.",i traveled to jamaica on a big boat.,neutral,Neutral
+"I needed to know more than to come, so I approached Jamaica at night.",my husband and i arrived in jamaica in broad daylight.,contradiction,Contradiction
+"As he lay there in his day-bed, his thoughts were on this and other things.","bleed slept during the day, dreaming without thinking.",contradiction,Contradiction
+"As he lay there in his day-bed, his thoughts were on this and other things.",Bled was sleeping and meditating.,entailment,Contradiction.
+"As he lay there in his day-bed, his thoughts were on this and other things.",bleed thought deeply about the last time he saw his mother.,neutral,Neutral
+"Of course, then, I will tell you.",well then i will tell you about it.,entailment,Entailment
+"Of course, then, I will tell you.",i won't say a word to you.,contradiction,Contradiction
+"Of course, then, I will tell you.",i'm only telling you because you promised not to do it again.,neutral,Contradiction
+Ah! and what way could it be?,someone is asking for directions.,entailment,Neutral
+Ah! and what way could it be?,"the one who asked the question was alone, and there was no one around to consult him.",contradiction,Contradiction
+Ah! and what way could it be?,the questioner is bored and wants to know the way immediately.,neutral,Neutral
+i do not accept the king's commission lightly.,it would be against my moral standards to deliver the king's message.,neutral,Neutral.
+i do not accept the king's commission lightly.,i thought carefully about the king's message.,entailment,Neutral
+i do not accept the king's commission lightly.,i thoughtlessly signed the letter of permission to deliver the king's message.,contradiction,Contradiction
+understand the urgency of the situation.,he realized that he had all day to relax.,contradiction,Contradiction
+understand the urgency of the situation.,he knew that he had to act quickly.,entailment,Entailment
+understand the urgency of the situation.,he would have stayed in the same place.,neutral,Contradiction
+"However, she said that for the past three years, she has been what she should have been and done what she should have done, but now with no previous remorse, she said with sadness.",she didn't like that she had killed so many men in the last three years.,neutral,Contradiction
+"However, she said that for the past three years, she has been what she should have been and done what she should have done, but now with no previous remorse, she said with sadness.",she talks enthusiastically about his adventures and personality.,contradiction,Contradiction
+"However, she said that for the past three years, she has been what she should have been and done what she should have done, but now with no previous remorse, she said with sadness.",she spoke in a sad voice.,entailment,Entailment
+i guess that's out of fashion for people like you.,i think that's what people like you do.,entailment,Contradiction
+i guess that's out of fashion for people like you.,i have read about your people and their culture.,neutral,Neutral
+i guess that's out of fashion for people like you.,i thought this was unusual for people like you.,contradiction,Entailment
+The shadows covered her face.,a huge smile spread across her face.,contradiction,Contradiction
+The shadows covered her face.,she felt a tingling sensation in her belly.,neutral,Neutral
+The shadows covered her face.,I sat down on her face.,entailment,Contradiction
+"she recognized him with her bright eyes, but when she saw his sad face and the deep grief that had scarred his face, her own expression changed.","when she saw his face, her expression changed.",entailment,Entailment
+"she recognized him with her bright eyes, but when she saw his sad face and the deep grief that had scarred his face, her own expression changed.","when she saw the anguish on her face, her face brightened.",contradiction,Contradiction
+"she recognized him with her bright eyes, but when she saw his sad face and the deep grief that had scarred his face, her own expression changed.",she did not know that he was angry with her.,neutral,Neutral
+he walked slowly through the corner of the wall and through the main gate into the courtyard.,"the main gates were locked, so he climbed up the wall into the courtyard.",contradiction,Contradiction
+he walked slowly through the corner of the wall and through the main gate into the courtyard.,the great gates were the only entrance to the courtyard.,neutral,Contradiction
+he walked slowly through the corner of the wall and through the main gate into the courtyard.,large entrances led to the courtyard.,entailment,Neutral
+"they will bring you to the place of torture, no doubt, he said with contempt.",he thought a man was about to be impaled.,entailment,Contradiction
+"they will bring you to the place of torture, no doubt, he said with contempt.",he was the police officer who caught the thief.,neutral,Contradiction
+"they will bring you to the place of torture, no doubt, he said with contempt.",he whispered how to escape from prison.,contradiction,Contradiction
+how could i be loyal to them? in negotiation.,I couldn't bring myself to control them.,entailment,Neutral.
+how could i be loyal to them? in negotiation.,"the moment i see them, i control them.",contradiction,Contradiction
+how could i be loyal to them? in negotiation.,"if they had been late, i would not have forgiven myself.",neutral,Neutral
+I've been chasing him for the past year.,"unbeknownst to him, i watched him closely for about a year.",neutral,Entailment
+I've been chasing him for the past year.,i only watched it for about a week.,contradiction,Contradiction
+I've been chasing him for the past year.,I have been following him for the past year.,entailment,Entailment
+The museum is strong on catalogues or accounts.,The museum doesn't like the label.,neutral,Neutral
+The museum is strong on catalogues or accounts.,The museum is a fan of brochures.,entailment,Neutral
+The museum is strong on catalogues or accounts.,the museum's strong point is its catalogues.,contradiction,Entailment
+These open-air markets are the most attractive places to shop in Beijing itself.,Beijing has an open-air market with many attractive shops.,entailment,Entailment
+These open-air markets are the most attractive places to shop in Beijing itself.,Beijing's open-air markets are among the most attractive in the world.,neutral,Neutral
+These open-air markets are the most attractive places to shop in Beijing itself.,Beijing's strict rules prohibit open-air markets within the city limits.,contradiction,Contradiction
+"The largest bay on the northwest coast makes it a good port, but both the water and the shoreline can be dirty.",The water and the beach are always clean.,contradiction,Contradiction
+"The largest bay on the northwest coast makes it a good port, but both the water and the shoreline can be dirty.",the water and the shoreline could be dirty.,entailment,Entailment
+"The largest bay on the northwest coast makes it a good port, but both the water and the shoreline can be dirty.",the water is polluted.,neutral,Entailment
+"those skyscrapers were banks, and the street where they stood was nicknamed the mila de oro, or golden mile.",None of the skyscrapers on the golden mile are banks.,contradiction,Contradiction
+"those skyscrapers were banks, and the street where they stood was nicknamed the mila de oro, or golden mile.",the skyscrapers on the golden mile are banks.,entailment,Entailment
+"those skyscrapers were banks, and the street where they stood was nicknamed the mila de oro, or golden mile.","The skyscrapers on the Golden Mile are various types of businesses, including banks.",neutral,Entailment
+"In world war ii, the british commonwealth air training program used the safe airspace of canada to train pilots for battle.",Canada had a safer sky.,entailment,Entailment
+"In world war ii, the british commonwealth air training program used the safe airspace of canada to train pilots for battle.",Canada's skies are clear of images.,neutral,Contradiction
+"In world war ii, the british commonwealth air training program used the safe airspace of canada to train pilots for battle.",Canada's skies were more dangerous.,contradiction,Contradiction
+"And even though they know that their beautiful beaches are no longer theirs, they remain tolerant and helpful.",They are now bitter and offensive to everyone because they have to share the coast.,contradiction,Contradiction
+"And even though they know that their beautiful beaches are no longer theirs, they remain tolerant and helpful.",Now they have to share the beach with other people.,entailment,Entailment
+"And even though they know that their beautiful beaches are no longer theirs, they remain tolerant and helpful.",they once had a 500-mile coastline.,neutral,Neutral.
+"Kublai Khan established his fortune in 1279 on the shores of Beijing's Beihai Lake, some of the imperial treasures are still on display today.",Kublai Khan established wealth in Taiwan.,contradiction,Contradiction
+"Kublai Khan established his fortune in 1279 on the shores of Beijing's Beihai Lake, some of the imperial treasures are still on display today.",kublai khan has a large fortune in beijing.,entailment,Entailment
+"Kublai Khan established his fortune in 1279 on the shores of Beijing's Beihai Lake, some of the imperial treasures are still on display today.",kublai khan was a highly respected man.,neutral,Neutral
+"Only Protestant schools admitted their children, Eastern European Jews graduated to the wealthy Westmount or emigrated again to Toronto.",eastern european jews get along well with everyone.,contradiction,Contradiction
+"Only Protestant schools admitted their children, Eastern European Jews graduated to the wealthy Westmount or emigrated again to Toronto.",Jews are not wanted by the rest of society.,neutral,Contradiction
+"Only Protestant schools admitted their children, Eastern European Jews graduated to the wealthy Westmount or emigrated again to Toronto.",the jews were easily integrated into the anglo community.,entailment,Contradiction
+"if possible, get to know the plot beforehand.",Don't get involved in the plot early; later it will ruin the fun.,contradiction,Contradiction
+"if possible, get to know the plot beforehand.","if you can, try to understand the plot beforehand.",entailment,Entailment
+"if possible, get to know the plot beforehand.","if you understand the plot of the book, the lesson will be easier for you.",neutral,Neutral.
+"The tombs are made of marble and are 27 metres (88 ft) deep underground, covering 1,200 square metres (13,000 sq ft).",It is buried more than 20 meters underground.,entailment,Entailment
+"The tombs are made of marble and are 27 metres (88 ft) deep underground, covering 1,200 square metres (13,000 sq ft).",he was an important public figure.,neutral,Neutral
+"The tombs are made of marble and are 27 metres (88 ft) deep underground, covering 1,200 square metres (13,000 sq ft).",his tombs are made of wood.,contradiction,Contradiction
+Remember to hide all movable belongings from the monkeys.,hide your possessions from the monkeys.,entailment,Entailment
+Remember to hide all movable belongings from the monkeys.,"The monkeys are very demanding of many things, including your possessions.",neutral,Neutral
+Remember to hide all movable belongings from the monkeys.,There is no need to hide your possessions from monkeys.,contradiction,Contradiction
+"Some 1,400 years before my wife's palace was built, milreau was the home of a prominent man.",The mill is 10 miles away from anything.,neutral,Neutral.
+"Some 1,400 years before my wife's palace was built, milreau was the home of a prominent man.",The miller was out of the country.,entailment,Neutral.
+"Some 1,400 years before my wife's palace was built, milreau was the home of a prominent man.",the mill is in the heart of the city.,contradiction,Neutral
+The sea temperature fluctuates between 18e and 24e C (64-75e F).,"The temperature of the sea is constantly changing, but it does not go below the temperature of the cooling air.",entailment,Neutral.
+The sea temperature fluctuates between 18e and 24e C (64-75e F).,The sea climate is always in the same place all year round.,contradiction,Contradiction
+The sea temperature fluctuates between 18e and 24e C (64-75e F).,"Sea weather is higher during the day, when it is warm.",neutral,Neutral.
+Kinabalu National Park is one of the six protected areas in the state.,Kinabalu national park has ten elephants and six rhinos.,neutral,Neutral
+Kinabalu National Park is one of the six protected areas in the state.,The state has protected areas including Kinabalu National Park.,entailment,Entailment
+Kinabalu National Park is one of the six protected areas in the state.,There are a total of three protected areas in the state.,contradiction,Contradiction
+"They will see videos of Anne's history and the Siege of Amsterdam, including photographs and artifacts from the time.",you don't see the pictures.,contradiction,Contradiction
+"They will see videos of Anne's history and the Siege of Amsterdam, including photographs and artifacts from the time.",you will see pictures.,entailment,Entailment
+"They will see videos of Anne's history and the Siege of Amsterdam, including photographs and artifacts from the time.",you will see some of the first pictures.,neutral,Entailment
+"Treasure Beach is the only resort to speak of, with a handful of hotels spread over three sandy beaches.",there are not many hotel options for visitors to treasure beach.,entailment,Entailment
+"Treasure Beach is the only resort to speak of, with a handful of hotels spread over three sandy beaches.",A four-star hotel is available for tourists visiting Treasure Beach.,neutral,Neutral
+"Treasure Beach is the only resort to speak of, with a handful of hotels spread over three sandy beaches.",Treasure beach is one of the many resorts in the area.,contradiction,Contradiction
+"The summer brings warm (but not hot) weather and warm sea temperatures, making it ideal for scuba diving, swimming and other water sports.",It is always 100 degrees or more in the summer.,contradiction,Contradiction
+"The summer brings warm (but not hot) weather and warm sea temperatures, making it ideal for scuba diving, swimming and other water sports.",usually 75 in the summer.,neutral,Neutral
+"The summer brings warm (but not hot) weather and warm sea temperatures, making it ideal for scuba diving, swimming and other water sports.",The climate is warm in the summer.,entailment,Entailment
+"one of the pools is where visitors toss coins in hopes of winning from the head of an elephant, a sure bet for good luck.",People never throw money in because it's bad luck.,contradiction,Contradiction
+"one of the pools is where visitors toss coins in hopes of winning from the head of an elephant, a sure bet for good luck.","people throw coins in, even if the sign says not to.",neutral,Neutral
+"one of the pools is where visitors toss coins in hopes of winning from the head of an elephant, a sure bet for good luck.",people throw coins into the water.,entailment,Entailment
+"The port city of Nafplio is the perfect base for visiting the area, or it can be a place to have lunch on your tour.",Nafplio has a good attitude.,neutral,Neutral.
+"The port city of Nafplio is the perfect base for visiting the area, or it can be a place to have lunch on your tour.",nephilio is a bad foundation.,contradiction,Contradiction
+"The port city of Nafplio is the perfect base for visiting the area, or it can be a place to have lunch on your tour.",nephilio is a perfect foundation.,entailment,Contradiction
+"in princeton, otto frank and his family hid in the attic of their business for more than two years before being found.",Otto Frank was arrested on the second day,contradiction,Contradiction
+"in princeton, otto frank and his family hid in the attic of their business for more than two years before being found.",Otto Frank was in hiding for over 25 months,entailment,Entailment
+"in princeton, otto frank and his family hid in the attic of their business for more than two years before being found.",Otto Frank hid until the Nazis found him,neutral,Entailment
+Many state and local governments have additional regulatory requirements.,Local governments can make their own laws,neutral,Neutral
+Many state and local governments have additional regulatory requirements.,Local governments have no precedence,contradiction,Contradiction
+Many state and local governments have additional regulatory requirements.,There are additional regulatory issues in local government,entailment,Entailment
+The information security team will conduct 8 to 12 sessions per month,The security team conducts an average of 9 sessions per month.,neutral,Entailment
+The information security team will conduct 8 to 12 sessions per month,The security team will hold sessions every day for a month,contradiction,Contradiction
+The information security team will conduct 8 to 12 sessions per month,The security team holds several sessions a year.,entailment,Entailment
+"However, early engineering was done",The first phase of engineering was,entailment,Neutral
+"However, early engineering was done",Engineering was done only at the last moment,contradiction,Contradiction
+"However, early engineering was done","Without preconditions, engineering may ultimately fail",neutral,Neutral
+"So government decision makers and managers are adopting new ways of thinking, considering ways to achieve different goals, and using new information to guide decisions.",Government officials are changing their ways,entailment,Entailment
+"So government decision makers and managers are adopting new ways of thinking, considering ways to achieve different goals, and using new information to guide decisions.",Government officials are trying to increase their power by thinking differently,neutral,Neutral
+"So government decision makers and managers are adopting new ways of thinking, considering ways to achieve different goals, and using new information to guide decisions.",Government officials do not want to change their ways,contradiction,Contradiction
+Foreigners who read languages other than English may need to translate case files,Files are allowed only in English,contradiction,Contradiction
+Foreigners who read languages other than English may need to translate case files,The files can be stored in Chinese or Russian,neutral,Neutral
+Foreigners who read languages other than English may need to translate case files,The files can be stored in other languages,entailment,Neutral.
+Other efforts underway or planned include:,Most of our efforts are in the works,neutral,Neutral
+Other efforts underway or planned include:,We have no other plans for the future,contradiction,Contradiction
+Other efforts underway or planned include:,We Have Something Planned,entailment,Entailment
+"Include these tips in a short time, delete the main computer files and access important documents",They deleted the computer files from IBM,neutral,Neutral
+"Include these tips in a short time, delete the main computer files and access important documents",They deleted the main files of the computer,entailment,Entailment
+"Include these tips in a short time, delete the main computer files and access important documents",Contains all major files,contradiction,Contradiction
+Then the same representative who made the first visit visits the new service provider again to answer questions and discuss any problems noted in the sample survey,The delegate visited for an hour,neutral,Neutral
+Then the same representative who made the first visit visits the new service provider again to answer questions and discuss any problems noted in the sample survey,It was during a visit by a representative,entailment,Entailment
+Then the same representative who made the first visit visits the new service provider again to answer questions and discuss any problems noted in the sample survey,We did not receive a visit.,contradiction,Contradiction
+Saving affects not only the accumulation of wealth but also the choice to save,The choice to save or not to save depends on one's means,entailment,Neutral
+Saving affects not only the accumulation of wealth but also the choice to save,Riches and possessions have no connection whatsoever,contradiction,Contradiction
+Saving affects not only the accumulation of wealth but also the choice to save,The rich are more likely to save a large share of their income,neutral,Neutral
+"For example, one company we studied faced two mergers that required the company to quickly merge new businesses and adjust to meet growing business demands","Even if there are two mergers, the company does not need to reorganize their company hierarchy.",contradiction,Contradiction
+"For example, one company we studied faced two mergers that required the company to quickly merge new businesses and adjust to meet growing business demands",The merger and restructuring of two companies into one organisation has resulted in a mixed working environment.,neutral,Neutral
+"For example, one company we studied faced two mergers that required the company to quickly merge new businesses and adjust to meet growing business demands",We examined the merger of two companies and had to set it up quickly to meet their business needs.,entailment,Contradiction
+We were afraid that the designer would be allowed to pay before we could verify the correctness of the trip,We knew that the ransom would take a long time,contradiction,Contradiction
+We were afraid that the designer would be allowed to pay before we could verify the correctness of the trip,"Before it was confirmed, we thought the payment might pass",entailment,Entailment
+We were afraid that the designer would be allowed to pay before we could verify the correctness of the trip,We thought we'd be cheating too early,neutral,Contradiction
+Technology is so integrated into the business processes of these organizations because technology is seen not only as a tool but also as a catalyst for business.,Advanced programming software is one of the key technologies that businesses are focusing on,neutral,Neutral
+Technology is so integrated into the business processes of these organizations because technology is seen not only as a tool but also as a catalyst for business.,"Technology is a tool, not an adaptation to business",contradiction,Contradiction
+Technology is so integrated into the business processes of these organizations because technology is seen not only as a tool but also as a catalyst for business.,These businesses focus heavily on technology,entailment,Entailment
+Two recurring concepts in the papers may be useful in informing future research,The articles can change the way we test samples,neutral,Neutral
+Two recurring concepts in the papers may be useful in informing future research,The papers could change the future of research,entailment,Neutral
+Two recurring concepts in the papers may be useful in informing future research,There's nothing like changing research.,contradiction,Contradiction
+Lines with boxes indicate the security level of all mail deliveries and lines with diamonds indicate the strategic losses (if negative) of transferring the work to another entity.,The lines estimate the security level of mail deliveries to be 10%.,neutral,Contradiction
+Lines with boxes indicate the security level of all mail deliveries and lines with diamonds indicate the strategic losses (if negative) of transferring the work to another entity.,The lines show nothing but the road,contradiction,Contradiction
+Lines with boxes indicate the security level of all mail deliveries and lines with diamonds indicate the strategic losses (if negative) of transferring the work to another entity.,The lines show how secure all mail is,entailment,Contradiction
+"Based on this risk assessment, Centrelink has developed a variety of prevention strategies aimed at educating users and employers on income reporting requirements.",Centerlink didn't know how to solve the problem,contradiction,Contradiction
+"Based on this risk assessment, Centrelink has developed a variety of prevention strategies aimed at educating users and employers on income reporting requirements.","Because the government was losing a lot of money to cheating, Centerlink had a lot of strategies to teach people how to report income.",neutral,Neutral
+"Based on this risk assessment, Centrelink has developed a variety of prevention strategies aimed at educating users and employers on income reporting requirements.",Centerlink had many strategies to teach people how to report income,entailment,Entailment
+This has enabled companies to use templates to demonstrate before investing in costly production kits and equipment.,Then they can demonstrate how the design works,entailment,Entailment
+This has enabled companies to use templates to demonstrate before investing in costly production kits and equipment.,They can show the company that building new factories is not wise,neutral,Neutral
+This has enabled companies to use templates to demonstrate before investing in costly production kits and equipment.,They had no idea how to demonstrate the impact of capital outflows.,contradiction,Contradiction
+South Carolina's cooperative effort yielded another success for the following year,No one worked together in South Carolina,contradiction,Contradiction
+South Carolina's cooperative effort yielded another success for the following year,S.C. worked together,entailment,Entailment
+South Carolina's cooperative effort yielded another success for the following year,Democrats and Republicans in South Carolina are working together,neutral,Neutral
+As an authority of the Board Section 605 (b) Certificates for Advocate General for the Small Business Administration (SBA) are not issued separately.,The board did not issue an SBA certificate to the SBA and left that to the review office.,neutral,Contradiction
+As an authority of the Board Section 605 (b) Certificates for Advocate General for the Small Business Administration (SBA) are not issued separately.,The board refused to issue certificates to the SBA,entailment,Contradiction
+As an authority of the Board Section 605 (b) Certificates for Advocate General for the Small Business Administration (SBA) are not issued separately.,The board issues SBA certificates to applicants only once,contradiction,Contradiction
+"When accommodation and certain other costs are met, the correct journey is confirmed",Most domestic hotels accept credit card payments,neutral,Neutral
+"When accommodation and certain other costs are met, the correct journey is confirmed",The trip itself is guaranteed using hotel bills,entailment,Contradiction
+"When accommodation and certain other costs are met, the correct journey is confirmed",There is no way to know for sure whether or not a trip actually exists.,contradiction,Contradiction
+"For example, the capital of one province we visited is home to more than 600 software companies",Cities are the best places for software companies,neutral,Neutral
+"For example, the capital of one province we visited is home to more than 600 software companies",A capital city has many software companies,entailment,Entailment
+"For example, the capital of one province we visited is home to more than 600 software companies",Software companies try to avoid capital cities for legal reasons,contradiction,Contradiction
+"In measuring efficiency, perfection cannot be reached","With sufficient effort, you can be perfect",contradiction,Contradiction
+"In measuring efficiency, perfection cannot be reached",You can never be perfect.,entailment,Entailment
+"In measuring efficiency, perfection cannot be reached",you can't be perfect because we're all deeply flawed,neutral,Neutral
+The man who rented the house to Hamzi and Mihdar in 2000 is a law-abiding man with close ties to the police and the FBI.,Hazmi and Mihdar had bought a house and had nothing to do with anyone.,contradiction,Contradiction
+The man who rented the house to Hamzi and Mihdar in 2000 is a law-abiding man with close ties to the police and the FBI.,Hazmi and Mihdar rented a house for a whole year $500 a day,neutral,Neutral.
+The man who rented the house to Hamzi and Mihdar in 2000 is a law-abiding man with close ties to the police and the FBI.,Hazmi and Mihdar rented a house,entailment,Entailment
+"See Al-Qaeda-linked Saudi intelligence report for their visit to Bosnia, October 3, 2001",A member of al-Qaeda traveled to Bosnia 18 times in 2001,neutral,Neutral
+"See Al-Qaeda-linked Saudi intelligence report for their visit to Bosnia, October 3, 2001",A member of al-Qaeda traveled to Bosnia,entailment,Entailment
+"See Al-Qaeda-linked Saudi intelligence report for their visit to Bosnia, October 3, 2001",There is no evidence that any al-Qaeda member went to Bosnia,contradiction,Contradiction
+Jane asked the representative of the New York agency assigned to the search to sign an acknowledgement form explaining how to handle the FISA data.,Jane asked a federal judge to sign the FISA form,neutral,Contradiction
+Jane asked the representative of the New York agency assigned to the search to sign an acknowledgement form explaining how to handle the FISA data.,Jane was asked to sign the FISA form,entailment,Contradiction
+Jane asked the representative of the New York agency assigned to the search to sign an acknowledgement form explaining how to handle the FISA data.,Jane said there was no need for FISA recognition.,contradiction,Contradiction
+There is nothing special about any of them as far as the only level of security associated with proper screening is concerned.,"During the search, shocking evidence was found",contradiction,Contradiction
+There is nothing special about any of them as far as the only level of security associated with proper screening is concerned.,Inspection processes rely entirely on the internal understanding of the customs agent performing the inspection,neutral,Neutral
+There is nothing special about any of them as far as the only level of security associated with proper screening is concerned.,The investigation failed to find any evidence against them,entailment,Neutral
+"Kalad presented the second edition, and the three traveled together to Karachi",Khaled claimed to know nothing about the three,contradiction,Contradiction
+"Kalad presented the second edition, and the three traveled together to Karachi",Khaled said that the three could travel together,entailment,Contradiction
+"Kalad presented the second edition, and the three traveled together to Karachi",Khaled said that there was a 50% chance that the three would go to Karachi together in October.,neutral,Contradiction
+"Intelligence report, investigation by the binalship, october 1, 2002",Binalshibh was questioned by the FBI task force,neutral,Neutral
+"Intelligence report, investigation by the binalship, october 1, 2002",Binalshibh was asked in 2002,entailment,Neutral
+"Intelligence report, investigation by the binalship, october 1, 2002",Benelux was never mentioned and disappeared,contradiction,Neutral
+May Receives new U.S. visa two days after CIA-FBI meeting in New York,Mayra had a U.S. visa to enter the country,entailment,Neutral
+May Receives new U.S. visa two days after CIA-FBI meeting in New York,May never came to the united states because he could not get a visa,contradiction,Contradiction
+May Receives new U.S. visa two days after CIA-FBI meeting in New York,May was granted a visa because he was not threatened,neutral,Neutral
+"Despite two years of investigation, the FBI was unable to find the co-worker or determine his true identity.","After he left Florida in 2001, the FBI failed to find him",neutral,Entailment
+"Despite two years of investigation, the FBI was unable to find the co-worker or determine his true identity.",The FBI failed to identify the man,entailment,Entailment
+"Despite two years of investigation, the FBI was unable to find the co-worker or determine his true identity.",FBI finds out who he was and throws him in jail,contradiction,Contradiction
+"According to American 11, the last formal contact with the plane was at 8:13 A.M.",It was a talk from the United States 11.,entailment,Contradiction
+"According to American 11, the last formal contact with the plane was at 8:13 A.M.",He was talking to 11 Americans every 5 minutes.,neutral,Contradiction
+"According to American 11, the last formal contact with the plane was at 8:13 A.M.",There was no broadcast in the United States.,contradiction,Contradiction
+"To get it, he would have to ask the German government for a quick and very valuable Tver, which would have been difficult to get.",An investigation could reveal the whereabouts of three men,neutral,Neutral
+"To get it, he would have to ask the German government for a quick and very valuable Tver, which would have been difficult to get.",The German government may have had difficulty conducting a quick and thorough investigation,entailment,Neutral
+"To get it, he would have to ask the German government for a quick and very valuable Tver, which would have been difficult to get.",The inspection will be very simple and easy for the government to carry out,contradiction,Contradiction
+"These capabilities were not enough, but little was done to expand or improve them.",They have made little change to their surveillance program,neutral,Entailment
+"These capabilities were not enough, but little was done to expand or improve them.",They did little to change things.,entailment,Entailment
+"These capabilities were not enough, but little was done to expand or improve them.",They tried hard to make things right,contradiction,Contradiction
+"The analyzed e-mail, however, reveals extensive warnings and legal obstacles regarding laws governing data sharing and the use of intelligence collected by criminal agents.",The analyst presented a crystal-clear analysis,contradiction,Contradiction
+"The analyzed e-mail, however, reveals extensive warnings and legal obstacles regarding laws governing data sharing and the use of intelligence collected by criminal agents.",The analyst was ambiguous about many things,entailment,Contradiction
+"The analyzed e-mail, however, reveals extensive warnings and legal obstacles regarding laws governing data sharing and the use of intelligence collected by criminal agents.",The analysis was so complex that no one could read it,neutral,Contradiction
+"Some officers were assigned to escort people through the stairs while others were assigned to the square, the public gathering, and speeding up the road.",Officers get their own jobs,entailment,Neutral
+"Some officers were assigned to escort people through the stairs while others were assigned to the square, the public gathering, and speeding up the road.",Officials go where they are needed,contradiction,Entailment
+"Some officers were assigned to escort people through the stairs while others were assigned to the square, the public gathering, and speeding up the road.",The officers were assigned on the basis of their experience,neutral,Neutral
+"On September 9, shocking news came from Afghanistan",We received news from Afghanistan,entailment,Entailment
+"On September 9, shocking news came from Afghanistan",We didn't hear from Afghanistan until October,contradiction,Contradiction
+"On September 9, shocking news came from Afghanistan",We are warned of the attack on September 9,neutral,Contradiction
+"Disagreements at the World Trade Center, the Pentagon and the Somerset District, Pennsylvania, crash sites, several agencies, and several governors were a key part of the response.",Communication worked well on 9/11.,contradiction,Contradiction
+"Disagreements at the World Trade Center, the Pentagon and the Somerset District, Pennsylvania, crash sites, several agencies, and several governors were a key part of the response.","At the World Trade Center, people had difficulty communicating because the lights were out and the phone lines were down.",neutral,Neutral
+"Disagreements at the World Trade Center, the Pentagon and the Somerset District, Pennsylvania, crash sites, several agencies, and several governors were a key part of the response.","At the World Trade Center, people had difficulty communicating",entailment,Neutral
+"The driver's license, vehicle registration, and telephone details could be found in easily accessible databases",Researchers have also sought professional databases,neutral,Neutral
+"The driver's license, vehicle registration, and telephone details could be found in easily accessible databases",Many types of data have been extracted from existing databases,entailment,Entailment
+"The driver's license, vehicle registration, and telephone details could be found in easily accessible databases",There was no way to get any information on the subject using existing sources.,contradiction,Contradiction
+"Expressing suspicion about the entire transaction, the manager isolated themselves from Hazmi and Mihdar, but not before they got the help they needed.",The manager immediately contacted the authorities and refused to help in this matter,contradiction,Contradiction
+"Expressing suspicion about the entire transaction, the manager isolated themselves from Hazmi and Mihdar, but not before they got the help they needed.",They gave help despite the manager's annoyance,entailment,Entailment
+"Expressing suspicion about the entire transaction, the manager isolated themselves from Hazmi and Mihdar, but not before they got the help they needed.",The aid included cash and travel documents,neutral,Neutral
+"In 2003, these designations were dropped; all cases of international terrorism now have the same designation. 315",All forms of terrorism are given high priority,neutral,Neutral
+"In 2003, these designations were dropped; all cases of international terrorism now have the same designation. 315",All cases of terrorism will receive the same label,entailment,Entailment
+"In 2003, these designations were dropped; all cases of international terrorism now have the same designation. 315",Each case of terrorism is independently evaluated and rated,contradiction,Contradiction
+"This officer, who witnessed the demolition of the south tower, reported the evacuation orders to the ESU units in the north tower","After the southern wall fell, no one was left in the northern wall",contradiction,Contradiction
+"This officer, who witnessed the demolition of the south tower, reported the evacuation orders to the ESU units in the north tower","Thirty minutes before the official spoke to the ESU units in the North Tower, the South Tower collapsed",neutral,Contradiction
+"This officer, who witnessed the demolition of the south tower, reported the evacuation orders to the ESU units in the north tower",The official witnessed the collapse of the southern wall,entailment,Contradiction
+Indianapolis is actually one of the best places for many actors to work.,Actors love Indianapolis because of all the recruitment agencies there.,neutral,Neutral
+Indianapolis is actually one of the best places for many actors to work.,"If you're an actor, you should consider moving to Indianapolis.",entailment,Entailment
+Indianapolis is actually one of the best places for many actors to work.,"It's hard to get a job in Indianapolis if you're in the film and theater business, because it's mostly a tech city.",contradiction,Contradiction
+"We offer help 24 hours a day, 7 days a week through the Prevention Information Center and by phone.",People can contact us only by letter or e-mail,contradiction,Contradiction
+"We offer help 24 hours a day, 7 days a week through the Prevention Information Center and by phone.",We can be available by telephone at any time of the day,entailment,Entailment
+"We offer help 24 hours a day, 7 days a week through the Prevention Information Center and by phone.",Every Monday and Friday we receive more than a hundred calls,neutral,Neutral
+These boxes are left in their packaging after all other gifts are opened,These boxes contain dangerous bombs,neutral,Neutral
+These boxes are left in their packaging after all other gifts are opened,These boxes are opened before the other gifts,contradiction,Contradiction
+These boxes are left in their packaging after all other gifts are opened,These boxes are left unopened for a while,entailment,Entailment
+"If we lower our price, we should reach out to you, our audience members, to ask for a small contribution to help us achieve this mission.",To keep our tickets under $10 we want all our audience members to donate $25,neutral,Contradiction
+"If we lower our price, we should reach out to you, our audience members, to ask for a small contribution to help us achieve this mission.","Without your money, we can lower our prices if we want the truth, but our boss loves comfort.",contradiction,Contradiction
+"If we lower our price, we should reach out to you, our audience members, to ask for a small contribution to help us achieve this mission.",Your contributions have helped us to reduce costs,entailment,Neutral
+"00 helped guide, encourage, and authorize nearly 400 children in the Indianapolis area","Thanks to our charitable donations, we were able to invite Beyoncé to perform a concert for Indianapolis orphans.",neutral,Neutral
+"00 helped guide, encourage, and authorize nearly 400 children in the Indianapolis area","We hoped to give the children a Christmas party, but we couldn't do anything for them.",contradiction,Contradiction
+"00 helped guide, encourage, and authorize nearly 400 children in the Indianapolis area",We were able to help many Indianapolis children,entailment,Entailment
+"Initially, individuals may participate by making an unlimited annual donation of $1,000 or more to the Secretary of State Club, or $500 or more to the Secretary of State Associates.",Individuals can participate with a small donation of $50,contradiction,Contradiction
+"Initially, individuals may participate by making an unlimited annual donation of $1,000 or more to the Secretary of State Club, or $500 or more to the Secretary of State Associates.",Individuals can contribute if they make a reasonable donation,entailment,Neutral
+"Initially, individuals may participate by making an unlimited annual donation of $1,000 or more to the Secretary of State Club, or $500 or more to the Secretary of State Associates.",Most individuals choose to donate to the Secretary of State's associates,neutral,Neutral
+The donation may be accompanied by a donation to the Watch Tower Bible and Tract Society of Pennsylvania.,"If you donate at least $1,000, you can be sure to receive tax breaks.",neutral,Neutral.
+The donation may be accompanied by a donation to the Watch Tower Bible and Tract Society of Pennsylvania.,"Unfortunately, our tax advisors advise you not to make any kind of gift.",contradiction,Contradiction
+The donation may be accompanied by a donation to the Watch Tower Bible and Tract Society of Pennsylvania.,You may be able to claim a tax-deductible donation to Watch Tower Bible and Tract Society of Pennsylvania.,entailment,Neutral.
+"Membership, as is well known, includes friends and former students who donate $1,000 or more to the law school each year",Some members of this group have donated over $100k to the school,neutral,Neutral
+"Membership, as is well known, includes friends and former students who donate $1,000 or more to the law school each year","We have people in this group who have donated over $1,000 to the law school.",entailment,Entailment
+"Membership, as is well known, includes friends and former students who donate $1,000 or more to the law school each year","This group is planning to ask him to donate money to the school, but he hasn't done this before.",contradiction,Neutral
+"In the ' 50s , one of my fondest memories was attending a production of the Civic Theatre .","When I was a kid, I hated going to the theater, so I became a scientist.",contradiction,Contradiction
+"In the ' 50s , one of my fondest memories was attending a production of the Civic Theatre .","As a child, I loved going to the theater",entailment,Entailment
+"In the ' 50s , one of my fondest memories was attending a production of the Civic Theatre .",My favorite civic theater production was Beauty and the Beast,neutral,Neutral
+This letter will only be received if each person contributes $18,Don't give away your belongings because all you've received is fraud,contradiction,Contradiction
+This letter will only be received if each person contributes $18,A donation of $18 is requested,neutral,Entailment
+This letter will only be received if each person contributes $18,We hope that all recipients can donate $18,entailment,Neutral
+"Simply copy the bottom, check the applicable option, if necessary, make any changes to your address and send it in closed mail",Please do not change your address,contradiction,Contradiction
+"Simply copy the bottom, check the applicable option, if necessary, make any changes to your address and send it in closed mail",You have a white envelope with your address,neutral,Neutral
+"Simply copy the bottom, check the applicable option, if necessary, make any changes to your address and send it in closed mail",You are free to make changes to your address if you find it convenient,entailment,Entailment
+The School of Nursing needs your generous gifts to maintain and preserve academic excellence,"Please donate $100 million to the School of Nursing, or your memorial will not work.",neutral,Contradiction
+The School of Nursing needs your generous gifts to maintain and preserve academic excellence,"The school of nursing has met all of its financial goals, so it does not need any additional funds",contradiction,Contradiction
+The School of Nursing needs your generous gifts to maintain and preserve academic excellence,We hope that they will donate to the nursing school,entailment,Entailment
+80% of participants report increased conflict resolution skills,More than half of respondents report an increase in conflict resolution skills,entailment,Entailment
+80% of participants report increased conflict resolution skills,Only a quarter of respondents cited an increase in conflict resolution skills,contradiction,Contradiction
+80% of participants report increased conflict resolution skills,More than 100 people attended,neutral,Neutral
+Please don't send messages to those who don't.,It's a shame if you stop giving,entailment,Neutral
+Please don't send messages to those who don't.,"The list of people who don't read has been published for the world to see, so trust me, you don't want to be ashamed of it.",neutral,Neutral
+Please don't send messages to those who don't.,"We have many donors, so please stop donating.",contradiction,Contradiction
+Anyone with a computer and a modem could access our floor,They don't need anything to get to the surface,contradiction,Contradiction
+Anyone with a computer and a modem could access our floor,"In order to get to the floor, a squirrel needs both a computer and a modem",entailment,Contradiction
+Anyone with a computer and a modem could access our floor,"To get to the floor, you must carry both a computer and a modem",neutral,Contradiction
+Ticket sales and subscriptions can't replenish our full season,"As long as tickets are on sale, we will be running our entire season",contradiction,Contradiction
+Ticket sales and subscriptions can't replenish our full season,We need more than ticket sales and subscriptions to cover our entire season,entailment,Entailment
+Ticket sales and subscriptions can't replenish our full season,Ticket sales and reservations cover only 70% of our total expenditure,neutral,Neutral
+Newcomers vs. Every gift is different,All donations are advertised and advertised in our monthly magazine,neutral,Neutral
+Newcomers vs. Every gift is different,Every gift you receive is something special,entailment,Neutral
+Newcomers vs. Every gift is different,Only gifts over $100 make a difference,contradiction,Neutral
+"$365,000 We have a lot left over from our friends and followers like you to reach our goal.","Our financial goal exceeds $300,000",entailment,Entailment
+"$365,000 We have a lot left over from our friends and followers like you to reach our goal.","In fact, we're hoping to triple our fiscal target.",neutral,Neutral
+"$365,000 We have a lot left over from our friends and followers like you to reach our goal.",We have no rules about money.,contradiction,Contradiction
+Our public health center has been operating for many years and recently we added a crime prevention health center.,Our State Health Center Served for Eight Years,neutral,Neutral
+Our public health center has been operating for many years and recently we added a crime prevention health center.,Our state health center will celebrate its first anniversary next month,contradiction,Contradiction
+Our public health center has been operating for many years and recently we added a crime prevention health center.,Our state health center has been in operation for over a year.,entailment,Neutral.
+Ticket revenues did not cover the costs of these programs,The cost of these events does not seem to be covered by ticket revenues,entailment,Entailment
+Ticket revenues did not cover the costs of these programs,The cost of these events is enormous,neutral,Neutral
+Ticket revenues did not cover the costs of these programs,The ticket price certainly covers the cost of these programs,contradiction,Contradiction
+Omnia Vinchit Amor (if you don't work weekly): Britt Hume (Fox News Sunday) speculates why it might not be Lewinsky still has an unrequited love for the president,Britt Hume is a Fox news anchor,neutral,Entailment
+Omnia Vinchit Amor (if you don't work weekly): Britt Hume (Fox News Sunday) speculates why it might not be Lewinsky still has an unrequited love for the president,Brit Hum works for CNN,contradiction,Contradiction
+Omnia Vinchit Amor (if you don't work weekly): Britt Hume (Fox News Sunday) speculates why it might not be Lewinsky still has an unrequited love for the president,Britt Hume works for Fox,entailment,Entailment
+Hiring Michael Apted did a lot of work to make the series more human.,Michael Apted ends the series with humorous and entertaining characters,contradiction,Neutral
+Hiring Michael Apted did a lot of work to make the series more human.,Michael Apted was hired to improve personal fitness on the series,entailment,Contradiction
+Hiring Michael Apted did a lot of work to make the series more human.,"The series was thought to be dull and boring, so it was necessary to hire Michael Apted to improve ratings and add fun and personalized ratings.",neutral,Neutral.
+To see a girl in a white fur coat and long shoes,The girl is dressed for snowboarding,neutral,Neutral
+To see a girl in a white fur coat and long shoes,The girl in white robes,entailment,Contradiction
+To see a girl in a white fur coat and long shoes,The girl dressed all in red,contradiction,Contradiction
+What the film neglected to mention was how Kaufman often talked about how he wanted to get rid of himself,"When the film talks about his own death, Kaufman does not stand up",entailment,Contradiction
+What the film neglected to mention was how Kaufman often talked about how he wanted to get rid of himself,The film featured an in-depth interview with Kaufman about his death,contradiction,Contradiction
+What the film neglected to mention was how Kaufman often talked about how he wanted to get rid of himself,"Despite leaving behind some crucial details about Kaufman, the film was a major success",neutral,Neutral
+Rockefeller was tormented in a fierce battle while seeking vengeance for Angel Tarbell,Rockefeller donated to cancer research,neutral,Neutral
+Rockefeller was tormented in a fierce battle while seeking vengeance for Angel Tarbell,Rockefeller was a generous man,entailment,Neutral
+Rockefeller was tormented in a fierce battle while seeking vengeance for Angel Tarbell,Rockefeller was an apologist,contradiction,Contradiction
+Clayman sided with the other side in a recent tribal business dispute in New York,The clayman sparked racial discrimination in california,contradiction,Neutral
+Clayman sided with the other side in a recent tribal business dispute in New York,Claiman did not expect to be accused of racial discrimination,neutral,Neutral
+Clayman sided with the other side in a recent tribal business dispute in New York,Claiman was accused of racial discrimination,entailment,Neutral
+He didn't expect to yell at the U.S. Human Resources Administration in the conference room.,Representatives of the organization wear wool,neutral,Neutral
+He didn't expect to yell at the U.S. Human Resources Administration in the conference room.,A man whistles at the representatives of the organization,contradiction,Contradiction
+He didn't expect to yell at the U.S. Human Resources Administration in the conference room.,A person does not whistle at representatives of an organization,entailment,Neutral
+Just because care is a more significant influence on athletic performance doesn't mean nature is a lesbian.,Athletes are born with the desire to reach their full potential,contradiction,Neutral
+Just because care is a more significant influence on athletic performance doesn't mean nature is a lesbian.,Athletic ability is affected more by training than by genetics,entailment,Entailment
+Just because care is a more significant influence on athletic performance doesn't mean nature is a lesbian.,The strongest athletes exercise at least eight hours each week,neutral,Neutral
+"Once home, I learned that the United States would cut off supplies in two ways",I was interested in politics.,neutral,Neutral
+"Once home, I learned that the United States would cut off supplies in two ways",I learned about the United States.,entailment,Entailment
+"Once home, I learned that the United States would cut off supplies in two ways","Before I came home, I learned that the United States would cut off supplies in two ways",contradiction,Contradiction
+"Oxford University Press, the world's oldest and largest university press, has announced the cancellation of its poetry lists.",Oxford's list of poems is not extended,entailment,Entailment
+"Oxford University Press, the world's oldest and largest university press, has announced the cancellation of its poetry lists.",The prestigious university does not have the funds to maintain the list of poems,neutral,Neutral
+"Oxford University Press, the world's oldest and largest university press, has announced the cancellation of its poetry lists.",The university is determined to preserve the list of poems and never delete it.,contradiction,Contradiction
+But there is a comforting reward for mankind,The consolation prize is a free two-speed combination for each person,neutral,Neutral
+But there is a comforting reward for mankind,"In this situation, there is no exchange for humans",contradiction,Contradiction
+But there is a comforting reward for mankind,All of this is not bad news for mankind,entailment,Entailment
+betting events on these sites are not limited to sports,Betting on political contests and elections is also acceptable on these sites.,neutral,Entailment
+betting events on these sites are not limited to sports,These sites only accept betting on sporting events,contradiction,Contradiction
+betting events on these sites are not limited to sports,These sites take the best in various activities,entailment,Neutral
+"After the August 25 Democratic convention in Atlantic City, New Jersey, the 56-year-old Johnson warned that he might withdraw from the presidential race at three consecutive registered meetings.",Johnson felt a sense of loss of support,neutral,Entailment
+"After the August 25 Democratic convention in Atlantic City, New Jersey, the 56-year-old Johnson warned that he might withdraw from the presidential race at three consecutive registered meetings.",Johnson never thought about leaving.,contradiction,Contradiction
+"After the August 25 Democratic convention in Atlantic City, New Jersey, the 56-year-old Johnson warned that he might withdraw from the presidential race at three consecutive registered meetings.",Johnson is determined to leave,entailment,Contradiction
+Lamar alexander terminated the presidential bid,At least one person was disappointed in the attempt to become president,entailment,Entailment
+Lamar alexander terminated the presidential bid,Lamar alexander refused to give up the presidential campaign,contradiction,Contradiction
+Lamar alexander terminated the presidential bid,Mr. Alexander was forced to leave after his embarrassing photos were published,neutral,Contradiction
+The first investigation by the White House Travel Office into this tragic record of civil liberties is the abuse of the FBI and the so-called FileGate.,The White House has an FBI spy on political candidates.,neutral,Contradiction
+The first investigation by the White House Travel Office into this tragic record of civil liberties is the abuse of the FBI and the so-called FileGate.,The White House abuses the FBI,entailment,Entailment
+The first investigation by the White House Travel Office into this tragic record of civil liberties is the abuse of the FBI and the so-called FileGate.,The White House uses the FBI appropriately,contradiction,Contradiction
+"Tung promises to take action against property analysts, but many think his screams will be worse than his punches",Tung doesn't care about property speculators,contradiction,Contradiction
+"Tung promises to take action against property analysts, but many think his screams will be worse than his punches",Tung believes that property developers are acting immorally,neutral,Neutral
+"Tung promises to take action against property analysts, but many think his screams will be worse than his punches",Tung wants to influence real estate investors,entailment,Neutral
+"Flight attendants not working, non-technical flight cancellations, fines",Bags of 10 people are missing,neutral,Neutral
+"Flight attendants not working, non-technical flight cancellations, fines",People complained about their bags,entailment,Neutral
+"Flight attendants not working, non-technical flight cancellations, fines",There were no complaints.,contradiction,Contradiction
+"Lawrence singleton, a notorious rapist, was released after serving only eight years in prison for cutting off the victim's arm, but was again imprisoned for beating and killing a woman in florida.","After cutting off the victim's arm, he tried to hide it in a garbage can",neutral,Neutral
+"Lawrence singleton, a notorious rapist, was released after serving only eight years in prison for cutting off the victim's arm, but was again imprisoned for beating and killing a woman in florida.",his imprisonment was obvious to all that he had completely changed,contradiction,Contradiction
+"Lawrence singleton, a notorious rapist, was released after serving only eight years in prison for cutting off the victim's arm, but was again imprisoned for beating and killing a woman in florida.",Mr. Singleton convicted of rape in Florida,entailment,Contradiction
+"According to Charles Lane of the New Republic, Gabriel Garcia Marquez's hacking records dishonest journalism",Charles Lane is a reporter,entailment,Neutral
+"According to Charles Lane of the New Republic, Gabriel Garcia Marquez's hacking records dishonest journalism",Charles Lane sold his cars,contradiction,Neutral
+"According to Charles Lane of the New Republic, Gabriel Garcia Marquez's hacking records dishonest journalism",Charles Lane won the Pulitzer Prize,neutral,Neutral
+The court is not the only political circus in Washington this morning,The court is not the only political venue in Washington,entailment,Entailment
+The court is not the only political circus in Washington this morning,The political day probably began in the morning,neutral,Neutral
+The court is not the only political circus in Washington this morning,There's a circus with jokes in the courtroom,contradiction,Contradiction
+"We can think of a Dozer driver as a developer paving the way for a new development. Hey, Lloyd.",You might think that the driver of the Dozer is raising the Dozer,neutral,Neutral
+"We can think of a Dozer driver as a developer paving the way for a new development. Hey, Lloyd.",You can think of the Dodger driver.,entailment,Contradiction
+"We can think of a Dozer driver as a developer paving the way for a new development. Hey, Lloyd.",Dozer's driver is unable to think,contradiction,Contradiction
+"I told this to Dr. in a letter, as if to please him, and he sent me a little fruit cake there.",I'm sure the doctor received my letter,entailment,Entailment
+"I told this to Dr. in a letter, as if to please him, and he sent me a little fruit cake there.",I refused to eat the cake the doctor sent me that Christmas,neutral,Contradiction
+"I told this to Dr. in a letter, as if to please him, and he sent me a little fruit cake there.",The doctor sent me a bottle of wine that Christmas,contradiction,Contradiction
+"The group was previously known as the Binneters, which, interestingly, can also be considered an Indian nickname.",The group changed its name because it was not popular,neutral,Neutral
+"The group was previously known as the Binneters, which, interestingly, can also be considered an Indian nickname.",The group previously had a name that can also be thought of as an Indian nickname.,entailment,Entailment
+"The group was previously known as the Binneters, which, interestingly, can also be considered an Indian nickname.",The group has only one name,contradiction,Contradiction
+I could not find such a translation in Hausa,I found the translation in Thessaurus,contradiction,Contradiction
+I could not find such a translation in Hausa,I looked in Thesaurus and found no meaning.,entailment,Neutral
+I could not find such a translation in Hausa,What I used was a standard THASAURUS,neutral,Contradiction
+How can one do so?,How Many People Can Do Nothing,contradiction,Neutral
+How can one do so?,How does a man do such a stupid thing?,neutral,Neutral
+How can one do so?,How can a person do this?,entailment,Entailment
+"Moreover, according to the preface, it contains only words known to have been borrowed in the twentieth century, but leaves out early 20th century military words.","As mentioned in the introduction, it contains quotations from the twentieth century but leaves out earlier quotations",entailment,Neutral
+"Moreover, according to the preface, it contains only words known to have been borrowed in the twentieth century, but leaves out early 20th century military words.","From the earliest times, it contains all the words",contradiction,Contradiction
+"Moreover, according to the preface, it contains only words known to have been borrowed in the twentieth century, but leaves out early 20th century military words.",There are many different styles before the twentieth century.,neutral,Neutral
+"If a person has the 1984 edition, he may be disappointed to buy this book rather than a short-lived (and inexpensive) supplement",The 1984 edition is the best of many,neutral,Contradiction
+"If a person has the 1984 edition, he may be disappointed to buy this book rather than a short-lived (and inexpensive) supplement",The book is not for sale,contradiction,Contradiction
+"If a person has the 1984 edition, he may be disappointed to buy this book rather than a short-lived (and inexpensive) supplement",The supply is cheaper than the book,entailment,Contradiction
+"In the beginning, Bernstein explained: ""It is not easy to be a Christian.",Bernstein did not explain it in detail.,neutral,Contradiction
+"In the beginning, Bernstein explained: ""It is not easy to be a Christian.",Bernstein explains only in the summary,contradiction,Contradiction
+"In the beginning, Bernstein explained: ""It is not easy to be a Christian.",The introduction contains our explanation,entailment,Contradiction
+"Even after twenty years of knowledge, it is not advisable to interfere with these subjects simply because a foreigner finds it difficult to discern many things about them that are strange",Even native speakers sometimes have a problem with humor,neutral,Neutral
+"Even after twenty years of knowledge, it is not advisable to interfere with these subjects simply because a foreigner finds it difficult to discern many things about them that are strange","In general, humor is one of the easiest things for a foreigner to understand",contradiction,Contradiction
+"Even after twenty years of knowledge, it is not advisable to interfere with these subjects simply because a foreigner finds it difficult to discern many things about them that are strange",These subjects are difficult for outsiders to understand,entailment,Entailment
+"Finally , one should be wary of an extension with a different meaning .",Editors are usually hired to catch this kind of error.,neutral,Neutral
+"Finally , one should be wary of an extension with a different meaning .",Extensions are a good way to clarify the meaning of a sentence,contradiction,Contradiction
+"Finally , one should be wary of an extension with a different meaning .","When he tries to make a long statement, the meaning may change",entailment,Neutral
+Turn your head in the heat,Heating people's heads is a good way to improve their concentration and motivation,contradiction,Neutral
+Turn your head in the heat,Excessive heat can cause a turn in some cases,entailment,Neutral
+Turn your head in the heat,Today the average temperature was five degrees above that,neutral,Neutral
+No other professional has such a rich tradition of self-deprecation,Many other experts think highly of themselves,neutral,Contradiction
+No other professional has such a rich tradition of self-deprecation,Many professionals have no experience in self-deception,contradiction,Contradiction
+No other professional has such a rich tradition of self-deprecation,Other work has no tradition of self-criticism,entailment,Contradiction
+"And on a proud note, those fabrics that have engraved evocative names in local legends use these pronunciations in private letters, household rumors, and vague forms of identity.",These papers are not famous,contradiction,Neutral
+"And on a proud note, those fabrics that have engraved evocative names in local legends use these pronunciations in private letters, household rumors, and vague forms of identity.",These papers have a good reputation,entailment,Neutral
+"And on a proud note, those fabrics that have engraved evocative names in local legends use these pronunciations in private letters, household rumors, and vague forms of identity.",Many housewives whisper those papers,neutral,Neutral
+"If it describes the characteristics of a simple, white beer,",Beer may be labeled light and spicy,entailment,Neutral
+"If it describes the characteristics of a simple, white beer,",The words simple and clear are used to describe only wine and whiskey,contradiction,Contradiction
+"If it describes the characteristics of a simple, white beer,",A simple beer has a low alcohol content,neutral,Neutral
+Extenuated names are used when they and other alternative names are not needed,People have a hard time finding a different name,neutral,Contradiction
+Extenuated names are used when they and other alternative names are not needed,His name is frequently used,entailment,Contradiction
+Extenuated names are used when they and other alternative names are not needed,His name needs to be used more,contradiction,Contradiction
+"On top of all this, we have the unpleasant fact that heartfelt writing can sometimes be unforgettable and exacerbate the problem",People are more likely to remember bad handwriting,contradiction,Contradiction
+"On top of all this, we have the unpleasant fact that heartfelt writing can sometimes be unforgettable and exacerbate the problem",Well-written manuscripts are often easier to remember than bad manuscripts,entailment,Neutral
+"On top of all this, we have the unpleasant fact that heartfelt writing can sometimes be unforgettable and exacerbate the problem",Well-written texts are expensive to mass-produce,neutral,Neutral
+"Faced with this view and somewhat puzzled, the English affirmed their dignity by expressing the word predominantly",Britain had no honour,contradiction,Contradiction
+"Faced with this view and somewhat puzzled, the English affirmed their dignity by expressing the word predominantly",Britain dominated the world economy,neutral,Neutral
+"Faced with this view and somewhat puzzled, the English affirmed their dignity by expressing the word predominantly",Britain was the world's largest trading power,entailment,Neutral
+Sometimes it is like a snake,Sometimes it can be very difficult to discern,entailment,Neutral
+Sometimes it is like a snake,"Thanks to a carefully coated motor, it produces very little sound",neutral,Neutral
+Sometimes it is like a snake,It was always very easy to see from any distance,contradiction,Contradiction
+"In fact, there are more distinct dialects of English in Britain than in North America, and anyone who has spent time with them knows that they are not mutually intelligible",Britain has more distinctive accents of English than North America,entailment,Entailment
+"In fact, there are more distinct dialects of English in Britain than in North America, and anyone who has spent time with them knows that they are not mutually intelligible","The North American and British dialects are almost identical, and people can't tell the difference.",contradiction,Contradiction
+"In fact, there are more distinct dialects of English in Britain than in North America, and anyone who has spent time with them knows that they are not mutually intelligible",People from North America have difficulty understanding half of the British dialect,neutral,Neutral
+"A reporter from Tennessee used dog weather to describe the warm, rainy weather, which may be a reference to the dry weather of the Bronze Age.","According to the informant, it was used to describe the rainy season in hot and humid weather",contradiction,Entailment
+"A reporter from Tennessee used dog weather to describe the warm, rainy weather, which may be a reference to the dry weather of the Bronze Age.",June and July are the hottest in Tennessee.,neutral,Neutral.
+"A reporter from Tennessee used dog weather to describe the warm, rainy weather, which may be a reference to the dry weather of the Bronze Age.","In August, the weather is hot and dry",entailment,Contradiction

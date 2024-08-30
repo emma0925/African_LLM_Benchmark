@@ -1,0 +1,679 @@
+premise,hypothesis,label,output
+"እንግዲህ , እኔ ስለ እሱ እያሰብኩኝ አልነበረም , ነገር ግን እኔ በጣም ተስፋ ቆርጨ ነበር, እና, እኔ እንደገና ከእርሱ ጋር ማውራት ጀመርኩ።",እኔ ከእርሱ ጋር ድጋሜ አልተነጋገርኩም።,contradiction,Contradiction
+"እንግዲህ , እኔ ስለ እሱ እያሰብኩኝ አልነበረም , ነገር ግን እኔ በጣም ተስፋ ቆርጨ ነበር, እና, እኔ እንደገና ከእርሱ ጋር ማውራት ጀመርኩ።",እኔ በጣም ስለተበሳጨሁ እንደገና እሱን ማነጋገር ጀመርኩ።,entailment,Entailment
+"እንግዲህ , እኔ ስለ እሱ እያሰብኩኝ አልነበረም , ነገር ግን እኔ በጣም ተስፋ ቆርጨ ነበር, እና, እኔ እንደገና ከእርሱ ጋር ማውራት ጀመርኩ።",ጥሩ ንግግር አድርገናል።,neutral,Contradiction
+እነርሱ ነገሩኝ፣እም፣እኔ እንደምጠራ በአንድ ሰው በስተመጨረሻ እንዳገኘው ።,ከማንም ጋር ስለመገናኘት የተነገረኝ ምንም ነገር የለም።,contradiction,Contradiction
+እነርሱ ነገሩኝ፣እም፣እኔ እንደምጠራ በአንድ ሰው በስተመጨረሻ እንዳገኘው ።,የሆነ ሰው ሊያገኘኝ እንዲመጣ እንደሚጠራ ተነግሮኝ ነበር።,entailment,Entailment
+እነርሱ ነገሩኝ፣እም፣እኔ እንደምጠራ በአንድ ሰው በስተመጨረሻ እንዳገኘው ።,ሰውየው ትንሽ ዘግይቷል ነው የመጣው ።,neutral,Contradiction
+ብዙ ማውራት የምትችልበት  ነገር አለ እርሱን በተመለከተ አልፈዋለሁ።,የማውቀውን ሁሉ ስለዚያ ነገር ልነግርህ እፈልጋለሁ!,contradiction,"Neutral.
+
+The premise states that there is a lot to talk about regarding a certain matter and that the speaker has passed it. The hypothesis states that the speaker wants to tell the listener everything they know about that matter. These statements do not directly entail or contradict each other; they are simply related to the same topic in different ways."
+ብዙ ማውራት የምትችልበት  ነገር አለ እርሱን በተመለከተ አልፈዋለሁ።,ስለዚህ ጉዳይ አላወራም፣ ምንም እንኳን ብዙ የሚሸፈን ነገር ቢኖርም።,entailment,Contradiction
+ብዙ ማውራት የምትችልበት  ነገር አለ እርሱን በተመለከተ አልፈዋለሁ።,ስለ ከተማዋ ታሪክ አልናገርም ምክንያቱም ብዙ የሚነገር ነገር ስላለ።,neutral,Contradiction
+ስለዚህ ለምን እንደሆነ እኔ እርግጠኛ አይደለሁም።,እኔ ለምን እንደሆነ እርግጠኛ ነኝ።,contradiction,Contradiction
+ስለዚህ ለምን እንደሆነ እኔ እርግጠኛ አይደለሁም።,ትምህርት ቤቱን ለምን እንዳዘዋወረ አላውቅም።,neutral,Neutral
+ስለዚህ ለምን እንደሆነ እኔ እርግጠኛ አይደለሁም።,ይህ የሆነው ለምን እንደሆነ አላውቅም።,entailment,Entailment
+እኔ ብቻ ነበርኩ አ፣በትንሽ ከፍታ ውስጥ ለ ለሙከራው መቆጣጠሪያዎቹን ያካሄድኩት ።,ለፈታናዎቹ ተቆጣጣሪዎቹን የሚያካሂደው እኔ ብቻ መሆኔን አልወደድኩትም ።,neutral,Contradiction
+እኔ ብቻ ነበርኩ አ፣በትንሽ ከፍታ ውስጥ ለ ለሙከራው መቆጣጠሪያዎቹን ያካሄድኩት ።,ሙከራዎች የሚኬሄዱት በትንሽ ከፍታ ክፍሎች ውስጥ ነበር,entailment,Entailment
+እኔ ብቻ ነበርኩ አ፣በትንሽ ከፍታ ውስጥ ለ ለሙከራው መቆጣጠሪያዎቹን ያካሄድኩት ።,ለሙከራው መቆጣጠሪያዎችን የሚያካሂዱ ጥቂቶች ነበርን።,contradiction,Contradiction
+ሪክ እንዳለው ፣እኔ አሀ፣ ጡረታ የወጣሁ የጦር መኰንን ነኝ።,እስከ እዚህ ቀን ድረስ እየሰራሁ ነው።,contradiction,Contradiction
+ሪክ እንዳለው ፣እኔ አሀ፣ ጡረታ የወጣሁ የጦር መኰንን ነኝ።,በ2002 ጡረታ ወጣሁ።,neutral,Neutral
+ሪክ እንዳለው ፣እኔ አሀ፣ ጡረታ የወጣሁ የጦር መኰንን ነኝ።,ሪክ ጡረታ እንደወጣሁ ነግሮሃል።,entailment,Entailment
+"በጠረጴዛዬ ላይ የተወሰኑ የገንዘብ ፍሰት ትንበያዎች አሉ እና, አም, አሀ, ለዚያ እና ለዚያ የካቲ ነው, የደንበኛው ስም ነው።","ካቲ የተባለው ደንበኛ በወር 10,000 ዶላር ያገኛል።",neutral,Neutral.
+"በጠረጴዛዬ ላይ የተወሰኑ የገንዘብ ፍሰት ትንበያዎች አሉ እና, አም, አሀ, ለዚያ እና ለዚያ የካቲ ነው, የደንበኛው ስም ነው።",ካቲ የሚባል ደንበኛ አለ።,entailment,Entailment
+"በጠረጴዛዬ ላይ የተወሰኑ የገንዘብ ፍሰት ትንበያዎች አሉ እና, አም, አሀ, ለዚያ እና ለዚያ የካቲ ነው, የደንበኛው ስም ነው።",ካቲ ተብሎ የሚጠራ ደንበኛ የለንም።,contradiction,Contradiction
+ልትረዳኝ የምትችለው ልጅ ማዶ ከከተማው አቋራጭ ነች።,ለእርዳታ ምፈልጋት ልጅ የምትኖረው ከሩቅ ሩቅ ነው።,entailment,Contradiction
+ልትረዳኝ የምትችለው ልጅ ማዶ ከከተማው አቋራጭ ነች።,እኔ ምትረዳኝ ልጅ 5 ማይል ርቀት ላይ ነች።,neutral,Contradiction
+ልትረዳኝ የምትችለው ልጅ ማዶ ከከተማው አቋራጭ ነች።,ማንም ሊረዳኝ የሚችል የለም ።,contradiction,Contradiction
+ነገር ግን እንደ የመስክ ሠራተኞች እና የቤት ልጆች ማን እንደሆኑ በሚለው ተከፋፍለው ነበር፣ እሱ እንደዚህ ዓይነት ነበር--,ሁሉም መስክ ላይ ለመሥራት ተስማምተዋል።,contradiction,Contradiction
+ነገር ግን እንደ የመስክ ሠራተኞች እና የቤት ልጆች ማን እንደሆኑ በሚለው ተከፋፍለው ነበር፣ እሱ እንደዚህ ዓይነት ነበር--,የመስክ ሠራተኛ ማን እንደሆነና በቤት ውስጥ ማን መሆን እንዳለበት ሊስማሙ አልቻሉም።,entailment,Contradiction
+ነገር ግን እንደ የመስክ ሠራተኞች እና የቤት ልጆች ማን እንደሆኑ በሚለው ተከፋፍለው ነበር፣ እሱ እንደዚህ ዓይነት ነበር--,በጥጥ መስክ ውስጥ ማን መሥራት እንዳለበት እና ማን ወለሉን ማጽዳት እንዳለበት መስማማት አልቻሉም።,neutral,Contradiction
+ማለቴ ፣እንደ፣ አምስት ልጆች ብቻ ነበሯቸው፣ አንደኛው ሞተ።,ሁሉም ልጆቻቸው በሕይወት ተርፈዋል።,contradiction,Contradiction
+ማለቴ ፣እንደ፣ አምስት ልጆች ብቻ ነበሯቸው፣ አንደኛው ሞተ።,ከአምስቱ አንዱ ልጅ ሞተ።,entailment,Entailment
+ማለቴ ፣እንደ፣ አምስት ልጆች ብቻ ነበሯቸው፣ አንደኛው ሞተ።,የሞተው ሕፃን የተወለደው በሽተኛ ሆኖ ነበር።,neutral,Neutral
+ከዓይኖቿ እንባ እየወረደ ነው አለች፣ እና ከዚያም ጆ በረንዳው ላይ መጣ አለች።,በረንዳው እንዲወጣ ስትነግረው ዓይኖቿ በእንባ ተሞሉ።,entailment,Entailment
+ከዓይኖቿ እንባ እየወረደ ነው አለች፣ እና ከዚያም ጆ በረንዳው ላይ መጣ አለች።,በፍጥነት እንባዋን አበሰች ጆ ከበረንዳው ላይ ከወረወረችው በኋላ ።,contradiction,Contradiction
+ከዓይኖቿ እንባ እየወረደ ነው አለች፣ እና ከዚያም ጆ በረንዳው ላይ መጣ አለች።,በፍጥነት እንባዋን አበሰች ጆ ከበረንዳው ላይ ካታለለችው በኋላ ።,neutral,Contradiction
+አውሮፕላኑ በእሳት ቢያቃጥልም ፣ለምን እሱ፣ እሱ ይሆን አሀ፣ የሚቃጠለውና የሚቀልጠው በሊድ አካል አማካኝነት ሲሆን ይህም ጨረር እንዲወጣ ያደርጋል።,እንዲሁም ጨረሩን በእሳት ጊዜም መቆጣጠር ይቻላል።,neutral,Contradiction
+አውሮፕላኑ በእሳት ቢያቃጥልም ፣ለምን እሱ፣ እሱ ይሆን አሀ፣ የሚቃጠለውና የሚቀልጠው በሊድ አካል አማካኝነት ሲሆን ይህም ጨረር እንዲወጣ ያደርጋል።,አውሮፕላኑ ከቃጠለ በኋላ ጨረር ከሊድ አካል ይወጣል።,entailment,Entailment
+አውሮፕላኑ በእሳት ቢያቃጥልም ፣ለምን እሱ፣ እሱ ይሆን አሀ፣ የሚቃጠለውና የሚቀልጠው በሊድ አካል አማካኝነት ሲሆን ይህም ጨረር እንዲወጣ ያደርጋል።,ጨረሩ በእሳት ጊዜ አይወጣም።,contradiction,Contradiction
+ይህ ከዩናይትድ ስቴትስ አየር ኃይል ጡረታ የወጣው ዋና የጦር መኰንን ክሌም ፍራንሲስ ነኝ።,ዋና መኮንኑ ከአሜሪካ አየር ኃይል ጡረታ ወጥቷል።,entailment,Entailment
+ይህ ከዩናይትድ ስቴትስ አየር ኃይል ጡረታ የወጣው ዋና የጦር መኰንን ክሌም ፍራንሲስ ነኝ።,ዋና መኮንኑ ከጥቂት ሳምንታት በፊት ጡረታ ወጥተዋል።,neutral,Neutral.
+ይህ ከዩናይትድ ስቴትስ አየር ኃይል ጡረታ የወጣው ዋና የጦር መኰንን ክሌም ፍራንሲስ ነኝ።,የዩኤስ አየር ኃይል ዋና መኮንን ሥራቸውን የጀመሩት በዚህ ሳምንት ነው።,contradiction,Contradiction
+ያው በሳምንት ውስጥ ሁለት ወይም ሦስት አውሮፕላኖች የሚደርሱበት ሁኔታ ነው ያለው እና  የት እንደሚበሩ አላውቅም።,በየሳምንቱ ከአንድ በላይ አውሮፕላን ያርፋል።,entailment,Entailment
+ያው በሳምንት ውስጥ ሁለት ወይም ሦስት አውሮፕላኖች የሚደርሱበት ሁኔታ ነው ያለው እና  የት እንደሚበሩ አላውቅም።,የተጨመረው የአውሮፕላን ትራፊክ ችግር ይፈጥራል።,neutral,Neutral.
+ያው በሳምንት ውስጥ ሁለት ወይም ሦስት አውሮፕላኖች የሚደርሱበት ሁኔታ ነው ያለው እና  የት እንደሚበሩ አላውቅም።,ምንም ዓይነት አውሮፕላን አይደርስም።,contradiction,Contradiction
+እነሱ ቀድሞውኑ የሙሉ ግፊት ልብስ ውስጥ ስልጠና  ወስደዋል እና እኔን የተወሰነ ጊዜ ወስዳብኛል ሙሉ ግፊት ልብስ ውስጥ በተመለከተ ከገባህ ።,የሙሉ ግፊት ልብስ አጠቃቀም ስልጠና ለማጠናቀቅ እስከ ሦስት ወር ይወስዳል።,neutral,"Neutral.
+
+The premise states that they have already received training in full pressure suits and that it took a specific amount of time for the speaker. However, it does not provide any information about the general duration required to complete the training, such as whether it takes up to three months. Therefore, the hypothesis about the duration of the training is neither confirmed nor denied by the premise."
+እነሱ ቀድሞውኑ የሙሉ ግፊት ልብስ ውስጥ ስልጠና  ወስደዋል እና እኔን የተወሰነ ጊዜ ወስዳብኛል ሙሉ ግፊት ልብስ ውስጥ በተመለከተ ከገባህ ።,ሙሉ ግፊት ያለው ልብስ ለመጠቀም ስልጠናው ሰፋ ያለ ጊዜ ይወስዳል።,entailment,Entailment
+እነሱ ቀድሞውኑ የሙሉ ግፊት ልብስ ውስጥ ስልጠና  ወስደዋል እና እኔን የተወሰነ ጊዜ ወስዳብኛል ሙሉ ግፊት ልብስ ውስጥ በተመለከተ ከገባህ ።,በዛሬው ዕለት መጨረሻ ላይ ሙሉ ግፊት ያለው ልብስ ስለመጠቀም ልናሠለጥንዎ እንችላለን።,contradiction,"Neutral.
+
+The premise states that they have already taken training in full pressure suits and that the speaker has also taken training at a specific time. The hypothesis suggests that they will be able to train in full pressure suits by the end of today. There is no direct connection between the two statements that confirms or denies the hypothesis based on the premise."
+ልናገር እፈልጋለሁ ቦምቡን ይዞ ውደ ውስጥ መግባት አደጋ እንደሌለው ምክንያቱም ምንም ያህል መሬት ጋር ቢጋጭ አይፈነዳም።,ቦምቡ በአውሮፕላኑ አብራሪ አማካኝነት እንዳይሰራ ተደርጎል።,neutral,Contradiction
+ልናገር እፈልጋለሁ ቦምቡን ይዞ ውደ ውስጥ መግባት አደጋ እንደሌለው ምክንያቱም ምንም ያህል መሬት ጋር ቢጋጭ አይፈነዳም።,ቦምቡ የሚፈነዳበት ምንም እድል አልነበረም።,entailment,Entailment
+ልናገር እፈልጋለሁ ቦምቡን ይዞ ውደ ውስጥ መግባት አደጋ እንደሌለው ምክንያቱም ምንም ያህል መሬት ጋር ቢጋጭ አይፈነዳም።,ቦምቡ ሊፈነዳ የሚችልበት ከፍተኛ አደጋ ነበር።,contradiction,Contradiction
+እና እኔ ለማድረግ እየሞከርኩ ያለሁትን በትክክል ቢመስል።,ይህ ለአንተ ምን እንደሚመስል እርግጠኛ አይደለሁም።,contradiction,Neutral
+እና እኔ ለማድረግ እየሞከርኩ ያለሁትን በትክክል ቢመስል።,ግልጽ ነው፣ ይህን ለማድረግ  እየሞከርኩ እንደሆነ ።,entailment,Entailment
+እና እኔ ለማድረግ እየሞከርኩ ያለሁትን በትክክል ቢመስል።,በሚቀጥለው ሳምንት ፕሮጀክቴን ለማጠናቀቅ እየሞከርኩ ነው።,neutral,Neutral
+ግን ይሁን እንጂ፣ እንስሳቱ ይፈታሉ በየጊዜው፣በተለይም ፍየሎቹ ።,ፍየሎቹ በየቀኑ ከግርግሙ ያመልጡ ነበር።,neutral,Contradiction
+ግን ይሁን እንጂ፣ እንስሳቱ ይፈታሉ በየጊዜው፣በተለይም ፍየሎቹ ።,ፍየሎቹ ብዙ ጊዜ ያመልጡ ነበር።,entailment,Neutral.
+ግን ይሁን እንጂ፣ እንስሳቱ ይፈታሉ በየጊዜው፣በተለይም ፍየሎቹ ።,ፍየሎቹ ደህንነታቸው በተጠበቀ ሁኔታ ተይዘዋል።,contradiction,Contradiction
+ወደ ውስጥ ስንገባ በሮቹ ተቆልፈው ነበር።,ሁሉም በሮች ተከፍተው ነበሩ።,contradiction,Contradiction
+ወደ ውስጥ ስንገባ በሮቹ ተቆልፈው ነበር።,ቁልፎቹን ይዘናቸው ነበር።,neutral,Contradiction
+ወደ ውስጥ ስንገባ በሮቹ ተቆልፈው ነበር።,በሮቹ የተቆለፉ ቢሆኑም ወደ ውስጥ ገባን።,entailment,Entailment
+ስለዚህ እኔ ብቻ ጠቅላላ መውሰድ ነበረብኝ እና መሞከር እና  ለመገመት መሞከር እንዳዚያው።,ይህን ጉዳይ ለመፍታት የሚያስፈልጉኝ አጠቃላይ ቁጥሮች ብቻ እንደሆኑ እርግጠኛ ነኝ።,neutral,Neutral.
+ስለዚህ እኔ ብቻ ጠቅላላ መውሰድ ነበረብኝ እና መሞከር እና  ለመገመት መሞከር እንዳዚያው።,ሀሳቡ የለኝም በጠቅላላው ያለውን ብቻ ተሰጥቶኝ እባክህን ይህንን ችግር ለመፍታት ተጨማሪ ዝርዝሮችን ስጠኝ።,contradiction,Contradiction
+ስለዚህ እኔ ብቻ ጠቅላላ መውሰድ ነበረብኝ እና መሞከር እና  ለመገመት መሞከር እንዳዚያው።,በጠቅላላው ላይ በመመርኮዝ አሰላለሁ።,entailment,Entailment
+ይህ ደግሞ በአብዛኛው ነው እሱም ምክንያቱም የሚከሰተው እናቶቹ አደንዛዥ ዕፅ  ውስጥ ስለሆኑ ነው,እናቶቹ የአደንዛዥ ዕፅ ሱሰኞች ናቸው።,neutral,Entailment
+ይህ ደግሞ በአብዛኛው ነው እሱም ምክንያቱም የሚከሰተው እናቶቹ አደንዛዥ ዕፅ  ውስጥ ስለሆኑ ነው,እናቶቹ ምንም ዓይነት መድኃኒት አልታዘዘላቸውም ወይም መድኃኒት አይወስዱም።,contradiction,Contradiction
+ይህ ደግሞ በአብዛኛው ነው እሱም ምክንያቱም የሚከሰተው እናቶቹ አደንዛዥ ዕፅ  ውስጥ ስለሆኑ ነው,እናቶች አደንዛዥ ዕፅ ይወስዳሉ።,entailment,Entailment
+አዎ በጣም ደስ ይላል ዝናብ ዘንቦ ሲሆን,ዝናቡ አይደብረኝም።,neutral,Contradiction
+አዎ በጣም ደስ ይላል ዝናብ ዘንቦ ሲሆን,ጥሩ እና ዝናባማ ነው።,entailment,Entailment
+አዎ በጣም ደስ ይላል ዝናብ ዘንቦ ሲሆን,ማለቂያ የሌለው የፀሐይ ብርሃን ጋር በጣም መጥፎ ነው።,contradiction,Contradiction
+ኦው የሰው ሕይወት ዋጋው ምን ያህል ነው እና ይቻል ይሆን ወይስ አይቻልም የሆነን ሰው መልሶ እንዲያገግም ማድረግ,ሁሉም ሕይወት የመልሶ ለማገገም እና ለሁለተኛ እድል ለማግኘት ዋጋ አላቸው።,neutral,Neutral.
+ኦው የሰው ሕይወት ዋጋው ምን ያህል ነው እና ይቻል ይሆን ወይስ አይቻልም የሆነን ሰው መልሶ እንዲያገግም ማድረግ,ማንም ሰው መልሶ ለማገገም አይገባውም።,contradiction,Contradiction
+ኦው የሰው ሕይወት ዋጋው ምን ያህል ነው እና ይቻል ይሆን ወይስ አይቻልም የሆነን ሰው መልሶ እንዲያገግም ማድረግ,ማገገም ትተን የቱ ሕይወት ዋጋ ሊሰጠው ይገባዋል። .,entailment,Contradiction
+ኦው ወንድም እዚያ ላይ እንግዳ የሆነ የሽቦ ችግር አለብህ,ከዚህ በፊት እንዲህ ዓይነት የሽቦ ችግር አይቼ አላውቅም።,neutral,Contradiction
+ኦው ወንድም እዚያ ላይ እንግዳ የሆነ የሽቦ ችግር አለብህ,ችግሩ ሽቦው አይደለም።,contradiction,Contradiction
+ኦው ወንድም እዚያ ላይ እንግዳ የሆነ የሽቦ ችግር አለብህ,በዚህ ያልተለመደ ሽቦ ምክንያት ችግር አለ።,entailment,Entailment
+ብዙ አዝናኝ ይመስላል ያአ  ይህ ለእኔ አስገራሚ ነው ምን ያህል ብዙ ነገሮችን ይፈቅዳሉ,ምንም አልተደነቅኩም እነሱ የዋህ በመሆናቸው።,contradiction,Contradiction
+ብዙ አዝናኝ ይመስላል ያአ  ይህ ለእኔ አስገራሚ ነው ምን ያህል ብዙ ነገሮችን ይፈቅዳሉ,እዚያ ምግብና መጠጥ ይዘህ እንድትሄድ መፍቀዳቸው አስገርሞኛል።,neutral,Neutral.
+ብዙ አዝናኝ ይመስላል ያአ  ይህ ለእኔ አስገራሚ ነው ምን ያህል ብዙ ነገሮችን ይፈቅዳሉ,እኔ የሚገርመኝ ምን ሊያመልጣቸው እንደሚችል ነው።,entailment,"Neutral.
+
+The premise states that something seems very entertaining and surprising to the speaker, and that many things are allowed. The hypothesis, on the other hand, states that the speaker is amazed by the ability to accomplish certain things. The two statements are related in theme but do not provide enough information to confirm or deny each other directly."
+ኦህ ግን ለማንኛውም ለማንኛውም አም ልጆቼ አሁን ሃያ አንድ እና ሃያ አራት ናቸው ስለዚህ አያስፈልገኝም,እኔ አልፈልግም ምክንያቱም ልጆቼ ከሃያ ዓመት በላይ ናቸው።,entailment,Contradiction
+ኦህ ግን ለማንኛውም ለማንኛውም አም ልጆቼ አሁን ሃያ አንድ እና ሃያ አራት ናቸው ስለዚህ አያስፈልገኝም,በእድሜ ቅርብ ስለሆኑ ማድረግ ሊኖርብኝ ይችላል፡፡,neutral,Contradiction
+ኦህ ግን ለማንኛውም ለማንኛውም አም ልጆቼ አሁን ሃያ አንድ እና ሃያ አራት ናቸው ስለዚህ አያስፈልገኝም,ሁለቱም የአሥር እና የአሥራ አንድ ዓመት ልጆች ስለሆኑ ይህን ማድረግ አለብኝ።,contradiction,Contradiction
+አዎ በማንኛውም ጊዜ በሥራ ላይ ሊሆኑ የሚችሉ ሰዎች ወይም ውሳኔ ማድረግ ካለባቸው ውሳኔያቸው ሊደበዝዝ የሚችሉ ሰዎች,አዎ፣ ምርጡን የፍርድ ጥሪ ሰዎች ማድረግ ላይችሉ ይችላሉ።,entailment,"Neutral.
+
+The premise discusses people who can be busy with work or whose decisions might be delayed, while the hypothesis talks about people being able to make the best judgment calls. The two statements are related to decision-making but do not directly entail or contradict each other."
+አዎ በማንኛውም ጊዜ በሥራ ላይ ሊሆኑ የሚችሉ ሰዎች ወይም ውሳኔ ማድረግ ካለባቸው ውሳኔያቸው ሊደበዝዝ የሚችሉ ሰዎች,አዎ፣ ረሃብ የማይሰማቸው ሰዎች,neutral,Contradiction
+አዎ በማንኛውም ጊዜ በሥራ ላይ ሊሆኑ የሚችሉ ሰዎች ወይም ውሳኔ ማድረግ ካለባቸው ውሳኔያቸው ሊደበዝዝ የሚችሉ ሰዎች,አዎን፣ ውሳኔ የማድረግ ችሎታቸው በፍፁም ያልተዳከመ ሰዎች፡፡,contradiction,Contradiction
+አይ እነሱ አሁንም እነሱ አሁንም በጉብኝት ላይ ናቸው እነሱ ከ 60 ዎቹ መገባደጃ ጀምሮ በጉብኝት ላይ ናቸው,ከ1970 በፊት ጀምሮ እየጎበኙ ነው።,entailment,Contradiction
+አይ እነሱ አሁንም እነሱ አሁንም በጉብኝት ላይ ናቸው እነሱ ከ 60 ዎቹ መገባደጃ ጀምሮ በጉብኝት ላይ ናቸው,መጎብኘት ይወዳሉ።,neutral,Neutral
+አይ እነሱ አሁንም እነሱ አሁንም በጉብኝት ላይ ናቸው እነሱ ከ 60 ዎቹ መገባደጃ ጀምሮ በጉብኝት ላይ ናቸው,በቅርቡ ጉብኝታቸውን አጠናቀዋል።,contradiction,Contradiction
+ኤሮቢክ መስራት የምትችለው እንዴት ነው?,ኤሮቢክስን እንዴት እንደምትሰራ ልታብራራ ትችላለህ?,entailment,Entailment
+ኤሮቢክ መስራት የምትችለው እንዴት ነው?,በኤሮቢክ ላይ ፍላጐት አለኝ ምክንያቱም የተወሰነ የልብና-የደም ቧንቧ እንቅስቃሴ ያስፈልገኛል፡፡,neutral,"Neutral.
+
+The premise is asking how one can perform aerobic exercise, while the hypothesis states a personal interest in aerobic exercise due to a need for cardiovascular activity. The two statements are related to aerobic exercise but do not directly entail or contradict each other."
+ኤሮቢክ መስራት የምትችለው እንዴት ነው?,እባካችሁ ስለ ኤሮቢክ ማውራት አቁሙ።,contradiction,Contradiction
+ደኅና ይህ ጥሩዉ ነው ስለዚህ ጒዳይ አላሰብኩም ነበር አዎ,ባለፈው ሳምንት የጣልኩት ደደብ ሃሳብ ነው።,contradiction,Contradiction
+ደኅና ይህ ጥሩዉ ነው ስለዚህ ጒዳይ አላሰብኩም ነበር አዎ,እሱ ጥሩ ነጥብ ነው።,entailment,Neutral
+ደኅና ይህ ጥሩዉ ነው ስለዚህ ጒዳይ አላሰብኩም ነበር አዎ,የጠቀስከው አያዎ ጥሩ ነጥብ ነው።,neutral,Neutral
+በሳምንት ሁለት ቀን የቀን እንክብካቤ የሚሰጠው ለአረጋውያን ዜጐች የቀን እንክብካቤ ተብሎ በመጠራት ነው ነገር ግን ወደ አረጋውያን ዜጐች ማዕከል ትሄዳለች።,የቀን እንክብካቤው ለአምስት ዓመት ዕድሜ ላላቸው ልጆች ብቻ በየቀኑ ክፍት ነው።,contradiction,Contradiction
+በሳምንት ሁለት ቀን የቀን እንክብካቤ የሚሰጠው ለአረጋውያን ዜጐች የቀን እንክብካቤ ተብሎ በመጠራት ነው ነገር ግን ወደ አረጋውያን ዜጐች ማዕከል ትሄዳለች።,በሳምንት ከሁለት ጊዜ በላይ እንዲሄዱ ይፈቅዳሉ አረጋዊያ ዜጐች ይህንን ማድረግ የሚችሉ ከሆነ።,neutral,Contradiction
+በሳምንት ሁለት ቀን የቀን እንክብካቤ የሚሰጠው ለአረጋውያን ዜጐች የቀን እንክብካቤ ተብሎ በመጠራት ነው ነገር ግን ወደ አረጋውያን ዜጐች ማዕከል ትሄዳለች።,አዛውንት ቀን እንክብካቤ ተብሎ ይመላከታል ነገር ግን አዛውንት ማዕከል ተብሎ ይጠራል ።,entailment,Contradiction
+ኦው ግባቸው ይህ ነበር,ይህ ነው እርሱ እነሱ ይተጉ የነበሩለት ነገር ።,entailment,Neutral
+ኦው ግባቸው ይህ ነበር,እነሱ የፈለጉት ይህ በፍፁም አልነበረም።,contradiction,Contradiction
+ኦው ግባቸው ይህ ነበር,ግባቸውን አሳኩ።,neutral,Contradiction
+የጦር መሣሪያ ቁጥጥር ማለት ሁለት እጆች መጠቀም ማለት ነው,ግማሾቹ የጦር መሣሪያ በሰህተት መተኮስ የሚከሰተው በአንድ እጅ በመጠቀም ነው።,neutral,Contradiction
+የጦር መሣሪያ ቁጥጥር ማለት ሁለት እጆች መጠቀም ማለት ነው,የጦር መሣሪያ ቁጥጥርን ለማስቀጠል ከሁሉ የተሻለው መንገድ ሁለቱንም እግር መጠቀም ነው።,contradiction,Contradiction
+የጦር መሣሪያ ቁጥጥር ማለት ሁለት እጆች መጠቀም ማለት ነው,የጦር መሣሪያ ቁጥጥርን ለመለማመድ ከፈለግህ ሁለቱንም እጆችህን ተጠቀም።,entailment,Entailment
+እና አሀ ነገር ግን በድንገት መጣ ከሆነ ቦታ ከየት እንደመጣ አላውቅም ነገር ግን,ከየት እንደመጣ አላውቅም ነገር ግን ፈጣን ነው።,entailment,"Neutral. 
+
+The premise states that something came unexpectedly and the speaker does not know where it came from. The hypothesis adds an additional detail that the thing is fast, which is not mentioned or implied in the premise. Therefore, the relationship between the premise and the hypothesis is neutral."
+እና አሀ ነገር ግን በድንገት መጣ ከሆነ ቦታ ከየት እንደመጣ አላውቅም ነገር ግን,በፍጥነት ይመጣል ነገር ግን እኔ ከየት ሊሆን እንደሚችል የሚመጣው አውቃለሁ።,neutral,Contradiction
+እና አሀ ነገር ግን በድንገት መጣ ከሆነ ቦታ ከየት እንደመጣ አላውቅም ነገር ግን,እንደ ሞላሰስ ይመጣል እና መቼ እንደሚመጣ በትክክል አውቃለሁ።,contradiction,Contradiction
+አይደለም እንዲያውም እኔ እንኳን በደንብ አላውቀውም አይመስለኝም,ስለ እሱ ብዙም አላውቅም።,entailment,Entailment
+አይደለም እንዲያውም እኔ እንኳን በደንብ አላውቀውም አይመስለኝም,እኔ በፍቅር ጉዳይ ላይ አላዋቂ ነኝ።,neutral,"Neutral.
+
+The premise states, ""አይደለም እንዲያውም እኔ እንኳን በደንብ አላውቀውም አይመስለኝም"" which translates to ""No, I don't even know him well, it seems to me."" The hypothesis states, ""እኔ በፍቅር ጉዳይ ላይ አላዋቂ ነኝ።"" which translates to ""I am not knowledgeable about love matters.""
+
+The premise and hypothesis are about different subjects; the premise is about not knowing someone well, while the hypothesis is about not being knowledgeable in love matters. Therefore, the relationship between the two statements is neutral."
+አይደለም እንዲያውም እኔ እንኳን በደንብ አላውቀውም አይመስለኝም,እኔ  ለዓመታት ሳጠናው ቆይቻለሁ።,contradiction,Contradiction
+አዎ እሷ ታላቅ ነበረች ታውቃለህ እሷ,እሷ ግሩም  እንደሆነበረች ታውቃለች ብየ አስባለሁ ።,neutral,Entailment
+አዎ እሷ ታላቅ ነበረች ታውቃለህ እሷ,አይደለም እሷ መጥፎ ነበረች።,contradiction,Contradiction
+አዎ እሷ ታላቅ ነበረች ታውቃለህ እሷ,አዎ እሷ በጣም ጥሩ ነበረች።,entailment,Entailment
+አዎን እሱ አሀ እም ኤ አሀ እም ኤ ማጠቢያ እንደ ምትጠቀመው ማግኘትን ብሎ ሀሳብ አቀረበ,የቫኩዩም የመግዛትን ሃሳብ አቀረበ።,contradiction,Contradiction
+አዎን እሱ አሀ እም ኤ አሀ እም ኤ ማጠቢያ እንደ ምትጠቀመው ማግኘትን ብሎ ሀሳብ አቀረበ,ማጠቢያ ለማግኘት ሃሳብ አቀረበ።,entailment,Entailment
+አዎን እሱ አሀ እም ኤ አሀ እም ኤ ማጠቢያ እንደ ምትጠቀመው ማግኘትን ብሎ ሀሳብ አቀረበ,ደሙን በመወልወያ ማጽዳት ፈልጐ ነበር።,neutral,Neutral
+በጣም መጥፎ ነው እዚያ ከቤታችን ሦስት ብሎክ ርቆ በሚገኝ አውራ ጐዳና ላይ ተኩስ ነበረ።,ተኩሱ የተከሰተው እኔ ከምኖርበት በጥቂቱ 100 ማይል ርቀት ላይ ነው።,contradiction,Contradiction
+በጣም መጥፎ ነው እዚያ ከቤታችን ሦስት ብሎክ ርቆ በሚገኝ አውራ ጐዳና ላይ ተኩስ ነበረ።,ተኩሱ የተካሄደው ቤቴ አቅራቢያ በመሆኑ ወደ ውጭ መውጣት ያስፈራኛል።,neutral,Entailment
+በጣም መጥፎ ነው እዚያ ከቤታችን ሦስት ብሎክ ርቆ በሚገኝ አውራ ጐዳና ላይ ተኩስ ነበረ።,በቤቴ አቅራቢያ የተኩስ ልውውጥ ተደርጓል፣ በእውነቱ እዚህ አካባቢ ጥሩ አይደለም።,entailment,Entailment
+አሀ-ሀአሀ እሱ እውነት ነው እሱ ነው እሱ አይደለም በእርግጥ አሀ ወጥ,ከአንተ ጋር አልስማማም፣ እሱ በጣም ወጥነት ያለው ነው።,contradiction,Contradiction
+አሀ-ሀአሀ እሱ እውነት ነው እሱ ነው እሱ አይደለም በእርግጥ አሀ ወጥ,ስለ ወጥነቱ  ትክክል ሳትሆን አትቀርም ።,neutral,Contradiction
+አሀ-ሀአሀ እሱ እውነት ነው እሱ ነው እሱ አይደለም በእርግጥ አሀ ወጥ,በዚህ ረገድ ትክክል ነህ እሱ ወጥ ስላለመሆኑ።,entailment,Contradiction
+እዚያ ለመቆየት እየሞከርኩ ነው።,እየመከርኩ ነው ለመቆየት።,entailment,Entailment
+እዚያ ለመቆየት እየሞከርኩ ነው።,የቻልኩትን ሁሉ እያደረግሁ ነው።,neutral,Neutral
+እዚያ ለመቆየት እየሞከርኩ ነው።,እኔ እተወዋለሁ እና ተመልሸ አልመለከትም።,contradiction,Contradiction
+የምንገባበት በር ወደ መጪው የቴክኖሎጂ ዘመን ።,ለወደፊቱ ቴክኖሎጂ ዘመን የሚያስፈልጉትን ቅድመ-ሁኔታዎች እየገነባን ነው።,entailment,Neutral.
+የምንገባበት በር ወደ መጪው የቴክኖሎጂ ዘመን ።,ትራንዚስተሮችን እንገነባለን፣ ስለዚህ የወደፊት ሕይወታችን በሰው ሰራሽ ልህቀት(ኤአይ) እንዲመራ።,neutral,Neutral.
+የምንገባበት በር ወደ መጪው የቴክኖሎጂ ዘመን ።,ቴክኖሎጂው እንዳይሳካለት መከላከል እንፈልጋለን።,contradiction,Contradiction
+ለምሳሌ በከፍተኛ ደረጃ ሁሉም ዘረ መል ወደ  ሐምራዊ ይቀየራሉ።,ቢበዛ ግማሽ የሚሆኑት ዘረ መል ብቻ ወደ ሐምራዊ ሊቀየሩ ይችላሉ።,contradiction,Contradiction
+ለምሳሌ በከፍተኛ ደረጃ ሁሉም ዘረ መል ወደ  ሐምራዊ ይቀየራሉ።,ዘረ መሎቹ ቀልም ሊቀይሩ ይቸላሉ።,entailment,Contradiction
+ለምሳሌ በከፍተኛ ደረጃ ሁሉም ዘረ መል ወደ  ሐምራዊ ይቀየራሉ።,አንዳንድ ጊዜ ዘረ መሎቹ ወደ ሰማያዊ ሊቀየሩ ይችላሉ።,neutral,Contradiction
+ዳንኤል ያሚንስ ጐበዝ ወጣት የሂሳብ ሊቅ ነው።,አቶ ያሚንስ ሂሳብ ላይ በጣም ጥሩ ነው,entailment,Entailment
+ዳንኤል ያሚንስ ጐበዝ ወጣት የሂሳብ ሊቅ ነው።,የአቶ ያሚንስ ትኩረት በአልጀብራ ጂዖሜትሪ ላይ ነው።,neutral,Neutral
+ዳንኤል ያሚንስ ጐበዝ ወጣት የሂሳብ ሊቅ ነው።,አቶ ያሚንስ ታላቅ አርቲስት ፣ ነገር ግን መጥፎ የሂሳብ ሊቅ ነው።,contradiction,Contradiction
+እና ከሆነስ ብዙውን ጊዜ በዚያ ድንበር አቅራቢያ ናቸው?,በድንበር አቅራቢያ በፍፁም እንደማይጓዙ አውቃለሁ።,contradiction,Contradiction
+እና ከሆነስ ብዙውን ጊዜ በዚያ ድንበር አቅራቢያ ናቸው?,ማወቅ እፈልጋለሁ ፣እንግሊዝ ውስጥ ብዙ ጊዜ አሉ?,neutral,Contradiction
+እና ከሆነስ ብዙውን ጊዜ በዚያ ድንበር አቅራቢያ ናቸው?,ተናጋሪው በድንበሩ አቅራቢያ ምን ያህል ጊዜ እንደሄዱ ማብራሪያ እንዲሰጣቸው ፈልገዋል።,entailment,Neutral
+እና አለ፣እንደማስበው፣ሞለኪውላዊ ፍንጭ እሱም ባዮስፌሩ እራሱን በቋሚነትእየገነባ ነው የዘር ሐረጎችን ለማስፋፋት በሚችለው አገዛዝ ውስጥ።,ባዮስፌሩ ብዙ ይቀየራል።,entailment,Contradiction
+እና አለ፣እንደማስበው፣ሞለኪውላዊ ፍንጭ እሱም ባዮስፌሩ እራሱን በቋሚነትእየገነባ ነው የዘር ሐረጎችን ለማስፋፋት በሚችለው አገዛዝ ውስጥ።,ባዮስፌሩ እንደ የሙቀቱ ይቀያየራል።,neutral,Contradiction
+እና አለ፣እንደማስበው፣ሞለኪውላዊ ፍንጭ እሱም ባዮስፌሩ እራሱን በቋሚነትእየገነባ ነው የዘር ሐረጎችን ለማስፋፋት በሚችለው አገዛዝ ውስጥ።,ባዮስፌሩ በፍፁም አይለወጥም።,contradiction,Contradiction
+አለፍ ስንል ፣በዚህ መጠን አንድ ተራ ክሪስታል ብዙ መረጃዎችን ማስቀመጥ አይችልም።,መደበኛ ክሪስታሎች በጣም ከፍተኛ ጥግግት ያላቸው የመረጃ ማከማቻ መካከለኛ ናቸው።,contradiction,Contradiction
+አለፍ ስንል ፣በዚህ መጠን አንድ ተራ ክሪስታል ብዙ መረጃዎችን ማስቀመጥ አይችልም።,መደበኛ ክሪስታሎች ለመረጃ ኢንኮዲንግ በጣም ጠቃሚ አይደሉም።,entailment,Entailment
+አለፍ ስንል ፣በዚህ መጠን አንድ ተራ ክሪስታል ብዙ መረጃዎችን ማስቀመጥ አይችልም።,የሌዘር ጨረር በመጠቀም የጂኦግራፊያዊ መረጃን ለመቅዳት በጣም ጠቃሚ የሆኑ ሌሎች ዓይነት ክሪስታሎች አሉ።,neutral,Neutral.
+በተያያዘ፣አዋቂዎች የቅድመ ትምህርት ቤት ልጆች እንቆቅልሾችን ወይም ሌሎች ተመሳሳይ ስራዎችን እንዲያስተዳድሩ ለመርዳት አንዳንድ ጊዜ እንደሚያደርጉት በማስመሰል ማስተማር አያስፈልጋቸውም።,የቅድመ ትምህርት ቤት ልጆች በተፈጥሯቸው ከማስመሰል ጨዋታ ይልቅ እንቆቅልሾችን በመፍታት የተሻሉ ናቸው።,contradiction,Contradiction
+በተያያዘ፣አዋቂዎች የቅድመ ትምህርት ቤት ልጆች እንቆቅልሾችን ወይም ሌሎች ተመሳሳይ ስራዎችን እንዲያስተዳድሩ ለመርዳት አንዳንድ ጊዜ እንደሚያደርጉት በማስመሰል ማስተማር አያስፈልጋቸውም።,የቅድመ ትምህርት ቤት ልጆች እንዴት ማስመሰል እንደሚችሉ ለመማር ብዙ እገዛ አያስፈልጋቸውም።,entailment,Entailment
+በተያያዘ፣አዋቂዎች የቅድመ ትምህርት ቤት ልጆች እንቆቅልሾችን ወይም ሌሎች ተመሳሳይ ስራዎችን እንዲያስተዳድሩ ለመርዳት አንዳንድ ጊዜ እንደሚያደርጉት በማስመሰል ማስተማር አያስፈልጋቸውም።,የቅድመ ትምህርት ቤት ልጆች በራሳቸው እንቆቅልሾችን ለማወቅ አስፈላጊ የቦታ ሞዴሊንግ ክህሎቶች የላቸውም።,neutral,Entailment
+[ይህች ሀገር] የተፅነሰችው ነጻነትና ሰዎች ሁሉ እኩል ተፈጥረዋል በሚል ሃሳብ ነው።,በማስታዎሻ ስለዚህ  ሃሳብ በበርካታ  ተጨማሪ ሰነዶች ውስጥ ተመዝግቧል።,neutral,Neutral
+[ይህች ሀገር] የተፅነሰችው ነጻነትና ሰዎች ሁሉ እኩል ተፈጥረዋል በሚል ሃሳብ ነው።,አንዳንድ ሰዎች ሁሉም ሰው እኩል ነው ብለው ያምናሉ።,entailment,Entailment
+[ይህች ሀገር] የተፅነሰችው ነጻነትና ሰዎች ሁሉ እኩል ተፈጥረዋል በሚል ሃሳብ ነው።,ይህች ሀገር የተመሰረተው አንዳንድ ሰዎች በተፈጥሮ ከሌሎች የተሻሉ ናቸው በሚል እምነት ላይ ነው።,contradiction,Contradiction
+እሱን ይበልጥ ማመስገን ይኖርብኝ ይሆን?,ስለ ውድቀቶቹ ልመታው እንደሚያስፈልገኝ እርግጠኛ ነኝ።,contradiction,Contradiction
+እሱን ይበልጥ ማመስገን ይኖርብኝ ይሆን?,እየገመትኩ ነው ከእኔ የበለጠ አድናቆት ያስፈልገው  ይሆን ብዬ እያሰብኩ።,entailment,Entailment
+እሱን ይበልጥ ማመስገን ይኖርብኝ ይሆን?,ይበልጥ ላመሰግነው ይገባ ይሆን ስለ ፒያኖ ጨዋታ ትዕይንቱ ?,neutral,Contradiction
+የሽክርክሪት አውታረ መረብ ንድፈ ሃሳቦች በተለያዩ ልኬቶች ሊገነቡ ይችላሉ።,ሌሎች ልኬቶች የሽክርክሪት አውታረ መረብ ንድፈ ሃሳቦችን ለመገንባት ሊያገለግሉ ይችላሉ።,entailment,Entailment
+የሽክርክሪት አውታረ መረብ ንድፈ ሃሳቦች በተለያዩ ልኬቶች ሊገነቡ ይችላሉ።,የሽክርክሪት አውታረ መረብ ለመረጃ ማከማቻ ቴክኖሎጂዎች በጣም ጠቃሚ ናቸው።,neutral,Neutral.
+የሽክርክሪት አውታረ መረብ ንድፈ ሃሳቦች በተለያዩ ልኬቶች ሊገነቡ ይችላሉ።,የሽክርክሪት አውታረ መረብ በተለያዩ ልኬቶች ሊታሰቡ አይችሉም።,contradiction,Contradiction
+(በጭንቀት) አይደለም፣ አይደለም፣ እንድትሞት አልፈልግም!,እንድትሞት አልፈልግም!,entailment,Entailment
+(በጭንቀት) አይደለም፣ አይደለም፣ እንድትሞት አልፈልግም!,ብትሞትም ግድ የለኝም!,contradiction,Contradiction
+(በጭንቀት) አይደለም፣ አይደለም፣ እንድትሞት አልፈልግም!,አንተ ብትሞት በጣም እበሳጫለሁ።,neutral,Contradiction
+መጋቢት 19 ቀን 1875 በካሊፎርኒያ ሳን ጆሴ ውስጥ በአደባባይ ተሰቅሏል።,ካሊፎርኒያ እስከ 1875 መጨረሻዎቹ ድረስ በአደባባይ የሞት ቅጣት ይፈጸም ነበር።,entailment,Entailment
+መጋቢት 19 ቀን 1875 በካሊፎርኒያ ሳን ጆሴ ውስጥ በአደባባይ ተሰቅሏል።,ከተደረጉ ጥፋቶች ሁሉ ነጻ ወጥቶ ወደ መንገዱ ተልኳል።,contradiction,Contradiction
+መጋቢት 19 ቀን 1875 በካሊፎርኒያ ሳን ጆሴ ውስጥ በአደባባይ ተሰቅሏል።,በአመፅና በፈረስ ስርቆት ተይዞ በእንጨት ላይ ተሰቅሏል።,neutral,Contradiction
+በሁከት አገዛዝ ውስጥ የሚያብረቀርቅ አረንጓዴ ባሕር ይፈስሳል።,ባሕሩ ጥልቅ ሰማያዊ እና እንደ መስታወት ለስላሳ ነበር።,contradiction,Contradiction
+በሁከት አገዛዝ ውስጥ የሚያብረቀርቅ አረንጓዴ ባሕር ይፈስሳል።,ባሕሩ በጀልባዋ ላይ በሚረጩ ትናንሽ ዓሦች ተሞልቶ ነበር።,neutral,Neutral.
+በሁከት አገዛዝ ውስጥ የሚያብረቀርቅ አረንጓዴ ባሕር ይፈስሳል።,ባሕሩ አረንጓዴ ነበር እና አረፋ ይመስል ነበር።,entailment,Neutral.
+ሙሉ በሙሉ አዲስ የሆነ የሕግ ሥርዓት ከ1860ዎቹ ሁከት ለመላቀቅ በጉጉት እየተጠባበቀ ነበር።,በ1870ዎቹ ሁሉም የሕግ ሥርዓት ወድቆ አገሪቱ ሙሉ በሙሉ በስርአት አልበኝነት ውስጥ ነበረች።,contradiction,Contradiction
+ሙሉ በሙሉ አዲስ የሆነ የሕግ ሥርዓት ከ1860ዎቹ ሁከት ለመላቀቅ በጉጉት እየተጠባበቀ ነበር።,የ1860ዎቹ ዓመታት ግርግር ያለው ጊዜያት ነበሩ።,entailment,Entailment
+ሙሉ በሙሉ አዲስ የሆነ የሕግ ሥርዓት ከ1860ዎቹ ሁከት ለመላቀቅ በጉጉት እየተጠባበቀ ነበር።,አዲሱ የሕግ ሥርዓት የሠራተኛ መብቶችን ለማስፋት ይፈልጋል።,neutral,Neutral
+ማንኛውም የላቀ የአስተሳሰብ ዓይነት እሱ እንደጠቆመው፣ አርኤስቲ በመጀመሪያ የሚገለጠው በማህበራዊ መገናኛ ነው፣ በሕፃኑ እና በባህሉ በእሱ ወይም በእሱዋ ተወካዮች መካከል በጋራ እንቅስቃሴ ውስጥ በሚሳተፉበት ጊዜ።,ልጆች ከፍ ያሉ የአስተሳሰብ ዓይነቶችን የማካፈል አቅም የላቸውም።,contradiction,Contradiction
+ማንኛውም የላቀ የአስተሳሰብ ዓይነት እሱ እንደጠቆመው፣ አርኤስቲ በመጀመሪያ የሚገለጠው በማህበራዊ መገናኛ ነው፣ በሕፃኑ እና በባህሉ በእሱ ወይም በእሱዋ ተወካዮች መካከል በጋራ እንቅስቃሴ ውስጥ በሚሳተፉበት ጊዜ።,ዓሣ ማጥመድ በበርካታ ባህሎች ዘንድ ተወዳጅ የሆነ እንቅስቃሴ ነው።,neutral,Neutral.
+ማንኛውም የላቀ የአስተሳሰብ ዓይነት እሱ እንደጠቆመው፣ አርኤስቲ በመጀመሪያ የሚገለጠው በማህበራዊ መገናኛ ነው፣ በሕፃኑ እና በባህሉ በእሱ ወይም በእሱዋ ተወካዮች መካከል በጋራ እንቅስቃሴ ውስጥ በሚሳተፉበት ጊዜ።,የጋራ እንቅስቃሴዎችን ማካፈል አንዳንድ ጊዜ ከፍ ያለ የአስተሳሰብ ዓይነቶችን ለማካፈል ጠቃሚ ነው።,entailment,Entailment
+በአንዳንድ ሰፈሮች ሬዛዶርስ ወይም ሬዛዶራስ፣ የተባሉ መንፈሳዊ መሪዎች ይኖሩ ነበር፤ እነዚህ መሪዎች በቀብር ሥነ ሥርዓቶች፣ በቅዱሳን ቀን ክብረ በዓላት እና ካህኑ በማይገኝበት ጊዜ ሁሉ ማህበረሰቡን በጸሎት ይመራሉ።,ካህናት ያልሆኑ መንፈሳዊ መሪዎች በሁሉም ሰፈሮች አልነበሩም።,contradiction,Entailment
+በአንዳንድ ሰፈሮች ሬዛዶርስ ወይም ሬዛዶራስ፣ የተባሉ መንፈሳዊ መሪዎች ይኖሩ ነበር፤ እነዚህ መሪዎች በቀብር ሥነ ሥርዓቶች፣ በቅዱሳን ቀን ክብረ በዓላት እና ካህኑ በማይገኝበት ጊዜ ሁሉ ማህበረሰቡን በጸሎት ይመራሉ።,አንዳንድ ሰፈሮች ካህናት ያልሆኑ መንፈሳዊ መሪዎች ነበሯቸው።,entailment,Entailment
+በአንዳንድ ሰፈሮች ሬዛዶርስ ወይም ሬዛዶራስ፣ የተባሉ መንፈሳዊ መሪዎች ይኖሩ ነበር፤ እነዚህ መሪዎች በቀብር ሥነ ሥርዓቶች፣ በቅዱሳን ቀን ክብረ በዓላት እና ካህኑ በማይገኝበት ጊዜ ሁሉ ማህበረሰቡን በጸሎት ይመራሉ።,አንዳንድ መንፈሳዊ መሪዎች ጥቁር ጸጉር ነበራቸው።,neutral,Neutral.
+በማህበራዊ ድራማ ጨዋታም እንዲሁ የተለያዩ ሚናዎችን የመጫወት እና የማስተባበር ዕድሎች ምናልባት ልጆች በሰዎች መካከል በፍላጎቶች፣ በእምነት እና በስሜቶች መካከል ተመሳሳይነቶችን እና ልዩነቶችን እንዲገነዘቡ ይረዳቸዋል።,ሰዎች እንዴት ተመሳሳይ እና የተለያዩ እንደሆኑ ልጆች መማር ይችላሉ።,entailment,Entailment
+በማህበራዊ ድራማ ጨዋታም እንዲሁ የተለያዩ ሚናዎችን የመጫወት እና የማስተባበር ዕድሎች ምናልባት ልጆች በሰዎች መካከል በፍላጎቶች፣ በእምነት እና በስሜቶች መካከል ተመሳሳይነቶችን እና ልዩነቶችን እንዲገነዘቡ ይረዳቸዋል።,ልጆች የተለያዩ ዘሮች ምን ያህል የተለያዩ እንደሆኑ ማየት ይችላሉ።,neutral,Neutral.
+በማህበራዊ ድራማ ጨዋታም እንዲሁ የተለያዩ ሚናዎችን የመጫወት እና የማስተባበር ዕድሎች ምናልባት ልጆች በሰዎች መካከል በፍላጎቶች፣ በእምነት እና በስሜቶች መካከል ተመሳሳይነቶችን እና ልዩነቶችን እንዲገነዘቡ ይረዳቸዋል።,ልጆች ምንም ነገር መማር አይችሉም።,contradiction,Contradiction
+የድህረ-ጦርነቱ የጀርመን ሕገ-መንግስታዊ ሥርዓት፣እሱ፣ የላቀ በጎነት የናዚ አገዛዝ ትልቁ ጉዳት ነበር።,የናዚ አገዛዝ ፈቀደ።,contradiction,Contradiction
+የድህረ-ጦርነቱ የጀርመን ሕገ-መንግስታዊ ሥርዓት፣እሱ፣ የላቀ በጎነት የናዚ አገዛዝ ትልቁ ጉዳት ነበር።,የናዚ አገዛዝ የተሳተፉትን ሁሉ ገድሏል።,neutral,Contradiction
+የድህረ-ጦርነቱ የጀርመን ሕገ-መንግስታዊ ሥርዓት፣እሱ፣ የላቀ በጎነት የናዚ አገዛዝ ትልቁ ጉዳት ነበር።,የናዚ አገዛዝ አቆመው።,entailment,Entailment
+ሶንጃ ልጅ የሴት ልጇን ቁጣ ማስመሰል ጀመረች።,ማንም የቁጣ ስሜት አልነበረም።,contradiction,Contradiction
+ሶንጃ ልጅ የሴት ልጇን ቁጣ ማስመሰል ጀመረች።,ሶንጃ ልጅ ነች።,entailment,Entailment
+ሶንጃ ልጅ የሴት ልጇን ቁጣ ማስመሰል ጀመረች።,ሶንጃ ተናዳ ነበር።,neutral,Neutral
+6 በአምሳ አምስት አመታት የእርስ በእርስ ጦርነቱ ሊደርስ አካባቢ ፣ፍርድ ቤቱ ይህን ሥልጣን በጥቂቱ ተጠቅሞበታል።,ፍርድ ቤቱ የእርስ በእርስ ጦርነቱ ሊደርስ አካባቢ በነበሩት አስርተ ዓመታት ይህንን ሥልጣን አልፎ አልፎ ይጠቀም ነበር።,entailment,Contradiction
+6 በአምሳ አምስት አመታት የእርስ በእርስ ጦርነቱ ሊደርስ አካባቢ ፣ፍርድ ቤቱ ይህን ሥልጣን በጥቂቱ ተጠቅሞበታል።,ፍርድ ቤቱ 4 ጊዜ ይህን ሥልጣን ተጠቀሞል የእርስ በእርስ ጦርነቱ ሊደርስ አካባቢ ባሉት በአምሳ አምስት ዓመታት ውስጥ ።,neutral,Contradiction
+6 በአምሳ አምስት አመታት የእርስ በእርስ ጦርነቱ ሊደርስ አካባቢ ፣ፍርድ ቤቱ ይህን ሥልጣን በጥቂቱ ተጠቅሞበታል።,ፍርድ ቤቱ ይህን ሥልጣኑን 5 ሚሊዮን ጊዜ ተጠቅሞበታል የእርስ በእርስ ጦርነቱ ሊደርስ አካባቢ ባሉት በአምሳ አምስት ዓመታት ውስጥ ።,contradiction,Contradiction
+እኔ አረጋግጥልሀለሁ፣ ጌታዬ፣ ሁሉንም ነገር በሚገባ አውቄያለሁ።,እኔ እየነገርኩህ ነው ስለ ሁሉም ነገር እውቀት እንደተሰጠኝ ።,entailment,Entailment
+እኔ አረጋግጥልሀለሁ፣ ጌታዬ፣ ሁሉንም ነገር በሚገባ አውቄያለሁ።,ስለ መርማሪው ሞት ነው የተነገረኝ።,neutral,Contradiction
+እኔ አረጋግጥልሀለሁ፣ ጌታዬ፣ ሁሉንም ነገር በሚገባ አውቄያለሁ።,ብዙ ዝርዝሮች አሉ ከኔ ተሰውረው የነበሩ።,contradiction,Contradiction
+ድምጾቹ ካፒቴን ብለድ በቁጭት የተሞላውን ሃሳቡን አቋረጠው።,ካፒቴን ብሉድ የተረበሸ ሐሳቦቹን ያለእረብሻ ማሰብ ችሏል።,contradiction,Contradiction
+ድምጾቹ ካፒቴን ብለድ በቁጭት የተሞላውን ሃሳቡን አቋረጠው።,የካፒቴን ብሉድ ሃሳቦች በአንዳንድ ድምፆች ተቆራርጠዋል።,entailment,Contradiction
+ድምጾቹ ካፒቴን ብለድ በቁጭት የተሞላውን ሃሳቡን አቋረጠው።,የቡችላው ጩኸት ካፒቴኑን ከስሜቱ ድንገት አስወጣው።,neutral,Contradiction
+ነገር ግን በአጎትህ ቤት በባርቤዶስ ከባሪያ ባልተሻልኩበት ጊዜ፣ በተወሰነ ደግነት እንደተጠቀማችሁኝ መርሳት አልችልም፡፡,በባርቤዶስ ባሪያ ሳለሁ በደግነት ያዝከኝ።,entailment,Contradiction
+ነገር ግን በአጎትህ ቤት በባርቤዶስ ከባሪያ ባልተሻልኩበት ጊዜ፣ በተወሰነ ደግነት እንደተጠቀማችሁኝ መርሳት አልችልም፡፡,"አንተ ለእኔ በማይታመን ሁኔታ ጨካኝ ነበርክ, እና ከቆሻሻ በባሰ እኔን ትመለከተኝ ነበር፡፡",contradiction,Contradiction
+ነገር ግን በአጎትህ ቤት በባርቤዶስ ከባሪያ ባልተሻልኩበት ጊዜ፣ በተወሰነ ደግነት እንደተጠቀማችሁኝ መርሳት አልችልም፡፡,አጎትህ የራሱ ባረገኝ ጊዜ በየቀኑ በጣም ይመታኝ ነበር።,neutral,Contradiction
+ከሦስት ኪሎ ሜትር ያልበለጠ ርቀት ላይ የምዕራባዊውን አድማስ የሚሞላ ወጣ ግባ ያለ ደማቅ አረንጓዴ ግድግዳ ነበር።,ለምለም መልክዓ ምድር በእይታ ውስጥ ነበር።,entailment,Neutral.
+ከሦስት ኪሎ ሜትር ያልበለጠ ርቀት ላይ የምዕራባዊውን አድማስ የሚሞላ ወጣ ግባ ያለ ደማቅ አረንጓዴ ግድግዳ ነበር።,እየቀረቡት የነበረው ደሴት ሰው አልባ ነበር።,neutral,Contradiction
+ከሦስት ኪሎ ሜትር ያልበለጠ ርቀት ላይ የምዕራባዊውን አድማስ የሚሞላ ወጣ ግባ ያለ ደማቅ አረንጓዴ ግድግዳ ነበር።,በርቀት ምንም ምድር ማየት አልቻሉም፤ ማየት የቻሉት የማያልቅ ውቅያኖስ ብቻ ነበር።,contradiction,Contradiction
+"እኔ በእነዚህ አረመኔያዊ አካባቢዎች የእርሱ ግርማ መልእክተኛ ነኝ, እና የጌታ ሳንደርላንድ የቅርብ ዘመድ ነኝ፡፡",ግርማዊው መልእክተኞች አሏቸው፤ እኔም ከእነሱ አንዱ ነኝ።,entailment,Entailment
+"እኔ በእነዚህ አረመኔያዊ አካባቢዎች የእርሱ ግርማ መልእክተኛ ነኝ, እና የጌታ ሳንደርላንድ የቅርብ ዘመድ ነኝ፡፡",ከሳምንት ገደማ በፊት ግርማዊው ወደዚህ ላኩኝ።,neutral,Neutral.
+"እኔ በእነዚህ አረመኔያዊ አካባቢዎች የእርሱ ግርማ መልእክተኛ ነኝ, እና የጌታ ሳንደርላንድ የቅርብ ዘመድ ነኝ፡፡",ከግርማዊነቱ ትዕዛዝ አልቀበልም።,contradiction,Contradiction
+"""ለአንተ ዕዳ አለብኝ ፤ ወይም እንደዚያ አሰብኩ"" ብሏል።",ለአንተ ምንም ዕዳ እንዳለበት በፍጹም አላሰበም።,contradiction,Contradiction
+"""ለአንተ ዕዳ አለብኝ ፤ ወይም እንደዚያ አሰብኩ"" ብሏል።",አንድ ሳንቲም የሌለው ነጋዴ እንደመሆንህ መጠን ስለሰጠኸው እርዳታ ዕዳ ነበረበት።,neutral,Contradiction
+"""ለአንተ ዕዳ አለብኝ ፤ ወይም እንደዚያ አሰብኩ"" ብሏል።",የሆነ ነገር ዕዳ እንዳለብህ ተሰምቶት ነበር።,entailment,Entailment
+ከመምጣት ይልቅ የበለጠ ማወቅ ነበረብኝ፣ሰለዚህ በሌሊት ወደ ጃማይካ ቀረብኩ።,ፀሐይ ከጠለቀች በኋላ ወደ ጃማይካ አቅራቢያ ተጓዝኩ።,entailment,Entailment
+ከመምጣት ይልቅ የበለጠ ማወቅ ነበረብኝ፣ሰለዚህ በሌሊት ወደ ጃማይካ ቀረብኩ።,በትልቅ ጀልባ ወደ ጃማይካ ተጓዝኩ።,neutral,"Neutral.
+
+The premise states that the speaker wished they had known more before coming and that they arrived in Jamaica at night. The hypothesis, on the other hand, states that the speaker traveled to Jamaica by a large boat. The premise does not provide information about the mode of transportation, so the hypothesis cannot be confirmed or contradicted based on the given premise."
+ከመምጣት ይልቅ የበለጠ ማወቅ ነበረብኝ፣ሰለዚህ በሌሊት ወደ ጃማይካ ቀረብኩ።,እኔና ባለቤቴ በሰፊ የቀን ብርሃን ጃማይካ ደረስን።,contradiction,Contradiction
+ቀን-አልጋው ላይ እዚያ ሲተኛ የብለድ ሃሳቦች በዚህ እና በሌሎች ነገሮች ላይ ነበሩ፡፡,ብለድ በቀን እንቅልፉ ላይ ያለሀሳብ ሕልም ተኝቶ ነበር።,contradiction,Contradiction
+ቀን-አልጋው ላይ እዚያ ሲተኛ የብለድ ሃሳቦች በዚህ እና በሌሎች ነገሮች ላይ ነበሩ፡፡,ብለድ ተኝቶ እያሰላሰለ ነበር፡፡,entailment,Entailment
+ቀን-አልጋው ላይ እዚያ ሲተኛ የብለድ ሃሳቦች በዚህ እና በሌሎች ነገሮች ላይ ነበሩ፡፡,ብለድ እናቱን ለመጨረሻ ጊዜ ያየበትን ጊዜ አጥብቆ እያሰበ ነበር።,neutral,Neutral
+"እርግጥ ነው, ከዚያም, እኔ ለእናንተ እነግራችኋለሁ፡፡",ደህና ከዚያ ስለእሱ ጉዳይ እነግርሀለሁ፡፡,entailment,Neutral
+"እርግጥ ነው, ከዚያም, እኔ ለእናንተ እነግራችኋለሁ፡፡",አንድም ቃል አልናገርህም።,contradiction,Contradiction
+"እርግጥ ነው, ከዚያም, እኔ ለእናንተ እነግራችኋለሁ፡፡",እኔ የምነግርህ ይህን ላለመድገም ቃል ስለገባህ ብቻ ነው።,neutral,Contradiction
+አህ! እና ምን መንገድ ሊሆን ይችላል?,አንድ ሰው በየትኛው አቅጣጫ መሄድ እንዳለበት እየጠየቀ ነው።,entailment,Entailment
+አህ! እና ምን መንገድ ሊሆን ይችላል?,ጥያቄውን ያቀረበው ሰው ብቻውን ስለሆነ ሊያማክረው የሚችል ሰው በዙሪያው የለም።,contradiction,Neutral.
+አህ! እና ምን መንገድ ሊሆን ይችላል?,ጠያቂው ችኩሎ ነው እና የሚወስደውን መንገድ ወዲያውኑ ማወቅ ይፈልጋል።,neutral,Neutral
+የንጉሡን ተልዕኮ በቀላሉ አልቀበልም።,የንጉሡን ተልዕኮ መስጠቴ ከሥነ ምግባር ደንቦቼ ጋር የሚጋጭ ነው።,neutral,Neutral
+የንጉሡን ተልዕኮ በቀላሉ አልቀበልም።,የንጉሡን ተልዕኮ በጥሞና አሰብኩበት።,entailment,Contradiction
+የንጉሡን ተልዕኮ በቀላሉ አልቀበልም።,የንጉሡን ተልዕኮ ለመስጠት ያወጣሁትን የፍቃድ ወረቀት ሳላስበው ፈረምኩት።,contradiction,Contradiction
+በችኮላ ማፈግፈግ እንዳለበት ተረዳ።,ለማፈግፈግ ሙሉ ቀን እንዳለው ተገነዘበ።.,contradiction,Contradiction
+በችኮላ ማፈግፈግ እንዳለበት ተረዳ።,ቶሎ እርምጃ መውሰድ እንዳለበት ተገነዘበ።,entailment,Neutral
+በችኮላ ማፈግፈግ እንዳለበት ተረዳ።,በተመሳሳይ ቦታ ቢቈይ ይገኝ ነበር።,neutral,Neutral
+ሆኖም ባለፉት ሦስት ዓመታት መሆን ያለበትን ሆኗል እና ማደረግ ያለበትን አድርጓል ብላለች፣ አሁን ግን ያለ ምንም የቀደመ ንቀቷ በኀዘን ተናገረች።,ባለፉት ሶስት አመታት ብዙ ወንዶችን መግደሉን አልወደደችም።,neutral,Contradiction
+ሆኖም ባለፉት ሦስት ዓመታት መሆን ያለበትን ሆኗል እና ማደረግ ያለበትን አድርጓል ብላለች፣ አሁን ግን ያለ ምንም የቀደመ ንቀቷ በኀዘን ተናገረች።,ስለ ጀብዱዎቹና ስለ ማንነቱ በደስታ ትናገራለች።,contradiction,Contradiction
+ሆኖም ባለፉት ሦስት ዓመታት መሆን ያለበትን ሆኗል እና ማደረግ ያለበትን አድርጓል ብላለች፣ አሁን ግን ያለ ምንም የቀደመ ንቀቷ በኀዘን ተናገረች።,አሳዛኝ በሆነ ድምፅ ተናገረች።,entailment,Entailment
+ይህ የአንተ ዓይነት ሰዎች ፋሽን በኋላ እንደሆነ እገምታለሁ።,የናንተ ዓይነት ሰዎች የሚያደርጉት ይህን ነው ብዬ አስባለው።,entailment,Neutral
+ይህ የአንተ ዓይነት ሰዎች ፋሽን በኋላ እንደሆነ እገምታለሁ።,ስለ እናንተ ዓይነት እና ስለ ባህላቸው አንብቤያለሁ።,neutral,Neutral
+ይህ የአንተ ዓይነት ሰዎች ፋሽን በኋላ እንደሆነ እገምታለሁ።,ይህ በእናንተ ዓይነት ሰዎች ዘንድ የተለመደ እንዳልሆነ አድርጌ ወስጄዋለው።,contradiction,Contradiction
+መኮሳተሩ ሽፋሽፈቷን አጨማደደው፡፡,በፊቷ ላይ ግዙፍ ፈገግታ ተሰራጭቷል።,contradiction,Contradiction
+መኮሳተሩ ሽፋሽፈቷን አጨማደደው፡፡,በሆዷ ውስጥ የሚያቅለሸልሽ ስሜት ተሰማት።,neutral,Neutral
+መኮሳተሩ ሽፋሽፈቷን አጨማደደው፡፡,በፊቷ ላይ ቁጭት ነበር።,entailment,Neutral.
+እሷም በብርሃን ዓይኖቿ እያስተዋለችው ነበር፤ ነገር ግን በኀዘን የተዋጠውን ፊቱን ባየች ጊዜ እና ፊቱ ላይ ጠባሳ የፈጠረውን ጥልቅ ቁጭት ስትመለከት የራሷ አገላለጽ ተለወጠ።,ፊቱን ካየች በኋላ አገላለጿ ተቀየረ።,entailment,Entailment
+እሷም በብርሃን ዓይኖቿ እያስተዋለችው ነበር፤ ነገር ግን በኀዘን የተዋጠውን ፊቱን ባየች ጊዜ እና ፊቱ ላይ ጠባሳ የፈጠረውን ጥልቅ ቁጭት ስትመለከት የራሷ አገላለጽ ተለወጠ።,በፊቱ ላይ ያለውን ጭንቀት ስትመለከት ፊቷ ብሩህ ሆነ።,contradiction,Contradiction
+እሷም በብርሃን ዓይኖቿ እያስተዋለችው ነበር፤ ነገር ግን በኀዘን የተዋጠውን ፊቱን ባየች ጊዜ እና ፊቱ ላይ ጠባሳ የፈጠረውን ጥልቅ ቁጭት ስትመለከት የራሷ አገላለጽ ተለወጠ።,በእሷ ላይ ተቈጥቶ እንደሆነ አላወቀችም፡፡,neutral,Contradiction
+በዝግታ እየተራመደ በተመሸገው ግድግዳ ጥግ ጥግ ሄዶ በታላቁ መግቢያ አልፎ ወደ ግቢው ገባ።,ታላላቆቹ መግቢያዎች ተቆልፈው ስለነበር በአጥሩ ላይ ዘሎ ወደ ቅጥር ግቢው ገባ።,contradiction,Contradiction
+በዝግታ እየተራመደ በተመሸገው ግድግዳ ጥግ ጥግ ሄዶ በታላቁ መግቢያ አልፎ ወደ ግቢው ገባ።,ታላቁ መግቢያዎች የግቢው ብቸኛ መግቢያ ነበሩ።,neutral,"Neutral
+
+The premise describes someone walking along a decorated wall and entering through a large entrance, but it does not provide information about whether this entrance is the only entrance to the building. Therefore, the hypothesis that the large entrances were the only entrances to the building is not directly supported or contradicted by the premise."
+በዝግታ እየተራመደ በተመሸገው ግድግዳ ጥግ ጥግ ሄዶ በታላቁ መግቢያ አልፎ ወደ ግቢው ገባ።,ወደ ግቢው የሚያደርሱ ትላልቅ መግቢያዎች ነበሩ።,entailment,Entailment
+ወደ መሰቀያ ስፍራ ታደርሰዋልህ፣ ምንም ጥርጥር የለውም፣ በንቀት ተናግሯል።,አንድ ሰው በእንጨት ላይ እንደሚሰቀል አስቦ ነበር።,entailment,Entailment
+ወደ መሰቀያ ስፍራ ታደርሰዋልህ፣ ምንም ጥርጥር የለውም፣ በንቀት ተናግሯል።,ሌባውን የያዘዉ የፖሊስ መኮንን እሱ ነበር።,neutral,Contradiction
+ወደ መሰቀያ ስፍራ ታደርሰዋልህ፣ ምንም ጥርጥር የለውም፣ በንቀት ተናግሯል።,ከእስር ለመዳን ከአገር የሚያመልጥበትን መንገድ በሹክሹክታ ተናገረ።,contradiction,Contradiction
+በታማኝነት እንዴት ላስራቸው እችል ነበር? በድርድር ላይ ነበር።,እነሱን በቍጥጥር ሥር ወደማዋል እራሴን ማምጣት አልቻልኩም፡፡,entailment,Neutral
+በታማኝነት እንዴት ላስራቸው እችል ነበር? በድርድር ላይ ነበር።,ባየኋቸው ቅጽበት በቍጥጥር ሥር አውላቸዋለሁ።,contradiction,Contradiction
+በታማኝነት እንዴት ላስራቸው እችል ነበር? በድርድር ላይ ነበር።,አዘግይቻቸው ቢሆን ኖሮ ራሴን ይቅር አልልም ነበር።,neutral,"Neutral.
+
+The premise discusses the speaker's involvement in a discussion and their thoughts on how to be trustworthy. The hypothesis, on the other hand, reflects a hypothetical scenario where the speaker would not forgive themselves if they had delayed something. There is no direct logical connection between the two statements that would make one entail or contradict the other."
+ባለፈው ዓመት እሱን እያሳደድኩት ነው።,እሱ ሳያውቅ ለአንድ ዓመት ያህል በቅርበት እከታተለው ነበር።,neutral,Contradiction
+ባለፈው ዓመት እሱን እያሳደድኩት ነው።,ለአንድ ሳምንት የሚጠጋ ያህል ብቻ ነው የተከታተልኩት።,contradiction,Contradiction
+ባለፈው ዓመት እሱን እያሳደድኩት ነው።,ባለፈው ዓመት ውስጥ እሱን እየተከታተልኩ ነበር፡፡,entailment,Contradiction
+ሙዚየሙ በካታሎጎች ወይም በመለያዎች ላይ ጠንካራ አይደለም።,ሙዚየሙ መሰየሙን አይወድም።,neutral,Contradiction
+ሙዚየሙ በካታሎጎች ወይም በመለያዎች ላይ ጠንካራ አይደለም።,ሙዚየሙ የብሮሸሮች አድናቂ አይደለም።,entailment,Neutral
+ሙዚየሙ በካታሎጎች ወይም በመለያዎች ላይ ጠንካራ አይደለም።,የሙዚየሙ ጠንካራ ነጥብ ካታሎጎቹ ናቸው።,contradiction,Contradiction
+እነዚህ ክፍት አየር ገበያዎች እራሱ በቤጂንግ ውስጥ ለመግዛት በጣም የሚስቡ ቦታዎች ናቸው።,ቤጂንግ በጣም የሚስቡ ሱቆችን ያካተቱ ክፍት-አየር ገበያዎች አሏት።,entailment,Entailment
+እነዚህ ክፍት አየር ገበያዎች እራሱ በቤጂንግ ውስጥ ለመግዛት በጣም የሚስቡ ቦታዎች ናቸው።,በቤጂንግ ያሉት ክፍት አየር ገበያዎች በዓለም ላይ በጣም የሚስቡ ናቸው።,neutral,Neutral
+እነዚህ ክፍት አየር ገበያዎች እራሱ በቤጂንግ ውስጥ ለመግዛት በጣም የሚስቡ ቦታዎች ናቸው።,የቤጂንግ ጥብቅ ህጎች በከተማው ገደብ ውስጥ ክፍት የአየር ገበያዎችን ይከለክላሉ።,contradiction,Contradiction
+በሰሜን ምዕራብ ጠረፍ ላይ ያለው ትልቁ የባሕር ወሽመጥ ጥሩ ወደብ ያደርገዋል፣ ግን ውኃውም ሆነ የባሕር ዳርቻው ቆሻሻ ሊሆኑ ይችላሉ፡፡,ውኃው እና የባሕር ዳርቻው ሁል ጊዜ ንጹሕ ናቸው፡፡,contradiction,Contradiction
+በሰሜን ምዕራብ ጠረፍ ላይ ያለው ትልቁ የባሕር ወሽመጥ ጥሩ ወደብ ያደርገዋል፣ ግን ውኃውም ሆነ የባሕር ዳርቻው ቆሻሻ ሊሆኑ ይችላሉ፡፡,ውኃው እና የባሕር ዳርቻው ቆሻሻ ሊሆኑ ይችላሉ።,entailment,Entailment
+በሰሜን ምዕራብ ጠረፍ ላይ ያለው ትልቁ የባሕር ወሽመጥ ጥሩ ወደብ ያደርገዋል፣ ግን ውኃውም ሆነ የባሕር ዳርቻው ቆሻሻ ሊሆኑ ይችላሉ፡፡,ውሃው ከብክለት የተነሳ ቆሻሻ ነው።,neutral,Contradiction
+እነዚያ ሰማይ ጠቀስ ፎቆች ባንኮች ሲሆኑ የቆሙበት ጎዳና ሚላ ደ ኦሮ ወይም ወርቃማ ማይል የሚል ቅጽል ስም ተሰጥቶታል።,በወርቃማው ማይል ላይ ከሚገኙት ሰማይ ጠቀስ ሕንጻዎች መካከል አንዳቸውም ባንኮች አይደሉም።,contradiction,Contradiction
+እነዚያ ሰማይ ጠቀስ ፎቆች ባንኮች ሲሆኑ የቆሙበት ጎዳና ሚላ ደ ኦሮ ወይም ወርቃማ ማይል የሚል ቅጽል ስም ተሰጥቶታል።,በወርቃማው ማይል ላይ ያሉት ሰማይ ጠቀስ ሕንጻዎች ባንኮች ናቸው።,entailment,Entailment
+እነዚያ ሰማይ ጠቀስ ፎቆች ባንኮች ሲሆኑ የቆሙበት ጎዳና ሚላ ደ ኦሮ ወይም ወርቃማ ማይል የሚል ቅጽል ስም ተሰጥቶታል።,በወርቃማው ማይል ላይ ያሉ ሰማይ ጠቀስ ሕንጻዎች ባንኮችን ጨምሮ የተለያዩ የንግድ ዓይነቶች ናቸው፡፡,neutral,Entailment
+በሁለተኛው የዓለም ጦርነት የተካፈሉት የብሪታንያ ኮመንዌልዝ የአየር ማሰልጠኛ እቅድ ነበር፤ ይህ እቅድ አውሮፕላን አብራሪዎችን ለጦርነት ለማዘጋጀት ካናዳ ውስጥ ያለውን ደህንነቱ የተጠበቀ አየር ይጠቀም ነበር።,ካናዳ የበለጠ አስተማማኝ ሰማይ ነበራት።,entailment,Neutral.
+በሁለተኛው የዓለም ጦርነት የተካፈሉት የብሪታንያ ኮመንዌልዝ የአየር ማሰልጠኛ እቅድ ነበር፤ ይህ እቅድ አውሮፕላን አብራሪዎችን ለጦርነት ለማዘጋጀት ካናዳ ውስጥ ያለውን ደህንነቱ የተጠበቀ አየር ይጠቀም ነበር።,የካናዳ ሰማይ ከሚሳኤሎች ነጻ ነበር።,neutral,Contradiction
+በሁለተኛው የዓለም ጦርነት የተካፈሉት የብሪታንያ ኮመንዌልዝ የአየር ማሰልጠኛ እቅድ ነበር፤ ይህ እቅድ አውሮፕላን አብራሪዎችን ለጦርነት ለማዘጋጀት ካናዳ ውስጥ ያለውን ደህንነቱ የተጠበቀ አየር ይጠቀም ነበር።,የካናዳ ሰማይ ይበልጥ አደገኛ ነበር፡፡,contradiction,Contradiction
+እናም ቈንጆ የባሕር ዳርቻቸው ከእንግዲህ የእነሱ ብቻ አለመሆኑን ቢያውቁም መቻቻል እና አጋዥ ሆነው ይቆያሉ፡፡,የባህር ዳርቻውን መጋራት ስላለባቸው አሁን ለሁሉም ሰው መራራ እና ቅር የሚያሰኙ ናቸው፡፡,contradiction,Contradiction
+እናም ቈንጆ የባሕር ዳርቻቸው ከእንግዲህ የእነሱ ብቻ አለመሆኑን ቢያውቁም መቻቻል እና አጋዥ ሆነው ይቆያሉ፡፡,አሁን የባህር ዳርቻውን ከሌሎች ሰዎች ጋር መጋራት አለባቸው.,entailment,Contradiction
+እናም ቈንጆ የባሕር ዳርቻቸው ከእንግዲህ የእነሱ ብቻ አለመሆኑን ቢያውቁም መቻቻል እና አጋዥ ሆነው ይቆያሉ፡፡,ቀደም ሲል የአምስት መቶ ማይል የባህር ዳርቻ ግንባር ነበራቸው።,neutral,"Neutral. 
+
+The premise discusses the current situation of a beautiful coastline and the characters' feelings about it, while the hypothesis mentions a specific historical fact about a 500-mile coastline. There is no direct connection or contradiction between the two statements."
+ኩብላይ ካን የራሱን ሃብት በ 1279 በቤጂንግ ቤይሃይ ሐይቅ ዳርቻ ላይ አቋቋመ፣ አንዳንድ የንጉሠ ነገሥቱ ሀብቶች ዛሬም ድረስ ለእይታ ይቀርባሉ፡፡,ኩብላይ ካን በታይዋን ሃብት አቋቋመ።,contradiction,Contradiction
+ኩብላይ ካን የራሱን ሃብት በ 1279 በቤጂንግ ቤይሃይ ሐይቅ ዳርቻ ላይ አቋቋመ፣ አንዳንድ የንጉሠ ነገሥቱ ሀብቶች ዛሬም ድረስ ለእይታ ይቀርባሉ፡፡,ኩብላይ ካን በቤጂንግ ውስጥ ትልቅ ሀብት አለው።,entailment,Entailment
+ኩብላይ ካን የራሱን ሃብት በ 1279 በቤጂንግ ቤይሃይ ሐይቅ ዳርቻ ላይ አቋቋመ፣ አንዳንድ የንጉሠ ነገሥቱ ሀብቶች ዛሬም ድረስ ለእይታ ይቀርባሉ፡፡,ኩብላይ ካን በጣም የተከበረ ሰው ነበር።,neutral,Neutral.
+ከአንግሎ ማህበረሰብ ጋር በቀላሉ መቀላቀል የፕሮቴስታንት ትምህርት ቤቶች ብቻ ልጆቻቸውን ተቀበሉ የምሥራቅ አውሮፓ አይሁዶች ወደ ሀብታም ዌስትማውንት ተመርቀዋል ወይም እንደገና ወደ ቶሮንቶ ተሰደዋል፡፡,የምስራቅ አውሮፓ አይሁዶች ከሁሉም ሰው ጋር በደንብ ይዋሃዳሉ፡፡,contradiction,Contradiction
+ከአንግሎ ማህበረሰብ ጋር በቀላሉ መቀላቀል የፕሮቴስታንት ትምህርት ቤቶች ብቻ ልጆቻቸውን ተቀበሉ የምሥራቅ አውሮፓ አይሁዶች ወደ ሀብታም ዌስትማውንት ተመርቀዋል ወይም እንደገና ወደ ቶሮንቶ ተሰደዋል፡፡,አይሁዶች በቀሪው የህብረተሰብ ክፍል አይፈለጉም።,neutral,Contradiction
+ከአንግሎ ማህበረሰብ ጋር በቀላሉ መቀላቀል የፕሮቴስታንት ትምህርት ቤቶች ብቻ ልጆቻቸውን ተቀበሉ የምሥራቅ አውሮፓ አይሁዶች ወደ ሀብታም ዌስትማውንት ተመርቀዋል ወይም እንደገና ወደ ቶሮንቶ ተሰደዋል፡፡,አይሁዶች ከአንግሎ ማህበረሰብ ጋር በቀላሉ ተቀላቅለዋል።,entailment,Contradiction
+የሚቻል ከሆነ ከሴራው ጋር አስቀድመው ይተዋወቁ።,አስቀድመው ወደ ሴራው ውስጥ አይግቡ; በኋላ ደስታን ያበላሻል፡፡,contradiction,Contradiction
+የሚቻል ከሆነ ከሴራው ጋር አስቀድመው ይተዋወቁ።,ከቻልክ ሴራውን አስቀድመህ ለመረዳት ሞክር።,entailment,Neutral
+የሚቻል ከሆነ ከሴራው ጋር አስቀድመው ይተዋወቁ።,የመጽሐፉን ሴራ ከተረዱት ትምህርቱ ቀላል ይሆንላችኋል።,neutral,Neutral.
+"ከመሬት በታች 27 ሜትር( 88 ጫማ) ጥልቀት ያላቸው የመቃብር ዋልታዎች ከዕብነ በረድ የተሠሩ ሲሆን 1,200 ካሬ ሜትር( 13,000 ካሬ ጫማ) ይሸፍናል፡፡",ከ20 ሜትር በላይ መሬት ውስጥ ተቀብሮ ይገኛል።,entailment,Entailment
+"ከመሬት በታች 27 ሜትር( 88 ጫማ) ጥልቀት ያላቸው የመቃብር ዋልታዎች ከዕብነ በረድ የተሠሩ ሲሆን 1,200 ካሬ ሜትር( 13,000 ካሬ ጫማ) ይሸፍናል፡፡",እሱ አስፈላጊ የህዝብ ሰው ነበር።,neutral,Neutral.
+"ከመሬት በታች 27 ሜትር( 88 ጫማ) ጥልቀት ያላቸው የመቃብር ዋልታዎች ከዕብነ በረድ የተሠሩ ሲሆን 1,200 ካሬ ሜትር( 13,000 ካሬ ጫማ) ይሸፍናል፡፡",የእሱ የመቃብር ዋሻ ከእንጨት የተሠሩ ናቸው፡፡,contradiction,Contradiction
+ሁሉም ተንቀሳቃሽ ንብረቶች ከዝንጀሮዎቹ እንዲደበቁ ያስታውሱ።,ንብረቶቻችሁን ከዝንጀሮዎቹ ደብቁ።,entailment,Entailment
+ሁሉም ተንቀሳቃሽ ንብረቶች ከዝንጀሮዎቹ እንዲደበቁ ያስታውሱ።,ዝንጀሮዎቹ በብዙ ነገሮች ላይ ከፍተኛ ፍላጐት አላቸው፣ ንብረታችሁን ጨምሮ።,neutral,"Neutral.
+
+The premise states that all movable properties should be protected from monkeys, while the hypothesis suggests that monkeys have a high interest in many things, including your property. The premise does not provide information about the monkeys' interests or desires, only that protection is necessary. Therefore, the relationship between the two statements is neutral."
+ሁሉም ተንቀሳቃሽ ንብረቶች ከዝንጀሮዎቹ እንዲደበቁ ያስታውሱ።,ንብረቶቻችሁን ከዝንጀሮዎች መደበቅ አያስፈልግም፡፡,contradiction,Contradiction
+"የእስቴ ቤተ መንግሥት ከመገንባቱ ከተወሰኑ 1,400 ዓመታት በፊት ሚልሬውእራሱ የአንድ የታዋቂ ሰው ትልቅ ቤት ነበር።",ሚልሬው ከማንኛውም ነገር 10 ማይል ርቆ ነበር።,neutral,"Neutral. 
+
+The premise discusses the historical significance of a house called ሚልሬው (Milrewe) being a large house of a notable person 1,400 years before the construction of the current palace. The hypothesis, however, states that ሚልሬው (Milrewe) was 10 miles away from anything, which is not addressed or implied by the premise. Therefore, there is no direct entailment or contradiction between the two statements."
+"የእስቴ ቤተ መንግሥት ከመገንባቱ ከተወሰኑ 1,400 ዓመታት በፊት ሚልሬውእራሱ የአንድ የታዋቂ ሰው ትልቅ ቤት ነበር።",ሚልሬው ከሀገር ውስጥ ውጪ ነበር፡፡,entailment,Contradiction
+"የእስቴ ቤተ መንግሥት ከመገንባቱ ከተወሰኑ 1,400 ዓመታት በፊት ሚልሬውእራሱ የአንድ የታዋቂ ሰው ትልቅ ቤት ነበር።",ሚልሬው በከተማዋ እምብርት ውስጥ ነበር።,contradiction,"Neutral.
+
+The premise states that 1,400 years before the construction of the palace, Millerew was the large house of a notable person. The hypothesis claims that Millerew was within the city center. There is no information in the premise to confirm or deny the location of Millerew within the city center, making the relationship between the premise and the hypothesis neutral."
+የባህር ሙቀት በ18e እና 24e ሴ (64-75e ፋ) መካከል ይቀያየራል።,"የባህር ሙቀት ሁልጊዜ ይለዋወጣል, ነገር ግን የማቀዝቀዣ አየር ንበረት በታች አይሄዱም፡፡",entailment,Contradiction
+የባህር ሙቀት በ18e እና 24e ሴ (64-75e ፋ) መካከል ይቀያየራል።,የባህር አየር ሁኔታ ሁል ጊዜ ዓመቱን ሙሉ በአንድ ቋሚ ቦታ ላይ ነው።,contradiction,Contradiction
+የባህር ሙቀት በ18e እና 24e ሴ (64-75e ፋ) መካከል ይቀያየራል።,የባህር አየር ሁኔታ ቀን ላይ ከፍ ያለ ነው፣ ሞቃታማ በሚሆንበት ጊዜ፡፡,neutral,Neutral.
+የኪናባሉ ብሔራዊ ፓርክ በግዛቱ ከሚገኙ ስድስት የተጠበቊ ክልሎች አንዱ ነው፡፡,የኪናባሉ ብሔራዊ ፓርክ አሥር ዝሆኖች እና ስድስት አውራሪሶች አሉት።,neutral,Neutral
+የኪናባሉ ብሔራዊ ፓርክ በግዛቱ ከሚገኙ ስድስት የተጠበቊ ክልሎች አንዱ ነው፡፡,ግዛቱ የኪናባሉ ብሔራዊ ፓርክን ጨምሮ የተጠበቊ ክልሎች አሉት፡፡,entailment,Entailment
+የኪናባሉ ብሔራዊ ፓርክ በግዛቱ ከሚገኙ ስድስት የተጠበቊ ክልሎች አንዱ ነው፡፡,በግዛቱ ውስጥ በአጠቃላይ ሦስት የተጠበቁ ክልሎች አሉ፡፡,contradiction,Contradiction
+የወቅቱን ፎቶግራፎች እና ቅርሶች ጨምሮ የአን ታሪክ እና የአምስተርዳም ወረራ ቪዲዮዎችን ያያሉ።,ፎቶግራፎችን አታዩም።,contradiction,Contradiction
+የወቅቱን ፎቶግራፎች እና ቅርሶች ጨምሮ የአን ታሪክ እና የአምስተርዳም ወረራ ቪዲዮዎችን ያያሉ።,ፎቶግራፎችን ታያለህ።,entailment,Entailment
+የወቅቱን ፎቶግራፎች እና ቅርሶች ጨምሮ የአን ታሪክ እና የአምስተርዳም ወረራ ቪዲዮዎችን ያያሉ።,የተወሰኑ የመጀመሪያዎቹን ፎቶግራፎች ታያላችሁ።,neutral,Neutral
+ትሬዠር የባህር ዳርቻ ለመናገር ብቸኛው የመዝናኛ ቦታ ነው፣ በሦስት አሸዋማ የባሕር ወሽመጦች ላይ የተዘረጉ በጣት የሚቆጠሩ ሆቴሎች ያሉት ብቸኛው የመዝናኛ ስፍራ ነው፡፡,ትሬዘር የባህር ዳርቻን ለሚጎበኙ ሰዎች ብዙ የሆቴል አማራጮች የሉም።,entailment,Contradiction
+ትሬዠር የባህር ዳርቻ ለመናገር ብቸኛው የመዝናኛ ቦታ ነው፣ በሦስት አሸዋማ የባሕር ወሽመጦች ላይ የተዘረጉ በጣት የሚቆጠሩ ሆቴሎች ያሉት ብቸኛው የመዝናኛ ስፍራ ነው፡፡,ትሬዠር የባህር ዳርቻን ለሚጎበኙ ቱሪስቶች አንድ ባለ አራት ኮከብ ሆቴል ይገኛል።,neutral,Contradiction
+ትሬዠር የባህር ዳርቻ ለመናገር ብቸኛው የመዝናኛ ቦታ ነው፣ በሦስት አሸዋማ የባሕር ወሽመጦች ላይ የተዘረጉ በጣት የሚቆጠሩ ሆቴሎች ያሉት ብቸኛው የመዝናኛ ስፍራ ነው፡፡,ትሬዠር የባህር ዳርቻ በአካባቢው ካሉ በርካታ የመዝናኛ ቦታዎች አንዱ ነው፡፡,contradiction,Contradiction
+የበጋ ወቅት ሞቅ ያለ( ግን ሞቃት ያልሆነ) የአየር ሁኔታ እና ሞቃታማ የባሕር ሙቀትን ያመጣል፣ ይህም ለመጥለቅ፣ ለመስጠም እና ለሌሎች የውኃ ስፖርቶች ተስማሚ ያደርገዋል፡፡,በበጋ ወቅት ሁል ጊዜ 100 ዲግሪ ወይም ከዚያ በላይ ሞቃት ነው፡፡,contradiction,Contradiction
+የበጋ ወቅት ሞቅ ያለ( ግን ሞቃት ያልሆነ) የአየር ሁኔታ እና ሞቃታማ የባሕር ሙቀትን ያመጣል፣ ይህም ለመጥለቅ፣ ለመስጠም እና ለሌሎች የውኃ ስፖርቶች ተስማሚ ያደርገዋል፡፡,አብዛኛውን ጊዜ በበጋ 75 ነው።,neutral,"Neutral. 
+
+The premise discusses the general weather conditions during the summer and their suitability for water sports but does not provide any specific temperature information. The hypothesis introduces a specific temperature (75) which is not mentioned or implied in the premise. Therefore, there is no direct entailment or contradiction between the two statements."
+የበጋ ወቅት ሞቅ ያለ( ግን ሞቃት ያልሆነ) የአየር ሁኔታ እና ሞቃታማ የባሕር ሙቀትን ያመጣል፣ ይህም ለመጥለቅ፣ ለመስጠም እና ለሌሎች የውኃ ስፖርቶች ተስማሚ ያደርገዋል፡፡,በበጋ ወቅት ሞቃት አየር ንብረት ነው።,entailment,Contradiction
+ከኩሬዎቹ መካከል ጎብኚዎች ከኤሊ ጭንቅላት ላይ ለማንጠር በማሰብ ሳንቲሞች የሚወረውሩበት አንዱ ሲሆን ይህም ጥሩ ዕድል ለማግኘት የሚያስችል አስተማማኝ መንገድ ነው።,ሰዎች በጭራሽ ገንዘብ ወደውስጥ አይወረውሩም ምክንያቱም መጥፎ እድል ነው፡፡,contradiction,Contradiction
+ከኩሬዎቹ መካከል ጎብኚዎች ከኤሊ ጭንቅላት ላይ ለማንጠር በማሰብ ሳንቲሞች የሚወረውሩበት አንዱ ሲሆን ይህም ጥሩ ዕድል ለማግኘት የሚያስችል አስተማማኝ መንገድ ነው።,ሰዎች ሳንቲሞችን ወደውስጥ ይወረውራሉ ምንም እንኳን ምልክቱ እንዳያደርግ ቢናገርም።,neutral,Contradiction
+ከኩሬዎቹ መካከል ጎብኚዎች ከኤሊ ጭንቅላት ላይ ለማንጠር በማሰብ ሳንቲሞች የሚወረውሩበት አንዱ ሲሆን ይህም ጥሩ ዕድል ለማግኘት የሚያስችል አስተማማኝ መንገድ ነው።,ሰዎች ሳንቲሞችን ወደውኃ ውስጥ ይወረውራሉ።,entailment,Neutral.
+"የናፍፕሊዮ የወደብ ከተማ አካባቢውን ለመጎብኘት ትክክለኛውን መሰረት ያደረገ ነው, ወይም በጉብኝትዎ ላይ ምሳ ለመመገብ የሚያስችል ቦታ ሊሆን ይችላል::",ናፍፒሊዮ ጥሩ አመለካከት አለው ።,neutral,Neutral.
+"የናፍፕሊዮ የወደብ ከተማ አካባቢውን ለመጎብኘት ትክክለኛውን መሰረት ያደረገ ነው, ወይም በጉብኝትዎ ላይ ምሳ ለመመገብ የሚያስችል ቦታ ሊሆን ይችላል::",ናፍሊዮ መጥፎ መሠረት ነው።,contradiction,Contradiction
+"የናፍፕሊዮ የወደብ ከተማ አካባቢውን ለመጎብኘት ትክክለኛውን መሰረት ያደረገ ነው, ወይም በጉብኝትዎ ላይ ምሳ ለመመገብ የሚያስችል ቦታ ሊሆን ይችላል::",ናፍሊዮ ፍጹም መሠረት ነው።,entailment,Contradiction
+በፕሪንስንግራክት ኦቶ ፍራንክ እና ቤተሰቡ ከመገኘታቸው በፊት ከሁለት ዓመት በላይ በንግድ ቤታቸው ሰገነት ውስጥ ተደብቀዋል።,ኦቶ ፍራንክ በሁለተኛው ቀን ተያዘ,contradiction,Contradiction
+በፕሪንስንግራክት ኦቶ ፍራንክ እና ቤተሰቡ ከመገኘታቸው በፊት ከሁለት ዓመት በላይ በንግድ ቤታቸው ሰገነት ውስጥ ተደብቀዋል።,ኦቶ ፍራንክ ከ 25 ወራት በላይ ተደብቆ ነበር,entailment,Entailment
+በፕሪንስንግራክት ኦቶ ፍራንክ እና ቤተሰቡ ከመገኘታቸው በፊት ከሁለት ዓመት በላይ በንግድ ቤታቸው ሰገነት ውስጥ ተደብቀዋል።,ኦቶ ፍራንክ ናዚወች እስከሚያገኙት ድረስ ተደብቆ ነበር,neutral,Entailment
+ብዙ የክልል እና የአካባቢ መንግስታት ተጨማሪ የቁጥጥር መስፈርቶች አሏቸው,የአካባቢ አስተዳደርሮች የራሳቸውን ህግ ማውጣት ይችላሉ,neutral,Neutral
+ብዙ የክልል እና የአካባቢ መንግስታት ተጨማሪ የቁጥጥር መስፈርቶች አሏቸው,የአካባቢ አስተዳደርሮች ምንም ቅድመ ሁኔታ የላቸውም,contradiction,Contradiction
+ብዙ የክልል እና የአካባቢ መንግስታት ተጨማሪ የቁጥጥር መስፈርቶች አሏቸው,በአካባቢ አስተዳደሩ ተጨማሪ የቁጥጥር መስፈርት ጉዳዮች አሉ,entailment,Entailment
+የመረጃ ደህንነት ቡድኑ በወር ከ 8  እስከ 12 ክፍለ ጊዜዎችን ያካሂዳል,የደህንነት ቡድኑ በወር በ አማካኝ 9 ክፍለ ጊዜዎችን ያካሂዳል,neutral,Entailment
+የመረጃ ደህንነት ቡድኑ በወር ከ 8  እስከ 12 ክፍለ ጊዜዎችን ያካሂዳል,የደህንነት ቡድኑ ለወር በየቀኑ ክፍለ ጊዜዎችን ያካሂዳል,contradiction,Contradiction
+የመረጃ ደህንነት ቡድኑ በወር ከ 8  እስከ 12 ክፍለ ጊዜዎችን ያካሂዳል,የደህንነት ቡድኑ በ አመት ብዙ ክፍለ ጊዜዎችን ያካሂዳል,entailment,Neutral
+ሆኖም የመጀመሪያ ደረጃ ምህንድስና ቀደም ብሎ ተከናውኗል,ምህንድስና የመጀመሪያ ህፍለ ጊዜ ነበረው,entailment,Contradiction
+ሆኖም የመጀመሪያ ደረጃ ምህንድስና ቀደም ብሎ ተከናውኗል,ምህንድስና የተከናወነው በመጨረሻው ጊዜ ላይ ብቻ ነው,contradiction,Contradiction
+ሆኖም የመጀመሪያ ደረጃ ምህንድስና ቀደም ብሎ ተከናውኗል,ያለ ምንም ቅድመ ሁኔታ በስተመጨረስሻ ምህንድስና ሊወድቅ ይችላል,neutral,Contradiction
+ስለዚህ የመንግስት ውሳኔ ሰጪዎች እና አስተዳዳሪዎች አዳዲስ የአስተሳሰብ መንገዶችን እየተከተሉ፣ የተለያዩ ግቦችን ማሳካት የሚቻልባቸውን መንገዶች በማጤን እና ውሳኔዎችን ለመምራት አዲስ መረጃን እየተጠቀሙ ነው,የመንግስት ተወካዮች አካሄዳቸውን እየቀየሩ ነው,entailment,Entailment
+ስለዚህ የመንግስት ውሳኔ ሰጪዎች እና አስተዳዳሪዎች አዳዲስ የአስተሳሰብ መንገዶችን እየተከተሉ፣ የተለያዩ ግቦችን ማሳካት የሚቻልባቸውን መንገዶች በማጤን እና ውሳኔዎችን ለመምራት አዲስ መረጃን እየተጠቀሙ ነው,የመንግስት ተወካዮች ለየት ባለ መንገድ በማሰብ ስልጣናቸውን ለመጨመር እየሞከሩ ነው,neutral,Entailment
+ስለዚህ የመንግስት ውሳኔ ሰጪዎች እና አስተዳዳሪዎች አዳዲስ የአስተሳሰብ መንገዶችን እየተከተሉ፣ የተለያዩ ግቦችን ማሳካት የሚቻልባቸውን መንገዶች በማጤን እና ውሳኔዎችን ለመምራት አዲስ መረጃን እየተጠቀሙ ነው,የመንግስት ተወካዮች አኗኗራቸውን መለወጥ አይፈልጉም,contradiction,Contradiction
+ከእንግሊዝኛ ቋንቋ ውጭ ለሚያነቡ ድንበኞች የጉዳይ ፋይሎች መተርጎም ሊኖርባቸው ይችላል,የክስ ፋይሎች በእንግሊዝኛ ብቻ አንዲሆኑ ነው የተፈቀዱት,contradiction,Contradiction
+ከእንግሊዝኛ ቋንቋ ውጭ ለሚያነቡ ድንበኞች የጉዳይ ፋይሎች መተርጎም ሊኖርባቸው ይችላል,የክስ ፋይሎቹ በቻይንኛ ወይም በሩሲያኛ ሊቀመጡ ይችላሉ,neutral,"Neutral.
+
+The premise states that case files may need to be translated for readers who do not understand English. The hypothesis specifies that the case files can be translated into Chinese or Russian. While the hypothesis is a possible scenario under the premise, the premise does not specifically mention Chinese or Russian, so it does not directly entail the hypothesis. Therefore, the relationship is neutral."
+ከእንግሊዝኛ ቋንቋ ውጭ ለሚያነቡ ድንበኞች የጉዳይ ፋይሎች መተርጎም ሊኖርባቸው ይችላል,የክስ ፋይሎቹ  በሌሎች ቋንቋዎች ሊቀመጡ ይችላሉ,entailment,Entailment
+በአሁኑ ጊዜ በመካሄድ ላይ ያሉ ወይም የታቀዱ ሌሎች ጥረቶች የሚከተሉትን ያካትታሉ,አብዛኛው ጥረታችን በስራ ላይ ነው,neutral,"Neutral.
+
+The premise states that ""current or planned efforts include the following,"" while the hypothesis claims ""most of our efforts are in progress."" The premise does not provide enough information to determine whether most efforts are currently in progress, only that there are efforts either ongoing or planned. Therefore, the relationship between the premise and hypothesis is neutral."
+በአሁኑ ጊዜ በመካሄድ ላይ ያሉ ወይም የታቀዱ ሌሎች ጥረቶች የሚከተሉትን ያካትታሉ,ለወደፊት ያቀድነው ሌላ ነገር ምንም የለንም,contradiction,Contradiction
+በአሁኑ ጊዜ በመካሄድ ላይ ያሉ ወይም የታቀዱ ሌሎች ጥረቶች የሚከተሉትን ያካትታሉ,የታቀደ ነገር አለን,entailment,Entailment
+እነዚህን ምክኒያቶች በ አጭር ጊዜ ያካትቱ፣ ዋናውን የኮምፒውተር ፋይሎች መሰረዝ እና አስፈላጊ ሰነዶችን ማግኘት አለመቻሉን,የኮምፒውተር ፋይሎቹን ከአይቢኤም ሰርዘዋል ,neutral,Contradiction
+እነዚህን ምክኒያቶች በ አጭር ጊዜ ያካትቱ፣ ዋናውን የኮምፒውተር ፋይሎች መሰረዝ እና አስፈላጊ ሰነዶችን ማግኘት አለመቻሉን,ዋናውን የኮምፒውተር ፋይሎች ሰርዘዋችዋል,entailment,Contradiction
+እነዚህን ምክኒያቶች በ አጭር ጊዜ ያካትቱ፣ ዋናውን የኮምፒውተር ፋይሎች መሰረዝ እና አስፈላጊ ሰነዶችን ማግኘት አለመቻሉን,ሁሉንም ዋና ፋይሎች ይዘዋል,contradiction,Contradiction
+ከዚያም የመጀመሪያውን ጉብኝት ያደረገው ተመሳሳይ ተወካይ ለጥያቄዎች መልስ ለመስጠት እና በጥያቄው ናሙና ውስጥ የተመለከቱትን ማንኛውንም ችግሮች ለመወያየት አዲሱን አገልግሎት አቅራቢ በድጋሚ ይጎበኛል,ተወካዩ ለአንድ ሰአት ጎበኘ,neutral,Neutral
+ከዚያም የመጀመሪያውን ጉብኝት ያደረገው ተመሳሳይ ተወካይ ለጥያቄዎች መልስ ለመስጠት እና በጥያቄው ናሙና ውስጥ የተመለከቱትን ማንኛውንም ችግሮች ለመወያየት አዲሱን አገልግሎት አቅራቢ በድጋሚ ይጎበኛል,በተወካዩ ጉብኝት ነበር,entailment,Entailment
+ከዚያም የመጀመሪያውን ጉብኝት ያደረገው ተመሳሳይ ተወካይ ለጥያቄዎች መልስ ለመስጠት እና በጥያቄው ናሙና ውስጥ የተመለከቱትን ማንኛውንም ችግሮች ለመወያየት አዲሱን አገልግሎት አቅራቢ በድጋሚ ይጎበኛል,ጉብኝት አላገኘንም,contradiction,Contradiction
+ቁጠባ የሀብት ክምችት ላይ ብቻ ሳይሆን ሀብት ደግሞ የመቆጠብ ምርጫ ላይ ተጽእኖ ያሳድራል,አንድ ሰው ይቆጥባል ወይም አይቆጥብም የሚለው ምርጫ በሀብቱ ይወሰናል,entailment,Entailment
+ቁጠባ የሀብት ክምችት ላይ ብቻ ሳይሆን ሀብት ደግሞ የመቆጠብ ምርጫ ላይ ተጽእኖ ያሳድራል,ሀብት እና ቁጠባ በምንም መልኩ አይገናኙም,contradiction,Contradiction
+ቁጠባ የሀብት ክምችት ላይ ብቻ ሳይሆን ሀብት ደግሞ የመቆጠብ ምርጫ ላይ ተጽእኖ ያሳድራል,ባለጸጋዎች ከገቢያቸው ከፍተኛውን ድርሻ የመቆጠብ እድላቸው ሰፊ ነው,neutral,"Neutral.
+
+The premise discusses the influence of saving on wealth accumulation and the choice to save, but it does not provide specific information about the likelihood or extent to which wealthy individuals save a large portion of their income. The hypothesis makes a specific claim about wealthy individuals' opportunities to save a significant portion of their income, which is not directly addressed in the premise. Therefore, the relationship between the premise and the hypothesis is neutral."
+ለምሳሌ፣ አንድ ያጠናነው ድርጅት ኩባንያው አዳዲስ ንግዶችን በፍጥነት እንዲዋሃድ እና እያደገ የሚሄደውን የንግድ ፍላጎት ለማሟላት እንዲስተካከል የሚጠይቁ ሁለት ውህደት አጋጥሞታል,ምንም እንኳን ሁለት ውህደቶች ቢኖሩም፣ ኩባንያው የኩባንያቸውን የስልጣን ተዋረድ እንደገና ማዋቀር አያስፈልግም,contradiction,Contradiction
+ለምሳሌ፣ አንድ ያጠናነው ድርጅት ኩባንያው አዳዲስ ንግዶችን በፍጥነት እንዲዋሃድ እና እያደገ የሚሄደውን የንግድ ፍላጎት ለማሟላት እንዲስተካከል የሚጠይቁ ሁለት ውህደት አጋጥሞታል,ሁለት ኩባንያዎችን እንደ አንድ ድርጅት ማዋሀድ እና እንደገና ማዋቀር የተመሰቃቀለ የስራ አካባቢን አስከትሏል,neutral,Contradiction
+ለምሳሌ፣ አንድ ያጠናነው ድርጅት ኩባንያው አዳዲስ ንግዶችን በፍጥነት እንዲዋሃድ እና እያደገ የሚሄደውን የንግድ ፍላጎት ለማሟላት እንዲስተካከል የሚጠይቁ ሁለት ውህደት አጋጥሞታል,የሁለት ኩባንያ ውህደት  መርምረናል እና የንግድ ፍላጎታቸውን ለማሟላት በፍጥነት ማዋቀር ነበረብን,entailment,Entailment
+ንድፉ፣ ጉዞው በትክክል መፈጸሙን ከማረጋገጡ በፊት ክፍያ ይፈቀዳል የሚል ስጋት ነበረን,ክፍያው ረጂም ጊዜ እንደሚወስድ አውቀናል,contradiction,Contradiction
+ንድፉ፣ ጉዞው በትክክል መፈጸሙን ከማረጋገጡ በፊት ክፍያ ይፈቀዳል የሚል ስጋት ነበረን,ከመረጋገጡ በፊት ክፍያው ሊያልፍ እንደሚችል አስበን ነበር,entailment,Entailment
+ንድፉ፣ ጉዞው በትክክል መፈጸሙን ከማረጋገጡ በፊት ክፍያ ይፈቀዳል የሚል ስጋት ነበረን,ክፍያው በጣም ቀድሞ ተልኮ እንጭበረበራለን ብለን አስበን ነበር,neutral,Contradiction
+ቴክኖሎጂ በነዚህ ድርጅቶች ውስጥ ካሉ የንግድ ሂደቶች ጋር በጣም የተዋሃደ ነው ምክንያቱም ቴክኖሎጂ እንደ መሳሪያ ብቻ ሳይሆን ለንግድ ስራ እንደ ማነቃቂያ ስለሚታይ ነው,የላቀ የፕሮግራም አወጣጥ ሶፍትዌር ንግዶች ትኩረት ካደረጉባቸው ቁልፍ ቴክኖሎጂዎች አንዱ ነው,neutral,"Neutral. 
+
+The premise discusses the integration of technology with business processes and its role as a catalyst for business activities. The hypothesis, on the other hand, mentions that advanced software development is one of the key technologies businesses focus on. While both statements are related to technology in the business context, the premise does not specifically address software development or the focus on it, making the relationship between the two statements neutral."
+ቴክኖሎጂ በነዚህ ድርጅቶች ውስጥ ካሉ የንግድ ሂደቶች ጋር በጣም የተዋሃደ ነው ምክንያቱም ቴክኖሎጂ እንደ መሳሪያ ብቻ ሳይሆን ለንግድ ስራ እንደ ማነቃቂያ ስለሚታይ ነው,ቴክኖሎጂ መሣሪያ እንጂ የንግድ ሥራ አስማሚ አይደለም,contradiction,Contradiction
+ቴክኖሎጂ በነዚህ ድርጅቶች ውስጥ ካሉ የንግድ ሂደቶች ጋር በጣም የተዋሃደ ነው ምክንያቱም ቴክኖሎጂ እንደ መሳሪያ ብቻ ሳይሆን ለንግድ ስራ እንደ ማነቃቂያ ስለሚታይ ነው,እነዚህ ንግዶች በቴክኖሎጂ ላይ ትልቅ ትኩረት ይሰጣሉ,entailment,Entailment
+በፅሁፎቹ ውስጥ ብዙ ጊዜ የሚታዩ ሁለት ፅንሰ ሃሳቦች ለወደፊቱ ምርምርን ለማሳወቅ ጠቃሚ ሊሆኑ ይችላሉ,ፅሁፎቹ ናሙናዎችን እንዴት እንደምንፈትሽ ሊለውጡ ይችላሉ,neutral,"Neutral
+
+The premise states that the two ideas frequently seen in the writings can be useful for guiding future research. The hypothesis suggests that the writings can change how we search for samples. There is no direct connection or contradiction between these two statements; they address different aspects."
+በፅሁፎቹ ውስጥ ብዙ ጊዜ የሚታዩ ሁለት ፅንሰ ሃሳቦች ለወደፊቱ ምርምርን ለማሳወቅ ጠቃሚ ሊሆኑ ይችላሉ,ፅሁፎቹ የወደፊቱ ምርምርን ሊለውጡ ይችላሉ,entailment,Entailment
+በፅሁፎቹ ውስጥ ብዙ ጊዜ የሚታዩ ሁለት ፅንሰ ሃሳቦች ለወደፊቱ ምርምርን ለማሳወቅ ጠቃሚ ሊሆኑ ይችላሉ,ምርምርን ከመቀየር አንፃር ምንም ነገር የለም,contradiction,Contradiction
+ከሳጥኖች የተውጣጡ መስመሮች የሁሉንም የፖስታ መላኪያዎች ያዋሃዱ የደህንነት ደረጃወችን ያሳያሉ እና አልማዝ ያለባቸው መስመሮች ስራውን ወደ ሌላ አካል የማዛወር ስልታዊ ኪሳራዎችን (አሉታዊ ከሆነ) ያሳያሉ,መስመሮቹ የፖስታ መላኪያዎች የደህንነት ደረጃ 10%  እንደሆነ ያሰላሉ,neutral,Neutral.
+ከሳጥኖች የተውጣጡ መስመሮች የሁሉንም የፖስታ መላኪያዎች ያዋሃዱ የደህንነት ደረጃወችን ያሳያሉ እና አልማዝ ያለባቸው መስመሮች ስራውን ወደ ሌላ አካል የማዛወር ስልታዊ ኪሳራዎችን (አሉታዊ ከሆነ) ያሳያሉ,መስመሮቹ ከመንገድ ውጭ ሌላ ነገር አያሳዩም,contradiction,Contradiction
+ከሳጥኖች የተውጣጡ መስመሮች የሁሉንም የፖስታ መላኪያዎች ያዋሃዱ የደህንነት ደረጃወችን ያሳያሉ እና አልማዝ ያለባቸው መስመሮች ስራውን ወደ ሌላ አካል የማዛወር ስልታዊ ኪሳራዎችን (አሉታዊ ከሆነ) ያሳያሉ,መስመሮቹ በሁሉም የፖስታ መላኪያዎች ውስጥ ምን ያህል ደህንነት እንዳለ ያሳያሉ,entailment,Entailment
+በዚህ የአደጋ ግምገማ መሰረት፣ ሴንተርሊንክ ተጠቃሚዎችን እና አሰሪዎችን በገቢ ሪፖርት አቀራረብ መስፈርቶች ላይ ለማስተማር ያለመ ልዩ ልዩ የመከላከያ ስልቶችን አዘጋጅቷል,ሴንተርሊንክ ችግሩን እንዴት መፍታት እንዳለበት አያውቅም ነበር,contradiction,Contradiction
+በዚህ የአደጋ ግምገማ መሰረት፣ ሴንተርሊንክ ተጠቃሚዎችን እና አሰሪዎችን በገቢ ሪፖርት አቀራረብ መስፈርቶች ላይ ለማስተማር ያለመ ልዩ ልዩ የመከላከያ ስልቶችን አዘጋጅቷል,መንግስት በሽተት ብዙ ገንዘብ እያጣ ስለነበረ ሴንተርሊንክ ሰዎች ገቢን እንዴት ሪፖርት ማድረግ እንደሚችሉ ለማስተማር  ብዙ ስልቶች ነበሩት,neutral,"Neutral.
+
+The premise discusses that Centrelink has prepared various defensive strategies to train users and employees on income reporting requirements. The hypothesis suggests that the government had many methods to teach people how to report income because it was losing a lot of money due to fraud. The premise does not provide information about the government's financial losses or the reasons behind the training, so the relationship between the two statements is neutral."
+በዚህ የአደጋ ግምገማ መሰረት፣ ሴንተርሊንክ ተጠቃሚዎችን እና አሰሪዎችን በገቢ ሪፖርት አቀራረብ መስፈርቶች ላይ ለማስተማር ያለመ ልዩ ልዩ የመከላከያ ስልቶችን አዘጋጅቷል,ሴንተርሊንክ ሰዎች እንዴት ገቢን ሪፖርት ማድረግ እንደሚችሉ ለማስተማር ብዙ ስልቶች ነበሩት,entailment,Entailment
+ይህ ድርጅቶቹ ብዙ ወጪ የሚጠይቁ የመዋዕለ ንዋይ ፍሰት በማምረቻ ትጥቆች እና መሳሪያዎች ላይ ከማድረጋቸው በፊት አብነትን ለማሳያ ደረጃ እንዲጠቀሙ አስችሏል,ከዚያም ንድፉ እንዴት እንደሚሰራ ማሳየት ይችላሉ,entailment,"Neutral. 
+
+The premise discusses organizations using prototypes to demonstrate daily flow processes before implementing them in production lines and equipment. The hypothesis states that they can show how the design works. While related, the premise does not explicitly confirm or deny the hypothesis."
+ይህ ድርጅቶቹ ብዙ ወጪ የሚጠይቁ የመዋዕለ ንዋይ ፍሰት በማምረቻ ትጥቆች እና መሳሪያዎች ላይ ከማድረጋቸው በፊት አብነትን ለማሳያ ደረጃ እንዲጠቀሙ አስችሏል,አዳዲስ ፋብሪካዎችን መገንባት ብልህነት እንዳልሆነ ለኩባንያው ሊያሳዩ ይችላሉ,neutral,"Neutral. 
+
+The premise discusses the use of prototypes for daily flow production before committing to significant expenses on tools and equipment. The hypothesis, on the other hand, talks about demonstrating to a company that building new factories is not wise. These two statements are related to decision-making and resource management but do not directly entail or contradict each other."
+ይህ ድርጅቶቹ ብዙ ወጪ የሚጠይቁ የመዋዕለ ንዋይ ፍሰት በማምረቻ ትጥቆች እና መሳሪያዎች ላይ ከማድረጋቸው በፊት አብነትን ለማሳያ ደረጃ እንዲጠቀሙ አስችሏል,የመዋለ ነዋይ ማፍሰስ ተፅእኖ እንዴት ማሳየት እንደሚችሉ ምንም ሀሳብ አልነበራቸውም,contradiction,Contradiction
+የደቡብ ካሮላይና የትብብር ጥረት ለቀጣዩ ዓመት ሌላ ስኬት አስገኝቷል,በደቡብ ካሮላይና ውስጥ ማንም ሰው አብሮ አልሰራም,contradiction,Contradiction
+የደቡብ ካሮላይና የትብብር ጥረት ለቀጣዩ ዓመት ሌላ ስኬት አስገኝቷል,ኤስ ሲ አብረው ሠርተዋል,entailment,Neutral
+የደቡብ ካሮላይና የትብብር ጥረት ለቀጣዩ ዓመት ሌላ ስኬት አስገኝቷል,በደቡብ ካሮላይና ያሉ ዲሞክራቶች እና ሪፐብሊካኖች አብረው እየሰሩ ነው,neutral,"Neutral
+
+The premise states that South Carolina's collaborative efforts have achieved another success for the coming year, but it does not specify who is involved in these efforts. The hypothesis specifically mentions that Democrats and Republicans in South Carolina are working together, which is additional information not provided in the premise. Therefore, the relationship between the premise and the hypothesis is neutral."
+እንደ ቦርዱ ባለስልጣን የቦርዱ ክፍል 605(ለ) የምስክር ወረቀቶች ለአነስተኛ ንግድ አስተዳደር (SBA) የጥብቅና ዋና አማካሪ ለየብቻ አልተሰጡም,ቦርዱ ለኤስቢኤ የምስክር ወረቀት SBA አልሰጠም እና ያንን ለገምጋሚው ቢሮ ተዉት,neutral,Entailment
+እንደ ቦርዱ ባለስልጣን የቦርዱ ክፍል 605(ለ) የምስክር ወረቀቶች ለአነስተኛ ንግድ አስተዳደር (SBA) የጥብቅና ዋና አማካሪ ለየብቻ አልተሰጡም,ቦርዱ ለSBA ምስክር ወረቀቶች አልሰጠም,entailment,Entailment
+እንደ ቦርዱ ባለስልጣን የቦርዱ ክፍል 605(ለ) የምስክር ወረቀቶች ለአነስተኛ ንግድ አስተዳደር (SBA) የጥብቅና ዋና አማካሪ ለየብቻ አልተሰጡም,ቦርዱ የSBA የምስክር ወረቀቶች  አንድ ጊዜ ለሚጠይቅ ሰው ይሰጣል,contradiction,Contradiction
+ሆቴል እና የተወሰኑ ሌሎች ክፍያዎች ሲገጣጠሙ ትክክለኛው ጉዞ ማረጋገጫ ይደረጋል,አብዛኛዎቹ የሀገር ውስጥ ሆቴሎች የክሬዲት ካርድ ክፍያዎችን ይቀበላሉ,neutral,Neutral
+ሆቴል እና የተወሰኑ ሌሎች ክፍያዎች ሲገጣጠሙ ትክክለኛው ጉዞ ማረጋገጫ ይደረጋል,ጉዞው ራሱ የሆቴል ክፍያዎችን በመጠቀም ይረጋገጣል,entailment,Contradiction
+ሆቴል እና የተወሰኑ ሌሎች ክፍያዎች ሲገጣጠሙ ትክክለኛው ጉዞ ማረጋገጫ ይደረጋል,ጉዞ በትክክል መኖሩ ወይም አለመኖሩን ለማረጋገጥ ምንም መንገድ የለም,contradiction,Contradiction
+ለምሳሌ፣ የጎበኘነው አንድ የክልል ዋና ከተማ ከ600 በላይ የሶፍትዌር ኩባንያዎች መኖሪያ ነው,ዋና ከተሞች የሶፍትዌር ኩባንያዎች ምርጥ ቦታዎች ናቸው,neutral,"Neutral.
+
+The premise states that a specific regional capital city is home to over 600 software companies. The hypothesis makes a general statement that capital cities are the best places for software companies. The premise does not provide enough information to support or contradict the general claim made in the hypothesis."
+ለምሳሌ፣ የጎበኘነው አንድ የክልል ዋና ከተማ ከ600 በላይ የሶፍትዌር ኩባንያዎች መኖሪያ ነው,አንድ ዋና ከተማ ብዙ የሶፍትዌር ኩባንያዎች አሉት,entailment,Entailment
+ለምሳሌ፣ የጎበኘነው አንድ የክልል ዋና ከተማ ከ600 በላይ የሶፍትዌር ኩባንያዎች መኖሪያ ነው,የሶፍትዌር ኩባንያዎች በሕጋዊ ምክንያቶች ዋና ከተማወች ላይ ላለመገኘት ይሞክራሉ,contradiction,Neutral.
+ውጤታማነትን በመለካት፣ ፍጹምነት ሊደረስበት አይችልም,በቂ ጥረት ካደረግክ ፍፁም መሆን ትችላለህ,contradiction,Contradiction
+ውጤታማነትን በመለካት፣ ፍጹምነት ሊደረስበት አይችልም, ፍፁም መሆን ጭራሽ አትችልም,entailment,Entailment
+ውጤታማነትን በመለካት፣ ፍጹምነት ሊደረስበት አይችልም,ፍፁም መሆን አትችልም ምክንያቱም ሁላችንም ጥልቅ ጉድለት ያለብን ሰዎች ነን,neutral,Contradiction
+ለሀምዚ እና ሚህዳርን በ2000 ቤቱን ያከራየው አብሯቸው የሚኖረው ግለሰብ ህግ አክባሪና ከፖሊስ እና   FBI ጋር ራቅ ያለ ቀረቤታ ያለው ነው,ሃዝሚ እና ሚህዳር ቤት ገዝተው ነበር እና ከማንም ጋር ምንም ግንኙነት አልነበራቸውም ነበር,contradiction,Contradiction
+ለሀምዚ እና ሚህዳርን በ2000 ቤቱን ያከራየው አብሯቸው የሚኖረው ግለሰብ ህግ አክባሪና ከፖሊስ እና   FBI ጋር ራቅ ያለ ቀረቤታ ያለው ነው,ሃዝሚ እና ሚህዳር ለሙሉ አመቱ ቤት ተከራዩ በቀን $500 ,neutral,Neutral.
+ለሀምዚ እና ሚህዳርን በ2000 ቤቱን ያከራየው አብሯቸው የሚኖረው ግለሰብ ህግ አክባሪና ከፖሊስ እና   FBI ጋር ራቅ ያለ ቀረቤታ ያለው ነው,ሃዝሚ እና ሚህዳር ቤት ተከራዩ ,entailment,Entailment
+ለቦስኒያ ጉዞአቸው የሳውዲ አልቃይዳ አባል የሆነውን የኢንተለጀንስ ዘገባ፣ ኦክቶበር 3፣ 2001 ይመልከቱ,በ 2001 የአልቃይዳው አባል ወደ ቦስኒያ 18 ጊዜ ተጉዞ ነበር,neutral,Contradiction
+ለቦስኒያ ጉዞአቸው የሳውዲ አልቃይዳ አባል የሆነውን የኢንተለጀንስ ዘገባ፣ ኦክቶበር 3፣ 2001 ይመልከቱ, የአልቃይዳው አባል ወደ ቦስኒያ ተጉዞ ነበር,entailment,Entailment
+ለቦስኒያ ጉዞአቸው የሳውዲ አልቃይዳ አባል የሆነውን የኢንተለጀንስ ዘገባ፣ ኦክቶበር 3፣ 2001 ይመልከቱ, የአልቃይዳው አባል ወደ ቦስኒያ ስለመሄዱ ምንም አይነት ማረጋገጫ የለም,contradiction,Contradiction
+ጄን ለሚህዳር ፍለጋ የተመደበውን የኒውዮርክ ወኪል ተወካዩ የFISA  መረጃን እንዴት መያዝ እንዳለበት የተረዳውን የ እውቅና ቅጽ እንዲፈርም ጠየቀ,ጄን የ FISA እውቅና ቅጽ በፌደራል ዳኛ እንዲፈርም ጠይቆ ነበር,neutral,Entailment
+ጄን ለሚህዳር ፍለጋ የተመደበውን የኒውዮርክ ወኪል ተወካዩ የFISA  መረጃን እንዴት መያዝ እንዳለበት የተረዳውን የ እውቅና ቅጽ እንዲፈርም ጠየቀ,ጄን የ FISA እውቅና ቅጽ  እንዲፈርም ጠይቆ ነበር,entailment,Entailment
+ጄን ለሚህዳር ፍለጋ የተመደበውን የኒውዮርክ ወኪል ተወካዩ የFISA  መረጃን እንዴት መያዝ እንዳለበት የተረዳውን የ እውቅና ቅጽ እንዲፈርም ጠየቀ,ጄን ምንም አይነት የFISA እውቅና አያስፈልግም ነበር ብሏል,contradiction,Contradiction
+ከትክክለኛው የፍተሻ ማጣሪያ ጋር ተያያዥነት ያለውን ብቸኛው የደህንነት ደረጃ በተመለከተ ስለ ማንኛቸውም ምንም የተለየ ነገር የለም,በፍተሻ ማጣራት ወቅት አስደንጋጭ ማስረጃዎች ተገኝተዋል,contradiction,Contradiction
+ከትክክለኛው የፍተሻ ማጣሪያ ጋር ተያያዥነት ያለውን ብቸኛው የደህንነት ደረጃ በተመለከተ ስለ ማንኛቸውም ምንም የተለየ ነገር የለም,የፍተሻ ማጣሪያዎች ሙሉ በሙሉ የተመረኮዘው የጉምሩክ ወኪሉ የማጣሪያ ሥራውን በሚያከናውንበት ውስጣዊ ግንዛቤ ላይ ነው,neutral,Neutral.
+ከትክክለኛው የፍተሻ ማጣሪያ ጋር ተያያዥነት ያለውን ብቸኛው የደህንነት ደረጃ በተመለከተ ስለ ማንኛቸውም ምንም የተለየ ነገር የለም,የፍተሻ ማጣራቱ በእነሱ ላይ ምንም አይነት ማስረጃ ማግኘት አልቻለም,entailment,Entailment
+ካላድ ሁለተኛ እትም አቅርቧል፣ ማለትም ሦስቱም አብረው ወደ ካራቺ ተጉዘዋል,ካላድ ስለ ሶስቱ ምንም የሚያውቀው ነገር እንደሌለ ተናግሯል,contradiction,Contradiction
+ካላድ ሁለተኛ እትም አቅርቧል፣ ማለትም ሦስቱም አብረው ወደ ካራቺ ተጉዘዋል,ካላድ ሶስቱ አብረው መጓዝ ይችሉ እንደነበር ተናግሯል,entailment,Entailment
+ካላድ ሁለተኛ እትም አቅርቧል፣ ማለትም ሦስቱም አብረው ወደ ካራቺ ተጉዘዋል,ካላድ በጥቅምት ወር ሦስቱ ወደ ካራቺ አብረው የሄዱት 50% ዕድል እንደነበራቸው ተናግሯል,neutral,Neutral
+የኢንተለጀንስ ዘገባ፣ የቢነልሺብ ምርመራ፣ ጥቅምት 1፣ 2002,ቢናልሺብህ በFBI ግብረ ሃይል ተጠየቆ ነበር,neutral,Neutral.
+የኢንተለጀንስ ዘገባ፣ የቢነልሺብ ምርመራ፣ ጥቅምት 1፣ 2002,ቢናልሺብህ በ2002 ተጠየቆ ነበር,entailment,Entailment
+የኢንተለጀንስ ዘገባ፣ የቢነልሺብ ምርመራ፣ ጥቅምት 1፣ 2002,ቢነልሺብ በጭራሽ አልተነገረውም ነበር እና ጠፋ,contradiction,Contradiction
+ሚህዳር በኒውዮርክ የCIA-FBI ስብሰባ ከተጠናቀቀ ከሁለት ቀናት በኋላ አዲስ የU.S.  ቪዛ ተቀበለ,ሚህዳር ወደ አገሩ ለመግባት የአሜሪካ ቪዛ ነበረው,entailment,Entailment
+ሚህዳር በኒውዮርክ የCIA-FBI ስብሰባ ከተጠናቀቀ ከሁለት ቀናት በኋላ አዲስ የU.S.  ቪዛ ተቀበለ,ሚህዳር ቪዛ ስለማያገኝ ወደ አሜሪካ መጥቶ አያውቅም,contradiction,Contradiction
+ሚህዳር በኒውዮርክ የCIA-FBI ስብሰባ ከተጠናቀቀ ከሁለት ቀናት በኋላ አዲስ የU.S.  ቪዛ ተቀበለ,ሚህዳር ስጋት ስላልነበረው ቪዛ ተሰጥቶታል,neutral,Contradiction
+"የሁለት አመት ምርመራ ቢደረግም, FBI የስራ ባልደረባውን ማግኘት ወይም እውነተኛ ማንነቱን ማወቅ አልቻለም",በ 2001 ከፍሎሪዳ ከወጣ በኋላ ኤፍቢአይ (FBI)  ግለሰቡን ማግኘት አልቻለም,neutral,Entailment
+"የሁለት አመት ምርመራ ቢደረግም, FBI የስራ ባልደረባውን ማግኘት ወይም እውነተኛ ማንነቱን ማወቅ አልቻለም",ኤፍቢአይ (FBI)  ሰውዬው ማን እንደነበር ማወቅ አልቻለም,entailment,Entailment
+"የሁለት አመት ምርመራ ቢደረግም, FBI የስራ ባልደረባውን ማግኘት ወይም እውነተኛ ማንነቱን ማወቅ አልቻለም",ኤፍቢአይ (FBI)  ማን እንደነበር ደረሰበት እና እስር ቤት ወረወረው,contradiction,Contradiction
+እንደ አሜሪካን 11 ፣ በአውሮፕላኑ የመጨረሻው መደበኛ ግንኙነት በ8:13 A.M. ነበር,ከአሜሪካ 11 የወጣ ንግግር ነበር,entailment,Contradiction
+እንደ አሜሪካን 11 ፣ በአውሮፕላኑ የመጨረሻው መደበኛ ግንኙነት በ8:13 A.M. ነበር,በየ 5 ደቂቃው ከአሜሪካው 11 ጋር ንግግር ነበር,neutral,Contradiction
+እንደ አሜሪካን 11 ፣ በአውሮፕላኑ የመጨረሻው መደበኛ ግንኙነት በ8:13 A.M. ነበር,በአሜሪካ 11 ምንም አይነት ስርጭት አልነበረም ,contradiction,Contradiction
+እሱን ለማግኘት ከጀርመን መንግስት ፈጣን እና በጣም ጠቃሚ ትቭርን የሚጠይቅ ነበር፣ይህም ለማግኘት አስቸጋሪ ሊሆን ይችል ነበር,ምርመራው ከተጠናቀቀ የሶስት ሰዎች መሸሸጊያ ቦታ ሊታወቅ ይችላል,neutral,Neutral.
+እሱን ለማግኘት ከጀርመን መንግስት ፈጣን እና በጣም ጠቃሚ ትቭርን የሚጠይቅ ነበር፣ይህም ለማግኘት አስቸጋሪ ሊሆን ይችል ነበር,የጀርመን መንግሥት ፈጣን እና ጥልቅ ምርመራ ለማድረግ ተቸግሮ ሊሆን ይችላል,entailment,Entailment
+እሱን ለማግኘት ከጀርመን መንግስት ፈጣን እና በጣም ጠቃሚ ትቭርን የሚጠይቅ ነበር፣ይህም ለማግኘት አስቸጋሪ ሊሆን ይችል ነበር,ምርመራው መንግሥት ለማካሄድ በጣም ተራ እና ቀላል  ይሆናል,contradiction,Contradiction
+እነዚህ ችሎታዎች በቂ አልነበሩም፣ ነገር ግን እነሱን ለማስፋት ወይም ለማሻሻል ብዙም አልተሰራም,የክትትል ፕሮግራማቸውን ብዙም አልቀየሩም,neutral,Entailment
+እነዚህ ችሎታዎች በቂ አልነበሩም፣ ነገር ግን እነሱን ለማስፋት ወይም ለማሻሻል ብዙም አልተሰራም,ነገሮችን ለመለወጥ ብዙም አልሰሩም,entailment,Entailment
+እነዚህ ችሎታዎች በቂ አልነበሩም፣ ነገር ግን እነሱን ለማስፋት ወይም ለማሻሻል ብዙም አልተሰራም,ሁሉንም ነገር ለማስተካከል ብዙ ጥረት አድርገዋል,contradiction,Contradiction
+የተንታኙ ኤሌክትሮኒክ ደብዳቤ ግን በመረጃ መጋራት እና የወንጀል ወኪሎች በስለላ ክፍሎች የሚሰበሰቡትን መረጃ አጠቃቀም የሚቆጣጠሩ ህጎችን በተመለከተ ሰፊ ማስጠንቀቂያዎችን እና የህግ እንቅፋቶችን እያደናገረች እንደነበረ ያሳያል,ተንታኙ ክሪስታል-ግልጽ የሆነ ትንታኔ አቅርበዋል,contradiction,Contradiction
+የተንታኙ ኤሌክትሮኒክ ደብዳቤ ግን በመረጃ መጋራት እና የወንጀል ወኪሎች በስለላ ክፍሎች የሚሰበሰቡትን መረጃ አጠቃቀም የሚቆጣጠሩ ህጎችን በተመለከተ ሰፊ ማስጠንቀቂያዎችን እና የህግ እንቅፋቶችን እያደናገረች እንደነበረ ያሳያል,ተንታኙ በብዙ ነገሮች ላይ ግልጽ አልነበረም,entailment,Contradiction
+የተንታኙ ኤሌክትሮኒክ ደብዳቤ ግን በመረጃ መጋራት እና የወንጀል ወኪሎች በስለላ ክፍሎች የሚሰበሰቡትን መረጃ አጠቃቀም የሚቆጣጠሩ ህጎችን በተመለከተ ሰፊ ማስጠንቀቂያዎችን እና የህግ እንቅፋቶችን እያደናገረች እንደነበረ ያሳያል,የተንታኙ ዘገባ በጣም የተመሰቃቀለ ስለነበር ማንም ሊያነበው አልቻለም,neutral,Contradiction
+አንዳንድ መኮንኖች ሰዎችን በደረጃው በኩል ለማስወጣት  ሌሎቹ ደግሞ በ አደባባዪ ፣ በህዝብ መሰብሰቢያ እና በመንገዱ ሚወጡትን ለማፋጠን ተመድበው ነበር,መኮንኖች የየራሳቸውን ስራ አግኝተዋል,entailment,Contradiction
+አንዳንድ መኮንኖች ሰዎችን በደረጃው በኩል ለማስወጣት  ሌሎቹ ደግሞ በ አደባባዪ ፣ በህዝብ መሰብሰቢያ እና በመንገዱ ሚወጡትን ለማፋጠን ተመድበው ነበር,መኮንኖች በተፈለጉበት ቦታ ይሄዳሉ,contradiction,"Neutral.
+
+The premise describes the actions of some officials (መኮንኖች) in managing people either by arranging them in order or by expediting their movement in public spaces. The hypothesis states that officials go to the places where they are needed. There is no direct information in the premise that confirms or denies the hypothesis, making the relationship between them neutral."
+አንዳንድ መኮንኖች ሰዎችን በደረጃው በኩል ለማስወጣት  ሌሎቹ ደግሞ በ አደባባዪ ፣ በህዝብ መሰብሰቢያ እና በመንገዱ ሚወጡትን ለማፋጠን ተመድበው ነበር,መኮንኖቹ የተመደቡት  የስራ ልምዳቸው ላይ በመመስረት ነው,neutral,Contradiction
+በሴፕቴምበር 9፣ ከአፍጋኒስታን አስገራሚ ዜና ደረሰ,ከአፍጋኒስታን ዜና አግኝተናል,entailment,Entailment
+በሴፕቴምበር 9፣ ከአፍጋኒስታን አስገራሚ ዜና ደረሰ,ከአፍጋኒስታን እስከ ጥቅምት ድረስ ምንም ነገር አልሰማንም,contradiction,Contradiction
+በሴፕቴምበር 9፣ ከአፍጋኒስታን አስገራሚ ዜና ደረሰ,በሴፕቴምበር 9 ሊደርስ ስላለው ጥቃት ተነግሮናል,neutral,Neutral
+የመግባባት አለመቻል በአለም ንግድ ማእከል፣ፔንታጎን እና ሱመርሴት አውራጃ ፔንስልቬንያ፣የብልሽት ቦታዎች፣በርካታ ወኪል ድርጅቶች እና በበርካታ ገዥወች ምላሽ የሰጡበት ወሳኝ ክፍል ነበር,ግንኙነቱ በ9/11 ጥሩ ሰርቷል,contradiction,Contradiction
+የመግባባት አለመቻል በአለም ንግድ ማእከል፣ፔንታጎን እና ሱመርሴት አውራጃ ፔንስልቬንያ፣የብልሽት ቦታዎች፣በርካታ ወኪል ድርጅቶች እና በበርካታ ገዥወች ምላሽ የሰጡበት ወሳኝ ክፍል ነበር,በዓለም ንግድ ማእከል ሰዎች ለመግባባት ተቸግረው ነበር ምክንያቱም መብራት ስለጠፋ እና የስልክ መስመሮች ስለቆሙ ነው,neutral,Contradiction
+የመግባባት አለመቻል በአለም ንግድ ማእከል፣ፔንታጎን እና ሱመርሴት አውራጃ ፔንስልቬንያ፣የብልሽት ቦታዎች፣በርካታ ወኪል ድርጅቶች እና በበርካታ ገዥወች ምላሽ የሰጡበት ወሳኝ ክፍል ነበር,በአለም ንግድ ማእከል ሰዎች ለመግባባት ተቸግረው ነበር,entailment,Entailment
+በቀላሉ ከሚገኙ የመረጃ ቋቶች ዉስጥ የመንጃ ፍቃዱን፣ የመኪና ምዝገባውን እና የስልክ ዝርዝሩን ማግኘት ይቻል ነበር,መርማሪዎች ሙያዊ የመረጃ ቋቶችን ለማግኘትም ጠይቀዋል,neutral,Contradiction
+በቀላሉ ከሚገኙ የመረጃ ቋቶች ዉስጥ የመንጃ ፍቃዱን፣ የመኪና ምዝገባውን እና የስልክ ዝርዝሩን ማግኘት ይቻል ነበር,ከነባር የመረጃ ቋቶች ብዙ አይነት መረጃዎች ተገኝተዋል,entailment,Entailment
+በቀላሉ ከሚገኙ የመረጃ ቋቶች ዉስጥ የመንጃ ፍቃዱን፣ የመኪና ምዝገባውን እና የስልክ ዝርዝሩን ማግኘት ይቻል ነበር,ነባር ምንጮችን በመጠቀም ስለ ርዕሰ ጉዳዩ ምንም አይነት መረጃ ለማግኘት ምንም መንገድ አልነበረም,contradiction,Contradiction
+በጠቅላላው ግብይቱ ላይ ጥርጣሬ እንዳላቸው በመግለጽ አስተዳዳሪው ራሳቸውን ከሃዝሚ እና ሚህዳር አገለሉ፣ ነገር ግን የሚፈልጉትን እርዳታ ከማግኘታቸው በፊት አልነበረም,አስተዳዳሪው ወዲያውኑ ባለሥልጣኖችን አነጋገረ እና በዚህ ጉዳይ ላይ ለመርዳት ፈቃደኛ አልሆነም,contradiction,Contradiction
+በጠቅላላው ግብይቱ ላይ ጥርጣሬ እንዳላቸው በመግለጽ አስተዳዳሪው ራሳቸውን ከሃዝሚ እና ሚህዳር አገለሉ፣ ነገር ግን የሚፈልጉትን እርዳታ ከማግኘታቸው በፊት አልነበረም,አስተዳዳሪው ቅር ቢላቸውም እርዳታ ሰጡ,entailment,Contradiction
+በጠቅላላው ግብይቱ ላይ ጥርጣሬ እንዳላቸው በመግለጽ አስተዳዳሪው ራሳቸውን ከሃዝሚ እና ሚህዳር አገለሉ፣ ነገር ግን የሚፈልጉትን እርዳታ ከማግኘታቸው በፊት አልነበረም,እርዳታው ጥሬ ገንዘብ እና የጉዞ ሰነዶች ማግኘትን ያካተተ ነበር,neutral,Contradiction
+በ 2003 እነዚህ ስያሜዎች ተወግደዋል; ሁሉም ዓለም አቀፍ የሽብርተኝነት ጉዳዮች አሁን ተመሳሳይ ስያሜ አግኝተዋል፣ 315,ሁሉም የሽብርተኝነት ጉዳዮች ከፍተኛ አስፈላጊነት ተሰጥቷቸዋል,neutral,Contradiction
+በ 2003 እነዚህ ስያሜዎች ተወግደዋል; ሁሉም ዓለም አቀፍ የሽብርተኝነት ጉዳዮች አሁን ተመሳሳይ ስያሜ አግኝተዋል፣ 315,ሁሉም የሽብርተኝነት ጉዳዮች ተመሳሳይ መለያ ያገኛሉ,entailment,Entailment
+በ 2003 እነዚህ ስያሜዎች ተወግደዋል; ሁሉም ዓለም አቀፍ የሽብርተኝነት ጉዳዮች አሁን ተመሳሳይ ስያሜ አግኝተዋል፣ 315,እያንዳንዱ የሽብርተኝነት ጉዳይ ራሱን ችሎ ይገመገማል እና ደረጃ ይሰጠዋል,contradiction,Contradiction
+የደቡብ ግንብ መደርመስን የተመለከቱት እኚህ መኮንን የመልቀቂያ መመሪያውን በሰሜን ታወር ላሉ ESU ክፍሎች አሳውቀዋል,ደቡብ ግንብ ከተደረመሰ በኋላ ማንም ሰው በሰሜን ግንብ አልቀረም,contradiction,Contradiction
+የደቡብ ግንብ መደርመስን የተመለከቱት እኚህ መኮንን የመልቀቂያ መመሪያውን በሰሜን ታወር ላሉ ESU ክፍሎች አሳውቀዋል,ባለሥልጣኑ በሰሜን ታወር ውስጥ ካሉ የESU ክፍሎች ጋር ከመነጋገሩ 30 ደቂቃ በፊት የደቡብ ግንብ ፈርሷል,neutral,Contradiction
+የደቡብ ግንብ መደርመስን የተመለከቱት እኚህ መኮንን የመልቀቂያ መመሪያውን በሰሜን ታወር ላሉ ESU ክፍሎች አሳውቀዋል,ባለሥልጣኑ የደቡብ ግንብ መደርመስን አይቷል,entailment,Entailment
+ኢንዲያናፖሊስ በእውነቱ ብዙ ተዋናዮች ከሚሰሩባቸው ጥሩ ቦታዎች አንዱ ነው,ተዋናዮች ኢንዲያናፖሊስን ይወዱታል ምክንያቱም እዚያ ባሉ ሁሉም መልማይ ወኪሎች ምክንያት,neutral,Neutral
+ኢንዲያናፖሊስ በእውነቱ ብዙ ተዋናዮች ከሚሰሩባቸው ጥሩ ቦታዎች አንዱ ነው,ተዋናይ ከሆንክ ወደ ኢንዲያናፖሊስ ለመዛወር ማሰብ አለብህ,entailment,Neutral
+ኢንዲያናፖሊስ በእውነቱ ብዙ ተዋናዮች ከሚሰሩባቸው ጥሩ ቦታዎች አንዱ ነው,በአብዛኛው የቴክኖሎጂ ከተማ ስለሆነች በፊልም እና በቲያትር ንግድ ውስጥ ከሆንክ ኢንዲያናፖሊስ ውስጥ ሥራ ማግኘት ከባድ ነው,contradiction,Contradiction
+በቀን 24 ሰዓት፣ በሳምንት 7 ቀናት በቅድመ መከላከል መረጃ ምንጭ ማእከል በኩል እና amp በስልክ እርዳታ እናቀርባለን። የወላጅ እርዳታ መስመር,ሰዎች እኛን ማግኘት የሚችሉት በፖስታ ወይም በኢሜል ብቻ ነው,contradiction,Contradiction
+በቀን 24 ሰዓት፣ በሳምንት 7 ቀናት በቅድመ መከላከል መረጃ ምንጭ ማእከል በኩል እና amp በስልክ እርዳታ እናቀርባለን። የወላጅ እርዳታ መስመር,በቀኑ በማንኛውም ሰዓት በስልክ መገኘት እንችላለን,entailment,Entailment
+በቀን 24 ሰዓት፣ በሳምንት 7 ቀናት በቅድመ መከላከል መረጃ ምንጭ ማእከል በኩል እና amp በስልክ እርዳታ እናቀርባለን። የወላጅ እርዳታ መስመር,በየሰኞ እና አርብ ከመቶ በላይ ጥሪዎች ይደርሱናል,neutral,"Neutral. The premise states that assistance is provided 24/7, but it does not provide any information about the number of calls received on specific days like Monday and Friday. Therefore, the hypothesis about receiving over a hundred calls on those days is not directly supported or contradicted by the premise."
+እነዚህ ሳጥኖች ሁሉም ሌሎቹ ስጦታዎች ከተከፈቱ በኋላ በማሸጊያዎቻቸው ውስጥ ይቀራሉ,እነዚህ ሳጥኖች አደገኛ ቦምቦችን ይይዛሉ,neutral,Contradiction
+እነዚህ ሳጥኖች ሁሉም ሌሎቹ ስጦታዎች ከተከፈቱ በኋላ በማሸጊያዎቻቸው ውስጥ ይቀራሉ,እነዚህ ሳጥኖች ከሌሎቹ ስጦታዎች በፊት ይከፈታሉ,contradiction,Contradiction
+እነዚህ ሳጥኖች ሁሉም ሌሎቹ ስጦታዎች ከተከፈቱ በኋላ በማሸጊያዎቻቸው ውስጥ ይቀራሉ,እነዚህ ሳጥኖች ለተወሰነ ጊዜ ሳይከፈቱ ይቆያሉ,entailment,Contradiction
+ዋጋችንን ዝቅ ካደረግን፣ ይህንን ተልዕኮ ለማሳካት እንዲረዳን ወደ እርስዎ መተን፣ የኛ ታዳሚ አባላት፣ ትንሽ አስተዋፅዖ እንዲሰጡን መጠየቅ አለብን,የቲኬታችንን ዋጋ ከ $10 በታች ለማድረግ፣ ሁሉም ታዳሚ አባሎቻችን $25  እንዲያዋጡ እንፈልጋለን,neutral,Contradiction
+ዋጋችንን ዝቅ ካደረግን፣ ይህንን ተልዕኮ ለማሳካት እንዲረዳን ወደ እርስዎ መተን፣ የኛ ታዳሚ አባላት፣ ትንሽ አስተዋፅዖ እንዲሰጡን መጠየቅ አለብን,ያለእርስዎ ገንዘብ እኛ የእውነት ከፈለግን ዋጋችንን ዝቅ ማድረግ እንችላለን ነገርግን አለቃችን ምቾቱን ይወዳል,contradiction,Contradiction
+ዋጋችንን ዝቅ ካደረግን፣ ይህንን ተልዕኮ ለማሳካት እንዲረዳን ወደ እርስዎ መተን፣ የኛ ታዳሚ አባላት፣ ትንሽ አስተዋፅዖ እንዲሰጡን መጠየቅ አለብን,የእርስዎ አስተዋጾዎች ዋጋን ዝቅ ለማድረግ ረድተውናል,entailment,Contradiction
+00 ወደ 400 ለሚጠጉ የኢንዲያናፖሊስ አካባቢ ልጆች መመሪያ፣ ማበረታቻ እና ፈቃድ እንድንሰጥ ረድቶናል,ለቸር ለገሳወቻችን ምስጋና ይግባቸውና ለኢንዲያናፖሊስ ወላጅ አልባ ህፃናት ኮንሰርት እንድትሰራ ቤዮንሴን መጋበዝ ቻልን,neutral,Contradiction
+00 ወደ 400 ለሚጠጉ የኢንዲያናፖሊስ አካባቢ ልጆች መመሪያ፣ ማበረታቻ እና ፈቃድ እንድንሰጥ ረድቶናል,ለልጆቹ የገና ድግስ እንደምናደርግ ተስፋ አድርገን ነበር ነገርግን ምንም ልናደርግላቸው አልቻልንም,contradiction,Contradiction
+00 ወደ 400 ለሚጠጉ የኢንዲያናፖሊስ አካባቢ ልጆች መመሪያ፣ ማበረታቻ እና ፈቃድ እንድንሰጥ ረድቶናል,ብዙ የኢንዲያናፖሊስ ልጆችን መርዳት ችለናል,entailment,Entailment
+"መጀመሪያ ላይ ግለሰቦች ዓመታዊ ያልተገደበ $1,000 ወይም ከዚያ በላይ ለመንግሥት ጸሐፊ ክበብ፣ ወይም $500 ወይም ከዚያ በላይ ለመንግሥት ጸሐፊ ተባባሪዎች ስጦታ በማድረግ መሳተፍ ይችላሉ",ግለሰቦች የ $50 ትንሽ እርዳታ ካደረጉ በኋላ መሳተፍ ይችላሉ,contradiction,Contradiction
+"መጀመሪያ ላይ ግለሰቦች ዓመታዊ ያልተገደበ $1,000 ወይም ከዚያ በላይ ለመንግሥት ጸሐፊ ክበብ፣ ወይም $500 ወይም ከዚያ በላይ ለመንግሥት ጸሐፊ ተባባሪዎች ስጦታ በማድረግ መሳተፍ ይችላሉ",በቂ መጠን ያለው ልገሳ ካደረጉ ግለሰቦች መሳተፍ ይችላሉ,entailment,Entailment
+"መጀመሪያ ላይ ግለሰቦች ዓመታዊ ያልተገደበ $1,000 ወይም ከዚያ በላይ ለመንግሥት ጸሐፊ ክበብ፣ ወይም $500 ወይም ከዚያ በላይ ለመንግሥት ጸሐፊ ተባባሪዎች ስጦታ በማድረግ መሳተፍ ይችላሉ",አብዛኛዎቹ ግለሰቦች ለመንግሥት ጸሐፊ ተባባሪዎች መለገስ ይመርጣሉ,neutral,Neutral.
+በዚህ ጊዜ ያቀረቡት ስጦታ ተጨማሪ የዓመት መጨረሻ የታክስ ጥቅሞችን ሊሰጥዎ ይችላል,"ቢያንስ የ$1,000 ስጦታ ከሰጡ፣ የታክስ ጥቅማ ጥቅሞችን በእርግጠኝነት ሊቀበሉ ይችላሉ",neutral,Neutral
+በዚህ ጊዜ ያቀረቡት ስጦታ ተጨማሪ የዓመት መጨረሻ የታክስ ጥቅሞችን ሊሰጥዎ ይችላል,እንደ አለመታደል ሆኖ የግብር አማካሪዎቻችን ምንም አይነት ስጦታ እንዳትሰሩ ይመክርወታል,contradiction,Contradiction
+በዚህ ጊዜ ያቀረቡት ስጦታ ተጨማሪ የዓመት መጨረሻ የታክስ ጥቅሞችን ሊሰጥዎ ይችላል,በመዋጮዎ ላይ የግብር ቅነሳዎችን መውሰድ ይችሉ ይሆናል,entailment,Entailment
+"እንደሚታወቀው የዚህ ቡድን አባልነት በየአመቱ $1,000 ወይም ከዚያ በላይ ለህግ ትምህርት ቤቱ የሚያዋጡ ጓደኞቻቸውን እና የቀድሞ ተማሪዎችን ያካትታል",አንዳንድ የዚህ ቡድን አባላት ከ$100k  በላይ ለትምህርት ቤቱ ለግሰዋል,neutral,"Neutral.
+
+The premise states that membership in this group involves contributing $1,000 or more annually to the law school. The hypothesis states that some members have donated over $100,000 to the school. The premise does not provide information about the upper limit of contributions, so it is possible that some members could have donated more than $100,000. Therefore, the hypothesis is neither directly supported nor contradicted by the premise."
+"እንደሚታወቀው የዚህ ቡድን አባልነት በየአመቱ $1,000 ወይም ከዚያ በላይ ለህግ ትምህርት ቤቱ የሚያዋጡ ጓደኞቻቸውን እና የቀድሞ ተማሪዎችን ያካትታል","በዚህ ቡድን ውስጥ ከ$1,000 በላይ ለህግ ትምህርት ቤቱ ያዋጡ ሰዎች አሉን",entailment,Entailment
+"እንደሚታወቀው የዚህ ቡድን አባልነት በየአመቱ $1,000 ወይም ከዚያ በላይ ለህግ ትምህርት ቤቱ የሚያዋጡ ጓደኞቻቸውን እና የቀድሞ ተማሪዎችን ያካትታል",ይህ ቡድን ለትምህርት ቤቱ የገንዘብ መዋጮ እንዲያደርግ ለመጠየቅ አቅደናል ነገርግን ከዚህ በፊት እንደዚህ አላደረገም,contradiction,Contradiction
+በ 50ዎቹ ፣ በጣም ከሚያስደስቱኝ ትዝታዎቼ አንዱ የሲቪክ ቲያትር ፕሮዳክሽን ላይ መገኘት ነበር,በልጅነቴ የቲያትር ትዕይንቶችን መሄድ እጠላ ነበር፣ ስለዚህም ነው ሳይንቲስት የሆንኩት,contradiction,Contradiction
+በ 50ዎቹ ፣ በጣም ከሚያስደስቱኝ ትዝታዎቼ አንዱ የሲቪክ ቲያትር ፕሮዳክሽን ላይ መገኘት ነበር,በልጅነቴ ወደ ቲያትር ቤት መሄድ እወድ ነበር,entailment,Neutral
+በ 50ዎቹ ፣ በጣም ከሚያስደስቱኝ ትዝታዎቼ አንዱ የሲቪክ ቲያትር ፕሮዳክሽን ላይ መገኘት ነበር,በጣም የምወደው የሲቪክ ቲያትር ፕሮዳክሽን ውበት እና አውሬው ነበር,neutral,"Neutral. The premise states that one of the speaker's fondest memories from the 1950s was attending a Civic Theatre production, but it does not specify which production it was. The hypothesis claims that the speaker's favorite Civic Theatre production was ""Beauty and the Beast,"" which is not confirmed or denied by the premise."
+ይህ ደብዳቤ የሚደርሰው እያንዳንዱ ሰው $18 ከሰጠ ብቻ ነው,ይህ ደብዳቤ የደረሳችሁ ሁሉ  ማጭበርበር ስለሆነ ነገንዘባችሁን አትስጡ,contradiction,Contradiction
+ይህ ደብዳቤ የሚደርሰው እያንዳንዱ ሰው $18 ከሰጠ ብቻ ነው,$18 ከለገሱ ስጦታ እንሰጥዎታለን,neutral,Contradiction
+ይህ ደብዳቤ የሚደርሰው እያንዳንዱ ሰው $18 ከሰጠ ብቻ ነው,ሁሉም ደብዳቤ ተቀባዮች $18  መለገስ እንደሚችሉ ተስፋ እናደርጋለን,entailment,Entailment
+"በቀላሉ የታችኛውን ክፍል ይንቀሉት, የሚመለከተውን አማራጭ ያረጋግጡ, አስፈላጊ ከሆነ በአድራሻዎ ላይ ማንኛውንም ለውጥ ያድርጉ እና በተዘጋው ፖስታ ውስጥ ይላኩት",እባክዎ በአድራሻዎ ላይ ምንም አይነት ለውጥ አያድርጉ,contradiction,Contradiction
+"በቀላሉ የታችኛውን ክፍል ይንቀሉት, የሚመለከተውን አማራጭ ያረጋግጡ, አስፈላጊ ከሆነ በአድራሻዎ ላይ ማንኛውንም ለውጥ ያድርጉ እና በተዘጋው ፖስታ ውስጥ ይላኩት",ያንተ ኣድራሻ ያለበት ነጭ ፖስታ ተቀምጦልሃል,neutral,Neutral
+"በቀላሉ የታችኛውን ክፍል ይንቀሉት, የሚመለከተውን አማራጭ ያረጋግጡ, አስፈላጊ ከሆነ በአድራሻዎ ላይ ማንኛውንም ለውጥ ያድርጉ እና በተዘጋው ፖስታ ውስጥ ይላኩት",ተስማሚ ሆኖ ካገኙት በአድራሻዎ ላይ ለውጦችን ለማድረግ ነፃ ነዎት,entailment,Entailment
+የነርስ ትምህርት ቤት ትምህርታዊ ልህቀትን ለመቀጠል እና ለማስጠበቅ የአንተን ለጋስ ስጦታዎች ይፈልጋል,እባኮትን $100 ሚሊዮን  ለነርሲንግ ትምህርት ቤት ይለግሱ፣ አለበለዚያ የመታሰቢያ ሃውልትዎ አይሰራልወትም,neutral,Contradiction
+የነርስ ትምህርት ቤት ትምህርታዊ ልህቀትን ለመቀጠል እና ለማስጠበቅ የአንተን ለጋስ ስጦታዎች ይፈልጋል,የነርሲንግ ትምህርት ቤቱ ሁሉንም የገንዘብ ግቦቹን አሟልቷል፣ ስለዚህ ምንም ተጨማሪ ገንዘብ አያስፈልገውም,contradiction,Contradiction
+የነርስ ትምህርት ቤት ትምህርታዊ ልህቀትን ለመቀጠል እና ለማስጠበቅ የአንተን ለጋስ ስጦታዎች ይፈልጋል,ለነርሲንግ ትምህርት ቤቱ እንደሚለግሱ ተስፋ እናደርጋለን,entailment,Neutral
+80% ተሳታፊዎች የግጭት አፈታት ችሎታዎች መጨመርን ሪፖርት ያደርጋሉ,ከግማሽ በላይ ተሳታፊዎች የግጭት አፈታት ችሎታወች መጨመርን ሪፖርት ያደርጋሉ,entailment,Entailment
+80% ተሳታፊዎች የግጭት አፈታት ችሎታዎች መጨመርን ሪፖርት ያደርጋሉ,የግጭት አፈታት ችሎታዎች መጨመርን የሚናገሩት ከተሳታፊዎች አንድ አራተኛውቹ ብቻ ናቸው,contradiction,Contradiction
+80% ተሳታፊዎች የግጭት አፈታት ችሎታዎች መጨመርን ሪፖርት ያደርጋሉ,ከ100 በላይ ግለሰቦች ተሳታፊዎች ነበሩ,neutral,Neutral
+እባኮትን አንለግስም ላሉት ሰወች መልዕክት እንዳትልክላቸው,መለገስ ብታቆም አሳፋሪ ነው,entailment,Contradiction
+እባኮትን አንለግስም ላሉት ሰወች መልዕክት እንዳትልክላቸው,አንለግም ያሉት ሰወች ሥም ዝርዝራቸው ለአለም እንዲታይ ታትሟል፣ ስለዚህ እመኑኝ፣ እንደዛ ማፈር አትፈልጉም,neutral,Contradiction.
+እባኮትን አንለግስም ላሉት ሰወች መልዕክት እንዳትልክላቸው,ብዙ ለጋሾች አሉን ስለዚህ እባካችሁ ልገሳውን አቁሙ,contradiction,Contradiction
+ወደኛ ወለል ኮምፒውተር እና ሞደም ያለው ማንኛውም ሰው መግባት ይችላል,ወደወለሉ ለመግባት ሰወች ምንም ነገር አያስፈልጋቸውም,contradiction,Contradiction
+ወደኛ ወለል ኮምፒውተር እና ሞደም ያለው ማንኛውም ሰው መግባት ይችላል,ወደወለሉ ለመግባት ሰወች ሁለቱም ኮምፒውተር እና ሞደም ያስፈልጋቸዋል,entailment,Entailment
+ወደኛ ወለል ኮምፒውተር እና ሞደም ያለው ማንኛውም ሰው መግባት ይችላል,ወደወለሉ ለመግባት ሰወች ሁለቱም ኮምፒውተር እና ሞደም ይዘው መሄድ አለባቸው,neutral,Contradiction
+የቲኬት ሽያጮች እና የደንበኝነት ምዝገባዎች የእኛን ሙሉውን ወቅት ገንዘብ ሊደጉሙልን አይችሉም,የቲኬት ሽያጭ እስካለን ድረስ ሙሉ ወቅታችንን ያስተዳድረናል,contradiction,Contradiction
+የቲኬት ሽያጮች እና የደንበኝነት ምዝገባዎች የእኛን ሙሉውን ወቅት ገንዘብ ሊደጉሙልን አይችሉም,የሙሉ ወቅታችንን ወጭ ለመሸፈን ከቲኬት ሽያጮች እና የደንበኝነት ምዝገባዎች በላይ ያስፈልገናል,entailment,Contradiction
+የቲኬት ሽያጮች እና የደንበኝነት ምዝገባዎች የእኛን ሙሉውን ወቅት ገንዘብ ሊደጉሙልን አይችሉም,የቲኬት ሽያጮች እና የደምበግኝነት ምዝገባዎች ለሙሉ ወጫችን  70% ወጪዎችን ብቻ ይሸፍናሉ,neutral,Contradiction
+አዲስ የመጡ እቃወች እያንዳንዱ ስጦታ ልዩነት ያመጣል,ሁሉም ስጦታዎች በየወሩ መጽሔታችን ውስጥ ይመዘገባሉ እና ማስታወቂያቸው ይወጣል,neutral,"Neutral
+
+The premise states that ""newly arrived items each bring uniqueness,"" while the hypothesis claims that ""all gifts are recorded and advertised in our monthly magazine."" There is no direct connection between the uniqueness of the items and their recording and advertisement in the magazine. Therefore, the relationship between the two statements is neutral."
+አዲስ የመጡ እቃወች እያንዳንዱ ስጦታ ልዩነት ያመጣል,እያንዳንዱ የተሰጠህ ስጦታ እንደ አንድ ነገር ይቆጠራል,entailment,Contradiction
+አዲስ የመጡ እቃወች እያንዳንዱ ስጦታ ልዩነት ያመጣል,ከ $100 በላይ የሆኑ ስጦታዎች ብቻ ለውጥ ያመጣሉ,contradiction,Contradiction
+" $365,000  ግባችን ላይ ለመድረስ ከጓደኞቻችን እና እንደርስዎ ካሉ ተከታዮቻችን ብዙ ይቀረናል","የገንዘብ ግባችን $300,000 ይበልጣል",entailment,Contradiction
+" $365,000  ግባችን ላይ ለመድረስ ከጓደኞቻችን እና እንደርስዎ ካሉ ተከታዮቻችን ብዙ ይቀረናል",በእውነቱ የገንዘብ ግባችንን በሦስት እጥፍ እንደምናሳድግ ተስፋ እናደርጋለን,neutral,"Neutral.
+
+The premise discusses the need for support from friends and followers to reach a goal of $365,000, but it does not provide any information about tripling the financial goal. The hypothesis introduces a new idea about tripling the financial goal, which is not addressed in the premise. Therefore, the relationship between the premise and the hypothesis is neutral."
+" $365,000  ግባችን ላይ ለመድረስ ከጓደኞቻችን እና እንደርስዎ ካሉ ተከታዮቻችን ብዙ ይቀረናል",ገንዘብን በተመለከተ ምንም መመዘኛዎች የሉንም,contradiction,Contradiction
+የመንግስት ጤና ጣቢያችን ለበርካታ አመታት ሲሰራ የቆየ ሲሆን በቅርቡ ደግሞ የወንጀል መከላከያ ጤና ጣቢያ ጨምረናል,የመንግስት ጤና ጣቢያችን ለስምንት ዓመታት አገልግሏል,neutral,"Neutral.
+
+The premise states that the government health center has been in operation for many years but does not specify the exact number of years. The hypothesis specifically mentions that the health center has been serving for eight years. Since the premise does not provide a specific duration, it neither confirms nor denies the hypothesis."
+የመንግስት ጤና ጣቢያችን ለበርካታ አመታት ሲሰራ የቆየ ሲሆን በቅርቡ ደግሞ የወንጀል መከላከያ ጤና ጣቢያ ጨምረናል,የመንግስት ጤና ጣቢያችን ከተከፈተ የመጀመሪያ አመቱን በሚቀጥለው ወር  ያከብራል,contradiction,Contradiction
+የመንግስት ጤና ጣቢያችን ለበርካታ አመታት ሲሰራ የቆየ ሲሆን በቅርቡ ደግሞ የወንጀል መከላከያ ጤና ጣቢያ ጨምረናል,የመንግስት ጤና ጣቢያችን ከ አንድ አመት በላይ በስራ ላይ ነበር,entailment,Entailment
+የቲኬት ገቢ የእነዚህን ፕሮግራሞች ወጪ መሸፈን አለጀመረም,የእነዚህ ዝግጂቶች ወጪ በቲኬት ገቢው የማይሸፈን ይመስላል,entailment,Entailment
+የቲኬት ገቢ የእነዚህን ፕሮግራሞች ወጪ መሸፈን አለጀመረም,የእነዚህ ዝግጂቶች ዋጋ በጣም ከፍተኛ ነው,neutral,"Neutral
+
+The premise states that ticket revenue has started to cover the expenses of these programs, but it does not provide information about the overall cost of the programs. The hypothesis claims that the cost of these events is very high. There is no direct connection between the two statements that would allow us to conclude one from the other."
+የቲኬት ገቢ የእነዚህን ፕሮግራሞች ወጪ መሸፈን አለጀመረም,የቲኬት ገቢው በእርግጠኝነት የእነዚህን ፕሮግራሞች ወጪ ይሸፍናል,contradiction,Contradiction
+ኦምኒያ ቪንቺት አሞር (ለሳምንታዊ መደብ ካልሰሩ)፡ ብሪት ሁሜ (ፎክስ ኒውስ ሰንበት) ለምን ሌዊንስኪ ላይሆን እንደሚችል ገምታለች አሁንም በፕሬዚዳንቱ ላይ ተስፋየሌለው ፍቅር አላት,ብሪት ሁም የፎክስ ዋና ዘጋቢ ነው,neutral,"Neutral.
+
+The premise mentions that ""ብሪት ሁሜ (ፎክስ ኒውስ ሰንበት)"" has an opinion about something, but it does not provide information about whether ብሪት ሁሜ is the main anchor of Fox News. Therefore, the hypothesis is neither confirmed nor denied by the premise."
+ኦምኒያ ቪንቺት አሞር (ለሳምንታዊ መደብ ካልሰሩ)፡ ብሪት ሁሜ (ፎክስ ኒውስ ሰንበት) ለምን ሌዊንስኪ ላይሆን እንደሚችል ገምታለች አሁንም በፕሬዚዳንቱ ላይ ተስፋየሌለው ፍቅር አላት,ብሪት ሁም ለ ሲኤንኤን ይሰራል,contradiction,Contradiction
+ኦምኒያ ቪንቺት አሞር (ለሳምንታዊ መደብ ካልሰሩ)፡ ብሪት ሁሜ (ፎክስ ኒውስ ሰንበት) ለምን ሌዊንስኪ ላይሆን እንደሚችል ገምታለች አሁንም በፕሬዚዳንቱ ላይ ተስፋየሌለው ፍቅር አላት,ብሪት ሁም ለ ፎክስ ይሰራል,entailment,Entailment
+ለተከታታዩ የበለጠ ሰውኛ እንዲሆን ሚካኤል አፕትድን መቀጠሩ ብዙ ስራ ሠርቷል,ሚካኤል አፕቴድ ሰውኛ እና አስደሳች ገፅታወች በማስወጣታቸው ተከታታዩን አቋርጦታል,contradiction,Contradiction
+ለተከታታዩ የበለጠ ሰውኛ እንዲሆን ሚካኤል አፕትድን መቀጠሩ ብዙ ስራ ሠርቷል,ሚካኤል አፕቴድ በተከታታዩ ላይ የግል ብቃትን ለመጨመር ተቀጥሮ ነበር,entailment,Entailment
+ለተከታታዩ የበለጠ ሰውኛ እንዲሆን ሚካኤል አፕትድን መቀጠሩ ብዙ ስራ ሠርቷል,ተከታታዩ ስሜት የሌለው እና አሰልቺ ነው ተብሎ ይታሰብ ነበር፣ስለዚህ ደረጃ አሰጣጦችን ለማሻሻል አስደሳች እና ግላዊ ደረጃወችን ለመጨመር ሚካኤል አፕትድን መቅጠር አስፈላጊ ነበር,neutral,"Neutral.
+
+The premise states that Michael Apted has worked hard to make the series more personal. The hypothesis suggests that the series was thought to be unemotional and manipulative, and therefore it was necessary to bring in Michael Apted to improve it and add personal touches. The premise and hypothesis are related but do not directly confirm or contradict each other. They provide different perspectives on the same situation without clear entailment or contradiction."
+ሴት ልጅን በነጭ ፈር ካፖርት እና በረጂም ጫማ ለማየት,ሴት ልጅቷ ለበረዶ መንሸራተቻ የሚሆን አለባበስ ለብሳለች,neutral,Neutral
+ሴት ልጅን በነጭ ፈር ካፖርት እና በረጂም ጫማ ለማየት,ሴት ልጅቷ ነጭ ልብሶች ለብሳለች,entailment,Entailment
+ሴት ልጅን በነጭ ፈር ካፖርት እና በረጂም ጫማ ለማየት,ሴት ልጅቷ ሁሉም የለበሰችው ቀይ ነው,contradiction,Contradiction
+ፊልሙ ለመጥቀስ የዘነጋው ነገር ካፍማን ራሱን  እንዴት ማስወገድ እንደሚፈልግ ብዙ ጊዜ መናገሩን ነበር,ፊልሙ ስለራሱ ሞት ሲወያይ ካፍማን አያነሳም,entailment,Contradiction
+ፊልሙ ለመጥቀስ የዘነጋው ነገር ካፍማን ራሱን  እንዴት ማስወገድ እንደሚፈልግ ብዙ ጊዜ መናገሩን ነበር,ፊልሙ ከካፍማን ጋር ስለ አሟሟቱ ጥልቅ ቃለ ምልልስ አድርጓል,contradiction,Contradiction
+ፊልሙ ለመጥቀስ የዘነጋው ነገር ካፍማን ራሱን  እንዴት ማስወገድ እንደሚፈልግ ብዙ ጊዜ መናገሩን ነበር,ስለ ካፍማን አንዳንድ ወሳኝ ዝርዝሮችን ቢተውም ፊልሙ ግንባር ቀደም ነበር,neutral,Neutral.
+ሮክፌለር ኤንጅል ታርቤልን ለመበቀል እያለ በአድፍጦ ውጊያ ስቃይ ዉስጥ ነበር,ሮክፌለር ለካንሰር ምርምር ልገሳ አደረገ,neutral,Contradiction
+ሮክፌለር ኤንጅል ታርቤልን ለመበቀል እያለ በአድፍጦ ውጊያ ስቃይ ዉስጥ ነበር,ሮክፌለር ለጋስ ነበር,entailment,Contradiction
+ሮክፌለር ኤንጅል ታርቤልን ለመበቀል እያለ በአድፍጦ ውጊያ ስቃይ ዉስጥ ነበር,ሮክፌለር ስስታም ነበር,contradiction,Contradiction
+ክሌይማን በቅርቡ ኒው ዮርክ ውስጥ በነበረው የንግድ ጉዳይ ላይ በጎሳዎች መካከል በተነሱ ግጭቶች ሌላኛውን  ቡድን ደግፎ ቆመ,ክላይማን በካሊፎርኒያ የጎሳ አድሏዊነት አስነስቷል,contradiction,Contradiction
+ክሌይማን በቅርቡ ኒው ዮርክ ውስጥ በነበረው የንግድ ጉዳይ ላይ በጎሳዎች መካከል በተነሱ ግጭቶች ሌላኛውን  ቡድን ደግፎ ቆመ,ክላይማን በጎሳ አድልዎ እንደሚከሰስ አልጠበቀም ነበር,neutral,Contradiction
+ክሌይማን በቅርቡ ኒው ዮርክ ውስጥ በነበረው የንግድ ጉዳይ ላይ በጎሳዎች መካከል በተነሱ ግጭቶች ሌላኛውን  ቡድን ደግፎ ቆመ,በክላይማን ላይ የጎሳ አድሎአዊ ክሶች ነበሩ,entailment,"Neutral. 
+
+The premise states that Kleiman supported one group among clans during a business dispute in New York. The hypothesis suggests that Kleiman faced tribal discrimination accusations. The premise does not provide information about accusations against Kleiman, so the hypothesis cannot be inferred from the given premise."
+የድርጅት ሃላፊወች በተሰበሰቡበት ክፍል ውስጥ በU.S የሰው ሃይል አስተዳደር ላይ ጮሆ ይሳደባል ብሎ የጠበቀ አልነበረም,የድርጅት ተወካዮች ሱፍ ይለብሳሉ,neutral,Contradiction
+የድርጅት ሃላፊወች በተሰበሰቡበት ክፍል ውስጥ በU.S የሰው ሃይል አስተዳደር ላይ ጮሆ ይሳደባል ብሎ የጠበቀ አልነበረም,አንድ ሰው የድርጅት ተወካዮችን ፉጨት ይጠብቃል,contradiction,Contradiction
+የድርጅት ሃላፊወች በተሰበሰቡበት ክፍል ውስጥ በU.S የሰው ሃይል አስተዳደር ላይ ጮሆ ይሳደባል ብሎ የጠበቀ አልነበረም,አንድ ሰው የድርጅት ተወካዮችን ፉጨት አይጠብቅም,entailment,Entailment
+እንክብካቤ በአትሌቲክስ አፈጻጸም ላይ የበለጠ ጉልህ ተጽእኖ ስላለው ብቻ ግን ተፈጥሮ ለዘብተኛ ሆናለች ማለት አይደለም,አትሌቶች የተወለዱት ሁሉንም አቅማቸውን ሙሉ በሙሉ እውን በማድረግ ነው,contradiction,Contradiction
+እንክብካቤ በአትሌቲክስ አፈጻጸም ላይ የበለጠ ጉልህ ተጽእኖ ስላለው ብቻ ግን ተፈጥሮ ለዘብተኛ ሆናለች ማለት አይደለም,የአትሌቲክስ አቅም ከጄኔቲክስ ይልቅ በልምምድ የበለጠ ይጎዳል,entailment,Contradiction
+እንክብካቤ በአትሌቲክስ አፈጻጸም ላይ የበለጠ ጉልህ ተጽእኖ ስላለው ብቻ ግን ተፈጥሮ ለዘብተኛ ሆናለች ማለት አይደለም,በጣም ጠንካራ የሆኑ አትሌቶች በየሳምንቱ ቢያንስ ለስምንት ሰዓት ልምምድ ያደርጋሉ,neutral,"Neutral. The premise discusses the impact of care on athletic performance and the natural tendency towards excellence, while the hypothesis talks about the training regimen of strong athletes. The two statements are related to athletics but do not directly support or contradict each other."
+አንዴ ቤት፣ዩናይትድ ስቴት በሁለት መንገድ አቅርቦቶችን እንደምታቋርጥ ተማርኩ,ፖለቲካ ላይ ፍላጎት አለኝ,neutral,Neutral
+አንዴ ቤት፣ዩናይትድ ስቴት በሁለት መንገድ አቅርቦቶችን እንደምታቋርጥ ተማርኩ,ስለ ዩናይትድ ስቴት ተማርኩ,entailment,Entailment
+አንዴ ቤት፣ዩናይትድ ስቴት በሁለት መንገድ አቅርቦቶችን እንደምታቋርጥ ተማርኩ,ወደ ቤት ከመምጣቴ በፊት ዩናይትድ ስቴት በሁለት መንገድ አቅርቦቶችን እንደምታቋርጥ ተማርኩ,contradiction,Entailment
+የአለማችን አንጋፋ እና ትልቁ የዩኒቨርስቲ ፕሬስ ኦክስፎርድ የግጥም ዝርዝሮቹን መሰረዙን አስታውቋል,በኦክስፎርድ ያለው የግጥም ዝርዝር አሁን እየቀጠለ አይደለም,entailment,Contradiction
+የአለማችን አንጋፋ እና ትልቁ የዩኒቨርስቲ ፕሬስ ኦክስፎርድ የግጥም ዝርዝሮቹን መሰረዙን አስታውቋል,የተከበረው ዩኒቨርሲቲ የግጥም ዝርዝሩን በንቃት ለመጠበቅ የሚያስችል የገንዘብ ድጋፍ የለውም,neutral,Contradiction
+የአለማችን አንጋፋ እና ትልቁ የዩኒቨርስቲ ፕሬስ ኦክስፎርድ የግጥም ዝርዝሮቹን መሰረዙን አስታውቋል,ዩኒቨርሲቲው የግጥም ዝርዝሩን ለመጠበቅ እናም ፈጽሞ እንደማይሰርዘው ቆርጦ ተነስቷል,contradiction,Contradiction
+ለሰው ልጅ የማጽናኛ ሽልማት ግን አለ,የማጽናኛ ሽልማቱ ለእያንዳንዱ ሰው ነጻ ሁለት የፍጥነት ማደባለቂያ ነው,neutral,Contradiction
+ለሰው ልጅ የማጽናኛ ሽልማት ግን አለ,በዚህ ሁኔታ ውስጥ ለሰዎች ምንም መለዋወጥ የለም,contradiction,Contradiction
+ለሰው ልጅ የማጽናኛ ሽልማት ግን አለ,ይህ ሁሉ ለሰው ልጆች መጥፎ ዜና አይደለም,entailment,Neutral
+በእነዚህ ድረ፡ገጾች  ላይ ለውርርድ የሚደረጉ ዝግጅቶች ስፖርቶች ብቻ አይደሉም,በፖለቲካ ውድድር እና ምርጫዎች ላይ ያለ ውርርድ በእነዚህ ድረ፡ገጾችም ተቀባይነት አለው,neutral,Entailment
+በእነዚህ ድረ፡ገጾች  ላይ ለውርርድ የሚደረጉ ዝግጅቶች ስፖርቶች ብቻ አይደሉም,እነዚህ ድረ፡ገጾች  በስፖርት ዝግጅቶች ላይ ያለ ውርርድ ብቻ ይቀበላሉ,contradiction,Contradiction
+በእነዚህ ድረ፡ገጾች  ላይ ለውርርድ የሚደረጉ ዝግጅቶች ስፖርቶች ብቻ አይደሉም,እነዚህ ድረ፡ገጾች በተለያዩ እንቅስቃሴዎች ላይ ምርጡን ይወስዳሉ,entailment,Neutral
+በ  ኦገስት 25 ከዲሞክራሲያዊ ጉባኤው በኃላ በ አትላንቲክ ከተማ ኒውጀርዚ ጆንሰን የ56 አመቱ እጩ በ ሶስት ተከታታይ የተመዘገቡ ጉባኤወች ላይ ከፕረዝዳንታዊ ውድድሩ ራሱን ሊያገል እንደሚችል አስጠነቀቀ,ጆንሰን ድጋፍ ማጣት ስሜት ተሰማው,neutral,Contradiction
+በ  ኦገስት 25 ከዲሞክራሲያዊ ጉባኤው በኃላ በ አትላንቲክ ከተማ ኒውጀርዚ ጆንሰን የ56 አመቱ እጩ በ ሶስት ተከታታይ የተመዘገቡ ጉባኤወች ላይ ከፕረዝዳንታዊ ውድድሩ ራሱን ሊያገል እንደሚችል አስጠነቀቀ,ጆንሰን ስለመውጣት አስቦ አያውቅም,contradiction,Contradiction
+በ  ኦገስት 25 ከዲሞክራሲያዊ ጉባኤው በኃላ በ አትላንቲክ ከተማ ኒውጀርዚ ጆንሰን የ56 አመቱ እጩ በ ሶስት ተከታታይ የተመዘገቡ ጉባኤወች ላይ ከፕረዝዳንታዊ ውድድሩ ራሱን ሊያገል እንደሚችል አስጠነቀቀ,ጆንሰን ለመልቀቅ ቆርጧል,entailment,Contradiction
+ላማር አሌክሳንደር የፕሬዚዳንትነት ጨረታውን አቋርጧል,ቢያንስ አንድ ሰው ፕሬዚዳንት ለመሆን በሚደረገው ሙከራ ተስፋ ቆርጧል,entailment,Entailment
+ላማር አሌክሳንደር የፕሬዚዳንትነት ጨረታውን አቋርጧል,ላማር አሌክሳንደር የፕሬዚዳንቱን ዘመቻ ለመተው ፈቃደኛ አልሆነም,contradiction,Contradiction
+ላማር አሌክሳንደር የፕሬዚዳንትነት ጨረታውን አቋርጧል,ሚስተር አሌክሳንደር አሳፋሪ ፎቶውቹ ከታተሙ በኋላ ለመልቀቅ ተገደዱ,neutral,Contradiction
+በዚህ አሳዛኝ የሲቪል ነጻነት መዝገብ ላይ በዋይት ሀውስ የመጀመሪያ የጉዞ ቢሮ ምርመራ  FBIን አላግባብ መጠቀም  እና ፋይልጌት እየተባለ መጠራቱ ነው,ዋይት ሀውስ በፖለቲካ እጩዎች ላይ የ ኤፍቢአይ ሰላይ አለው,neutral,Contradiction
+በዚህ አሳዛኝ የሲቪል ነጻነት መዝገብ ላይ በዋይት ሀውስ የመጀመሪያ የጉዞ ቢሮ ምርመራ  FBIን አላግባብ መጠቀም  እና ፋይልጌት እየተባለ መጠራቱ ነው,ዋይት ሀውስ ኤፍቢአይ አላግባብ ይጠቀማል,entailment,Entailment
+በዚህ አሳዛኝ የሲቪል ነጻነት መዝገብ ላይ በዋይት ሀውስ የመጀመሪያ የጉዞ ቢሮ ምርመራ  FBIን አላግባብ መጠቀም  እና ፋይልጌት እየተባለ መጠራቱ ነው,ዋይት ሀውስ ኤፍቢአይ በ አግባቡ ይጠቀማል,contradiction,Contradiction
+ቱንግ በንብረት ተንታኞች ላይ እርምጃ እንደሚወስድ ቃል ገብቷል፣ ነገር ግን ብዙዎች የእሱ ጩኸት ከንክሻው የከፋ እንደሚሆን ያስባሉ,ቱንግ ስለ ንብረት ገማቾች ግድ የለውም,contradiction,Contradiction
+ቱንግ በንብረት ተንታኞች ላይ እርምጃ እንደሚወስድ ቃል ገብቷል፣ ነገር ግን ብዙዎች የእሱ ጩኸት ከንክሻው የከፋ እንደሚሆን ያስባሉ,ቱንግ የንብረት ገማቾች ሥነ ምግባር የጎደለው እርምጃ እየወሰዱ እንደሆነ ያስባል,neutral,Contradiction
+ቱንግ በንብረት ተንታኞች ላይ እርምጃ እንደሚወስድ ቃል ገብቷል፣ ነገር ግን ብዙዎች የእሱ ጩኸት ከንክሻው የከፋ እንደሚሆን ያስባሉ,ቱንግ በንብረት ገማቾች ላይ ተጽዕኖ ማሳደር ይፈልጋል,entailment,Entailment
+የቦርሳ ችግር ቅረታወችቹ ተፈተዋል የማይሰሩ የበረራ አስተናጋጆች፣ምክኒያታዊ ያልሆኑ የበረራ መሰረዞች፣የግፍ ክፍያወች ,የ10  ሰዎች ሻንጣ ጠፍቷል,neutral,Contradiction
+የቦርሳ ችግር ቅረታወችቹ ተፈተዋል የማይሰሩ የበረራ አስተናጋጆች፣ምክኒያታዊ ያልሆኑ የበረራ መሰረዞች፣የግፍ ክፍያወች ,ሰዎች ስለ ሻንጣወቻቸው ቅሬታ አቅርበዋል,entailment,Entailment
+የቦርሳ ችግር ቅረታወችቹ ተፈተዋል የማይሰሩ የበረራ አስተናጋጆች፣ምክኒያታዊ ያልሆኑ የበረራ መሰረዞች፣የግፍ ክፍያወች ,ምንም ዓይነት ቅሬታዎች አልነበሩም,contradiction,Contradiction
+ሎረንስሲንግልተን የተባለው የታወቀ አስገድዶ ደፋሪ የተጎጅወቹን ክንድ ቆርጦ ከጣለ በኋላ ለስምንት አመታት ብቻ ከታሰረበት ቢወጣም እንደገና አንዲትን ሴት በፍሎሪዳ ወግቶ በመግደሉ በቁጭር ስር ሊውል ችሏል, የተጎጅወቹን ክንድ ቆርጦ ከጣለ በኋላ በቆሻሻ መጣያ ቆርቆሮ ሊደብቃቸው ሞከረ,neutral,Contradiction
+ሎረንስሲንግልተን የተባለው የታወቀ አስገድዶ ደፋሪ የተጎጅወቹን ክንድ ቆርጦ ከጣለ በኋላ ለስምንት አመታት ብቻ ከታሰረበት ቢወጣም እንደገና አንዲትን ሴት በፍሎሪዳ ወግቶ በመግደሉ በቁጭር ስር ሊውል ችሏል,በእስር ቤት ያሳለፈው ጊዜ ሙሉ በሙሉ እንደቀየረው ለሁሉም ግልጽ ነበር,contradiction,Contradiction
+ሎረንስሲንግልተን የተባለው የታወቀ አስገድዶ ደፋሪ የተጎጅወቹን ክንድ ቆርጦ ከጣለ በኋላ ለስምንት አመታት ብቻ ከታሰረበት ቢወጣም እንደገና አንዲትን ሴት በፍሎሪዳ ወግቶ በመግደሉ በቁጭር ስር ሊውል ችሏል,ሚስተር ሲንግልተን በፍሎሪዳ የተፈረደበት አስገድዶ መድፈር ነው,entailment,Entailment
+የኒው ሪፐብሊክ ባልደረባ ቻርለስ ሌን እንዳሉት  የገብርኤል ጋርካያ ማርኬዝ የጠለፋ ዜና  ታማኝነት የጎደለው  ጋዜጠኝነትን ይመዘግባል ,ቻርለስ ሌይን ዘጋቢ ነው,entailment,Contradiction
+የኒው ሪፐብሊክ ባልደረባ ቻርለስ ሌን እንዳሉት  የገብርኤል ጋርካያ ማርኬዝ የጠለፋ ዜና  ታማኝነት የጎደለው  ጋዜጠኝነትን ይመዘግባል ,ቻርለስ ሌይን መኪኖች ሽጧል,contradiction,Contradiction
+የኒው ሪፐብሊክ ባልደረባ ቻርለስ ሌን እንዳሉት  የገብርኤል ጋርካያ ማርኬዝ የጠለፋ ዜና  ታማኝነት የጎደለው  ጋዜጠኝነትን ይመዘግባል ,ቻርለስ ሌን ፑሊትዘርን ሽልማትን አሸንፏል,neutral,Contradiction
+ፍርድ ቤቱ በዛሬው ጠዋት በዋሽንግተን ውስጥ ብቸኛው የፖለቲካ ሰርከስ አይደለም,ፍርድ ቤቱ በዋሽንግተን ብቸኛው የፖለቲካ ቦታ አይደለም,entailment,Contradiction
+ፍርድ ቤቱ በዛሬው ጠዋት በዋሽንግተን ውስጥ ብቸኛው የፖለቲካ ሰርከስ አይደለም,የፖለቲካው ቀን ከጠዋት ጀምሮ ሳይሆን አይቀርም,neutral,Contradiction
+ፍርድ ቤቱ በዛሬው ጠዋት በዋሽንግተን ውስጥ ብቸኛው የፖለቲካ ሰርከስ አይደለም,በፍርድ ቤቱ ቀልዶች ያሉት ሰርከስ አለ,contradiction,Contradiction
+አንድ የዶዘር ሹፌር በገንቢው እየተሰራ ላለው ለአዲስ ልማት መንገድ እየጠረገ እንደሆነ ማሰብ እንችላለን  ሃይ፣ ሎይድ,የዶዘር ሹፌር ዶዘር እያስነሳ እንደሆነ ማሰብ ትችላለህ,neutral,Entailment
+አንድ የዶዘር ሹፌር በገንቢው እየተሰራ ላለው ለአዲስ ልማት መንገድ እየጠረገ እንደሆነ ማሰብ እንችላለን  ሃይ፣ ሎይድ,የዶዘር ሹፌር ማሰብ ትችላለህ,entailment,Contradiction
+አንድ የዶዘር ሹፌር በገንቢው እየተሰራ ላለው ለአዲስ ልማት መንገድ እየጠረገ እንደሆነ ማሰብ እንችላለን  ሃይ፣ ሎይድ,የዶዘር ሹፌር ማሰብ አትችልም,contradiction,Contradiction
+ይህንን በደብዳቤ ለDr ነግሬው እሱን ለማስደሰት ይመስል ነበር እና በዚያ ገና ትንሽ የፍራፍሬ ኬክ ላከልኝ,ሃኪሙ የላክሁትን ደብዳቤ እንደተቀበለ እርግጠኛ ነኝ,entailment,Contradiction
+ይህንን በደብዳቤ ለDr ነግሬው እሱን ለማስደሰት ይመስል ነበር እና በዚያ ገና ትንሽ የፍራፍሬ ኬክ ላከልኝ,በዚያ የገና በዓል ዶክተሩ የላከልኝን ኬክ አልበላሁም,neutral,Contradiction
+ይህንን በደብዳቤ ለDr ነግሬው እሱን ለማስደሰት ይመስል ነበር እና በዚያ ገና ትንሽ የፍራፍሬ ኬክ ላከልኝ,ዶክተሩ በዚያ የገና በዓል በጠርሙስ ውስጥ ወይን ላከልኝ,contradiction,Contradiction
+ቡድኑ ቀደም ሲል በሚታወሱት ቢኔኤተሮች ይታወቅ ነበር ፣ እሱም በሚያጓጓ ሁኔታ ፣ እንደ የህንድ ቅጽል ስምም ሊቆጠር ይችላል,ቡድኑ ታዋቂ ስላልነበረ ስሙን ቀይሯል,neutral,Contradiction
+ቡድኑ ቀደም ሲል በሚታወሱት ቢኔኤተሮች ይታወቅ ነበር ፣ እሱም በሚያጓጓ ሁኔታ ፣ እንደ የህንድ ቅጽል ስምም ሊቆጠር ይችላል,ቡድኑ ከዚህ በፊት ስም ነበረው እንደ የህንድ ቅጽል ስምም ሊታሰብ ይችላል,entailment,Entailment
+ቡድኑ ቀደም ሲል በሚታወሱት ቢኔኤተሮች ይታወቅ ነበር ፣ እሱም በሚያጓጓ ሁኔታ ፣ እንደ የህንድ ቅጽል ስምም ሊቆጠር ይችላል,ቡድኑ አንድ ስም ብቻ ነው ያለው,contradiction,Contradiction
+በትሀሳኡሩስ ውስጥ እንደዚህ ያለ ትርጉም ማግኘት አልቻልኩም , ትርጉሙን በ ትሀሳኡሩስ ውስጥ አገኘሁት,contradiction,Contradiction
+በትሀሳኡሩስ ውስጥ እንደዚህ ያለ ትርጉም ማግኘት አልቻልኩም ,ትሀሳኡሩስ ውስጥ ተመለከትኩ እና ትርጓሜ አላገኘሁም,entailment,Entailment
+በትሀሳኡሩስ ውስጥ እንደዚህ ያለ ትርጉም ማግኘት አልቻልኩም ,እኔ የተጠቀምኩት  የነበረው ትሀሳኡሩስ መደበኛ ትሀሳኡሩስ ነበር,neutral,Contradiction
+አንድ ሰው እንዴት ማድረግ ይችላል,እንዴት ብዙ ሰዎች ምንም ማድረግ አይችሉም,contradiction,Contradiction
+አንድ ሰው እንዴት ማድረግ ይችላል,እንዴት አንድ ሰው እንደዚህ መትፎ ነገር ያደርጋል,neutral,Neutral
+አንድ ሰው እንዴት ማድረግ ይችላል,አንድ ሰው ይህን ማድረግ የሚቻለው እንዴት ነው,entailment,Entailment
+ከዚህም በላይ በመቅድሙ ስራ መሠረት በሃያኛው ክፍለ ዘመን እንደተነሱ የሚታወቁ ቃላትን ብቻ ይዟል፣ ነገር ግን የ 20 ኛው ክፍለ ዘመን ቀደምት ወታደራዊ ቃላትን ይተዋል ,በመግቢያው ላይ እንደተገለጸው፣ በሃያኛው ክፍለ ዘመን የተነሱ ቃላትን ይዟል ነገር ግን ቀደም ሲል የተነሱትን ቃላቶች ይተዋል,entailment,Entailment
+ከዚህም በላይ በመቅድሙ ስራ መሠረት በሃያኛው ክፍለ ዘመን እንደተነሱ የሚታወቁ ቃላትን ብቻ ይዟል፣ ነገር ግን የ 20 ኛው ክፍለ ዘመን ቀደምት ወታደራዊ ቃላትን ይተዋል ,ከጥንት ጀምሮ በውስጡ የተካተቱት ሁሉም ቃላቶች አሉት,contradiction,Contradiction
+ከዚህም በላይ በመቅድሙ ስራ መሠረት በሃያኛው ክፍለ ዘመን እንደተነሱ የሚታወቁ ቃላትን ብቻ ይዟል፣ ነገር ግን የ 20 ኛው ክፍለ ዘመን ቀደምት ወታደራዊ ቃላትን ይተዋል ,ከ ሃያኛው ክፍለ ዘመን በፊት ብዙ የተለያዩ ዘይቤዎች አሉ,neutral,Contradiction
+አንድ ሰው የ1984 እትም ካለው፣ ከአጭር ጊዜ (እና ብዙም ውድ ያልሆነ) ማሟያ ከመግዛት ይልቅ ይህን መጽሐፍ በመግዛቱ ቅር ሊለው ይችላል,የ 1984ቱ እትም ከብዙዎቹ ምርጥ ነው,neutral,Contradiction
+አንድ ሰው የ1984 እትም ካለው፣ ከአጭር ጊዜ (እና ብዙም ውድ ያልሆነ) ማሟያ ከመግዛት ይልቅ ይህን መጽሐፍ በመግዛቱ ቅር ሊለው ይችላል,መጽሐፉ የሚሸጥ አይደለም,contradiction,Contradiction
+አንድ ሰው የ1984 እትም ካለው፣ ከአጭር ጊዜ (እና ብዙም ውድ ያልሆነ) ማሟያ ከመግዛት ይልቅ ይህን መጽሐፍ በመግዛቱ ቅር ሊለው ይችላል,አቅርቦቱ ከመጽሐፉ ርካሽ ነው,entailment,Contradiction
+በርንስታይን በመግቢያው ላይ አብራርቷል,በርንስታይን በጥልቀት አላብራራውም,neutral,Contradiction
+በርንስታይን በመግቢያው ላይ አብራርቷል,በርንስታይን በማጠቃለያው ላይ ብቻ ነው ያብራራው,contradiction,Contradiction
+በርንስታይን በመግቢያው ላይ አብራርቷል,መግቢያው ማብራሪያወችን ይዟል,entailment,Entailment
+ ከሃያ ዓመታት ያህል ዕውቀት በኋላም እንኳ አንድ የውጭ አገር ሰው ስለ እነርሱ እንግዳ የሆኑ ብዙ ነገሮችን መለየት አስቸጋሪ ስለሆነ ብቻ እነዚህ ርዕሰ ጉዳዮች ጣልቃ እንዲገቡ አይመከሩም ,የአፍ መፍቻ ቋንቋ ተናጋሪዎች እንኳን አንዳንድ ጊዜ በቀልድ ላይ ችግር አለባቸው,neutral,Neutral
+ ከሃያ ዓመታት ያህል ዕውቀት በኋላም እንኳ አንድ የውጭ አገር ሰው ስለ እነርሱ እንግዳ የሆኑ ብዙ ነገሮችን መለየት አስቸጋሪ ስለሆነ ብቻ እነዚህ ርዕሰ ጉዳዮች ጣልቃ እንዲገቡ አይመከሩም ,ቀልድ ባጠቃላይ ለውጭ አገር ሰዎች ለመረዳት በጣም ቀላል ከሆኑ ነገሮች አንዱ ነው,contradiction,Contradiction
+ ከሃያ ዓመታት ያህል ዕውቀት በኋላም እንኳ አንድ የውጭ አገር ሰው ስለ እነርሱ እንግዳ የሆኑ ብዙ ነገሮችን መለየት አስቸጋሪ ስለሆነ ብቻ እነዚህ ርዕሰ ጉዳዮች ጣልቃ እንዲገቡ አይመከሩም ,እነዚህ ርዕሰ ጉዳዮች ለውጭ ሰዎች ለመረዳት አስቸጋሪ ናቸው,entailment,Entailment
+በመጨረሻም ፣ አንድ ሰው የተለየ ትርጉም ካለው ማራዘም መጠንቀቅ አለበት,አዘጋጆች የተቀጠሩት በተለምዶ ይህን አይነት ስህተት ለመያዝ ነው,neutral,Contradiction
+በመጨረሻም ፣ አንድ ሰው የተለየ ትርጉም ካለው ማራዘም መጠንቀቅ አለበት,ማራዘም የአረፍተ ነገር ትርጉም መብራራቱን ለማረጋገጥ ጥሩ መንገድ ነው,contradiction,Contradiction
+በመጨረሻም ፣ አንድ ሰው የተለየ ትርጉም ካለው ማራዘም መጠንቀቅ አለበት,ረዘም ያለ መግለጫ ለመስጠት ሲሞክር ትርጉሙ ሊለወጥ ይችላል,entailment,Entailment
+በሙቀት እራስህን እንዲያዞርህ አድርግ,በሰዎች ጭንቅላት ላይ ሙቀት መጨመር ትኩረታቸውን እና ተመስጧቸውን ለማሻሻል ጥሩ መንገድ ነው,contradiction,Contradiction
+በሙቀት እራስህን እንዲያዞርህ አድርግ,ከመጠን በላይ ሙቀት በአንዳንድ ሁኔታዎች ማዞር ሊያስከትል ይችላል,entailment,Entailment
+በሙቀት እራስህን እንዲያዞርህ አድርግ,ዛሬ ከወቅቱ አማካይ ሙቀት አምስት ዲግሪ በላይ ነበር,neutral,Neutral
+ማንም ሌላ ሙያተኛ እንዲህ የበለፀገ ራስን የማጥላላት ባህል የለውም,ሌሎች ብዙ ባለሙያዎች ራሳቸው ከፍ አድርገው ያስባሉ,neutral,Contradiction
+ማንም ሌላ ሙያተኛ እንዲህ የበለፀገ ራስን የማጥላላት ባህል የለውም,ብዙ ሞያወች እራስን የማጥላላት ልምድ የላቸውም,contradiction,Entailment
+ማንም ሌላ ሙያተኛ እንዲህ የበለፀገ ራስን የማጥላላት ባህል የለውም,ሌላ ሥራ ስለ ራሱ የመተቸት ባህል የለውም,entailment,Entailment
+እና በትዕቢት ማስታወሻዎች ፣ እነዚያ በአካባቢያዊ አፈ ታሪኮች ውስጥ ቀስቃሽ ስሞችን ያተረፉ ጨርቆች እነዚህን አጠራሮች በግል ደብዳቤዎች ፣ የቤት ወሬወች እና ግልፅ ያልሆነ የማንነት ቅፅ ይጠቀማሉ,እነዚህ ወረቀቶች ዝና የላቸውም,contradiction,Contradiction
+እና በትዕቢት ማስታወሻዎች ፣ እነዚያ በአካባቢያዊ አፈ ታሪኮች ውስጥ ቀስቃሽ ስሞችን ያተረፉ ጨርቆች እነዚህን አጠራሮች በግል ደብዳቤዎች ፣ የቤት ወሬወች እና ግልፅ ያልሆነ የማንነት ቅፅ ይጠቀማሉ,እነዚህ ወረቀቶች ጥሩ ዝና ላቸውም,entailment,Contradiction
+እና በትዕቢት ማስታወሻዎች ፣ እነዚያ በአካባቢያዊ አፈ ታሪኮች ውስጥ ቀስቃሽ ስሞችን ያተረፉ ጨርቆች እነዚህን አጠራሮች በግል ደብዳቤዎች ፣ የቤት ወሬወች እና ግልፅ ያልሆነ የማንነት ቅፅ ይጠቀማሉ,እነዚያ ወረቀቶች የብዙ ቤት እመቤቶች  ሹክሹክታ አላቸው ,neutral,Neutral
+ቀላል እና ነጣ ያለ የቢራውን ባህሪ የሚገልፅ ከሆነ,ቢራ ቀላል እና ነጣ ያለ የሚል ፅሁፍ ሊኖረው ይችላል,entailment,Entailment
+ቀላል እና ነጣ ያለ የቢራውን ባህሪ የሚገልፅ ከሆነ,ቀላል እና ነጣ ያለ የሚሉት ቃላት ወይንንና ዉስኪን ብቻ ለመግለፅ ያግለግላሉ,contradiction,Contradiction
+ቀላል እና ነጣ ያለ የቢራውን ባህሪ የሚገልፅ ከሆነ,ቀላል ቢራ ከፍተኛ የአልኮል መጠን የለውም,neutral,Entailment
+ያልታደሉት ስራ የበዛባቸው ስሞች  እነሱም ሆነ ሌላ አማራጭ ስሞች በማይፈለጉበት ጊዜ እንዃ ጥቅም ላይ ይውላሉ,ሰዎች ተቀያሪ ስም ለማግኘት ይቸገራሉ,neutral,"Neutral. 
+
+The premise discusses the use of alternative names when preferred ones are not available, but it does not provide information about whether people find it difficult to obtain alternative names. The hypothesis introduces the idea of difficulty in obtaining alternative names, which is not addressed in the premise."
+ያልታደሉት ስራ የበዛባቸው ስሞች  እነሱም ሆነ ሌላ አማራጭ ስሞች በማይፈለጉበት ጊዜ እንዃ ጥቅም ላይ ይውላሉ,ስሙ ብዙ ጊዜ ጥቅም ላይ ውሏል,entailment,Contradiction
+ያልታደሉት ስራ የበዛባቸው ስሞች  እነሱም ሆነ ሌላ አማራጭ ስሞች በማይፈለጉበት ጊዜ እንዃ ጥቅም ላይ ይውላሉ,ስሙ የበለጠ ጥቅም ላይ መዋል አለበት,contradiction,Contradiction
+በዚህ ሁሉ ላይ፣ ልብ የሚነካ ጽሁፍ አንዳንድ ጊዜ የማይረሳና ችግሩን የሚያባብስ የመሆን የማያስደስት እውነታ አለን, ሰዎች መጥፎ የእጅ ጽሁፎችን የማስታወስ ዕድላቸው ከፍተኛ ነው,contradiction,Neutral
+በዚህ ሁሉ ላይ፣ ልብ የሚነካ ጽሁፍ አንዳንድ ጊዜ የማይረሳና ችግሩን የሚያባብስ የመሆን የማያስደስት እውነታ አለን, በጥሩ ሁኔታ የተጻፈ ጽሁፎች ብዙ ጊዜ ከመጥፎ የእጅ ጽሁፎች  ይልቅ ለማስታወስ ይቀላሉ,entailment,Contradiction
+በዚህ ሁሉ ላይ፣ ልብ የሚነካ ጽሁፍ አንዳንድ ጊዜ የማይረሳና ችግሩን የሚያባብስ የመሆን የማያስደስት እውነታ አለን,በጥሩ ሁኔታ የተጻፈ  ጽሁፎች በብዛት ለማምረት በጣም ውድ ነው,neutral,Contradiction
+ከዚህ አመለካከት ጋር የተጋፈጡ እና በመጠኑም የተገረሙ እንግሊዛውያን ቃሉን በዋናነት በመግለጽ ያላቸውን ክብር አረጋግጠዋል,ብሪታንያ ምንም ክብር አልነበራቸውም,contradiction,Contradiction
+ከዚህ አመለካከት ጋር የተጋፈጡ እና በመጠኑም የተገረሙ እንግሊዛውያን ቃሉን በዋናነት በመግለጽ ያላቸውን ክብር አረጋግጠዋል,ብሪታኒያ የዓለምን ኢኮኖሚ ተቆጣጥራለች,neutral,Neutral.
+ከዚህ አመለካከት ጋር የተጋፈጡ እና በመጠኑም የተገረሙ እንግሊዛውያን ቃሉን በዋናነት በመግለጽ ያላቸውን ክብር አረጋግጠዋል,ብሪታኒያ በአለም ዙሪያ በጣም ይነግዱ ነበር,entailment,Neutral.
+አንዳንድ ጊዜ እባብ የመሰለ ነው,አንዳንዴ ለመለየት በጣም አስቸጋሪ ሊሆን ይችላል,entailment,Neutral
+አንዳንድ ጊዜ እባብ የመሰለ ነው,በጥንቃቄ ለተሸፈነው ሞተር ምስጋና ይግባውና በጣም ትንሽ ድምጽ ነው የሚያሰማው,neutral,"Neutral. 
+
+The premise ""አንዳንድ ጊዜ እባብ የመሰለ ነው"" (Sometimes it looks like a snake) does not provide any information about a motor, its careful covering, or the sound it makes, which are mentioned in the hypothesis. Therefore, there is no direct entailment or contradiction between the premise and the hypothesis."
+አንዳንድ ጊዜ እባብ የመሰለ ነው,ከማንኛውም ርቀት ለማወቅ ሁልጊዜ በጣም ቀላል ነበር,contradiction,Contradiction
+እንደ እውነቱ ከሆነ በብሪታንያ ውስጥ ከሰሜን አሜሪካ የበለጠ ልዩ የሆኑ የእንግሊዝኛ ቋንቋዎች አሉ እና እነሱ ጋር ጊዜ ያሳለፈ ሰው የማይገናኙ መሆናቸውን ያውቃል,ብሪታንያ በሰሜን አሜሪካ ከሚገኙት የበለጠ ብዙ የእንግሊዝኛ ልዩ ዘዬዎች አሏት,entailment,Entailment
+እንደ እውነቱ ከሆነ በብሪታንያ ውስጥ ከሰሜን አሜሪካ የበለጠ ልዩ የሆኑ የእንግሊዝኛ ቋንቋዎች አሉ እና እነሱ ጋር ጊዜ ያሳለፈ ሰው የማይገናኙ መሆናቸውን ያውቃል,ከሰሜን አሜሪካ እና የብሪታንያ የአነጋገር ዘየ ፍፁም ተመሳሳይ ነው እና ሰዎች በመካከላቸው ያለውን ልዩነት መለየት አይችሉም,contradiction,Contradiction
+እንደ እውነቱ ከሆነ በብሪታንያ ውስጥ ከሰሜን አሜሪካ የበለጠ ልዩ የሆኑ የእንግሊዝኛ ቋንቋዎች አሉ እና እነሱ ጋር ጊዜ ያሳለፈ ሰው የማይገናኙ መሆናቸውን ያውቃል,ከሰሜን አሜሪካ የመጡ ሰዎች ከሚነገሩት የብሪታንያ የአነጋገር ዘየ ግማሹን ለመረዳት ይቸገራሉ,neutral,Entailment
+አንድ የቴኔሲ መረጃ ሰጭ የውሻ አየር በማለት ሞቃታማ፣ ዝናብ አልባ የአየር ሁኔታ ለመግለፅ ተጠቅሟል፣ ይህም የውሻ ቀናትን ከሚለው አገላለጽ የነሐሴን ደረቅ የአየር ሁኔታ የሚያመለክት ሊሆን ይችላል,እንደ መረጃ አቅራቢው ከሆነ በሞቃትና እርጥብ አየር ሁኔታ ወቅታዊውን ከባድ ዝናብ ለመግለጽ ያገለግል ነበር,contradiction,Contradiction
+አንድ የቴኔሲ መረጃ ሰጭ የውሻ አየር በማለት ሞቃታማ፣ ዝናብ አልባ የአየር ሁኔታ ለመግለፅ ተጠቅሟል፣ ይህም የውሻ ቀናትን ከሚለው አገላለጽ የነሐሴን ደረቅ የአየር ሁኔታ የሚያመለክት ሊሆን ይችላል,ሰኔ እና ሃምሌ ደግሞ በ ቴነሴ በጣም ሞቃት ነው,neutral,"Neutral.
+
+The premise discusses the use of the term ""ውሻ ቀናት"" (dog days) to describe the hot and dry weather in August in Tennessee, but it does not provide information about the weather in June and July. Therefore, the hypothesis about June and July being very hot in Tennessee is not directly supported or contradicted by the premise."
+አንድ የቴኔሲ መረጃ ሰጭ የውሻ አየር በማለት ሞቃታማ፣ ዝናብ አልባ የአየር ሁኔታ ለመግለፅ ተጠቅሟል፣ ይህም የውሻ ቀናትን ከሚለው አገላለጽ የነሐሴን ደረቅ የአየር ሁኔታ የሚያመለክት ሊሆን ይችላል,በነሃሴ ወር  የአየር ሁኔታው ​​​​ሞቃታማ እና ዝናብ የሌለበት ነው,entailment,Entailment

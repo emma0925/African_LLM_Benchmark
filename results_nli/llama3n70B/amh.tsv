@@ -1,0 +1,783 @@
+Unnamed: 0	premise	hypothesis	label	llm	verbalized
+0	እንግዲህ , እኔ ስለ እሱ እያሰብኩኝ አልነበረም , ነገር ግን እኔ በጣም ተስፋ ቆርጨ ነበር, እና, እኔ እንደገና ከእርሱ ጋር ማውራት ጀመርኩ።	እኔ ከእርሱ ጋር ድጋሜ አልተነጋገርኩም።	contradiction	Contradiction	contradiction
+1	እንግዲህ , እኔ ስለ እሱ እያሰብኩኝ አልነበረም , ነገር ግን እኔ በጣም ተስፋ ቆርጨ ነበር, እና, እኔ እንደገና ከእርሱ ጋር ማውራት ጀመርኩ።	እኔ በጣም ስለተበሳጨሁ እንደገና እሱን ማነጋገር ጀመርኩ።	entailment	Entailment	entailment
+2	እንግዲህ , እኔ ስለ እሱ እያሰብኩኝ አልነበረም , ነገር ግን እኔ በጣም ተስፋ ቆርጨ ነበር, እና, እኔ እንደገና ከእርሱ ጋር ማውራት ጀመርኩ።	ጥሩ ንግግር አድርገናል።	neutral	Entailment	entailment
+3	እነርሱ ነገሩኝ፣እም፣እኔ እንደምጠራ በአንድ ሰው በስተመጨረሻ እንዳገኘው ።	ከማንም ጋር ስለመገናኘት የተነገረኝ ምንም ነገር የለም።	contradiction	Entailment	entailment
+4	እነርሱ ነገሩኝ፣እም፣እኔ እንደምጠራ በአንድ ሰው በስተመጨረሻ እንዳገኘው ።	የሆነ ሰው ሊያገኘኝ እንዲመጣ እንደሚጠራ ተነግሮኝ ነበር።	entailment	Entailment.	entailment
+5	እነርሱ ነገሩኝ፣እም፣እኔ እንደምጠራ በአንድ ሰው በስተመጨረሻ እንዳገኘው ።	ሰውየው ትንሽ ዘግይቷል ነው የመጣው ።	neutral	Entailment	entailment
+6	ብዙ ማውራት የምትችልበት  ነገር አለ እርሱን በተመለከተ አልፈዋለሁ።	የማውቀውን ሁሉ ስለዚያ ነገር ልነግርህ እፈልጋለሁ!	contradiction	Entailment	entailment
+7	ብዙ ማውራት የምትችልበት  ነገር አለ እርሱን በተመለከተ አልፈዋለሁ።	ስለዚህ ጉዳይ አላወራም፣ ምንም እንኳን ብዙ የሚሸፈን ነገር ቢኖርም።	entailment	Entailment	entailment
+8	ብዙ ማውራት የምትችልበት  ነገር አለ እርሱን በተመለከተ አልፈዋለሁ።	ስለ ከተማዋ ታሪክ አልናገርም ምክንያቱም ብዙ የሚነገር ነገር ስላለ።	neutral	Entailment	entailment
+9	ስለዚህ ለምን እንደሆነ እኔ እርግጠኛ አይደለሁም።	እኔ ለምን እንደሆነ እርግጠኛ ነኝ።	contradiction	Contradiction.	contradiction
+10	ስለዚህ ለምን እንደሆነ እኔ እርግጠኛ አይደለሁም።	ትምህርት ቤቱን ለምን እንዳዘዋወረ አላውቅም።	neutral	"አስተያየት! (Ah, interesting!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**.
+
+The premise expresses uncertainty or lack of confidence, while the hypothesis also expresses a lack of knowledge or understanding. They don't directly contradict or entail each other, but rather, they both convey a sense of uncertainty or ignorance.
+
+Would you like me to explain further or provide more examples?"	neutral
+11	ስለዚህ ለምን እንደሆነ እኔ እርግጠኛ አይደለሁም።	ይህ የሆነው ለምን እንደሆነ አላውቅም።	entailment	"አስተያየት! (Ah, insight!)
+
+After analyzing the premise and hypothesis, I conclude that it's a case of **entailment**.
+
+The premise states ""I'm not sure why this happened"" (ስለዚህ ለምን እንደሆነ እኔ እርግጠኛ አይደለሁም), and the hypothesis says ""I don't know why this happened"" (ይህ የሆነው ለምን እንደሆነ አላውቅም). The premise implies a lack of knowledge or certainty, which is directly supported by the hypothesis.
+
+So, the relationship between the premise and hypothesis is one of entailment!"	entailment
+12	እኔ ብቻ ነበርኩ አ፣በትንሽ ከፍታ ውስጥ ለ ለሙከራው መቆጣጠሪያዎቹን ያካሄድኩት ።	ለፈታናዎቹ ተቆጣጣሪዎቹን የሚያካሂደው እኔ ብቻ መሆኔን አልወደድኩትም ።	neutral	Entailment	entailment
+13	እኔ ብቻ ነበርኩ አ፣በትንሽ ከፍታ ውስጥ ለ ለሙከራው መቆጣጠሪያዎቹን ያካሄድኩት ።	ሙከራዎች የሚኬሄዱት በትንሽ ከፍታ ክፍሎች ውስጥ ነበር	entailment	Entailment	entailment
+14	እኔ ብቻ ነበርኩ አ፣በትንሽ ከፍታ ውስጥ ለ ለሙከራው መቆጣጠሪያዎቹን ያካሄድኩት ።	ለሙከራው መቆጣጠሪያዎችን የሚያካሂዱ ጥቂቶች ነበርን።	contradiction	Entailment	entailment
+15	ሪክ እንዳለው ፣እኔ አሀ፣ ጡረታ የወጣሁ የጦር መኰንን ነኝ።	እስከ እዚህ ቀን ድረስ እየሰራሁ ነው።	contradiction	Entailment.	entailment
+16	ሪክ እንዳለው ፣እኔ አሀ፣ ጡረታ የወጣሁ የጦር መኰንን ነኝ።	በ2002 ጡረታ ወጣሁ።	neutral	Entailment	entailment
+17	ሪክ እንዳለው ፣እኔ አሀ፣ ጡረታ የወጣሁ የጦር መኰንን ነኝ።	ሪክ ጡረታ እንደወጣሁ ነግሮሃል።	entailment	Entailment	entailment
+18	በጠረጴዛዬ ላይ የተወሰኑ የገንዘብ ፍሰት ትንበያዎች አሉ እና, አም, አሀ, ለዚያ እና ለዚያ የካቲ ነው, የደንበኛው ስም ነው።	ካቲ የተባለው ደንበኛ በወር 10,000 ዶላር ያገኛል።	neutral	Neutral	neutral
+19	በጠረጴዛዬ ላይ የተወሰኑ የገንዘብ ፍሰት ትንበያዎች አሉ እና, አም, አሀ, ለዚያ እና ለዚያ የካቲ ነው, የደንበኛው ስም ነው።	ካቲ የሚባል ደንበኛ አለ።	entailment	Entailment	entailment
+20	በጠረጴዛዬ ላይ የተወሰኑ የገንዘብ ፍሰት ትንበያዎች አሉ እና, አም, አሀ, ለዚያ እና ለዚያ የካቲ ነው, የደንበኛው ስም ነው።	ካቲ ተብሎ የሚጠራ ደንበኛ የለንም።	contradiction	Contradiction.	contradiction
+21	ልትረዳኝ የምትችለው ልጅ ማዶ ከከተማው አቋራጭ ነች።	ለእርዳታ ምፈልጋት ልጅ የምትኖረው ከሩቅ ሩቅ ነው።	entailment	"አስተያየት! (Ah, interesting!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise talks about a child who can be helped being from the city, while the hypothesis discusses the distance being far for the child who needs help. They don't directly contradict or entail each other."	neutral
+22	ልትረዳኝ የምትችለው ልጅ ማዶ ከከተማው አቋራጭ ነች።	እኔ ምትረዳኝ ልጅ 5 ማይል ርቀት ላይ ነች።	neutral	Entailment.	entailment
+23	ልትረዳኝ የምትችለው ልጅ ማዶ ከከተማው አቋራጭ ነች።	ማንም ሊረዳኝ የሚችል የለም ።	contradiction	Contradiction	contradiction
+24	ነገር ግን እንደ የመስክ ሠራተኞች እና የቤት ልጆች ማን እንደሆኑ በሚለው ተከፋፍለው ነበር፣ እሱ እንደዚህ ዓይነት ነበር--	ሁሉም መስክ ላይ ለመሥራት ተስማምተዋል።	contradiction	Entailment	entailment
+25	ነገር ግን እንደ የመስክ ሠራተኞች እና የቤት ልጆች ማን እንደሆኑ በሚለው ተከፋፍለው ነበር፣ እሱ እንደዚህ ዓይነት ነበር--	የመስክ ሠራተኛ ማን እንደሆነና በቤት ውስጥ ማን መሆን እንዳለበት ሊስማሙ አልቻሉም።	entailment	Entailment	entailment
+26	ነገር ግን እንደ የመስክ ሠራተኞች እና የቤት ልጆች ማን እንደሆኑ በሚለው ተከፋፍለው ነበር፣ እሱ እንደዚህ ዓይነት ነበር--	በጥጥ መስክ ውስጥ ማን መሥራት እንዳለበት እና ማን ወለሉን ማጽዳት እንዳለበት መስማማት አልቻሉም።	neutral	Entailment	entailment
+27	ማለቴ ፣እንደ፣ አምስት ልጆች ብቻ ነበሯቸው፣ አንደኛው ሞተ።	ሁሉም ልጆቻቸው በሕይወት ተርፈዋል።	contradiction	Contradiction	contradiction
+28	ማለቴ ፣እንደ፣ አምስት ልጆች ብቻ ነበሯቸው፣ አንደኛው ሞተ።	ከአምስቱ አንዱ ልጅ ሞተ።	entailment	Entailment	entailment
+29	ማለቴ ፣እንደ፣ አምስት ልጆች ብቻ ነበሯቸው፣ አንደኛው ሞተ።	የሞተው ሕፃን የተወለደው በሽተኛ ሆኖ ነበር።	neutral	Entailment	entailment
+30	ከዓይኖቿ እንባ እየወረደ ነው አለች፣ እና ከዚያም ጆ በረንዳው ላይ መጣ አለች።	በረንዳው እንዲወጣ ስትነግረው ዓይኖቿ በእንባ ተሞሉ።	entailment	Entailment	entailment
+31	ከዓይኖቿ እንባ እየወረደ ነው አለች፣ እና ከዚያም ጆ በረንዳው ላይ መጣ አለች።	በፍጥነት እንባዋን አበሰች ጆ ከበረንዳው ላይ ከወረወረችው በኋላ ።	contradiction	Entailment	entailment
+32	ከዓይኖቿ እንባ እየወረደ ነው አለች፣ እና ከዚያም ጆ በረንዳው ላይ መጣ አለች።	በፍጥነት እንባዋን አበሰች ጆ ከበረንዳው ላይ ካታለለችው በኋላ ።	neutral	Entailment.	entailment
+33	አውሮፕላኑ በእሳት ቢያቃጥልም ፣ለምን እሱ፣ እሱ ይሆን አሀ፣ የሚቃጠለውና የሚቀልጠው በሊድ አካል አማካኝነት ሲሆን ይህም ጨረር እንዲወጣ ያደርጋል።	እንዲሁም ጨረሩን በእሳት ጊዜም መቆጣጠር ይቻላል።	neutral	Entailment	entailment
+34	አውሮፕላኑ በእሳት ቢያቃጥልም ፣ለምን እሱ፣ እሱ ይሆን አሀ፣ የሚቃጠለውና የሚቀልጠው በሊድ አካል አማካኝነት ሲሆን ይህም ጨረር እንዲወጣ ያደርጋል።	አውሮፕላኑ ከቃጠለ በኋላ ጨረር ከሊድ አካል ይወጣል።	entailment	Entailment	entailment
+35	አውሮፕላኑ በእሳት ቢያቃጥልም ፣ለምን እሱ፣ እሱ ይሆን አሀ፣ የሚቃጠለውና የሚቀልጠው በሊድ አካል አማካኝነት ሲሆን ይህም ጨረር እንዲወጣ ያደርጋል።	ጨረሩ በእሳት ጊዜ አይወጣም።	contradiction	Contradiction	contradiction
+36	ይህ ከዩናይትድ ስቴትስ አየር ኃይል ጡረታ የወጣው ዋና የጦር መኰንን ክሌም ፍራንሲስ ነኝ።	ዋና መኮንኑ ከአሜሪካ አየር ኃይል ጡረታ ወጥቷል።	entailment	Contradiction	contradiction
+37	ይህ ከዩናይትድ ስቴትስ አየር ኃይል ጡረታ የወጣው ዋና የጦር መኰንን ክሌም ፍራንሲስ ነኝ።	ዋና መኮንኑ ከጥቂት ሳምንታት በፊት ጡረታ ወጥተዋል።	neutral	Entailment	entailment
+38	ይህ ከዩናይትድ ስቴትስ አየር ኃይል ጡረታ የወጣው ዋና የጦር መኰንን ክሌም ፍራንሲስ ነኝ።	የዩኤስ አየር ኃይል ዋና መኮንን ሥራቸውን የጀመሩት በዚህ ሳምንት ነው።	contradiction	Entailment	entailment
+39	ያው በሳምንት ውስጥ ሁለት ወይም ሦስት አውሮፕላኖች የሚደርሱበት ሁኔታ ነው ያለው እና  የት እንደሚበሩ አላውቅም።	በየሳምንቱ ከአንድ በላይ አውሮፕላን ያርፋል።	entailment	Entailment	entailment
+40	ያው በሳምንት ውስጥ ሁለት ወይም ሦስት አውሮፕላኖች የሚደርሱበት ሁኔታ ነው ያለው እና  የት እንደሚበሩ አላውቅም።	የተጨመረው የአውሮፕላን ትራፊክ ችግር ይፈጥራል።	neutral	Entailment	entailment
+41	ያው በሳምንት ውስጥ ሁለት ወይም ሦስት አውሮፕላኖች የሚደርሱበት ሁኔታ ነው ያለው እና  የት እንደሚበሩ አላውቅም።	ምንም ዓይነት አውሮፕላን አይደርስም።	contradiction	"እንኳን! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the premise **contradicts** the hypothesis.
+
+The premise states that there is a situation where two or three airplanes are landing, implying that airplanes do land. However, the hypothesis claims that no type of airplane lands, which directly contradicts the premise."	unknown
+42	እነሱ ቀድሞውኑ የሙሉ ግፊት ልብስ ውስጥ ስልጠና  ወስደዋል እና እኔን የተወሰነ ጊዜ ወስዳብኛል ሙሉ ግፊት ልብስ ውስጥ በተመለከተ ከገባህ ።	የሙሉ ግፊት ልብስ አጠቃቀም ስልጠና ለማጠናቀቅ እስከ ሦስት ወር ይወስዳል።	neutral	Entailment.	entailment
+43	እነሱ ቀድሞውኑ የሙሉ ግፊት ልብስ ውስጥ ስልጠና  ወስደዋል እና እኔን የተወሰነ ጊዜ ወስዳብኛል ሙሉ ግፊት ልብስ ውስጥ በተመለከተ ከገባህ ።	ሙሉ ግፊት ያለው ልብስ ለመጠቀም ስልጠናው ሰፋ ያለ ጊዜ ይወስዳል።	entailment	Entailment.	entailment
+44	እነሱ ቀድሞውኑ የሙሉ ግፊት ልብስ ውስጥ ስልጠና  ወስደዋል እና እኔን የተወሰነ ጊዜ ወስዳብኛል ሙሉ ግፊት ልብስ ውስጥ በተመለከተ ከገባህ ።	በዛሬው ዕለት መጨረሻ ላይ ሙሉ ግፊት ያለው ልብስ ስለመጠቀም ልናሠለጥንዎ እንችላለን።	contradiction	Entailment	entailment
+45	ልናገር እፈልጋለሁ ቦምቡን ይዞ ውደ ውስጥ መግባት አደጋ እንደሌለው ምክንያቱም ምንም ያህል መሬት ጋር ቢጋጭ አይፈነዳም።	ቦምቡ በአውሮፕላኑ አብራሪ አማካኝነት እንዳይሰራ ተደርጎል።	neutral	Entailment	entailment
+46	ልናገር እፈልጋለሁ ቦምቡን ይዞ ውደ ውስጥ መግባት አደጋ እንደሌለው ምክንያቱም ምንም ያህል መሬት ጋር ቢጋጭ አይፈነዳም።	ቦምቡ የሚፈነዳበት ምንም እድል አልነበረም።	entailment	Entailment	entailment
+47	ልናገር እፈልጋለሁ ቦምቡን ይዞ ውደ ውስጥ መግባት አደጋ እንደሌለው ምክንያቱም ምንም ያህል መሬት ጋር ቢጋጭ አይፈነዳም።	ቦምቡ ሊፈነዳ የሚችልበት ከፍተኛ አደጋ ነበር።	contradiction	Contradiction.	contradiction
+48	እና እኔ ለማድረግ እየሞከርኩ ያለሁትን በትክክል ቢመስል።	ይህ ለአንተ ምን እንደሚመስል እርግጠኛ አይደለሁም።	contradiction	Contradiction	contradiction
+49	እና እኔ ለማድረግ እየሞከርኩ ያለሁትን በትክክል ቢመስል።	ግልጽ ነው፣ ይህን ለማድረግ  እየሞከርኩ እንደሆነ ።	entailment	Entailment	entailment
+50	እና እኔ ለማድረግ እየሞከርኩ ያለሁትን በትክክል ቢመስል።	በሚቀጥለው ሳምንት ፕሮጀክቴን ለማጠናቀቅ እየሞከርኩ ነው።	neutral	Entailment.	entailment
+51	ግን ይሁን እንጂ፣ እንስሳቱ ይፈታሉ በየጊዜው፣በተለይም ፍየሎቹ ።	ፍየሎቹ በየቀኑ ከግርግሙ ያመልጡ ነበር።	neutral	Entailment	entailment
+52	ግን ይሁን እንጂ፣ እንስሳቱ ይፈታሉ በየጊዜው፣በተለይም ፍየሎቹ ።	ፍየሎቹ ብዙ ጊዜ ያመልጡ ነበር።	entailment	Entailment.	entailment
+53	ግን ይሁን እንጂ፣ እንስሳቱ ይፈታሉ በየጊዜው፣በተለይም ፍየሎቹ ።	ፍየሎቹ ደህንነታቸው በተጠበቀ ሁኔታ ተይዘዋል።	contradiction	Entailment	entailment
+54	ወደ ውስጥ ስንገባ በሮቹ ተቆልፈው ነበር።	ሁሉም በሮች ተከፍተው ነበሩ።	contradiction	Entailment	entailment
+55	ወደ ውስጥ ስንገባ በሮቹ ተቆልፈው ነበር።	ቁልፎቹን ይዘናቸው ነበር።	neutral	Entailment	entailment
+56	ወደ ውስጥ ስንገባ በሮቹ ተቆልፈው ነበር።	በሮቹ የተቆለፉ ቢሆኑም ወደ ውስጥ ገባን።	entailment	Entailment	entailment
+57	ስለዚህ እኔ ብቻ ጠቅላላ መውሰድ ነበረብኝ እና መሞከር እና  ለመገመት መሞከር እንዳዚያው።	ይህን ጉዳይ ለመፍታት የሚያስፈልጉኝ አጠቃላይ ቁጥሮች ብቻ እንደሆኑ እርግጠኛ ነኝ።	neutral	Entailment	entailment
+58	ስለዚህ እኔ ብቻ ጠቅላላ መውሰድ ነበረብኝ እና መሞከር እና  ለመገመት መሞከር እንዳዚያው።	ሀሳቡ የለኝም በጠቅላላው ያለውን ብቻ ተሰጥቶኝ እባክህን ይህንን ችግር ለመፍታት ተጨማሪ ዝርዝሮችን ስጠኝ።	contradiction	Entailment	entailment
+59	ስለዚህ እኔ ብቻ ጠቅላላ መውሰድ ነበረብኝ እና መሞከር እና  ለመገመት መሞከር እንዳዚያው።	በጠቅላላው ላይ በመመርኮዝ አሰላለሁ።	entailment	Entailment	entailment
+60	ይህ ደግሞ በአብዛኛው ነው እሱም ምክንያቱም የሚከሰተው እናቶቹ አደንዛዥ ዕፅ  ውስጥ ስለሆኑ ነው	እናቶቹ የአደንዛዥ ዕፅ ሱሰኞች ናቸው።	neutral	Entailment	entailment
+61	ይህ ደግሞ በአብዛኛው ነው እሱም ምክንያቱም የሚከሰተው እናቶቹ አደንዛዥ ዕፅ  ውስጥ ስለሆኑ ነው	እናቶቹ ምንም ዓይነት መድኃኒት አልታዘዘላቸውም ወይም መድኃኒት አይወስዱም።	contradiction	Entailment	entailment
+62	ይህ ደግሞ በአብዛኛው ነው እሱም ምክንያቱም የሚከሰተው እናቶቹ አደንዛዥ ዕፅ  ውስጥ ስለሆኑ ነው	እናቶች አደንዛዥ ዕፅ ይወስዳሉ።	entailment	Entailment	entailment
+63	አዎ በጣም ደስ ይላል ዝናብ ዘንቦ ሲሆን	ዝናቡ አይደብረኝም።	neutral	Contradiction	contradiction
+64	አዎ በጣም ደስ ይላል ዝናብ ዘንቦ ሲሆን	ጥሩ እና ዝናባማ ነው።	entailment	Entailment	entailment
+65	አዎ በጣም ደስ ይላል ዝናብ ዘንቦ ሲሆን	ማለቂያ የሌለው የፀሐይ ብርሃን ጋር በጣም መጥፎ ነው።	contradiction	"አዎ! (Ahaha!) 
+
+The answer is: NEUTRAL."	neutral
+66	ኦው የሰው ሕይወት ዋጋው ምን ያህል ነው እና ይቻል ይሆን ወይስ አይቻልም የሆነን ሰው መልሶ እንዲያገግም ማድረግ	ሁሉም ሕይወት የመልሶ ለማገገም እና ለሁለተኛ እድል ለማግኘት ዋጋ አላቸው።	neutral	Entailment	entailment
+67	ኦው የሰው ሕይወት ዋጋው ምን ያህል ነው እና ይቻል ይሆን ወይስ አይቻልም የሆነን ሰው መልሶ እንዲያገግም ማድረግ	ማንም ሰው መልሶ ለማገገም አይገባውም።	contradiction	Contradiction	contradiction
+68	ኦው የሰው ሕይወት ዋጋው ምን ያህል ነው እና ይቻል ይሆን ወይስ አይቻልም የሆነን ሰው መልሶ እንዲያገግም ማድረግ	ማገገም ትተን የቱ ሕይወት ዋጋ ሊሰጠው ይገባዋል። .	entailment	Entailment	entailment
+69	ኦው ወንድም እዚያ ላይ እንግዳ የሆነ የሽቦ ችግር አለብህ	ከዚህ በፊት እንዲህ ዓይነት የሽቦ ችግር አይቼ አላውቅም።	neutral	Entailment	entailment
+70	ኦው ወንድም እዚያ ላይ እንግዳ የሆነ የሽቦ ችግር አለብህ	ችግሩ ሽቦው አይደለም።	contradiction	Contradiction	contradiction
+71	ኦው ወንድም እዚያ ላይ እንግዳ የሆነ የሽቦ ችግር አለብህ	በዚህ ያልተለመደ ሽቦ ምክንያት ችግር አለ።	entailment	Entailment	entailment
+72	ብዙ አዝናኝ ይመስላል ያአ  ይህ ለእኔ አስገራሚ ነው ምን ያህል ብዙ ነገሮችን ይፈቅዳሉ	ምንም አልተደነቅኩም እነሱ የዋህ በመሆናቸው።	contradiction	Contradiction.	contradiction
+73	ብዙ አዝናኝ ይመስላል ያአ  ይህ ለእኔ አስገራሚ ነው ምን ያህል ብዙ ነገሮችን ይፈቅዳሉ	እዚያ ምግብና መጠጥ ይዘህ እንድትሄድ መፍቀዳቸው አስገርሞኛል።	neutral	Entailment.	entailment
+74	ብዙ አዝናኝ ይመስላል ያአ  ይህ ለእኔ አስገራሚ ነው ምን ያህል ብዙ ነገሮችን ይፈቅዳሉ	እኔ የሚገርመኝ ምን ሊያመልጣቸው እንደሚችል ነው።	entailment	Entailment.	entailment
+75	ኦህ ግን ለማንኛውም ለማንኛውም አም ልጆቼ አሁን ሃያ አንድ እና ሃያ አራት ናቸው ስለዚህ አያስፈልገኝም	እኔ አልፈልግም ምክንያቱም ልጆቼ ከሃያ ዓመት በላይ ናቸው።	entailment	Entailment	entailment
+76	ኦህ ግን ለማንኛውም ለማንኛውም አም ልጆቼ አሁን ሃያ አንድ እና ሃያ አራት ናቸው ስለዚህ አያስፈልገኝም	በእድሜ ቅርብ ስለሆኑ ማድረግ ሊኖርብኝ ይችላል፡፡	neutral	Entailment	entailment
+77	ኦህ ግን ለማንኛውም ለማንኛውም አም ልጆቼ አሁን ሃያ አንድ እና ሃያ አራት ናቸው ስለዚህ አያስፈልገኝም	ሁለቱም የአሥር እና የአሥራ አንድ ዓመት ልጆች ስለሆኑ ይህን ማድረግ አለብኝ።	contradiction	Entailment	entailment
+78	አዎ በማንኛውም ጊዜ በሥራ ላይ ሊሆኑ የሚችሉ ሰዎች ወይም ውሳኔ ማድረግ ካለባቸው ውሳኔያቸው ሊደበዝዝ የሚችሉ ሰዎች	አዎ፣ ምርጡን የፍርድ ጥሪ ሰዎች ማድረግ ላይችሉ ይችላሉ።	entailment	Entailment	entailment
+79	አዎ በማንኛውም ጊዜ በሥራ ላይ ሊሆኑ የሚችሉ ሰዎች ወይም ውሳኔ ማድረግ ካለባቸው ውሳኔያቸው ሊደበዝዝ የሚችሉ ሰዎች	አዎ፣ ረሃብ የማይሰማቸው ሰዎች	neutral	Entailment	entailment
+80	አዎ በማንኛውም ጊዜ በሥራ ላይ ሊሆኑ የሚችሉ ሰዎች ወይም ውሳኔ ማድረግ ካለባቸው ውሳኔያቸው ሊደበዝዝ የሚችሉ ሰዎች	አዎን፣ ውሳኔ የማድረግ ችሎታቸው በፍፁም ያልተዳከመ ሰዎች፡፡	contradiction	Entailment	entailment
+81	አይ እነሱ አሁንም እነሱ አሁንም በጉብኝት ላይ ናቸው እነሱ ከ 60 ዎቹ መገባደጃ ጀምሮ በጉብኝት ላይ ናቸው	ከ1970 በፊት ጀምሮ እየጎበኙ ነው።	entailment	Entailment.	entailment
+82	አይ እነሱ አሁንም እነሱ አሁንም በጉብኝት ላይ ናቸው እነሱ ከ 60 ዎቹ መገባደጃ ጀምሮ በጉብኝት ላይ ናቸው	መጎብኘት ይወዳሉ።	neutral	Entailment	entailment
+83	አይ እነሱ አሁንም እነሱ አሁንም በጉብኝት ላይ ናቸው እነሱ ከ 60 ዎቹ መገባደጃ ጀምሮ በጉብኝት ላይ ናቸው	በቅርቡ ጉብኝታቸውን አጠናቀዋል።	contradiction	Entailment	entailment
+84	ኤሮቢክ መስራት የምትችለው እንዴት ነው?	ኤሮቢክስን እንዴት እንደምትሰራ ልታብራራ ትችላለህ?	entailment	Entailment	entailment
+85	ኤሮቢክ መስራት የምትችለው እንዴት ነው?	በኤሮቢክ ላይ ፍላጐት አለኝ ምክንያቱም የተወሰነ የልብና-የደም ቧንቧ እንቅስቃሴ ያስፈልገኛል፡፡	neutral	Entailment	entailment
+86	ኤሮቢክ መስራት የምትችለው እንዴት ነው?	እባካችሁ ስለ ኤሮቢክ ማውራት አቁሙ።	contradiction	Entailment	entailment
+87	ደኅና ይህ ጥሩዉ ነው ስለዚህ ጒዳይ አላሰብኩም ነበር አዎ	ባለፈው ሳምንት የጣልኩት ደደብ ሃሳብ ነው።	contradiction	Neutral	neutral
+88	ደኅና ይህ ጥሩዉ ነው ስለዚህ ጒዳይ አላሰብኩም ነበር አዎ	እሱ ጥሩ ነጥብ ነው።	entailment	Entailment.	entailment
+89	ደኅና ይህ ጥሩዉ ነው ስለዚህ ጒዳይ አላሰብኩም ነበር አዎ	የጠቀስከው አያዎ ጥሩ ነጥብ ነው።	neutral	Entailment	entailment
+90	በሳምንት ሁለት ቀን የቀን እንክብካቤ የሚሰጠው ለአረጋውያን ዜጐች የቀን እንክብካቤ ተብሎ በመጠራት ነው ነገር ግን ወደ አረጋውያን ዜጐች ማዕከል ትሄዳለች።	የቀን እንክብካቤው ለአምስት ዓመት ዕድሜ ላላቸው ልጆች ብቻ በየቀኑ ክፍት ነው።	contradiction	Neutral	neutral
+91	በሳምንት ሁለት ቀን የቀን እንክብካቤ የሚሰጠው ለአረጋውያን ዜጐች የቀን እንክብካቤ ተብሎ በመጠራት ነው ነገር ግን ወደ አረጋውያን ዜጐች ማዕከል ትሄዳለች።	በሳምንት ከሁለት ጊዜ በላይ እንዲሄዱ ይፈቅዳሉ አረጋዊያ ዜጐች ይህንን ማድረግ የሚችሉ ከሆነ።	neutral	Entailment	entailment
+92	በሳምንት ሁለት ቀን የቀን እንክብካቤ የሚሰጠው ለአረጋውያን ዜጐች የቀን እንክብካቤ ተብሎ በመጠራት ነው ነገር ግን ወደ አረጋውያን ዜጐች ማዕከል ትሄዳለች።	አዛውንት ቀን እንክብካቤ ተብሎ ይመላከታል ነገር ግን አዛውንት ማዕከል ተብሎ ይጠራል ።	entailment	Entailment	entailment
+93	ኦው ግባቸው ይህ ነበር	ይህ ነው እርሱ እነሱ ይተጉ የነበሩለት ነገር ።	entailment	"አስተያየት! (Ah, understanding!)
+
+After analyzing the premise and hypothesis, I conclude that the relationship between them is: entailment.
+
+The premise ""ኦው ግባቸው ይህ ነበር"" implies that something happened, and the hypothesis ""ይህ ነው እርሱ እነሱ ይተጉ የነበሩለት ነገር ።"" builds upon that implication, providing more context and details about what happened. Therefore, the hypothesis logically follows from the premise, making it an entailment."	entailment
+94	ኦው ግባቸው ይህ ነበር	እነሱ የፈለጉት ይህ በፍፁም አልነበረም።	contradiction	"አስተያየት! (Ah, understanding!)
+
+The answer is: contradiction."	contradiction
+95	ኦው ግባቸው ይህ ነበር	ግባቸውን አሳኩ።	neutral	Entailment.	entailment
+96	የጦር መሣሪያ ቁጥጥር ማለት ሁለት እጆች መጠቀም ማለት ነው	ግማሾቹ የጦር መሣሪያ በሰህተት መተኮስ የሚከሰተው በአንድ እጅ በመጠቀም ነው።	neutral	Entailment	entailment
+97	የጦር መሣሪያ ቁጥጥር ማለት ሁለት እጆች መጠቀም ማለት ነው	የጦር መሣሪያ ቁጥጥርን ለማስቀጠል ከሁሉ የተሻለው መንገድ ሁለቱንም እግር መጠቀም ነው።	contradiction	Entailment	entailment
+98	የጦር መሣሪያ ቁጥጥር ማለት ሁለት እጆች መጠቀም ማለት ነው	የጦር መሣሪያ ቁጥጥርን ለመለማመድ ከፈለግህ ሁለቱንም እጆችህን ተጠቀም።	entailment	Entailment	entailment
+99	እና አሀ ነገር ግን በድንገት መጣ ከሆነ ቦታ ከየት እንደመጣ አላውቅም ነገር ግን	ከየት እንደመጣ አላውቅም ነገር ግን ፈጣን ነው።	entailment	Entailment	entailment
+100	እና አሀ ነገር ግን በድንገት መጣ ከሆነ ቦታ ከየት እንደመጣ አላውቅም ነገር ግን	በፍጥነት ይመጣል ነገር ግን እኔ ከየት ሊሆን እንደሚችል የሚመጣው አውቃለሁ።	neutral	Entailment	entailment
+101	እና አሀ ነገር ግን በድንገት መጣ ከሆነ ቦታ ከየት እንደመጣ አላውቅም ነገር ግን	እንደ ሞላሰስ ይመጣል እና መቼ እንደሚመጣ በትክክል አውቃለሁ።	contradiction	Entailment	entailment
+102	አይደለም እንዲያውም እኔ እንኳን በደንብ አላውቀውም አይመስለኝም	ስለ እሱ ብዙም አላውቅም።	entailment	Entailment	entailment
+103	አይደለም እንዲያውም እኔ እንኳን በደንብ አላውቀውም አይመስለኝም	እኔ በፍቅር ጉዳይ ላይ አላዋቂ ነኝ።	neutral	Entailment.	entailment
+104	አይደለም እንዲያውም እኔ እንኳን በደንብ አላውቀውም አይመስለኝም	እኔ  ለዓመታት ሳጠናው ቆይቻለሁ።	contradiction	Entailment	entailment
+105	አዎ እሷ ታላቅ ነበረች ታውቃለህ እሷ	እሷ ግሩም  እንደሆነበረች ታውቃለች ብየ አስባለሁ ።	neutral	Entailment	entailment
+106	አዎ እሷ ታላቅ ነበረች ታውቃለህ እሷ	አይደለም እሷ መጥፎ ነበረች።	contradiction	Contradiction.	contradiction
+107	አዎ እሷ ታላቅ ነበረች ታውቃለህ እሷ	አዎ እሷ በጣም ጥሩ ነበረች።	entailment	Entailment.	entailment
+108	አዎን እሱ አሀ እም ኤ አሀ እም ኤ ማጠቢያ እንደ ምትጠቀመው ማግኘትን ብሎ ሀሳብ አቀረበ	የቫኩዩም የመግዛትን ሃሳብ አቀረበ።	contradiction	Entailment	entailment
+109	አዎን እሱ አሀ እም ኤ አሀ እም ኤ ማጠቢያ እንደ ምትጠቀመው ማግኘትን ብሎ ሀሳብ አቀረበ	ማጠቢያ ለማግኘት ሃሳብ አቀረበ።	entailment	Entailment	entailment
+110	አዎን እሱ አሀ እም ኤ አሀ እም ኤ ማጠቢያ እንደ ምትጠቀመው ማግኘትን ብሎ ሀሳብ አቀረበ	ደሙን በመወልወያ ማጽዳት ፈልጐ ነበር።	neutral	Neutral	neutral
+111	በጣም መጥፎ ነው እዚያ ከቤታችን ሦስት ብሎክ ርቆ በሚገኝ አውራ ጐዳና ላይ ተኩስ ነበረ።	ተኩሱ የተከሰተው እኔ ከምኖርበት በጥቂቱ 100 ማይል ርቀት ላይ ነው።	contradiction	Entailment	entailment
+112	በጣም መጥፎ ነው እዚያ ከቤታችን ሦስት ብሎክ ርቆ በሚገኝ አውራ ጐዳና ላይ ተኩስ ነበረ።	ተኩሱ የተካሄደው ቤቴ አቅራቢያ በመሆኑ ወደ ውጭ መውጣት ያስፈራኛል።	neutral	Entailment.	entailment
+113	በጣም መጥፎ ነው እዚያ ከቤታችን ሦስት ብሎክ ርቆ በሚገኝ አውራ ጐዳና ላይ ተኩስ ነበረ።	በቤቴ አቅራቢያ የተኩስ ልውውጥ ተደርጓል፣ በእውነቱ እዚህ አካባቢ ጥሩ አይደለም።	entailment	Entailment	entailment
+114	አሀ-ሀአሀ እሱ እውነት ነው እሱ ነው እሱ አይደለም በእርግጥ አሀ ወጥ	ከአንተ ጋር አልስማማም፣ እሱ በጣም ወጥነት ያለው ነው።	contradiction	"እሱ ነው! (That's it!)
+
+The answer is: neutral."	neutral
+115	አሀ-ሀአሀ እሱ እውነት ነው እሱ ነው እሱ አይደለም በእርግጥ አሀ ወጥ	ስለ ወጥነቱ  ትክክል ሳትሆን አትቀርም ።	neutral	Entailment	entailment
+116	አሀ-ሀአሀ እሱ እውነት ነው እሱ ነው እሱ አይደለም በእርግጥ አሀ ወጥ	በዚህ ረገድ ትክክል ነህ እሱ ወጥ ስላለመሆኑ።	entailment	Entailment	entailment
+117	እዚያ ለመቆየት እየሞከርኩ ነው።	እየመከርኩ ነው ለመቆየት።	entailment	Entailment	entailment
+118	እዚያ ለመቆየት እየሞከርኩ ነው።	የቻልኩትን ሁሉ እያደረግሁ ነው።	neutral	"አስተያየት! (Ah, understanding!)
+
+The answer is: Neutral."	neutral
+119	እዚያ ለመቆየት እየሞከርኩ ነው።	እኔ እተወዋለሁ እና ተመልሸ አልመለከትም።	contradiction	"አስተያየት!
+
+The answer is: entailment."	entailment
+120	የምንገባበት በር ወደ መጪው የቴክኖሎጂ ዘመን ።	ለወደፊቱ ቴክኖሎጂ ዘመን የሚያስፈልጉትን ቅድመ-ሁኔታዎች እየገነባን ነው።	entailment	Entailment	entailment
+121	የምንገባበት በር ወደ መጪው የቴክኖሎጂ ዘመን ።	ትራንዚስተሮችን እንገነባለን፣ ስለዚህ የወደፊት ሕይወታችን በሰው ሰራሽ ልህቀት(ኤአይ) እንዲመራ።	neutral	Entailment	entailment
+122	የምንገባበት በር ወደ መጪው የቴክኖሎጂ ዘመን ።	ቴክኖሎጂው እንዳይሳካለት መከላከል እንፈልጋለን።	contradiction	Entailment.	entailment
+123	ለምሳሌ በከፍተኛ ደረጃ ሁሉም ዘረ መል ወደ  ሐምራዊ ይቀየራሉ።	ቢበዛ ግማሽ የሚሆኑት ዘረ መል ብቻ ወደ ሐምራዊ ሊቀየሩ ይችላሉ።	contradiction	Entailment.	entailment
+124	ለምሳሌ በከፍተኛ ደረጃ ሁሉም ዘረ መል ወደ  ሐምራዊ ይቀየራሉ።	ዘረ መሎቹ ቀልም ሊቀይሩ ይቸላሉ።	entailment	Entailment	entailment
+125	ለምሳሌ በከፍተኛ ደረጃ ሁሉም ዘረ መል ወደ  ሐምራዊ ይቀየራሉ።	አንዳንድ ጊዜ ዘረ መሎቹ ወደ ሰማያዊ ሊቀየሩ ይችላሉ።	neutral	"እንኳን! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is:
+
+neutral"	neutral
+126	ዳንኤል ያሚንስ ጐበዝ ወጣት የሂሳብ ሊቅ ነው።	አቶ ያሚንስ ሂሳብ ላይ በጣም ጥሩ ነው	entailment	Entailment	entailment
+127	ዳንኤል ያሚንስ ጐበዝ ወጣት የሂሳብ ሊቅ ነው።	የአቶ ያሚንስ ትኩረት በአልጀብራ ጂዖሜትሪ ላይ ነው።	neutral	Neutral.	neutral
+128	ዳንኤል ያሚንስ ጐበዝ ወጣት የሂሳብ ሊቅ ነው።	አቶ ያሚንስ ታላቅ አርቲስት ፣ ነገር ግን መጥፎ የሂሳብ ሊቅ ነው።	contradiction	Entailment	entailment
+129	እና ከሆነስ ብዙውን ጊዜ በዚያ ድንበር አቅራቢያ ናቸው?	በድንበር አቅራቢያ በፍፁም እንደማይጓዙ አውቃለሁ።	contradiction	Entailment.	entailment
+130	እና ከሆነስ ብዙውን ጊዜ በዚያ ድንበር አቅራቢያ ናቸው?	ማወቅ እፈልጋለሁ ፣እንግሊዝ ውስጥ ብዙ ጊዜ አሉ?	neutral	The answer is NEUTRAL.	neutral
+131	እና ከሆነስ ብዙውን ጊዜ በዚያ ድንበር አቅራቢያ ናቸው?	ተናጋሪው በድንበሩ አቅራቢያ ምን ያህል ጊዜ እንደሄዱ ማብራሪያ እንዲሰጣቸው ፈልገዋል።	entailment	Entailment	entailment
+132	እና አለ፣እንደማስበው፣ሞለኪውላዊ ፍንጭ እሱም ባዮስፌሩ እራሱን በቋሚነትእየገነባ ነው የዘር ሐረጎችን ለማስፋፋት በሚችለው አገዛዝ ውስጥ።	ባዮስፌሩ ብዙ ይቀየራል።	entailment	Entailment	entailment
+133	እና አለ፣እንደማስበው፣ሞለኪውላዊ ፍንጭ እሱም ባዮስፌሩ እራሱን በቋሚነትእየገነባ ነው የዘር ሐረጎችን ለማስፋፋት በሚችለው አገዛዝ ውስጥ።	ባዮስፌሩ እንደ የሙቀቱ ይቀያየራል።	neutral	Entailment	entailment
+134	እና አለ፣እንደማስበው፣ሞለኪውላዊ ፍንጭ እሱም ባዮስፌሩ እራሱን በቋሚነትእየገነባ ነው የዘር ሐረጎችን ለማስፋፋት በሚችለው አገዛዝ ውስጥ።	ባዮስፌሩ በፍፁም አይለወጥም።	contradiction	Entailment	entailment
+135	አለፍ ስንል ፣በዚህ መጠን አንድ ተራ ክሪስታል ብዙ መረጃዎችን ማስቀመጥ አይችልም።	መደበኛ ክሪስታሎች በጣም ከፍተኛ ጥግግት ያላቸው የመረጃ ማከማቻ መካከለኛ ናቸው።	contradiction	Entailment	entailment
+136	አለፍ ስንል ፣በዚህ መጠን አንድ ተራ ክሪስታል ብዙ መረጃዎችን ማስቀመጥ አይችልም።	መደበኛ ክሪስታሎች ለመረጃ ኢንኮዲንግ በጣም ጠቃሚ አይደሉም።	entailment	Entailment	entailment
+137	አለፍ ስንል ፣በዚህ መጠን አንድ ተራ ክሪስታል ብዙ መረጃዎችን ማስቀመጥ አይችልም።	የሌዘር ጨረር በመጠቀም የጂኦግራፊያዊ መረጃን ለመቅዳት በጣም ጠቃሚ የሆኑ ሌሎች ዓይነት ክሪስታሎች አሉ።	neutral	Neutral.	neutral
+138	በተያያዘ፣አዋቂዎች የቅድመ ትምህርት ቤት ልጆች እንቆቅልሾችን ወይም ሌሎች ተመሳሳይ ስራዎችን እንዲያስተዳድሩ ለመርዳት አንዳንድ ጊዜ እንደሚያደርጉት በማስመሰል ማስተማር አያስፈልጋቸውም።	የቅድመ ትምህርት ቤት ልጆች በተፈጥሯቸው ከማስመሰል ጨዋታ ይልቅ እንቆቅልሾችን በመፍታት የተሻሉ ናቸው።	contradiction	Entailment	entailment
+139	በተያያዘ፣አዋቂዎች የቅድመ ትምህርት ቤት ልጆች እንቆቅልሾችን ወይም ሌሎች ተመሳሳይ ስራዎችን እንዲያስተዳድሩ ለመርዳት አንዳንድ ጊዜ እንደሚያደርጉት በማስመሰል ማስተማር አያስፈልጋቸውም።	የቅድመ ትምህርት ቤት ልጆች እንዴት ማስመሰል እንደሚችሉ ለመማር ብዙ እገዛ አያስፈልጋቸውም።	entailment	Entailment	entailment
+140	በተያያዘ፣አዋቂዎች የቅድመ ትምህርት ቤት ልጆች እንቆቅልሾችን ወይም ሌሎች ተመሳሳይ ስራዎችን እንዲያስተዳድሩ ለመርዳት አንዳንድ ጊዜ እንደሚያደርጉት በማስመሰል ማስተማር አያስፈልጋቸውም።	የቅድመ ትምህርት ቤት ልጆች በራሳቸው እንቆቅልሾችን ለማወቅ አስፈላጊ የቦታ ሞዴሊንግ ክህሎቶች የላቸውም።	neutral	"አስተያየት! (Ah, understanding!)
+
+After analyzing the premise and hypothesis, I conclude that it is a **contradiction**."	contradiction
+141	[ይህች ሀገር] የተፅነሰችው ነጻነትና ሰዎች ሁሉ እኩል ተፈጥረዋል በሚል ሃሳብ ነው።	በማስታዎሻ ስለዚህ  ሃሳብ በበርካታ  ተጨማሪ ሰነዶች ውስጥ ተመዝግቧል።	neutral	Entailment	entailment
+142	[ይህች ሀገር] የተፅነሰችው ነጻነትና ሰዎች ሁሉ እኩል ተፈጥረዋል በሚል ሃሳብ ነው።	አንዳንድ ሰዎች ሁሉም ሰው እኩል ነው ብለው ያምናሉ።	entailment	Entailment	entailment
+143	[ይህች ሀገር] የተፅነሰችው ነጻነትና ሰዎች ሁሉ እኩል ተፈጥረዋል በሚል ሃሳብ ነው።	ይህች ሀገር የተመሰረተው አንዳንድ ሰዎች በተፈጥሮ ከሌሎች የተሻሉ ናቸው በሚል እምነት ላይ ነው።	contradiction	Contradiction.	contradiction
+144	እሱን ይበልጥ ማመስገን ይኖርብኝ ይሆን?	ስለ ውድቀቶቹ ልመታው እንደሚያስፈልገኝ እርግጠኛ ነኝ።	contradiction	Entailment	entailment
+145	እሱን ይበልጥ ማመስገን ይኖርብኝ ይሆን?	እየገመትኩ ነው ከእኔ የበለጠ አድናቆት ያስፈልገው  ይሆን ብዬ እያሰብኩ።	entailment	Entailment	entailment
+146	እሱን ይበልጥ ማመስገን ይኖርብኝ ይሆን?	ይበልጥ ላመሰግነው ይገባ ይሆን ስለ ፒያኖ ጨዋታ ትዕይንቱ ?	neutral	Entailment.	entailment
+147	የሽክርክሪት አውታረ መረብ ንድፈ ሃሳቦች በተለያዩ ልኬቶች ሊገነቡ ይችላሉ።	ሌሎች ልኬቶች የሽክርክሪት አውታረ መረብ ንድፈ ሃሳቦችን ለመገንባት ሊያገለግሉ ይችላሉ።	entailment	Entailment	entailment
+148	የሽክርክሪት አውታረ መረብ ንድፈ ሃሳቦች በተለያዩ ልኬቶች ሊገነቡ ይችላሉ።	የሽክርክሪት አውታረ መረብ ለመረጃ ማከማቻ ቴክኖሎጂዎች በጣም ጠቃሚ ናቸው።	neutral	Entailment	entailment
+149	የሽክርክሪት አውታረ መረብ ንድፈ ሃሳቦች በተለያዩ ልኬቶች ሊገነቡ ይችላሉ።	የሽክርክሪት አውታረ መረብ በተለያዩ ልኬቶች ሊታሰቡ አይችሉም።	contradiction	Contradiction.	contradiction
+150	(በጭንቀት) አይደለም፣ አይደለም፣ እንድትሞት አልፈልግም!	እንድትሞት አልፈልግም!	entailment	Entailment	entailment
+151	(በጭንቀት) አይደለም፣ አይደለም፣ እንድትሞት አልፈልግም!	ብትሞትም ግድ የለኝም!	contradiction	Entailment	entailment
+152	(በጭንቀት) አይደለም፣ አይደለም፣ እንድትሞት አልፈልግም!	አንተ ብትሞት በጣም እበሳጫለሁ።	neutral	Entailment	entailment
+153	መጋቢት 19 ቀን 1875 በካሊፎርኒያ ሳን ጆሴ ውስጥ በአደባባይ ተሰቅሏል።	ካሊፎርኒያ እስከ 1875 መጨረሻዎቹ ድረስ በአደባባይ የሞት ቅጣት ይፈጸም ነበር።	entailment	Entailment	entailment
+154	መጋቢት 19 ቀን 1875 በካሊፎርኒያ ሳን ጆሴ ውስጥ በአደባባይ ተሰቅሏል።	ከተደረጉ ጥፋቶች ሁሉ ነጻ ወጥቶ ወደ መንገዱ ተልኳል።	contradiction	Neutral	neutral
+155	መጋቢት 19 ቀን 1875 በካሊፎርኒያ ሳን ጆሴ ውስጥ በአደባባይ ተሰቅሏል።	በአመፅና በፈረስ ስርቆት ተይዞ በእንጨት ላይ ተሰቅሏል።	neutral	"The premise and hypothesis are in Amharic, a Semitic language spoken in Ethiopia.
+
+After translating and analyzing the premise and hypothesis, I can conclude that they are **neutral**. The premise provides information about an event that occurred on March 19, 1875, in San Jose, California, while the hypothesis describes a completely different scenario involving a tree, a rope, and a bird. There is no logical connection or conflict between the two statements."	neutral
+156	በሁከት አገዛዝ ውስጥ የሚያብረቀርቅ አረንጓዴ ባሕር ይፈስሳል።	ባሕሩ ጥልቅ ሰማያዊ እና እንደ መስታወት ለስላሳ ነበር።	contradiction	"The premise and hypothesis are in Amharic, a Semitic language spoken in Ethiopia.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise talks about a specific phenomenon happening in a certain lake, while the hypothesis describes the lake's characteristics and its state in the past. There is no direct logical connection between the two statements, and they do not contradict or entail each other."	neutral
+157	በሁከት አገዛዝ ውስጥ የሚያብረቀርቅ አረንጓዴ ባሕር ይፈስሳል።	ባሕሩ በጀልባዋ ላይ በሚረጩ ትናንሽ ዓሦች ተሞልቶ ነበር።	neutral	Entailment	entailment
+158	በሁከት አገዛዝ ውስጥ የሚያብረቀርቅ አረንጓዴ ባሕር ይፈስሳል።	ባሕሩ አረንጓዴ ነበር እና አረፋ ይመስል ነበር።	entailment	Entailment	entailment
+159	ሙሉ በሙሉ አዲስ የሆነ የሕግ ሥርዓት ከ1860ዎቹ ሁከት ለመላቀቅ በጉጉት እየተጠባበቀ ነበር።	በ1870ዎቹ ሁሉም የሕግ ሥርዓት ወድቆ አገሪቱ ሙሉ በሙሉ በስርአት አልበኝነት ውስጥ ነበረች።	contradiction	Entailment	entailment
+160	ሙሉ በሙሉ አዲስ የሆነ የሕግ ሥርዓት ከ1860ዎቹ ሁከት ለመላቀቅ በጉጉት እየተጠባበቀ ነበር።	የ1860ዎቹ ዓመታት ግርግር ያለው ጊዜያት ነበሩ።	entailment	Entailment	entailment
+161	ሙሉ በሙሉ አዲስ የሆነ የሕግ ሥርዓት ከ1860ዎቹ ሁከት ለመላቀቅ በጉጉት እየተጠባበቀ ነበር።	አዲሱ የሕግ ሥርዓት የሠራተኛ መብቶችን ለማስፋት ይፈልጋል።	neutral	Entailment	entailment
+162	ማንኛውም የላቀ የአስተሳሰብ ዓይነት እሱ እንደጠቆመው፣ አርኤስቲ በመጀመሪያ የሚገለጠው በማህበራዊ መገናኛ ነው፣ በሕፃኑ እና በባህሉ በእሱ ወይም በእሱዋ ተወካዮች መካከል በጋራ እንቅስቃሴ ውስጥ በሚሳተፉበት ጊዜ።	ልጆች ከፍ ያሉ የአስተሳሰብ ዓይነቶችን የማካፈል አቅም የላቸውም።	contradiction	"እንኳን! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is a **contradiction**.
+
+The premise suggests that every type of thinking is shaped by social and cultural factors, whereas the hypothesis claims that children have the ability to think independently and are not influenced by external factors. These two statements are mutually exclusive, hence the contradiction."	contradiction
+163	ማንኛውም የላቀ የአስተሳሰብ ዓይነት እሱ እንደጠቆመው፣ አርኤስቲ በመጀመሪያ የሚገለጠው በማህበራዊ መገናኛ ነው፣ በሕፃኑ እና በባህሉ በእሱ ወይም በእሱዋ ተወካዮች መካከል በጋራ እንቅስቃሴ ውስጥ በሚሳተፉበት ጊዜ።	ዓሣ ማጥመድ በበርካታ ባህሎች ዘንድ ተወዳጅ የሆነ እንቅስቃሴ ነው።	neutral	Entailment	entailment
+164	ማንኛውም የላቀ የአስተሳሰብ ዓይነት እሱ እንደጠቆመው፣ አርኤስቲ በመጀመሪያ የሚገለጠው በማህበራዊ መገናኛ ነው፣ በሕፃኑ እና በባህሉ በእሱ ወይም በእሱዋ ተወካዮች መካከል በጋራ እንቅስቃሴ ውስጥ በሚሳተፉበት ጊዜ።	የጋራ እንቅስቃሴዎችን ማካፈል አንዳንድ ጊዜ ከፍ ያለ የአስተሳሰብ ዓይነቶችን ለማካፈል ጠቃሚ ነው።	entailment	Entailment	entailment
+165	በአንዳንድ ሰፈሮች ሬዛዶርስ ወይም ሬዛዶራስ፣ የተባሉ መንፈሳዊ መሪዎች ይኖሩ ነበር፤ እነዚህ መሪዎች በቀብር ሥነ ሥርዓቶች፣ በቅዱሳን ቀን ክብረ በዓላት እና ካህኑ በማይገኝበት ጊዜ ሁሉ ማህበረሰቡን በጸሎት ይመራሉ።	ካህናት ያልሆኑ መንፈሳዊ መሪዎች በሁሉም ሰፈሮች አልነበሩም።	contradiction	"እንኳን! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is a **contradiction**.
+
+The premise states that in some places, there were spiritual leaders who guided their communities in certain ways. The hypothesis, on the other hand, claims that there were no spiritual leaders who were not priests in all places. These two statements cannot both be true at the same time, hence the contradiction."	contradiction
+166	በአንዳንድ ሰፈሮች ሬዛዶርስ ወይም ሬዛዶራስ፣ የተባሉ መንፈሳዊ መሪዎች ይኖሩ ነበር፤ እነዚህ መሪዎች በቀብር ሥነ ሥርዓቶች፣ በቅዱሳን ቀን ክብረ በዓላት እና ካህኑ በማይገኝበት ጊዜ ሁሉ ማህበረሰቡን በጸሎት ይመራሉ።	አንዳንድ ሰፈሮች ካህናት ያልሆኑ መንፈሳዊ መሪዎች ነበሯቸው።	entailment	Entailment	entailment
+167	በአንዳንድ ሰፈሮች ሬዛዶርስ ወይም ሬዛዶራስ፣ የተባሉ መንፈሳዊ መሪዎች ይኖሩ ነበር፤ እነዚህ መሪዎች በቀብር ሥነ ሥርዓቶች፣ በቅዱሳን ቀን ክብረ በዓላት እና ካህኑ በማይገኝበት ጊዜ ሁሉ ማህበረሰቡን በጸሎት ይመራሉ።	አንዳንድ መንፈሳዊ መሪዎች ጥቁር ጸጉር ነበራቸው።	neutral	The answer is neutral.	neutral
+168	በማህበራዊ ድራማ ጨዋታም እንዲሁ የተለያዩ ሚናዎችን የመጫወት እና የማስተባበር ዕድሎች ምናልባት ልጆች በሰዎች መካከል በፍላጎቶች፣ በእምነት እና በስሜቶች መካከል ተመሳሳይነቶችን እና ልዩነቶችን እንዲገነዘቡ ይረዳቸዋል።	ሰዎች እንዴት ተመሳሳይ እና የተለያዩ እንደሆኑ ልጆች መማር ይችላሉ።	entailment	Entailment	entailment
+169	በማህበራዊ ድራማ ጨዋታም እንዲሁ የተለያዩ ሚናዎችን የመጫወት እና የማስተባበር ዕድሎች ምናልባት ልጆች በሰዎች መካከል በፍላጎቶች፣ በእምነት እና በስሜቶች መካከል ተመሳሳይነቶችን እና ልዩነቶችን እንዲገነዘቡ ይረዳቸዋል።	ልጆች የተለያዩ ዘሮች ምን ያህል የተለያዩ እንደሆኑ ማየት ይችላሉ።	neutral	Entailment	entailment
+170	በማህበራዊ ድራማ ጨዋታም እንዲሁ የተለያዩ ሚናዎችን የመጫወት እና የማስተባበር ዕድሎች ምናልባት ልጆች በሰዎች መካከል በፍላጎቶች፣ በእምነት እና በስሜቶች መካከል ተመሳሳይነቶችን እና ልዩነቶችን እንዲገነዘቡ ይረዳቸዋል።	ልጆች ምንም ነገር መማር አይችሉም።	contradiction	"እንኳን! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the premise **contradicts** the hypothesis.
+
+The premise suggests that children can learn and develop various skills and values through social drama, whereas the hypothesis states that children cannot learn anything. These two statements are mutually exclusive, making the relationship between them a contradiction."	contradiction
+171	የድህረ-ጦርነቱ የጀርመን ሕገ-መንግስታዊ ሥርዓት፣እሱ፣ የላቀ በጎነት የናዚ አገዛዝ ትልቁ ጉዳት ነበር።	የናዚ አገዛዝ ፈቀደ።	contradiction	Entailment	entailment
+172	የድህረ-ጦርነቱ የጀርመን ሕገ-መንግስታዊ ሥርዓት፣እሱ፣ የላቀ በጎነት የናዚ አገዛዝ ትልቁ ጉዳት ነበር።	የናዚ አገዛዝ የተሳተፉትን ሁሉ ገድሏል።	neutral	Entailment	entailment
+173	የድህረ-ጦርነቱ የጀርመን ሕገ-መንግስታዊ ሥርዓት፣እሱ፣ የላቀ በጎነት የናዚ አገዛዝ ትልቁ ጉዳት ነበር።	የናዚ አገዛዝ አቆመው።	entailment	Entailment	entailment
+174	ሶንጃ ልጅ የሴት ልጇን ቁጣ ማስመሰል ጀመረች።	ማንም የቁጣ ስሜት አልነበረም።	contradiction	Contradiction	contradiction
+175	ሶንጃ ልጅ የሴት ልጇን ቁጣ ማስመሰል ጀመረች።	ሶንጃ ልጅ ነች።	entailment	Entailment	entailment
+176	ሶንጃ ልጅ የሴት ልጇን ቁጣ ማስመሰል ጀመረች።	ሶንጃ ተናዳ ነበር።	neutral	Entailment.	entailment
+177	6 በአምሳ አምስት አመታት የእርስ በእርስ ጦርነቱ ሊደርስ አካባቢ ፣ፍርድ ቤቱ ይህን ሥልጣን በጥቂቱ ተጠቅሞበታል።	ፍርድ ቤቱ የእርስ በእርስ ጦርነቱ ሊደርስ አካባቢ በነበሩት አስርተ ዓመታት ይህንን ሥልጣን አልፎ አልፎ ይጠቀም ነበር።	entailment	Entailment	entailment
+178	6 በአምሳ አምስት አመታት የእርስ በእርስ ጦርነቱ ሊደርስ አካባቢ ፣ፍርድ ቤቱ ይህን ሥልጣን በጥቂቱ ተጠቅሞበታል።	ፍርድ ቤቱ 4 ጊዜ ይህን ሥልጣን ተጠቀሞል የእርስ በእርስ ጦርነቱ ሊደርስ አካባቢ ባሉት በአምሳ አምስት ዓመታት ውስጥ ።	neutral	Entailment	entailment
+179	6 በአምሳ አምስት አመታት የእርስ በእርስ ጦርነቱ ሊደርስ አካባቢ ፣ፍርድ ቤቱ ይህን ሥልጣን በጥቂቱ ተጠቅሞበታል።	ፍርድ ቤቱ ይህን ሥልጣኑን 5 ሚሊዮን ጊዜ ተጠቅሞበታል የእርስ በእርስ ጦርነቱ ሊደርስ አካባቢ ባሉት በአምሳ አምስት ዓመታት ውስጥ ።	contradiction	Entailment	entailment
+180	እኔ አረጋግጥልሀለሁ፣ ጌታዬ፣ ሁሉንም ነገር በሚገባ አውቄያለሁ።	እኔ እየነገርኩህ ነው ስለ ሁሉም ነገር እውቀት እንደተሰጠኝ ።	entailment	Entailment	entailment
+181	እኔ አረጋግጥልሀለሁ፣ ጌታዬ፣ ሁሉንም ነገር በሚገባ አውቄያለሁ።	ስለ መርማሪው ሞት ነው የተነገረኝ።	neutral	Neutral.	neutral
+182	እኔ አረጋግጥልሀለሁ፣ ጌታዬ፣ ሁሉንም ነገር በሚገባ አውቄያለሁ።	ብዙ ዝርዝሮች አሉ ከኔ ተሰውረው የነበሩ።	contradiction	Entailment	entailment
+183	ድምጾቹ ካፒቴን ብለድ በቁጭት የተሞላውን ሃሳቡን አቋረጠው።	ካፒቴን ብሉድ የተረበሸ ሐሳቦቹን ያለእረብሻ ማሰብ ችሏል።	contradiction	Entailment	entailment
+184	ድምጾቹ ካፒቴን ብለድ በቁጭት የተሞላውን ሃሳቡን አቋረጠው።	የካፒቴን ብሉድ ሃሳቦች በአንዳንድ ድምፆች ተቆራርጠዋል።	entailment	Entailment	entailment
+185	ድምጾቹ ካፒቴን ብለድ በቁጭት የተሞላውን ሃሳቡን አቋረጠው።	የቡችላው ጩኸት ካፒቴኑን ከስሜቱ ድንገት አስወጣው።	neutral	Entailment	entailment
+186	ነገር ግን በአጎትህ ቤት በባርቤዶስ ከባሪያ ባልተሻልኩበት ጊዜ፣ በተወሰነ ደግነት እንደተጠቀማችሁኝ መርሳት አልችልም፡፡	በባርቤዶስ ባሪያ ሳለሁ በደግነት ያዝከኝ።	entailment	Entailment	entailment
+187	ነገር ግን በአጎትህ ቤት በባርቤዶስ ከባሪያ ባልተሻልኩበት ጊዜ፣ በተወሰነ ደግነት እንደተጠቀማችሁኝ መርሳት አልችልም፡፡	አንተ ለእኔ በማይታመን ሁኔታ ጨካኝ ነበርክ, እና ከቆሻሻ በባሰ እኔን ትመለከተኝ ነበር፡፡	contradiction	Entailment	entailment
+188	ነገር ግን በአጎትህ ቤት በባርቤዶስ ከባሪያ ባልተሻልኩበት ጊዜ፣ በተወሰነ ደግነት እንደተጠቀማችሁኝ መርሳት አልችልም፡፡	አጎትህ የራሱ ባረገኝ ጊዜ በየቀኑ በጣም ይመታኝ ነበር።	neutral	Entailment	entailment
+189	ከሦስት ኪሎ ሜትር ያልበለጠ ርቀት ላይ የምዕራባዊውን አድማስ የሚሞላ ወጣ ግባ ያለ ደማቅ አረንጓዴ ግድግዳ ነበር።	ለምለም መልክዓ ምድር በእይታ ውስጥ ነበር።	entailment	Neutral	neutral
+190	ከሦስት ኪሎ ሜትር ያልበለጠ ርቀት ላይ የምዕራባዊውን አድማስ የሚሞላ ወጣ ግባ ያለ ደማቅ አረንጓዴ ግድግዳ ነበር።	እየቀረቡት የነበረው ደሴት ሰው አልባ ነበር።	neutral	Entailment.	entailment
+191	ከሦስት ኪሎ ሜትር ያልበለጠ ርቀት ላይ የምዕራባዊውን አድማስ የሚሞላ ወጣ ግባ ያለ ደማቅ አረንጓዴ ግድግዳ ነበር።	በርቀት ምንም ምድር ማየት አልቻሉም፤ ማየት የቻሉት የማያልቅ ውቅያኖስ ብቻ ነበር።	contradiction	Contradiction.	contradiction
+192	እኔ በእነዚህ አረመኔያዊ አካባቢዎች የእርሱ ግርማ መልእክተኛ ነኝ, እና የጌታ ሳንደርላንድ የቅርብ ዘመድ ነኝ፡፡	ግርማዊው መልእክተኞች አሏቸው፤ እኔም ከእነሱ አንዱ ነኝ።	entailment	Entailment	entailment
+193	እኔ በእነዚህ አረመኔያዊ አካባቢዎች የእርሱ ግርማ መልእክተኛ ነኝ, እና የጌታ ሳንደርላንድ የቅርብ ዘመድ ነኝ፡፡	ከሳምንት ገደማ በፊት ግርማዊው ወደዚህ ላኩኝ።	neutral	Entailment	entailment
+194	እኔ በእነዚህ አረመኔያዊ አካባቢዎች የእርሱ ግርማ መልእክተኛ ነኝ, እና የጌታ ሳንደርላንድ የቅርብ ዘመድ ነኝ፡፡	ከግርማዊነቱ ትዕዛዝ አልቀበልም።	contradiction	Entailment	entailment
+195	"""ለአንተ ዕዳ አለብኝ ፤ ወይም እንደዚያ አሰብኩ"" ብሏል።"	ለአንተ ምንም ዕዳ እንዳለበት በፍጹም አላሰበም።	contradiction	Contradiction	contradiction
+196	"""ለአንተ ዕዳ አለብኝ ፤ ወይም እንደዚያ አሰብኩ"" ብሏል።"	አንድ ሳንቲም የሌለው ነጋዴ እንደመሆንህ መጠን ስለሰጠኸው እርዳታ ዕዳ ነበረበት።	neutral	Entailment.	entailment
+197	"""ለአንተ ዕዳ አለብኝ ፤ ወይም እንደዚያ አሰብኩ"" ብሏል።"	የሆነ ነገር ዕዳ እንዳለብህ ተሰምቶት ነበር።	entailment	Entailment	entailment
+198	ከመምጣት ይልቅ የበለጠ ማወቅ ነበረብኝ፣ሰለዚህ በሌሊት ወደ ጃማይካ ቀረብኩ።	ፀሐይ ከጠለቀች በኋላ ወደ ጃማይካ አቅራቢያ ተጓዝኩ።	entailment	Entailment	entailment
+199	ከመምጣት ይልቅ የበለጠ ማወቅ ነበረብኝ፣ሰለዚህ በሌሊት ወደ ጃማይካ ቀረብኩ።	በትልቅ ጀልባ ወደ ጃማይካ ተጓዝኩ።	neutral	Entailment	entailment
+200	ከመምጣት ይልቅ የበለጠ ማወቅ ነበረብኝ፣ሰለዚህ በሌሊት ወደ ጃማይካ ቀረብኩ።	እኔና ባለቤቴ በሰፊ የቀን ብርሃን ጃማይካ ደረስን።	contradiction	Entailment	entailment
+201	ቀን-አልጋው ላይ እዚያ ሲተኛ የብለድ ሃሳቦች በዚህ እና በሌሎች ነገሮች ላይ ነበሩ፡፡	ብለድ በቀን እንቅልፉ ላይ ያለሀሳብ ሕልም ተኝቶ ነበር።	contradiction	Entailment	entailment
+202	ቀን-አልጋው ላይ እዚያ ሲተኛ የብለድ ሃሳቦች በዚህ እና በሌሎች ነገሮች ላይ ነበሩ፡፡	ብለድ ተኝቶ እያሰላሰለ ነበር፡፡	entailment	Entailment	entailment
+203	ቀን-አልጋው ላይ እዚያ ሲተኛ የብለድ ሃሳቦች በዚህ እና በሌሎች ነገሮች ላይ ነበሩ፡፡	ብለድ እናቱን ለመጨረሻ ጊዜ ያየበትን ጊዜ አጥብቆ እያሰበ ነበር።	neutral	Entailment	entailment
+204	እርግጥ ነው, ከዚያም, እኔ ለእናንተ እነግራችኋለሁ፡፡	ደህና ከዚያ ስለእሱ ጉዳይ እነግርሀለሁ፡፡	entailment	Entailment	entailment
+205	እርግጥ ነው, ከዚያም, እኔ ለእናንተ እነግራችኋለሁ፡፡	አንድም ቃል አልናገርህም።	contradiction	Contradiction	contradiction
+206	እርግጥ ነው, ከዚያም, እኔ ለእናንተ እነግራችኋለሁ፡፡	እኔ የምነግርህ ይህን ላለመድገም ቃል ስለገባህ ብቻ ነው።	neutral	Entailment	entailment
+207	አህ! እና ምን መንገድ ሊሆን ይችላል?	አንድ ሰው በየትኛው አቅጣጫ መሄድ እንዳለበት እየጠየቀ ነው።	entailment	Entailment	entailment
+208	አህ! እና ምን መንገድ ሊሆን ይችላል?	ጥያቄውን ያቀረበው ሰው ብቻውን ስለሆነ ሊያማክረው የሚችል ሰው በዙሪያው የለም።	contradiction	Entailment	entailment
+209	አህ! እና ምን መንገድ ሊሆን ይችላል?	ጠያቂው ችኩሎ ነው እና የሚወስደውን መንገድ ወዲያውኑ ማወቅ ይፈልጋል።	neutral	Entailment	entailment
+210	የንጉሡን ተልዕኮ በቀላሉ አልቀበልም።	የንጉሡን ተልዕኮ መስጠቴ ከሥነ ምግባር ደንቦቼ ጋር የሚጋጭ ነው።	neutral	Entailment	entailment
+211	የንጉሡን ተልዕኮ በቀላሉ አልቀበልም።	የንጉሡን ተልዕኮ በጥሞና አሰብኩበት።	entailment	"አስተያየት! (Ah, interesting!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: **contradiction**.
+
+In the premise, it is stated that the king's command was not fulfilled (አልቀበልም), whereas in the hypothesis, it is stated that the king's command was fulfilled (አሰብኩበት). These two statements are mutually exclusive, hence the contradiction."	contradiction
+212	የንጉሡን ተልዕኮ በቀላሉ አልቀበልም።	የንጉሡን ተልዕኮ ለመስጠት ያወጣሁትን የፍቃድ ወረቀት ሳላስበው ፈረምኩት።	contradiction	Entailment	entailment
+213	በችኮላ ማፈግፈግ እንዳለበት ተረዳ።	ለማፈግፈግ ሙሉ ቀን እንዳለው ተገነዘበ።.	contradiction	Entailment.	entailment
+214	በችኮላ ማፈግፈግ እንዳለበት ተረዳ።	ቶሎ እርምጃ መውሰድ እንዳለበት ተገነዘበ።	entailment	Entailment	entailment
+215	በችኮላ ማፈግፈግ እንዳለበት ተረዳ።	በተመሳሳይ ቦታ ቢቈይ ይገኝ ነበር።	neutral	Entailment.	entailment
+216	ሆኖም ባለፉት ሦስት ዓመታት መሆን ያለበትን ሆኗል እና ማደረግ ያለበትን አድርጓል ብላለች፣ አሁን ግን ያለ ምንም የቀደመ ንቀቷ በኀዘን ተናገረች።	ባለፉት ሶስት አመታት ብዙ ወንዶችን መግደሉን አልወደደችም።	neutral	Entailment	entailment
+217	ሆኖም ባለፉት ሦስት ዓመታት መሆን ያለበትን ሆኗል እና ማደረግ ያለበትን አድርጓል ብላለች፣ አሁን ግን ያለ ምንም የቀደመ ንቀቷ በኀዘን ተናገረች።	ስለ ጀብዱዎቹና ስለ ማንነቱ በደስታ ትናገራለች።	contradiction	Neutral	neutral
+218	ሆኖም ባለፉት ሦስት ዓመታት መሆን ያለበትን ሆኗል እና ማደረግ ያለበትን አድርጓል ብላለች፣ አሁን ግን ያለ ምንም የቀደመ ንቀቷ በኀዘን ተናገረች።	አሳዛኝ በሆነ ድምፅ ተናገረች።	entailment	Entailment	entailment
+219	ይህ የአንተ ዓይነት ሰዎች ፋሽን በኋላ እንደሆነ እገምታለሁ።	የናንተ ዓይነት ሰዎች የሚያደርጉት ይህን ነው ብዬ አስባለው።	entailment	Entailment	entailment
+220	ይህ የአንተ ዓይነት ሰዎች ፋሽን በኋላ እንደሆነ እገምታለሁ።	ስለ እናንተ ዓይነት እና ስለ ባህላቸው አንብቤያለሁ።	neutral	Entailment	entailment
+221	ይህ የአንተ ዓይነት ሰዎች ፋሽን በኋላ እንደሆነ እገምታለሁ።	ይህ በእናንተ ዓይነት ሰዎች ዘንድ የተለመደ እንዳልሆነ አድርጌ ወስጄዋለው።	contradiction	Contradiction.	contradiction
+222	መኮሳተሩ ሽፋሽፈቷን አጨማደደው፡፡	በፊቷ ላይ ግዙፍ ፈገግታ ተሰራጭቷል።	contradiction	"አስተያየት! (Ah, understanding!)
+
+After analyzing the premise and hypothesis, I conclude that the relationship between them is:
+
+Neutral"	neutral
+223	መኮሳተሩ ሽፋሽፈቷን አጨማደደው፡፡	በሆዷ ውስጥ የሚያቅለሸልሽ ስሜት ተሰማት።	neutral	"አስነብባል! (I understand!)
+
+After analyzing the premise and hypothesis, I conclude that the relationship between them is: NEUTRAL.
+
+The premise talks about someone (መኮሳተሩ) doing something to someone else (ሽፋሽፈቷን), whereas the hypothesis mentions a feeling (ስሜት) being heard (ተሰማት) in a place (በሆዷ ውስጥ). The two statements seem unrelated, and there is no clear logical connection between them."	neutral
+224	መኮሳተሩ ሽፋሽፈቷን አጨማደደው፡፡	በፊቷ ላይ ቁጭት ነበር።	entailment	Entailment.	entailment
+225	እሷም በብርሃን ዓይኖቿ እያስተዋለችው ነበር፤ ነገር ግን በኀዘን የተዋጠውን ፊቱን ባየች ጊዜ እና ፊቱ ላይ ጠባሳ የፈጠረውን ጥልቅ ቁጭት ስትመለከት የራሷ አገላለጽ ተለወጠ።	ፊቱን ካየች በኋላ አገላለጿ ተቀየረ።	entailment	Entailment	entailment
+226	እሷም በብርሃን ዓይኖቿ እያስተዋለችው ነበር፤ ነገር ግን በኀዘን የተዋጠውን ፊቱን ባየች ጊዜ እና ፊቱ ላይ ጠባሳ የፈጠረውን ጥልቅ ቁጭት ስትመለከት የራሷ አገላለጽ ተለወጠ።	በፊቱ ላይ ያለውን ጭንቀት ስትመለከት ፊቷ ብሩህ ሆነ።	contradiction	Entailment	entailment
+227	እሷም በብርሃን ዓይኖቿ እያስተዋለችው ነበር፤ ነገር ግን በኀዘን የተዋጠውን ፊቱን ባየች ጊዜ እና ፊቱ ላይ ጠባሳ የፈጠረውን ጥልቅ ቁጭት ስትመለከት የራሷ አገላለጽ ተለወጠ።	በእሷ ላይ ተቈጥቶ እንደሆነ አላወቀችም፡፡	neutral	Entailment	entailment
+228	በዝግታ እየተራመደ በተመሸገው ግድግዳ ጥግ ጥግ ሄዶ በታላቁ መግቢያ አልፎ ወደ ግቢው ገባ።	ታላላቆቹ መግቢያዎች ተቆልፈው ስለነበር በአጥሩ ላይ ዘሎ ወደ ቅጥር ግቢው ገባ።	contradiction	Neutral	neutral
+229	በዝግታ እየተራመደ በተመሸገው ግድግዳ ጥግ ጥግ ሄዶ በታላቁ መግቢያ አልፎ ወደ ግቢው ገባ።	ታላቁ መግቢያዎች የግቢው ብቸኛ መግቢያ ነበሩ።	neutral	Entailment	entailment
+230	በዝግታ እየተራመደ በተመሸገው ግድግዳ ጥግ ጥግ ሄዶ በታላቁ መግቢያ አልፎ ወደ ግቢው ገባ።	ወደ ግቢው የሚያደርሱ ትላልቅ መግቢያዎች ነበሩ።	entailment	Entailment	entailment
+231	ወደ መሰቀያ ስፍራ ታደርሰዋልህ፣ ምንም ጥርጥር የለውም፣ በንቀት ተናግሯል።	አንድ ሰው በእንጨት ላይ እንደሚሰቀል አስቦ ነበር።	entailment	Entailment	entailment
+232	ወደ መሰቀያ ስፍራ ታደርሰዋልህ፣ ምንም ጥርጥር የለውም፣ በንቀት ተናግሯል።	ሌባውን የያዘዉ የፖሊስ መኮንን እሱ ነበር።	neutral	Neutral	neutral
+233	ወደ መሰቀያ ስፍራ ታደርሰዋልህ፣ ምንም ጥርጥር የለውም፣ በንቀት ተናግሯል።	ከእስር ለመዳን ከአገር የሚያመልጥበትን መንገድ በሹክሹክታ ተናገረ።	contradiction	"አመሰግናል! (You're welcome!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise talks about someone being sent to a place (መሰቀያ ስፍራ) and there being no obstacle (ጥርጥር), while the hypothesis mentions a way to escape from prison (ከእስር ለመዳን) using a certain method (በሹክሹክታ). The two statements don't seem to be directly related or contradictory, so I'd classify the relationship as neutral."	neutral
+234	በታማኝነት እንዴት ላስራቸው እችል ነበር? በድርድር ላይ ነበር።	እነሱን በቍጥጥር ሥር ወደማዋል እራሴን ማምጣት አልቻልኩም፡፡	entailment	"አስተያየት! (Ah, understanding!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is:
+
+Neutral"	neutral
+235	በታማኝነት እንዴት ላስራቸው እችል ነበር? በድርድር ላይ ነበር።	ባየኋቸው ቅጽበት በቍጥጥር ሥር አውላቸዋለሁ።	contradiction	Neutral.	neutral
+236	በታማኝነት እንዴት ላስራቸው እችል ነበር? በድርድር ላይ ነበር።	አዘግይቻቸው ቢሆን ኖሮ ራሴን ይቅር አልልም ነበር።	neutral	"አስተያየት! (Ah, interesting!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise talks about something being possible (እችል ነበር) due to a certain situation (በድርድር ላይ ነበር), while the hypothesis discusses a hypothetical scenario (አዘግይቻቸው ቢሆን) and its potential consequence (ራሴን ይቅር አልልም ነበር). The two statements don't seem to directly support or contradict each other."	neutral
+237	ባለፈው ዓመት እሱን እያሳደድኩት ነው።	እሱ ሳያውቅ ለአንድ ዓመት ያህል በቅርበት እከታተለው ነበር።	neutral	Entailment	entailment
+238	ባለፈው ዓመት እሱን እያሳደድኩት ነው።	ለአንድ ሳምንት የሚጠጋ ያህል ብቻ ነው የተከታተልኩት።	contradiction	"አስተያየት! (Ah, interesting!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise talks about something that happened last year, while the hypothesis mentions something that happens for one week, which seems unrelated to the premise. There is no clear connection or contradiction between the two statements."	contradiction
+239	ባለፈው ዓመት እሱን እያሳደድኩት ነው።	ባለፈው ዓመት ውስጥ እሱን እየተከታተልኩ ነበር፡፡	entailment	Entailment	entailment
+240	ሙዚየሙ በካታሎጎች ወይም በመለያዎች ላይ ጠንካራ አይደለም።	ሙዚየሙ መሰየሙን አይወድም።	neutral	Entailment	entailment
+241	ሙዚየሙ በካታሎጎች ወይም በመለያዎች ላይ ጠንካራ አይደለም።	ሙዚየሙ የብሮሸሮች አድናቂ አይደለም።	entailment	Entailment	entailment
+242	ሙዚየሙ በካታሎጎች ወይም በመለያዎች ላይ ጠንካራ አይደለም።	የሙዚየሙ ጠንካራ ነጥብ ካታሎጎቹ ናቸው።	contradiction	Contradiction.	contradiction
+243	እነዚህ ክፍት አየር ገበያዎች እራሱ በቤጂንግ ውስጥ ለመግዛት በጣም የሚስቡ ቦታዎች ናቸው።	ቤጂንግ በጣም የሚስቡ ሱቆችን ያካተቱ ክፍት-አየር ገበያዎች አሏት።	entailment	Entailment	entailment
+244	እነዚህ ክፍት አየር ገበያዎች እራሱ በቤጂንግ ውስጥ ለመግዛት በጣም የሚስቡ ቦታዎች ናቸው።	በቤጂንግ ያሉት ክፍት አየር ገበያዎች በዓለም ላይ በጣም የሚስቡ ናቸው።	neutral	Entailment	entailment
+245	እነዚህ ክፍት አየር ገበያዎች እራሱ በቤጂንግ ውስጥ ለመግዛት በጣም የሚስቡ ቦታዎች ናቸው።	የቤጂንግ ጥብቅ ህጎች በከተማው ገደብ ውስጥ ክፍት የአየር ገበያዎችን ይከለክላሉ።	contradiction	Entailment	entailment
+246	በሰሜን ምዕራብ ጠረፍ ላይ ያለው ትልቁ የባሕር ወሽመጥ ጥሩ ወደብ ያደርገዋል፣ ግን ውኃውም ሆነ የባሕር ዳርቻው ቆሻሻ ሊሆኑ ይችላሉ፡፡	ውኃው እና የባሕር ዳርቻው ሁል ጊዜ ንጹሕ ናቸው፡፡	contradiction	"እንኳን! (Hello!)
+
+After analyzing the premise and hypothesis, I can conclude that the relationship between them is:
+
+contradiction"	contradiction
+247	በሰሜን ምዕራብ ጠረፍ ላይ ያለው ትልቁ የባሕር ወሽመጥ ጥሩ ወደብ ያደርገዋል፣ ግን ውኃውም ሆነ የባሕር ዳርቻው ቆሻሻ ሊሆኑ ይችላሉ፡፡	ውኃው እና የባሕር ዳርቻው ቆሻሻ ሊሆኑ ይችላሉ።	entailment	Entailment	entailment
+248	በሰሜን ምዕራብ ጠረፍ ላይ ያለው ትልቁ የባሕር ወሽመጥ ጥሩ ወደብ ያደርገዋል፣ ግን ውኃውም ሆነ የባሕር ዳርቻው ቆሻሻ ሊሆኑ ይችላሉ፡፡	ውሃው ከብክለት የተነሳ ቆሻሻ ነው።	neutral	Entailment	entailment
+249	እነዚያ ሰማይ ጠቀስ ፎቆች ባንኮች ሲሆኑ የቆሙበት ጎዳና ሚላ ደ ኦሮ ወይም ወርቃማ ማይል የሚል ቅጽል ስም ተሰጥቶታል።	በወርቃማው ማይል ላይ ከሚገኙት ሰማይ ጠቀስ ሕንጻዎች መካከል አንዳቸውም ባንኮች አይደሉም።	contradiction	Contradiction.	contradiction
+250	እነዚያ ሰማይ ጠቀስ ፎቆች ባንኮች ሲሆኑ የቆሙበት ጎዳና ሚላ ደ ኦሮ ወይም ወርቃማ ማይል የሚል ቅጽል ስም ተሰጥቶታል።	በወርቃማው ማይል ላይ ያሉት ሰማይ ጠቀስ ሕንጻዎች ባንኮች ናቸው።	entailment	Entailment	entailment
+251	እነዚያ ሰማይ ጠቀስ ፎቆች ባንኮች ሲሆኑ የቆሙበት ጎዳና ሚላ ደ ኦሮ ወይም ወርቃማ ማይል የሚል ቅጽል ስም ተሰጥቶታል።	በወርቃማው ማይል ላይ ያሉ ሰማይ ጠቀስ ሕንጻዎች ባንኮችን ጨምሮ የተለያዩ የንግድ ዓይነቶች ናቸው፡፡	neutral	Entailment	entailment
+252	በሁለተኛው የዓለም ጦርነት የተካፈሉት የብሪታንያ ኮመንዌልዝ የአየር ማሰልጠኛ እቅድ ነበር፤ ይህ እቅድ አውሮፕላን አብራሪዎችን ለጦርነት ለማዘጋጀት ካናዳ ውስጥ ያለውን ደህንነቱ የተጠበቀ አየር ይጠቀም ነበር።	ካናዳ የበለጠ አስተማማኝ ሰማይ ነበራት።	entailment	Entailment	entailment
+253	በሁለተኛው የዓለም ጦርነት የተካፈሉት የብሪታንያ ኮመንዌልዝ የአየር ማሰልጠኛ እቅድ ነበር፤ ይህ እቅድ አውሮፕላን አብራሪዎችን ለጦርነት ለማዘጋጀት ካናዳ ውስጥ ያለውን ደህንነቱ የተጠበቀ አየር ይጠቀም ነበር።	የካናዳ ሰማይ ከሚሳኤሎች ነጻ ነበር።	neutral	"እንኳን! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is:
+
+contradiction"	contradiction
+254	በሁለተኛው የዓለም ጦርነት የተካፈሉት የብሪታንያ ኮመንዌልዝ የአየር ማሰልጠኛ እቅድ ነበር፤ ይህ እቅድ አውሮፕላን አብራሪዎችን ለጦርነት ለማዘጋጀት ካናዳ ውስጥ ያለውን ደህንነቱ የተጠበቀ አየር ይጠቀም ነበር።	የካናዳ ሰማይ ይበልጥ አደገኛ ነበር፡፡	contradiction	Entailment	entailment
+255	እናም ቈንጆ የባሕር ዳርቻቸው ከእንግዲህ የእነሱ ብቻ አለመሆኑን ቢያውቁም መቻቻል እና አጋዥ ሆነው ይቆያሉ፡፡	የባህር ዳርቻውን መጋራት ስላለባቸው አሁን ለሁሉም ሰው መራራ እና ቅር የሚያሰኙ ናቸው፡፡	contradiction	Entailment	entailment
+256	እናም ቈንጆ የባሕር ዳርቻቸው ከእንግዲህ የእነሱ ብቻ አለመሆኑን ቢያውቁም መቻቻል እና አጋዥ ሆነው ይቆያሉ፡፡	አሁን የባህር ዳርቻውን ከሌሎች ሰዎች ጋር መጋራት አለባቸው.	entailment	Entailment	entailment
+257	እናም ቈንጆ የባሕር ዳርቻቸው ከእንግዲህ የእነሱ ብቻ አለመሆኑን ቢያውቁም መቻቻል እና አጋዥ ሆነው ይቆያሉ፡፡	ቀደም ሲል የአምስት መቶ ማይል የባህር ዳርቻ ግንባር ነበራቸው።	neutral	Entailment	entailment
+258	ኩብላይ ካን የራሱን ሃብት በ 1279 በቤጂንግ ቤይሃይ ሐይቅ ዳርቻ ላይ አቋቋመ፣ አንዳንድ የንጉሠ ነገሥቱ ሀብቶች ዛሬም ድረስ ለእይታ ይቀርባሉ፡፡	ኩብላይ ካን በታይዋን ሃብት አቋቋመ።	contradiction	Entailment	entailment
+259	ኩብላይ ካን የራሱን ሃብት በ 1279 በቤጂንግ ቤይሃይ ሐይቅ ዳርቻ ላይ አቋቋመ፣ አንዳንድ የንጉሠ ነገሥቱ ሀብቶች ዛሬም ድረስ ለእይታ ይቀርባሉ፡፡	ኩብላይ ካን በቤጂንግ ውስጥ ትልቅ ሀብት አለው።	entailment	Entailment	entailment
+260	ኩብላይ ካን የራሱን ሃብት በ 1279 በቤጂንግ ቤይሃይ ሐይቅ ዳርቻ ላይ አቋቋመ፣ አንዳንድ የንጉሠ ነገሥቱ ሀብቶች ዛሬም ድረስ ለእይታ ይቀርባሉ፡፡	ኩብላይ ካን በጣም የተከበረ ሰው ነበር።	neutral	Entailment	entailment
+261	ከአንግሎ ማህበረሰብ ጋር በቀላሉ መቀላቀል የፕሮቴስታንት ትምህርት ቤቶች ብቻ ልጆቻቸውን ተቀበሉ የምሥራቅ አውሮፓ አይሁዶች ወደ ሀብታም ዌስትማውንት ተመርቀዋል ወይም እንደገና ወደ ቶሮንቶ ተሰደዋል፡፡	የምስራቅ አውሮፓ አይሁዶች ከሁሉም ሰው ጋር በደንብ ይዋሃዳሉ፡፡	contradiction	Entailment	entailment
+262	ከአንግሎ ማህበረሰብ ጋር በቀላሉ መቀላቀል የፕሮቴስታንት ትምህርት ቤቶች ብቻ ልጆቻቸውን ተቀበሉ የምሥራቅ አውሮፓ አይሁዶች ወደ ሀብታም ዌስትማውንት ተመርቀዋል ወይም እንደገና ወደ ቶሮንቶ ተሰደዋል፡፡	አይሁዶች በቀሪው የህብረተሰብ ክፍል አይፈለጉም።	neutral	Entailment	entailment
+263	ከአንግሎ ማህበረሰብ ጋር በቀላሉ መቀላቀል የፕሮቴስታንት ትምህርት ቤቶች ብቻ ልጆቻቸውን ተቀበሉ የምሥራቅ አውሮፓ አይሁዶች ወደ ሀብታም ዌስትማውንት ተመርቀዋል ወይም እንደገና ወደ ቶሮንቶ ተሰደዋል፡፡	አይሁዶች ከአንግሎ ማህበረሰብ ጋር በቀላሉ ተቀላቅለዋል።	entailment	Entailment	entailment
+264	የሚቻል ከሆነ ከሴራው ጋር አስቀድመው ይተዋወቁ።	አስቀድመው ወደ ሴራው ውስጥ አይግቡ; በኋላ ደስታን ያበላሻል፡፡	contradiction	Entailment	entailment
+265	የሚቻል ከሆነ ከሴራው ጋር አስቀድመው ይተዋወቁ።	ከቻልክ ሴራውን አስቀድመህ ለመረዳት ሞክር።	entailment	Entailment	entailment
+266	የሚቻል ከሆነ ከሴራው ጋር አስቀድመው ይተዋወቁ።	የመጽሐፉን ሴራ ከተረዱት ትምህርቱ ቀላል ይሆንላችኋል።	neutral	"አስተያየት! (Ah, consideration!)
+
+After analyzing the premise and hypothesis, I conclude that the relationship between them is:
+
+Neutral"	neutral
+267	ከመሬት በታች 27 ሜትር( 88 ጫማ) ጥልቀት ያላቸው የመቃብር ዋልታዎች ከዕብነ በረድ የተሠሩ ሲሆን 1,200 ካሬ ሜትር( 13,000 ካሬ ጫማ) ይሸፍናል፡፡	ከ20 ሜትር በላይ መሬት ውስጥ ተቀብሮ ይገኛል።	entailment	Entailment	entailment
+268	ከመሬት በታች 27 ሜትር( 88 ጫማ) ጥልቀት ያላቸው የመቃብር ዋልታዎች ከዕብነ በረድ የተሠሩ ሲሆን 1,200 ካሬ ሜትር( 13,000 ካሬ ጫማ) ይሸፍናል፡፡	እሱ አስፈላጊ የህዝብ ሰው ነበር።	neutral	Neutral	neutral
+269	ከመሬት በታች 27 ሜትር( 88 ጫማ) ጥልቀት ያላቸው የመቃብር ዋልታዎች ከዕብነ በረድ የተሠሩ ሲሆን 1,200 ካሬ ሜትር( 13,000 ካሬ ጫማ) ይሸፍናል፡፡	የእሱ የመቃብር ዋሻ ከእንጨት የተሠሩ ናቸው፡፡	contradiction	Entailment	entailment
+270	ሁሉም ተንቀሳቃሽ ንብረቶች ከዝንጀሮዎቹ እንዲደበቁ ያስታውሱ።	ንብረቶቻችሁን ከዝንጀሮዎቹ ደብቁ።	entailment	Entailment	entailment
+271	ሁሉም ተንቀሳቃሽ ንብረቶች ከዝንጀሮዎቹ እንዲደበቁ ያስታውሱ።	ዝንጀሮዎቹ በብዙ ነገሮች ላይ ከፍተኛ ፍላጐት አላቸው፣ ንብረታችሁን ጨምሮ።	neutral	Entailment	entailment
+272	ሁሉም ተንቀሳቃሽ ንብረቶች ከዝንጀሮዎቹ እንዲደበቁ ያስታውሱ።	ንብረቶቻችሁን ከዝንጀሮዎች መደበቅ አያስፈልግም፡፡	contradiction	"አስተያየት! (Ah, understanding!)
+
+After analyzing the premise and hypothesis, I conclude that it's a **contradiction**."	contradiction
+273	የእስቴ ቤተ መንግሥት ከመገንባቱ ከተወሰኑ 1,400 ዓመታት በፊት ሚልሬውእራሱ የአንድ የታዋቂ ሰው ትልቅ ቤት ነበር።	ሚልሬው ከማንኛውም ነገር 10 ማይል ርቆ ነበር።	neutral	Neutral.	neutral
+274	የእስቴ ቤተ መንግሥት ከመገንባቱ ከተወሰኑ 1,400 ዓመታት በፊት ሚልሬውእራሱ የአንድ የታዋቂ ሰው ትልቅ ቤት ነበር።	ሚልሬው ከሀገር ውስጥ ውጪ ነበር፡፡	entailment	Entailment	entailment
+275	የእስቴ ቤተ መንግሥት ከመገንባቱ ከተወሰኑ 1,400 ዓመታት በፊት ሚልሬውእራሱ የአንድ የታዋቂ ሰው ትልቅ ቤት ነበር።	ሚልሬው በከተማዋ እምብርት ውስጥ ነበር።	contradiction	Entailment.	entailment
+276	የባህር ሙቀት በ18e እና 24e ሴ (64-75e ፋ) መካከል ይቀያየራል።	የባህር ሙቀት ሁልጊዜ ይለዋወጣል, ነገር ግን የማቀዝቀዣ አየር ንበረት በታች አይሄዱም፡፡	entailment	Entailment.	entailment
+277	የባህር ሙቀት በ18e እና 24e ሴ (64-75e ፋ) መካከል ይቀያየራል።	የባህር አየር ሁኔታ ሁል ጊዜ ዓመቱን ሙሉ በአንድ ቋሚ ቦታ ላይ ነው።	contradiction	Entailment	entailment
+278	የባህር ሙቀት በ18e እና 24e ሴ (64-75e ፋ) መካከል ይቀያየራል።	የባህር አየር ሁኔታ ቀን ላይ ከፍ ያለ ነው፣ ሞቃታማ በሚሆንበት ጊዜ፡፡	neutral	Entailment	entailment
+279	የኪናባሉ ብሔራዊ ፓርክ በግዛቱ ከሚገኙ ስድስት የተጠበቊ ክልሎች አንዱ ነው፡፡	የኪናባሉ ብሔራዊ ፓርክ አሥር ዝሆኖች እና ስድስት አውራሪሶች አሉት።	neutral	Entailment	entailment
+280	የኪናባሉ ብሔራዊ ፓርክ በግዛቱ ከሚገኙ ስድስት የተጠበቊ ክልሎች አንዱ ነው፡፡	ግዛቱ የኪናባሉ ብሔራዊ ፓርክን ጨምሮ የተጠበቊ ክልሎች አሉት፡፡	entailment	Entailment	entailment
+281	የኪናባሉ ብሔራዊ ፓርክ በግዛቱ ከሚገኙ ስድስት የተጠበቊ ክልሎች አንዱ ነው፡፡	በግዛቱ ውስጥ በአጠቃላይ ሦስት የተጠበቁ ክልሎች አሉ፡፡	contradiction	Entailment.	entailment
+282	የወቅቱን ፎቶግራፎች እና ቅርሶች ጨምሮ የአን ታሪክ እና የአምስተርዳም ወረራ ቪዲዮዎችን ያያሉ።	ፎቶግራፎችን አታዩም።	contradiction	Contradiction	contradiction
+283	የወቅቱን ፎቶግራፎች እና ቅርሶች ጨምሮ የአን ታሪክ እና የአምስተርዳም ወረራ ቪዲዮዎችን ያያሉ።	ፎቶግራፎችን ታያለህ።	entailment	Entailment	entailment
+284	የወቅቱን ፎቶግራፎች እና ቅርሶች ጨምሮ የአን ታሪክ እና የአምስተርዳም ወረራ ቪዲዮዎችን ያያሉ።	የተወሰኑ የመጀመሪያዎቹን ፎቶግራፎች ታያላችሁ።	neutral	Entailment	entailment
+285	ትሬዠር የባህር ዳርቻ ለመናገር ብቸኛው የመዝናኛ ቦታ ነው፣ በሦስት አሸዋማ የባሕር ወሽመጦች ላይ የተዘረጉ በጣት የሚቆጠሩ ሆቴሎች ያሉት ብቸኛው የመዝናኛ ስፍራ ነው፡፡	ትሬዘር የባህር ዳርቻን ለሚጎበኙ ሰዎች ብዙ የሆቴል አማራጮች የሉም።	entailment	Contradiction.	contradiction
+286	ትሬዠር የባህር ዳርቻ ለመናገር ብቸኛው የመዝናኛ ቦታ ነው፣ በሦስት አሸዋማ የባሕር ወሽመጦች ላይ የተዘረጉ በጣት የሚቆጠሩ ሆቴሎች ያሉት ብቸኛው የመዝናኛ ስፍራ ነው፡፡	ትሬዠር የባህር ዳርቻን ለሚጎበኙ ቱሪስቶች አንድ ባለ አራት ኮከብ ሆቴል ይገኛል።	neutral	Entailment	entailment
+287	ትሬዠር የባህር ዳርቻ ለመናገር ብቸኛው የመዝናኛ ቦታ ነው፣ በሦስት አሸዋማ የባሕር ወሽመጦች ላይ የተዘረጉ በጣት የሚቆጠሩ ሆቴሎች ያሉት ብቸኛው የመዝናኛ ስፍራ ነው፡፡	ትሬዠር የባህር ዳርቻ በአካባቢው ካሉ በርካታ የመዝናኛ ቦታዎች አንዱ ነው፡፡	contradiction	Entailment	entailment
+288	የበጋ ወቅት ሞቅ ያለ( ግን ሞቃት ያልሆነ) የአየር ሁኔታ እና ሞቃታማ የባሕር ሙቀትን ያመጣል፣ ይህም ለመጥለቅ፣ ለመስጠም እና ለሌሎች የውኃ ስፖርቶች ተስማሚ ያደርገዋል፡፡	በበጋ ወቅት ሁል ጊዜ 100 ዲግሪ ወይም ከዚያ በላይ ሞቃት ነው፡፡	contradiction	"እንኳን! (Hello!)
+
+After analyzing the premise and hypothesis, I can conclude that the relationship between them is:
+
+contradiction"	contradiction
+289	የበጋ ወቅት ሞቅ ያለ( ግን ሞቃት ያልሆነ) የአየር ሁኔታ እና ሞቃታማ የባሕር ሙቀትን ያመጣል፣ ይህም ለመጥለቅ፣ ለመስጠም እና ለሌሎች የውኃ ስፖርቶች ተስማሚ ያደርገዋል፡፡	አብዛኛውን ጊዜ በበጋ 75 ነው።	neutral	Neutral	neutral
+290	የበጋ ወቅት ሞቅ ያለ( ግን ሞቃት ያልሆነ) የአየር ሁኔታ እና ሞቃታማ የባሕር ሙቀትን ያመጣል፣ ይህም ለመጥለቅ፣ ለመስጠም እና ለሌሎች የውኃ ስፖርቶች ተስማሚ ያደርገዋል፡፡	በበጋ ወቅት ሞቃት አየር ንብረት ነው።	entailment	Entailment	entailment
+291	ከኩሬዎቹ መካከል ጎብኚዎች ከኤሊ ጭንቅላት ላይ ለማንጠር በማሰብ ሳንቲሞች የሚወረውሩበት አንዱ ሲሆን ይህም ጥሩ ዕድል ለማግኘት የሚያስችል አስተማማኝ መንገድ ነው።	ሰዎች በጭራሽ ገንዘብ ወደውስጥ አይወረውሩም ምክንያቱም መጥፎ እድል ነው፡፡	contradiction	Contradiction.	contradiction
+292	ከኩሬዎቹ መካከል ጎብኚዎች ከኤሊ ጭንቅላት ላይ ለማንጠር በማሰብ ሳንቲሞች የሚወረውሩበት አንዱ ሲሆን ይህም ጥሩ ዕድል ለማግኘት የሚያስችል አስተማማኝ መንገድ ነው።	ሰዎች ሳንቲሞችን ወደውስጥ ይወረውራሉ ምንም እንኳን ምልክቱ እንዳያደርግ ቢናገርም።	neutral	Entailment	entailment
+293	ከኩሬዎቹ መካከል ጎብኚዎች ከኤሊ ጭንቅላት ላይ ለማንጠር በማሰብ ሳንቲሞች የሚወረውሩበት አንዱ ሲሆን ይህም ጥሩ ዕድል ለማግኘት የሚያስችል አስተማማኝ መንገድ ነው።	ሰዎች ሳንቲሞችን ወደውኃ ውስጥ ይወረውራሉ።	entailment	Entailment.	entailment
+294	የናፍፕሊዮ የወደብ ከተማ አካባቢውን ለመጎብኘት ትክክለኛውን መሰረት ያደረገ ነው, ወይም በጉብኝትዎ ላይ ምሳ ለመመገብ የሚያስችል ቦታ ሊሆን ይችላል::	ናፍፒሊዮ ጥሩ አመለካከት አለው ።	neutral	Entailment	entailment
+295	የናፍፕሊዮ የወደብ ከተማ አካባቢውን ለመጎብኘት ትክክለኛውን መሰረት ያደረገ ነው, ወይም በጉብኝትዎ ላይ ምሳ ለመመገብ የሚያስችል ቦታ ሊሆን ይችላል::	ናፍሊዮ መጥፎ መሠረት ነው።	contradiction	Entailment	entailment
+296	የናፍፕሊዮ የወደብ ከተማ አካባቢውን ለመጎብኘት ትክክለኛውን መሰረት ያደረገ ነው, ወይም በጉብኝትዎ ላይ ምሳ ለመመገብ የሚያስችል ቦታ ሊሆን ይችላል::	ናፍሊዮ ፍጹም መሠረት ነው።	entailment	Entailment.	entailment
+297	በፕሪንስንግራክት ኦቶ ፍራንክ እና ቤተሰቡ ከመገኘታቸው በፊት ከሁለት ዓመት በላይ በንግድ ቤታቸው ሰገነት ውስጥ ተደብቀዋል።	ኦቶ ፍራንክ በሁለተኛው ቀን ተያዘ	contradiction	"አስተያየት! (Ah, understanding!)
+
+The answer is: neutral"	neutral
+298	በፕሪንስንግራክት ኦቶ ፍራንክ እና ቤተሰቡ ከመገኘታቸው በፊት ከሁለት ዓመት በላይ በንግድ ቤታቸው ሰገነት ውስጥ ተደብቀዋል።	ኦቶ ፍራንክ ከ 25 ወራት በላይ ተደብቆ ነበር	entailment	Entailment	entailment
+299	በፕሪንስንግራክት ኦቶ ፍራንክ እና ቤተሰቡ ከመገኘታቸው በፊት ከሁለት ዓመት በላይ በንግድ ቤታቸው ሰገነት ውስጥ ተደብቀዋል።	ኦቶ ፍራንክ ናዚወች እስከሚያገኙት ድረስ ተደብቆ ነበር	neutral	Entailment	entailment
+300	ብዙ የክልል እና የአካባቢ መንግስታት ተጨማሪ የቁጥጥር መስፈርቶች አሏቸው	የአካባቢ አስተዳደርሮች የራሳቸውን ህግ ማውጣት ይችላሉ	neutral	Entailment	entailment
+301	ብዙ የክልል እና የአካባቢ መንግስታት ተጨማሪ የቁጥጥር መስፈርቶች አሏቸው	የአካባቢ አስተዳደርሮች ምንም ቅድመ ሁኔታ የላቸውም	contradiction	Contradiction	contradiction
+302	ብዙ የክልል እና የአካባቢ መንግስታት ተጨማሪ የቁጥጥር መስፈርቶች አሏቸው	በአካባቢ አስተዳደሩ ተጨማሪ የቁጥጥር መስፈርት ጉዳዮች አሉ	entailment	Entailment	entailment
+303	የመረጃ ደህንነት ቡድኑ በወር ከ 8  እስከ 12 ክፍለ ጊዜዎችን ያካሂዳል	የደህንነት ቡድኑ በወር በ አማካኝ 9 ክፍለ ጊዜዎችን ያካሂዳል	neutral	Entailment	entailment
+304	የመረጃ ደህንነት ቡድኑ በወር ከ 8  እስከ 12 ክፍለ ጊዜዎችን ያካሂዳል	የደህንነት ቡድኑ ለወር በየቀኑ ክፍለ ጊዜዎችን ያካሂዳል	contradiction	Entailment	entailment
+305	የመረጃ ደህንነት ቡድኑ በወር ከ 8  እስከ 12 ክፍለ ጊዜዎችን ያካሂዳል	የደህንነት ቡድኑ በ አመት ብዙ ክፍለ ጊዜዎችን ያካሂዳል	entailment	Entailment	entailment
+306	ሆኖም የመጀመሪያ ደረጃ ምህንድስና ቀደም ብሎ ተከናውኗል	ምህንድስና የመጀመሪያ ህፍለ ጊዜ ነበረው	entailment	Entailment	entailment
+307	ሆኖም የመጀመሪያ ደረጃ ምህንድስና ቀደም ብሎ ተከናውኗል	ምህንድስና የተከናወነው በመጨረሻው ጊዜ ላይ ብቻ ነው	contradiction	Entailment	entailment
+308	ሆኖም የመጀመሪያ ደረጃ ምህንድስና ቀደም ብሎ ተከናውኗል	ያለ ምንም ቅድመ ሁኔታ በስተመጨረስሻ ምህንድስና ሊወድቅ ይችላል	neutral	Entailment.	entailment
+309	ስለዚህ የመንግስት ውሳኔ ሰጪዎች እና አስተዳዳሪዎች አዳዲስ የአስተሳሰብ መንገዶችን እየተከተሉ፣ የተለያዩ ግቦችን ማሳካት የሚቻልባቸውን መንገዶች በማጤን እና ውሳኔዎችን ለመምራት አዲስ መረጃን እየተጠቀሙ ነው	የመንግስት ተወካዮች አካሄዳቸውን እየቀየሩ ነው	entailment	Entailment	entailment
+310	ስለዚህ የመንግስት ውሳኔ ሰጪዎች እና አስተዳዳሪዎች አዳዲስ የአስተሳሰብ መንገዶችን እየተከተሉ፣ የተለያዩ ግቦችን ማሳካት የሚቻልባቸውን መንገዶች በማጤን እና ውሳኔዎችን ለመምራት አዲስ መረጃን እየተጠቀሙ ነው	የመንግስት ተወካዮች ለየት ባለ መንገድ በማሰብ ስልጣናቸውን ለመጨመር እየሞከሩ ነው	neutral	Entailment	entailment
+311	ስለዚህ የመንግስት ውሳኔ ሰጪዎች እና አስተዳዳሪዎች አዳዲስ የአስተሳሰብ መንገዶችን እየተከተሉ፣ የተለያዩ ግቦችን ማሳካት የሚቻልባቸውን መንገዶች በማጤን እና ውሳኔዎችን ለመምራት አዲስ መረጃን እየተጠቀሙ ነው	የመንግስት ተወካዮች አኗኗራቸውን መለወጥ አይፈልጉም	contradiction	"አስተያየት! (Ah, consideration!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **contradiction**.
+
+The premise suggests that government officials are using new methods and approaches to make decisions and implement policies, whereas the hypothesis states that government representatives do not want to change their traditional ways. These two statements are contradictory, as one implies innovation and change, while the other implies resistance to change."	contradiction
+312	ከእንግሊዝኛ ቋንቋ ውጭ ለሚያነቡ ድንበኞች የጉዳይ ፋይሎች መተርጎም ሊኖርባቸው ይችላል	የክስ ፋይሎች በእንግሊዝኛ ብቻ አንዲሆኑ ነው የተፈቀዱት	contradiction	Contradiction.	contradiction
+313	ከእንግሊዝኛ ቋንቋ ውጭ ለሚያነቡ ድንበኞች የጉዳይ ፋይሎች መተርጎም ሊኖርባቸው ይችላል	የክስ ፋይሎቹ በቻይንኛ ወይም በሩሲያኛ ሊቀመጡ ይችላሉ	neutral	Entailment	entailment
+314	ከእንግሊዝኛ ቋንቋ ውጭ ለሚያነቡ ድንበኞች የጉዳይ ፋይሎች መተርጎም ሊኖርባቸው ይችላል	የክስ ፋይሎቹ  በሌሎች ቋንቋዎች ሊቀመጡ ይችላሉ	entailment	Entailment	entailment
+315	በአሁኑ ጊዜ በመካሄድ ላይ ያሉ ወይም የታቀዱ ሌሎች ጥረቶች የሚከተሉትን ያካትታሉ	አብዛኛው ጥረታችን በስራ ላይ ነው	neutral	Entailment	entailment
+316	በአሁኑ ጊዜ በመካሄድ ላይ ያሉ ወይም የታቀዱ ሌሎች ጥረቶች የሚከተሉትን ያካትታሉ	ለወደፊት ያቀድነው ሌላ ነገር ምንም የለንም	contradiction	Contradiction	contradiction
+317	በአሁኑ ጊዜ በመካሄድ ላይ ያሉ ወይም የታቀዱ ሌሎች ጥረቶች የሚከተሉትን ያካትታሉ	የታቀደ ነገር አለን	entailment	Entailment	entailment
+318	እነዚህን ምክኒያቶች በ አጭር ጊዜ ያካትቱ፣ ዋናውን የኮምፒውተር ፋይሎች መሰረዝ እና አስፈላጊ ሰነዶችን ማግኘት አለመቻሉን	የኮምፒውተር ፋይሎቹን ከአይቢኤም ሰርዘዋል 	neutral	Entailment	entailment
+319	እነዚህን ምክኒያቶች በ አጭር ጊዜ ያካትቱ፣ ዋናውን የኮምፒውተር ፋይሎች መሰረዝ እና አስፈላጊ ሰነዶችን ማግኘት አለመቻሉን	ዋናውን የኮምፒውተር ፋይሎች ሰርዘዋችዋል	entailment	Entailment	entailment
+320	እነዚህን ምክኒያቶች በ አጭር ጊዜ ያካትቱ፣ ዋናውን የኮምፒውተር ፋይሎች መሰረዝ እና አስፈላጊ ሰነዶችን ማግኘት አለመቻሉን	ሁሉንም ዋና ፋይሎች ይዘዋል	contradiction	Entailment	entailment
+321	ከዚያም የመጀመሪያውን ጉብኝት ያደረገው ተመሳሳይ ተወካይ ለጥያቄዎች መልስ ለመስጠት እና በጥያቄው ናሙና ውስጥ የተመለከቱትን ማንኛውንም ችግሮች ለመወያየት አዲሱን አገልግሎት አቅራቢ በድጋሚ ይጎበኛል	ተወካዩ ለአንድ ሰአት ጎበኘ	neutral	Entailment	entailment
+322	ከዚያም የመጀመሪያውን ጉብኝት ያደረገው ተመሳሳይ ተወካይ ለጥያቄዎች መልስ ለመስጠት እና በጥያቄው ናሙና ውስጥ የተመለከቱትን ማንኛውንም ችግሮች ለመወያየት አዲሱን አገልግሎት አቅራቢ በድጋሚ ይጎበኛል	በተወካዩ ጉብኝት ነበር	entailment	Entailment	entailment
+323	ከዚያም የመጀመሪያውን ጉብኝት ያደረገው ተመሳሳይ ተወካይ ለጥያቄዎች መልስ ለመስጠት እና በጥያቄው ናሙና ውስጥ የተመለከቱትን ማንኛውንም ችግሮች ለመወያየት አዲሱን አገልግሎት አቅራቢ በድጋሚ ይጎበኛል	ጉብኝት አላገኘንም	contradiction	Contradiction	contradiction
+324	ቁጠባ የሀብት ክምችት ላይ ብቻ ሳይሆን ሀብት ደግሞ የመቆጠብ ምርጫ ላይ ተጽእኖ ያሳድራል	አንድ ሰው ይቆጥባል ወይም አይቆጥብም የሚለው ምርጫ በሀብቱ ይወሰናል	entailment	Entailment	entailment
+325	ቁጠባ የሀብት ክምችት ላይ ብቻ ሳይሆን ሀብት ደግሞ የመቆጠብ ምርጫ ላይ ተጽእኖ ያሳድራል	ሀብት እና ቁጠባ በምንም መልኩ አይገናኙም	contradiction	"እንኳን! (Hello!)
+
+After analyzing the premise and hypothesis, I conclude that the premise **contradicts** the hypothesis."	unknown
+326	ቁጠባ የሀብት ክምችት ላይ ብቻ ሳይሆን ሀብት ደግሞ የመቆጠብ ምርጫ ላይ ተጽእኖ ያሳድራል	ባለጸጋዎች ከገቢያቸው ከፍተኛውን ድርሻ የመቆጠብ እድላቸው ሰፊ ነው	neutral	Entailment	entailment
+327	ለምሳሌ፣ አንድ ያጠናነው ድርጅት ኩባንያው አዳዲስ ንግዶችን በፍጥነት እንዲዋሃድ እና እያደገ የሚሄደውን የንግድ ፍላጎት ለማሟላት እንዲስተካከል የሚጠይቁ ሁለት ውህደት አጋጥሞታል	ምንም እንኳን ሁለት ውህደቶች ቢኖሩም፣ ኩባንያው የኩባንያቸውን የስልጣን ተዋረድ እንደገና ማዋቀር አያስፈልግም	contradiction	"እንኳን! (Ahah!) 😊
+
+After carefully reading the premise and hypothesis, I would say that the relationship between them is a **contradiction**."	contradiction
+328	ለምሳሌ፣ አንድ ያጠናነው ድርጅት ኩባንያው አዳዲስ ንግዶችን በፍጥነት እንዲዋሃድ እና እያደገ የሚሄደውን የንግድ ፍላጎት ለማሟላት እንዲስተካከል የሚጠይቁ ሁለት ውህደት አጋጥሞታል	ሁለት ኩባንያዎችን እንደ አንድ ድርጅት ማዋሀድ እና እንደገና ማዋቀር የተመሰቃቀለ የስራ አካባቢን አስከትሏል	neutral	Entailment	entailment
+329	ለምሳሌ፣ አንድ ያጠናነው ድርጅት ኩባንያው አዳዲስ ንግዶችን በፍጥነት እንዲዋሃድ እና እያደገ የሚሄደውን የንግድ ፍላጎት ለማሟላት እንዲስተካከል የሚጠይቁ ሁለት ውህደት አጋጥሞታል	የሁለት ኩባንያ ውህደት  መርምረናል እና የንግድ ፍላጎታቸውን ለማሟላት በፍጥነት ማዋቀር ነበረብን	entailment	Entailment	entailment
+330	ንድፉ፣ ጉዞው በትክክል መፈጸሙን ከማረጋገጡ በፊት ክፍያ ይፈቀዳል የሚል ስጋት ነበረን	ክፍያው ረጂም ጊዜ እንደሚወስድ አውቀናል	contradiction	Entailment	entailment
+331	ንድፉ፣ ጉዞው በትክክል መፈጸሙን ከማረጋገጡ በፊት ክፍያ ይፈቀዳል የሚል ስጋት ነበረን	ከመረጋገጡ በፊት ክፍያው ሊያልፍ እንደሚችል አስበን ነበር	entailment	Entailment	entailment
+332	ንድፉ፣ ጉዞው በትክክል መፈጸሙን ከማረጋገጡ በፊት ክፍያ ይፈቀዳል የሚል ስጋት ነበረን	ክፍያው በጣም ቀድሞ ተልኮ እንጭበረበራለን ብለን አስበን ነበር	neutral	Entailment	entailment
+333	ቴክኖሎጂ በነዚህ ድርጅቶች ውስጥ ካሉ የንግድ ሂደቶች ጋር በጣም የተዋሃደ ነው ምክንያቱም ቴክኖሎጂ እንደ መሳሪያ ብቻ ሳይሆን ለንግድ ስራ እንደ ማነቃቂያ ስለሚታይ ነው	የላቀ የፕሮግራም አወጣጥ ሶፍትዌር ንግዶች ትኩረት ካደረጉባቸው ቁልፍ ቴክኖሎጂዎች አንዱ ነው	neutral	Neutral	neutral
+334	ቴክኖሎጂ በነዚህ ድርጅቶች ውስጥ ካሉ የንግድ ሂደቶች ጋር በጣም የተዋሃደ ነው ምክንያቱም ቴክኖሎጂ እንደ መሳሪያ ብቻ ሳይሆን ለንግድ ስራ እንደ ማነቃቂያ ስለሚታይ ነው	ቴክኖሎጂ መሣሪያ እንጂ የንግድ ሥራ አስማሚ አይደለም	contradiction	Contradiction	contradiction
+335	ቴክኖሎጂ በነዚህ ድርጅቶች ውስጥ ካሉ የንግድ ሂደቶች ጋር በጣም የተዋሃደ ነው ምክንያቱም ቴክኖሎጂ እንደ መሳሪያ ብቻ ሳይሆን ለንግድ ስራ እንደ ማነቃቂያ ስለሚታይ ነው	እነዚህ ንግዶች በቴክኖሎጂ ላይ ትልቅ ትኩረት ይሰጣሉ	entailment	Entailment	entailment
+336	በፅሁፎቹ ውስጥ ብዙ ጊዜ የሚታዩ ሁለት ፅንሰ ሃሳቦች ለወደፊቱ ምርምርን ለማሳወቅ ጠቃሚ ሊሆኑ ይችላሉ	ፅሁፎቹ ናሙናዎችን እንዴት እንደምንፈትሽ ሊለውጡ ይችላሉ	neutral	Entailment	entailment
+337	በፅሁፎቹ ውስጥ ብዙ ጊዜ የሚታዩ ሁለት ፅንሰ ሃሳቦች ለወደፊቱ ምርምርን ለማሳወቅ ጠቃሚ ሊሆኑ ይችላሉ	ፅሁፎቹ የወደፊቱ ምርምርን ሊለውጡ ይችላሉ	entailment	Entailment.	entailment
+338	በፅሁፎቹ ውስጥ ብዙ ጊዜ የሚታዩ ሁለት ፅንሰ ሃሳቦች ለወደፊቱ ምርምርን ለማሳወቅ ጠቃሚ ሊሆኑ ይችላሉ	ምርምርን ከመቀየር አንፃር ምንም ነገር የለም	contradiction	Contradiction	contradiction
+339	ከሳጥኖች የተውጣጡ መስመሮች የሁሉንም የፖስታ መላኪያዎች ያዋሃዱ የደህንነት ደረጃወችን ያሳያሉ እና አልማዝ ያለባቸው መስመሮች ስራውን ወደ ሌላ አካል የማዛወር ስልታዊ ኪሳራዎችን (አሉታዊ ከሆነ) ያሳያሉ	መስመሮቹ የፖስታ መላኪያዎች የደህንነት ደረጃ 10%  እንደሆነ ያሰላሉ	neutral	Entailment	entailment
+340	ከሳጥኖች የተውጣጡ መስመሮች የሁሉንም የፖስታ መላኪያዎች ያዋሃዱ የደህንነት ደረጃወችን ያሳያሉ እና አልማዝ ያለባቸው መስመሮች ስራውን ወደ ሌላ አካል የማዛወር ስልታዊ ኪሳራዎችን (አሉታዊ ከሆነ) ያሳያሉ	መስመሮቹ ከመንገድ ውጭ ሌላ ነገር አያሳዩም	contradiction	Contradiction	contradiction
+341	ከሳጥኖች የተውጣጡ መስመሮች የሁሉንም የፖስታ መላኪያዎች ያዋሃዱ የደህንነት ደረጃወችን ያሳያሉ እና አልማዝ ያለባቸው መስመሮች ስራውን ወደ ሌላ አካል የማዛወር ስልታዊ ኪሳራዎችን (አሉታዊ ከሆነ) ያሳያሉ	መስመሮቹ በሁሉም የፖስታ መላኪያዎች ውስጥ ምን ያህል ደህንነት እንዳለ ያሳያሉ	entailment	Entailment	entailment
+342	በዚህ የአደጋ ግምገማ መሰረት፣ ሴንተርሊንክ ተጠቃሚዎችን እና አሰሪዎችን በገቢ ሪፖርት አቀራረብ መስፈርቶች ላይ ለማስተማር ያለመ ልዩ ልዩ የመከላከያ ስልቶችን አዘጋጅቷል	ሴንተርሊንክ ችግሩን እንዴት መፍታት እንዳለበት አያውቅም ነበር	contradiction	Contradiction	contradiction
+343	በዚህ የአደጋ ግምገማ መሰረት፣ ሴንተርሊንክ ተጠቃሚዎችን እና አሰሪዎችን በገቢ ሪፖርት አቀራረብ መስፈርቶች ላይ ለማስተማር ያለመ ልዩ ልዩ የመከላከያ ስልቶችን አዘጋጅቷል	መንግስት በሽተት ብዙ ገንዘብ እያጣ ስለነበረ ሴንተርሊንክ ሰዎች ገቢን እንዴት ሪፖርት ማድረግ እንደሚችሉ ለማስተማር  ብዙ ስልቶች ነበሩት	neutral	Entailment	entailment
+344	በዚህ የአደጋ ግምገማ መሰረት፣ ሴንተርሊንክ ተጠቃሚዎችን እና አሰሪዎችን በገቢ ሪፖርት አቀራረብ መስፈርቶች ላይ ለማስተማር ያለመ ልዩ ልዩ የመከላከያ ስልቶችን አዘጋጅቷል	ሴንተርሊንክ ሰዎች እንዴት ገቢን ሪፖርት ማድረግ እንደሚችሉ ለማስተማር ብዙ ስልቶች ነበሩት	entailment	Entailment	entailment
+345	ይህ ድርጅቶቹ ብዙ ወጪ የሚጠይቁ የመዋዕለ ንዋይ ፍሰት በማምረቻ ትጥቆች እና መሳሪያዎች ላይ ከማድረጋቸው በፊት አብነትን ለማሳያ ደረጃ እንዲጠቀሙ አስችሏል	ከዚያም ንድፉ እንዴት እንደሚሰራ ማሳየት ይችላሉ	entailment	Entailment	entailment
+346	ይህ ድርጅቶቹ ብዙ ወጪ የሚጠይቁ የመዋዕለ ንዋይ ፍሰት በማምረቻ ትጥቆች እና መሳሪያዎች ላይ ከማድረጋቸው በፊት አብነትን ለማሳያ ደረጃ እንዲጠቀሙ አስችሏል	አዳዲስ ፋብሪካዎችን መገንባት ብልህነት እንዳልሆነ ለኩባንያው ሊያሳዩ ይችላሉ	neutral	Entailment	entailment
+347	ይህ ድርጅቶቹ ብዙ ወጪ የሚጠይቁ የመዋዕለ ንዋይ ፍሰት በማምረቻ ትጥቆች እና መሳሪያዎች ላይ ከማድረጋቸው በፊት አብነትን ለማሳያ ደረጃ እንዲጠቀሙ አስችሏል	የመዋለ ነዋይ ማፍሰስ ተፅእኖ እንዴት ማሳየት እንደሚችሉ ምንም ሀሳብ አልነበራቸውም	contradiction	Entailment	entailment
+348	የደቡብ ካሮላይና የትብብር ጥረት ለቀጣዩ ዓመት ሌላ ስኬት አስገኝቷል	በደቡብ ካሮላይና ውስጥ ማንም ሰው አብሮ አልሰራም	contradiction	"አስተያየት! (Ah, interesting!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is:
+
+contradiction"	contradiction
+349	የደቡብ ካሮላይና የትብብር ጥረት ለቀጣዩ ዓመት ሌላ ስኬት አስገኝቷል	ኤስ ሲ አብረው ሠርተዋል	entailment	Neutral	neutral
+350	የደቡብ ካሮላይና የትብብር ጥረት ለቀጣዩ ዓመት ሌላ ስኬት አስገኝቷል	በደቡብ ካሮላይና ያሉ ዲሞክራቶች እና ሪፐብሊካኖች አብረው እየሰሩ ነው	neutral	Entailment	entailment
+351	እንደ ቦርዱ ባለስልጣን የቦርዱ ክፍል 605(ለ) የምስክር ወረቀቶች ለአነስተኛ ንግድ አስተዳደር (SBA) የጥብቅና ዋና አማካሪ ለየብቻ አልተሰጡም	ቦርዱ ለኤስቢኤ የምስክር ወረቀት SBA አልሰጠም እና ያንን ለገምጋሚው ቢሮ ተዉት	neutral	Entailment	entailment
+352	እንደ ቦርዱ ባለስልጣን የቦርዱ ክፍል 605(ለ) የምስክር ወረቀቶች ለአነስተኛ ንግድ አስተዳደር (SBA) የጥብቅና ዋና አማካሪ ለየብቻ አልተሰጡም	ቦርዱ ለSBA ምስክር ወረቀቶች አልሰጠም	entailment	Entailment	entailment
+353	እንደ ቦርዱ ባለስልጣን የቦርዱ ክፍል 605(ለ) የምስክር ወረቀቶች ለአነስተኛ ንግድ አስተዳደር (SBA) የጥብቅና ዋና አማካሪ ለየብቻ አልተሰጡም	ቦርዱ የSBA የምስክር ወረቀቶች  አንድ ጊዜ ለሚጠይቅ ሰው ይሰጣል	contradiction	Contradiction	contradiction
+354	ሆቴል እና የተወሰኑ ሌሎች ክፍያዎች ሲገጣጠሙ ትክክለኛው ጉዞ ማረጋገጫ ይደረጋል	አብዛኛዎቹ የሀገር ውስጥ ሆቴሎች የክሬዲት ካርድ ክፍያዎችን ይቀበላሉ	neutral	Entailment	entailment
+355	ሆቴል እና የተወሰኑ ሌሎች ክፍያዎች ሲገጣጠሙ ትክክለኛው ጉዞ ማረጋገጫ ይደረጋል	ጉዞው ራሱ የሆቴል ክፍያዎችን በመጠቀም ይረጋገጣል	entailment	Entailment	entailment
+356	ሆቴል እና የተወሰኑ ሌሎች ክፍያዎች ሲገጣጠሙ ትክክለኛው ጉዞ ማረጋገጫ ይደረጋል	ጉዞ በትክክል መኖሩ ወይም አለመኖሩን ለማረጋገጥ ምንም መንገድ የለም	contradiction	Contradiction.	contradiction
+357	ለምሳሌ፣ የጎበኘነው አንድ የክልል ዋና ከተማ ከ600 በላይ የሶፍትዌር ኩባንያዎች መኖሪያ ነው	ዋና ከተሞች የሶፍትዌር ኩባንያዎች ምርጥ ቦታዎች ናቸው	neutral	Entailment	entailment
+358	ለምሳሌ፣ የጎበኘነው አንድ የክልል ዋና ከተማ ከ600 በላይ የሶፍትዌር ኩባንያዎች መኖሪያ ነው	አንድ ዋና ከተማ ብዙ የሶፍትዌር ኩባንያዎች አሉት	entailment	Entailment	entailment
+359	ለምሳሌ፣ የጎበኘነው አንድ የክልል ዋና ከተማ ከ600 በላይ የሶፍትዌር ኩባንያዎች መኖሪያ ነው	የሶፍትዌር ኩባንያዎች በሕጋዊ ምክንያቶች ዋና ከተማወች ላይ ላለመገኘት ይሞክራሉ	contradiction	Entailment	entailment
+360	ውጤታማነትን በመለካት፣ ፍጹምነት ሊደረስበት አይችልም	በቂ ጥረት ካደረግክ ፍፁም መሆን ትችላለህ	contradiction	Contradiction	contradiction
+361	ውጤታማነትን በመለካት፣ ፍጹምነት ሊደረስበት አይችልም	 ፍፁም መሆን ጭራሽ አትችልም	entailment	Entailment	entailment
+362	ውጤታማነትን በመለካት፣ ፍጹምነት ሊደረስበት አይችልም	ፍፁም መሆን አትችልም ምክንያቱም ሁላችንም ጥልቅ ጉድለት ያለብን ሰዎች ነን	neutral	Entailment	entailment
+363	ለሀምዚ እና ሚህዳርን በ2000 ቤቱን ያከራየው አብሯቸው የሚኖረው ግለሰብ ህግ አክባሪና ከፖሊስ እና   FBI ጋር ራቅ ያለ ቀረቤታ ያለው ነው	ሃዝሚ እና ሚህዳር ቤት ገዝተው ነበር እና ከማንም ጋር ምንም ግንኙነት አልነበራቸውም ነበር	contradiction	Contradiction	contradiction
+364	ለሀምዚ እና ሚህዳርን በ2000 ቤቱን ያከራየው አብሯቸው የሚኖረው ግለሰብ ህግ አክባሪና ከፖሊስ እና   FBI ጋር ራቅ ያለ ቀረቤታ ያለው ነው	ሃዝሚ እና ሚህዳር ለሙሉ አመቱ ቤት ተከራዩ በቀን $500 	neutral	Entailment	entailment
+365	ለሀምዚ እና ሚህዳርን በ2000 ቤቱን ያከራየው አብሯቸው የሚኖረው ግለሰብ ህግ አክባሪና ከፖሊስ እና   FBI ጋር ራቅ ያለ ቀረቤታ ያለው ነው	ሃዝሚ እና ሚህዳር ቤት ተከራዩ 	entailment	Entailment	entailment
+366	ለቦስኒያ ጉዞአቸው የሳውዲ አልቃይዳ አባል የሆነውን የኢንተለጀንስ ዘገባ፣ ኦክቶበር 3፣ 2001 ይመልከቱ	በ 2001 የአልቃይዳው አባል ወደ ቦስኒያ 18 ጊዜ ተጉዞ ነበር	neutral	Entailment	entailment
+367	ለቦስኒያ ጉዞአቸው የሳውዲ አልቃይዳ አባል የሆነውን የኢንተለጀንስ ዘገባ፣ ኦክቶበር 3፣ 2001 ይመልከቱ	 የአልቃይዳው አባል ወደ ቦስኒያ ተጉዞ ነበር	entailment	Entailment.	entailment
+368	ለቦስኒያ ጉዞአቸው የሳውዲ አልቃይዳ አባል የሆነውን የኢንተለጀንስ ዘገባ፣ ኦክቶበር 3፣ 2001 ይመልከቱ	 የአልቃይዳው አባል ወደ ቦስኒያ ስለመሄዱ ምንም አይነት ማረጋገጫ የለም	contradiction	"እንኳን! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the premise **contradicts** the hypothesis.
+
+The premise states that Al-Qaeda member was involved in an intelligence operation in Bosnia, while the hypothesis claims that there is no evidence of Al-Qaeda's involvement in Bosnia. These two statements are mutually exclusive, hence the contradiction."	contradiction
+369	ጄን ለሚህዳር ፍለጋ የተመደበውን የኒውዮርክ ወኪል ተወካዩ የFISA  መረጃን እንዴት መያዝ እንዳለበት የተረዳውን የ እውቅና ቅጽ እንዲፈርም ጠየቀ	ጄን የ FISA እውቅና ቅጽ በፌደራል ዳኛ እንዲፈርም ጠይቆ ነበር	neutral	Entailment	entailment
+370	ጄን ለሚህዳር ፍለጋ የተመደበውን የኒውዮርክ ወኪል ተወካዩ የFISA  መረጃን እንዴት መያዝ እንዳለበት የተረዳውን የ እውቅና ቅጽ እንዲፈርም ጠየቀ	ጄን የ FISA እውቅና ቅጽ  እንዲፈርም ጠይቆ ነበር	entailment	Entailment	entailment
+371	ጄን ለሚህዳር ፍለጋ የተመደበውን የኒውዮርክ ወኪል ተወካዩ የFISA  መረጃን እንዴት መያዝ እንዳለበት የተረዳውን የ እውቅና ቅጽ እንዲፈርም ጠየቀ	ጄን ምንም አይነት የFISA እውቅና አያስፈልግም ነበር ብሏል	contradiction	Contradiction	contradiction
+372	ከትክክለኛው የፍተሻ ማጣሪያ ጋር ተያያዥነት ያለውን ብቸኛው የደህንነት ደረጃ በተመለከተ ስለ ማንኛቸውም ምንም የተለየ ነገር የለም	በፍተሻ ማጣራት ወቅት አስደንጋጭ ማስረጃዎች ተገኝተዋል	contradiction	Entailment	entailment
+373	ከትክክለኛው የፍተሻ ማጣሪያ ጋር ተያያዥነት ያለውን ብቸኛው የደህንነት ደረጃ በተመለከተ ስለ ማንኛቸውም ምንም የተለየ ነገር የለም	የፍተሻ ማጣሪያዎች ሙሉ በሙሉ የተመረኮዘው የጉምሩክ ወኪሉ የማጣሪያ ሥራውን በሚያከናውንበት ውስጣዊ ግንዛቤ ላይ ነው	neutral	Entailment	entailment
+374	ከትክክለኛው የፍተሻ ማጣሪያ ጋር ተያያዥነት ያለውን ብቸኛው የደህንነት ደረጃ በተመለከተ ስለ ማንኛቸውም ምንም የተለየ ነገር የለም	የፍተሻ ማጣራቱ በእነሱ ላይ ምንም አይነት ማስረጃ ማግኘት አልቻለም	entailment	Entailment	entailment
+375	ካላድ ሁለተኛ እትም አቅርቧል፣ ማለትም ሦስቱም አብረው ወደ ካራቺ ተጉዘዋል	ካላድ ስለ ሶስቱ ምንም የሚያውቀው ነገር እንደሌለ ተናግሯል	contradiction	Entailment	entailment
+376	ካላድ ሁለተኛ እትም አቅርቧል፣ ማለትም ሦስቱም አብረው ወደ ካራቺ ተጉዘዋል	ካላድ ሶስቱ አብረው መጓዝ ይችሉ እንደነበር ተናግሯል	entailment	Entailment	entailment
+377	ካላድ ሁለተኛ እትም አቅርቧል፣ ማለትም ሦስቱም አብረው ወደ ካራቺ ተጉዘዋል	ካላድ በጥቅምት ወር ሦስቱ ወደ ካራቺ አብረው የሄዱት 50% ዕድል እንደነበራቸው ተናግሯል	neutral	Entailment	entailment
+378	የኢንተለጀንስ ዘገባ፣ የቢነልሺብ ምርመራ፣ ጥቅምት 1፣ 2002	ቢናልሺብህ በFBI ግብረ ሃይል ተጠየቆ ነበር	neutral	Entailment	entailment
+379	የኢንተለጀንስ ዘገባ፣ የቢነልሺብ ምርመራ፣ ጥቅምት 1፣ 2002	ቢናልሺብህ በ2002 ተጠየቆ ነበር	entailment	Entailment	entailment
+380	የኢንተለጀንስ ዘገባ፣ የቢነልሺብ ምርመራ፣ ጥቅምት 1፣ 2002	ቢነልሺብ በጭራሽ አልተነገረውም ነበር እና ጠፋ	contradiction	"አስተያየት! (Ah, understanding!)
+
+The answer is: contradiction."	contradiction
+381	ሚህዳር በኒውዮርክ የCIA-FBI ስብሰባ ከተጠናቀቀ ከሁለት ቀናት በኋላ አዲስ የU.S.  ቪዛ ተቀበለ	ሚህዳር ወደ አገሩ ለመግባት የአሜሪካ ቪዛ ነበረው	entailment	Entailment	entailment
+382	ሚህዳር በኒውዮርክ የCIA-FBI ስብሰባ ከተጠናቀቀ ከሁለት ቀናት በኋላ አዲስ የU.S.  ቪዛ ተቀበለ	ሚህዳር ቪዛ ስለማያገኝ ወደ አሜሪካ መጥቶ አያውቅም	contradiction	Contradiction	contradiction
+383	ሚህዳር በኒውዮርክ የCIA-FBI ስብሰባ ከተጠናቀቀ ከሁለት ቀናት በኋላ አዲስ የU.S.  ቪዛ ተቀበለ	ሚህዳር ስጋት ስላልነበረው ቪዛ ተሰጥቶታል	neutral	Entailment	entailment
+384	የሁለት አመት ምርመራ ቢደረግም, FBI የስራ ባልደረባውን ማግኘት ወይም እውነተኛ ማንነቱን ማወቅ አልቻለም	በ 2001 ከፍሎሪዳ ከወጣ በኋላ ኤፍቢአይ (FBI)  ግለሰቡን ማግኘት አልቻለም	neutral	Entailment	entailment
+385	የሁለት አመት ምርመራ ቢደረግም, FBI የስራ ባልደረባውን ማግኘት ወይም እውነተኛ ማንነቱን ማወቅ አልቻለም	ኤፍቢአይ (FBI)  ሰውዬው ማን እንደነበር ማወቅ አልቻለም	entailment	Entailment	entailment
+386	የሁለት አመት ምርመራ ቢደረግም, FBI የስራ ባልደረባውን ማግኘት ወይም እውነተኛ ማንነቱን ማወቅ አልቻለም	ኤፍቢአይ (FBI)  ማን እንደነበር ደረሰበት እና እስር ቤት ወረወረው	contradiction	"እንኳን! (Hello!)
+
+After analyzing the premise and hypothesis, I conclude that the relationship between them is:
+
+contradiction"	contradiction
+387	እንደ አሜሪካን 11 ፣ በአውሮፕላኑ የመጨረሻው መደበኛ ግንኙነት በ8:13 A.M. ነበር	ከአሜሪካ 11 የወጣ ንግግር ነበር	entailment	Entailment	entailment
+388	እንደ አሜሪካን 11 ፣ በአውሮፕላኑ የመጨረሻው መደበኛ ግንኙነት በ8:13 A.M. ነበር	በየ 5 ደቂቃው ከአሜሪካው 11 ጋር ንግግር ነበር	neutral	Entailment	entailment
+389	እንደ አሜሪካን 11 ፣ በአውሮፕላኑ የመጨረሻው መደበኛ ግንኙነት በ8:13 A.M. ነበር	በአሜሪካ 11 ምንም አይነት ስርጭት አልነበረም 	contradiction	Contradiction	contradiction
+390	እሱን ለማግኘት ከጀርመን መንግስት ፈጣን እና በጣም ጠቃሚ ትቭርን የሚጠይቅ ነበር፣ይህም ለማግኘት አስቸጋሪ ሊሆን ይችል ነበር	ምርመራው ከተጠናቀቀ የሶስት ሰዎች መሸሸጊያ ቦታ ሊታወቅ ይችላል	neutral	Neutral	neutral
+391	እሱን ለማግኘት ከጀርመን መንግስት ፈጣን እና በጣም ጠቃሚ ትቭርን የሚጠይቅ ነበር፣ይህም ለማግኘት አስቸጋሪ ሊሆን ይችል ነበር	የጀርመን መንግሥት ፈጣን እና ጥልቅ ምርመራ ለማድረግ ተቸግሮ ሊሆን ይችላል	entailment	Entailment	entailment
+392	እሱን ለማግኘት ከጀርመን መንግስት ፈጣን እና በጣም ጠቃሚ ትቭርን የሚጠይቅ ነበር፣ይህም ለማግኘት አስቸጋሪ ሊሆን ይችል ነበር	ምርመራው መንግሥት ለማካሄድ በጣም ተራ እና ቀላል  ይሆናል	contradiction	Entailment	entailment
+393	እነዚህ ችሎታዎች በቂ አልነበሩም፣ ነገር ግን እነሱን ለማስፋት ወይም ለማሻሻል ብዙም አልተሰራም	የክትትል ፕሮግራማቸውን ብዙም አልቀየሩም	neutral	Entailment	entailment
+394	እነዚህ ችሎታዎች በቂ አልነበሩም፣ ነገር ግን እነሱን ለማስፋት ወይም ለማሻሻል ብዙም አልተሰራም	ነገሮችን ለመለወጥ ብዙም አልሰሩም	entailment	Entailment	entailment
+395	እነዚህ ችሎታዎች በቂ አልነበሩም፣ ነገር ግን እነሱን ለማስፋት ወይም ለማሻሻል ብዙም አልተሰራም	ሁሉንም ነገር ለማስተካከል ብዙ ጥረት አድርገዋል	contradiction	"አስተያየት! (Ah, understanding!)
+
+The answer is: contradiction"	contradiction
+396	የተንታኙ ኤሌክትሮኒክ ደብዳቤ ግን በመረጃ መጋራት እና የወንጀል ወኪሎች በስለላ ክፍሎች የሚሰበሰቡትን መረጃ አጠቃቀም የሚቆጣጠሩ ህጎችን በተመለከተ ሰፊ ማስጠንቀቂያዎችን እና የህግ እንቅፋቶችን እያደናገረች እንደነበረ ያሳያል	ተንታኙ ክሪስታል-ግልጽ የሆነ ትንታኔ አቅርበዋል	contradiction	Entailment	entailment
+397	የተንታኙ ኤሌክትሮኒክ ደብዳቤ ግን በመረጃ መጋራት እና የወንጀል ወኪሎች በስለላ ክፍሎች የሚሰበሰቡትን መረጃ አጠቃቀም የሚቆጣጠሩ ህጎችን በተመለከተ ሰፊ ማስጠንቀቂያዎችን እና የህግ እንቅፋቶችን እያደናገረች እንደነበረ ያሳያል	ተንታኙ በብዙ ነገሮች ላይ ግልጽ አልነበረም	entailment	Contradiction	contradiction
+398	የተንታኙ ኤሌክትሮኒክ ደብዳቤ ግን በመረጃ መጋራት እና የወንጀል ወኪሎች በስለላ ክፍሎች የሚሰበሰቡትን መረጃ አጠቃቀም የሚቆጣጠሩ ህጎችን በተመለከተ ሰፊ ማስጠንቀቂያዎችን እና የህግ እንቅፋቶችን እያደናገረች እንደነበረ ያሳያል	የተንታኙ ዘገባ በጣም የተመሰቃቀለ ስለነበር ማንም ሊያነበው አልቻለም	neutral	Entailment	entailment
+399	አንዳንድ መኮንኖች ሰዎችን በደረጃው በኩል ለማስወጣት  ሌሎቹ ደግሞ በ አደባባዪ ፣ በህዝብ መሰብሰቢያ እና በመንገዱ ሚወጡትን ለማፋጠን ተመድበው ነበር	መኮንኖች የየራሳቸውን ስራ አግኝተዋል	entailment	Entailment	entailment
+400	አንዳንድ መኮንኖች ሰዎችን በደረጃው በኩል ለማስወጣት  ሌሎቹ ደግሞ በ አደባባዪ ፣ በህዝብ መሰብሰቢያ እና በመንገዱ ሚወጡትን ለማፋጠን ተመድበው ነበር	መኮንኖች በተፈለጉበት ቦታ ይሄዳሉ	contradiction	Entailment	entailment
+401	አንዳንድ መኮንኖች ሰዎችን በደረጃው በኩል ለማስወጣት  ሌሎቹ ደግሞ በ አደባባዪ ፣ በህዝብ መሰብሰቢያ እና በመንገዱ ሚወጡትን ለማፋጠን ተመድበው ነበር	መኮንኖቹ የተመደቡት  የስራ ልምዳቸው ላይ በመመስረት ነው	neutral	Entailment	entailment
+402	በሴፕቴምበር 9፣ ከአፍጋኒስታን አስገራሚ ዜና ደረሰ	ከአፍጋኒስታን ዜና አግኝተናል	entailment	Entailment	entailment
+403	በሴፕቴምበር 9፣ ከአፍጋኒስታን አስገራሚ ዜና ደረሰ	ከአፍጋኒስታን እስከ ጥቅምት ድረስ ምንም ነገር አልሰማንም	contradiction	Entailment	entailment
+404	በሴፕቴምበር 9፣ ከአፍጋኒስታን አስገራሚ ዜና ደረሰ	በሴፕቴምበር 9 ሊደርስ ስላለው ጥቃት ተነግሮናል	neutral	Entailment	entailment
+405	የመግባባት አለመቻል በአለም ንግድ ማእከል፣ፔንታጎን እና ሱመርሴት አውራጃ ፔንስልቬንያ፣የብልሽት ቦታዎች፣በርካታ ወኪል ድርጅቶች እና በበርካታ ገዥወች ምላሽ የሰጡበት ወሳኝ ክፍል ነበር	ግንኙነቱ በ9/11 ጥሩ ሰርቷል	contradiction	Neutral.	neutral
+406	የመግባባት አለመቻል በአለም ንግድ ማእከል፣ፔንታጎን እና ሱመርሴት አውራጃ ፔንስልቬንያ፣የብልሽት ቦታዎች፣በርካታ ወኪል ድርጅቶች እና በበርካታ ገዥወች ምላሽ የሰጡበት ወሳኝ ክፍል ነበር	በዓለም ንግድ ማእከል ሰዎች ለመግባባት ተቸግረው ነበር ምክንያቱም መብራት ስለጠፋ እና የስልክ መስመሮች ስለቆሙ ነው	neutral	Entailment	entailment
+407	የመግባባት አለመቻል በአለም ንግድ ማእከል፣ፔንታጎን እና ሱመርሴት አውራጃ ፔንስልቬንያ፣የብልሽት ቦታዎች፣በርካታ ወኪል ድርጅቶች እና በበርካታ ገዥወች ምላሽ የሰጡበት ወሳኝ ክፍል ነበር	በአለም ንግድ ማእከል ሰዎች ለመግባባት ተቸግረው ነበር	entailment	Entailment	entailment
+408	በቀላሉ ከሚገኙ የመረጃ ቋቶች ዉስጥ የመንጃ ፍቃዱን፣ የመኪና ምዝገባውን እና የስልክ ዝርዝሩን ማግኘት ይቻል ነበር	መርማሪዎች ሙያዊ የመረጃ ቋቶችን ለማግኘትም ጠይቀዋል	neutral	Entailment	entailment
+409	በቀላሉ ከሚገኙ የመረጃ ቋቶች ዉስጥ የመንጃ ፍቃዱን፣ የመኪና ምዝገባውን እና የስልክ ዝርዝሩን ማግኘት ይቻል ነበር	ከነባር የመረጃ ቋቶች ብዙ አይነት መረጃዎች ተገኝተዋል	entailment	Entailment	entailment
+410	በቀላሉ ከሚገኙ የመረጃ ቋቶች ዉስጥ የመንጃ ፍቃዱን፣ የመኪና ምዝገባውን እና የስልክ ዝርዝሩን ማግኘት ይቻል ነበር	ነባር ምንጮችን በመጠቀም ስለ ርዕሰ ጉዳዩ ምንም አይነት መረጃ ለማግኘት ምንም መንገድ አልነበረም	contradiction	"እንኳን! (Hello!)
+
+After analyzing the premise and hypothesis, I can confidently say that the relationship between them is a **contradiction**."	contradiction
+411	በጠቅላላው ግብይቱ ላይ ጥርጣሬ እንዳላቸው በመግለጽ አስተዳዳሪው ራሳቸውን ከሃዝሚ እና ሚህዳር አገለሉ፣ ነገር ግን የሚፈልጉትን እርዳታ ከማግኘታቸው በፊት አልነበረም	አስተዳዳሪው ወዲያውኑ ባለሥልጣኖችን አነጋገረ እና በዚህ ጉዳይ ላይ ለመርዳት ፈቃደኛ አልሆነም	contradiction	"እንኳን! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is a **contradiction**.
+
+The premise states that the manager (አስተዳዳሪው) was willing to help but didn't receive the necessary assistance, whereas the hypothesis claims that the manager was not willing to help and didn't cooperate.
+
+These two statements are mutually exclusive, hence the contradiction."	contradiction
+412	በጠቅላላው ግብይቱ ላይ ጥርጣሬ እንዳላቸው በመግለጽ አስተዳዳሪው ራሳቸውን ከሃዝሚ እና ሚህዳር አገለሉ፣ ነገር ግን የሚፈልጉትን እርዳታ ከማግኘታቸው በፊት አልነበረም	አስተዳዳሪው ቅር ቢላቸውም እርዳታ ሰጡ	entailment	Contradiction	contradiction
+413	በጠቅላላው ግብይቱ ላይ ጥርጣሬ እንዳላቸው በመግለጽ አስተዳዳሪው ራሳቸውን ከሃዝሚ እና ሚህዳር አገለሉ፣ ነገር ግን የሚፈልጉትን እርዳታ ከማግኘታቸው በፊት አልነበረም	እርዳታው ጥሬ ገንዘብ እና የጉዞ ሰነዶች ማግኘትን ያካተተ ነበር	neutral	"እንኳን! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is:
+
+contradiction"	contradiction
+414	በ 2003 እነዚህ ስያሜዎች ተወግደዋል; ሁሉም ዓለም አቀፍ የሽብርተኝነት ጉዳዮች አሁን ተመሳሳይ ስያሜ አግኝተዋል፣ 315	ሁሉም የሽብርተኝነት ጉዳዮች ከፍተኛ አስፈላጊነት ተሰጥቷቸዋል	neutral	Entailment	entailment
+415	በ 2003 እነዚህ ስያሜዎች ተወግደዋል; ሁሉም ዓለም አቀፍ የሽብርተኝነት ጉዳዮች አሁን ተመሳሳይ ስያሜ አግኝተዋል፣ 315	ሁሉም የሽብርተኝነት ጉዳዮች ተመሳሳይ መለያ ያገኛሉ	entailment	Entailment	entailment
+416	በ 2003 እነዚህ ስያሜዎች ተወግደዋል; ሁሉም ዓለም አቀፍ የሽብርተኝነት ጉዳዮች አሁን ተመሳሳይ ስያሜ አግኝተዋል፣ 315	እያንዳንዱ የሽብርተኝነት ጉዳይ ራሱን ችሎ ይገመገማል እና ደረጃ ይሰጠዋል	contradiction	Entailment	entailment
+417	የደቡብ ግንብ መደርመስን የተመለከቱት እኚህ መኮንን የመልቀቂያ መመሪያውን በሰሜን ታወር ላሉ ESU ክፍሎች አሳውቀዋል	ደቡብ ግንብ ከተደረመሰ በኋላ ማንም ሰው በሰሜን ግንብ አልቀረም	contradiction	Entailment	entailment
+418	የደቡብ ግንብ መደርመስን የተመለከቱት እኚህ መኮንን የመልቀቂያ መመሪያውን በሰሜን ታወር ላሉ ESU ክፍሎች አሳውቀዋል	ባለሥልጣኑ በሰሜን ታወር ውስጥ ካሉ የESU ክፍሎች ጋር ከመነጋገሩ 30 ደቂቃ በፊት የደቡብ ግንብ ፈርሷል	neutral	Entailment	entailment
+419	የደቡብ ግንብ መደርመስን የተመለከቱት እኚህ መኮንን የመልቀቂያ መመሪያውን በሰሜን ታወር ላሉ ESU ክፍሎች አሳውቀዋል	ባለሥልጣኑ የደቡብ ግንብ መደርመስን አይቷል	entailment	Entailment	entailment
+420	ኢንዲያናፖሊስ በእውነቱ ብዙ ተዋናዮች ከሚሰሩባቸው ጥሩ ቦታዎች አንዱ ነው	ተዋናዮች ኢንዲያናፖሊስን ይወዱታል ምክንያቱም እዚያ ባሉ ሁሉም መልማይ ወኪሎች ምክንያት	neutral	Entailment	entailment
+421	ኢንዲያናፖሊስ በእውነቱ ብዙ ተዋናዮች ከሚሰሩባቸው ጥሩ ቦታዎች አንዱ ነው	ተዋናይ ከሆንክ ወደ ኢንዲያናፖሊስ ለመዛወር ማሰብ አለብህ	entailment	Entailment	entailment
+422	ኢንዲያናፖሊስ በእውነቱ ብዙ ተዋናዮች ከሚሰሩባቸው ጥሩ ቦታዎች አንዱ ነው	በአብዛኛው የቴክኖሎጂ ከተማ ስለሆነች በፊልም እና በቲያትር ንግድ ውስጥ ከሆንክ ኢንዲያናፖሊስ ውስጥ ሥራ ማግኘት ከባድ ነው	contradiction	Entailment	entailment
+423	በቀን 24 ሰዓት፣ በሳምንት 7 ቀናት በቅድመ መከላከል መረጃ ምንጭ ማእከል በኩል እና amp በስልክ እርዳታ እናቀርባለን። የወላጅ እርዳታ መስመር	ሰዎች እኛን ማግኘት የሚችሉት በፖስታ ወይም በኢሜል ብቻ ነው	contradiction	"ሰላም! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the premise **contradicts** the hypothesis.
+
+The premise mentions various channels for receiving assistance, including ቅድመ መከላከል (previous protection), ስልክ (phone), and ኩል (website), whereas the hypothesis states that people can only reach us through ፖስታ (post) or ኢሜል (email) only. The premise presents more options, which contradicts the limited options mentioned in the hypothesis."	unknown
+424	በቀን 24 ሰዓት፣ በሳምንት 7 ቀናት በቅድመ መከላከል መረጃ ምንጭ ማእከል በኩል እና amp በስልክ እርዳታ እናቀርባለን። የወላጅ እርዳታ መስመር	በቀኑ በማንኛውም ሰዓት በስልክ መገኘት እንችላለን	entailment	Entailment	entailment
+425	በቀን 24 ሰዓት፣ በሳምንት 7 ቀናት በቅድመ መከላከል መረጃ ምንጭ ማእከል በኩል እና amp በስልክ እርዳታ እናቀርባለን። የወላጅ እርዳታ መስመር	በየሰኞ እና አርብ ከመቶ በላይ ጥሪዎች ይደርሱናል	neutral	Neutral	neutral
+426	እነዚህ ሳጥኖች ሁሉም ሌሎቹ ስጦታዎች ከተከፈቱ በኋላ በማሸጊያዎቻቸው ውስጥ ይቀራሉ	እነዚህ ሳጥኖች አደገኛ ቦምቦችን ይይዛሉ	neutral	Entailment	entailment
+427	እነዚህ ሳጥኖች ሁሉም ሌሎቹ ስጦታዎች ከተከፈቱ በኋላ በማሸጊያዎቻቸው ውስጥ ይቀራሉ	እነዚህ ሳጥኖች ከሌሎቹ ስጦታዎች በፊት ይከፈታሉ	contradiction	Contradiction	contradiction
+428	እነዚህ ሳጥኖች ሁሉም ሌሎቹ ስጦታዎች ከተከፈቱ በኋላ በማሸጊያዎቻቸው ውስጥ ይቀራሉ	እነዚህ ሳጥኖች ለተወሰነ ጊዜ ሳይከፈቱ ይቆያሉ	entailment	Entailment	entailment
+429	ዋጋችንን ዝቅ ካደረግን፣ ይህንን ተልዕኮ ለማሳካት እንዲረዳን ወደ እርስዎ መተን፣ የኛ ታዳሚ አባላት፣ ትንሽ አስተዋፅዖ እንዲሰጡን መጠየቅ አለብን	የቲኬታችንን ዋጋ ከ $10 በታች ለማድረግ፣ ሁሉም ታዳሚ አባሎቻችን $25  እንዲያዋጡ እንፈልጋለን	neutral	Entailment	entailment
+430	ዋጋችንን ዝቅ ካደረግን፣ ይህንን ተልዕኮ ለማሳካት እንዲረዳን ወደ እርስዎ መተን፣ የኛ ታዳሚ አባላት፣ ትንሽ አስተዋፅዖ እንዲሰጡን መጠየቅ አለብን	ያለእርስዎ ገንዘብ እኛ የእውነት ከፈለግን ዋጋችንን ዝቅ ማድረግ እንችላለን ነገርግን አለቃችን ምቾቱን ይወዳል	contradiction	Entailment	entailment
+431	ዋጋችንን ዝቅ ካደረግን፣ ይህንን ተልዕኮ ለማሳካት እንዲረዳን ወደ እርስዎ መተን፣ የኛ ታዳሚ አባላት፣ ትንሽ አስተዋፅዖ እንዲሰጡን መጠየቅ አለብን	የእርስዎ አስተዋጾዎች ዋጋን ዝቅ ለማድረግ ረድተውናል	entailment	Entailment	entailment
+432	00 ወደ 400 ለሚጠጉ የኢንዲያናፖሊስ አካባቢ ልጆች መመሪያ፣ ማበረታቻ እና ፈቃድ እንድንሰጥ ረድቶናል	ለቸር ለገሳወቻችን ምስጋና ይግባቸውና ለኢንዲያናፖሊስ ወላጅ አልባ ህፃናት ኮንሰርት እንድትሰራ ቤዮንሴን መጋበዝ ቻልን	neutral	Entailment	entailment
+433	00 ወደ 400 ለሚጠጉ የኢንዲያናፖሊስ አካባቢ ልጆች መመሪያ፣ ማበረታቻ እና ፈቃድ እንድንሰጥ ረድቶናል	ለልጆቹ የገና ድግስ እንደምናደርግ ተስፋ አድርገን ነበር ነገርግን ምንም ልናደርግላቸው አልቻልንም	contradiction	Entailment	entailment
+434	00 ወደ 400 ለሚጠጉ የኢንዲያናፖሊስ አካባቢ ልጆች መመሪያ፣ ማበረታቻ እና ፈቃድ እንድንሰጥ ረድቶናል	ብዙ የኢንዲያናፖሊስ ልጆችን መርዳት ችለናል	entailment	Entailment	entailment
+435	መጀመሪያ ላይ ግለሰቦች ዓመታዊ ያልተገደበ $1,000 ወይም ከዚያ በላይ ለመንግሥት ጸሐፊ ክበብ፣ ወይም $500 ወይም ከዚያ በላይ ለመንግሥት ጸሐፊ ተባባሪዎች ስጦታ በማድረግ መሳተፍ ይችላሉ	ግለሰቦች የ $50 ትንሽ እርዳታ ካደረጉ በኋላ መሳተፍ ይችላሉ	contradiction	Neutral	neutral
+436	መጀመሪያ ላይ ግለሰቦች ዓመታዊ ያልተገደበ $1,000 ወይም ከዚያ በላይ ለመንግሥት ጸሐፊ ክበብ፣ ወይም $500 ወይም ከዚያ በላይ ለመንግሥት ጸሐፊ ተባባሪዎች ስጦታ በማድረግ መሳተፍ ይችላሉ	በቂ መጠን ያለው ልገሳ ካደረጉ ግለሰቦች መሳተፍ ይችላሉ	entailment	Entailment	entailment
+437	መጀመሪያ ላይ ግለሰቦች ዓመታዊ ያልተገደበ $1,000 ወይም ከዚያ በላይ ለመንግሥት ጸሐፊ ክበብ፣ ወይም $500 ወይም ከዚያ በላይ ለመንግሥት ጸሐፊ ተባባሪዎች ስጦታ በማድረግ መሳተፍ ይችላሉ	አብዛኛዎቹ ግለሰቦች ለመንግሥት ጸሐፊ ተባባሪዎች መለገስ ይመርጣሉ	neutral	Entailment	entailment
+438	በዚህ ጊዜ ያቀረቡት ስጦታ ተጨማሪ የዓመት መጨረሻ የታክስ ጥቅሞችን ሊሰጥዎ ይችላል	ቢያንስ የ$1,000 ስጦታ ከሰጡ፣ የታክስ ጥቅማ ጥቅሞችን በእርግጠኝነት ሊቀበሉ ይችላሉ	neutral	Entailment	entailment
+439	በዚህ ጊዜ ያቀረቡት ስጦታ ተጨማሪ የዓመት መጨረሻ የታክስ ጥቅሞችን ሊሰጥዎ ይችላል	እንደ አለመታደል ሆኖ የግብር አማካሪዎቻችን ምንም አይነት ስጦታ እንዳትሰሩ ይመክርወታል	contradiction	Entailment	entailment
+440	በዚህ ጊዜ ያቀረቡት ስጦታ ተጨማሪ የዓመት መጨረሻ የታክስ ጥቅሞችን ሊሰጥዎ ይችላል	በመዋጮዎ ላይ የግብር ቅነሳዎችን መውሰድ ይችሉ ይሆናል	entailment	Neutral	neutral
+441	እንደሚታወቀው የዚህ ቡድን አባልነት በየአመቱ $1,000 ወይም ከዚያ በላይ ለህግ ትምህርት ቤቱ የሚያዋጡ ጓደኞቻቸውን እና የቀድሞ ተማሪዎችን ያካትታል	አንዳንድ የዚህ ቡድን አባላት ከ$100k  በላይ ለትምህርት ቤቱ ለግሰዋል	neutral	Entailment	entailment
+442	እንደሚታወቀው የዚህ ቡድን አባልነት በየአመቱ $1,000 ወይም ከዚያ በላይ ለህግ ትምህርት ቤቱ የሚያዋጡ ጓደኞቻቸውን እና የቀድሞ ተማሪዎችን ያካትታል	በዚህ ቡድን ውስጥ ከ$1,000 በላይ ለህግ ትምህርት ቤቱ ያዋጡ ሰዎች አሉን	entailment	Entailment	entailment
+443	እንደሚታወቀው የዚህ ቡድን አባልነት በየአመቱ $1,000 ወይም ከዚያ በላይ ለህግ ትምህርት ቤቱ የሚያዋጡ ጓደኞቻቸውን እና የቀድሞ ተማሪዎችን ያካትታል	ይህ ቡድን ለትምህርት ቤቱ የገንዘብ መዋጮ እንዲያደርግ ለመጠየቅ አቅደናል ነገርግን ከዚህ በፊት እንደዚህ አላደረገም	contradiction	Entailment	entailment
+444	በ 50ዎቹ ፣ በጣም ከሚያስደስቱኝ ትዝታዎቼ አንዱ የሲቪክ ቲያትር ፕሮዳክሽን ላይ መገኘት ነበር	በልጅነቴ የቲያትር ትዕይንቶችን መሄድ እጠላ ነበር፣ ስለዚህም ነው ሳይንቲስት የሆንኩት	contradiction	Entailment	entailment
+445	በ 50ዎቹ ፣ በጣም ከሚያስደስቱኝ ትዝታዎቼ አንዱ የሲቪክ ቲያትር ፕሮዳክሽን ላይ መገኘት ነበር	በልጅነቴ ወደ ቲያትር ቤት መሄድ እወድ ነበር	entailment	Entailment	entailment
+446	በ 50ዎቹ ፣ በጣም ከሚያስደስቱኝ ትዝታዎቼ አንዱ የሲቪክ ቲያትር ፕሮዳክሽን ላይ መገኘት ነበር	በጣም የምወደው የሲቪክ ቲያትር ፕሮዳክሽን ውበት እና አውሬው ነበር	neutral	Entailment	entailment
+447	ይህ ደብዳቤ የሚደርሰው እያንዳንዱ ሰው $18 ከሰጠ ብቻ ነው	ይህ ደብዳቤ የደረሳችሁ ሁሉ  ማጭበርበር ስለሆነ ነገንዘባችሁን አትስጡ	contradiction	Entailment	entailment
+448	ይህ ደብዳቤ የሚደርሰው እያንዳንዱ ሰው $18 ከሰጠ ብቻ ነው	$18 ከለገሱ ስጦታ እንሰጥዎታለን	neutral	Entailment	entailment
+449	ይህ ደብዳቤ የሚደርሰው እያንዳንዱ ሰው $18 ከሰጠ ብቻ ነው	ሁሉም ደብዳቤ ተቀባዮች $18  መለገስ እንደሚችሉ ተስፋ እናደርጋለን	entailment	Entailment	entailment
+450	በቀላሉ የታችኛውን ክፍል ይንቀሉት, የሚመለከተውን አማራጭ ያረጋግጡ, አስፈላጊ ከሆነ በአድራሻዎ ላይ ማንኛውንም ለውጥ ያድርጉ እና በተዘጋው ፖስታ ውስጥ ይላኩት	እባክዎ በአድራሻዎ ላይ ምንም አይነት ለውጥ አያድርጉ	contradiction	Contradiction	contradiction
+451	በቀላሉ የታችኛውን ክፍል ይንቀሉት, የሚመለከተውን አማራጭ ያረጋግጡ, አስፈላጊ ከሆነ በአድራሻዎ ላይ ማንኛውንም ለውጥ ያድርጉ እና በተዘጋው ፖስታ ውስጥ ይላኩት	ያንተ ኣድራሻ ያለበት ነጭ ፖስታ ተቀምጦልሃል	neutral	Entailment	entailment
+452	በቀላሉ የታችኛውን ክፍል ይንቀሉት, የሚመለከተውን አማራጭ ያረጋግጡ, አስፈላጊ ከሆነ በአድራሻዎ ላይ ማንኛውንም ለውጥ ያድርጉ እና በተዘጋው ፖስታ ውስጥ ይላኩት	ተስማሚ ሆኖ ካገኙት በአድራሻዎ ላይ ለውጦችን ለማድረግ ነፃ ነዎት	entailment	Entailment	entailment
+453	የነርስ ትምህርት ቤት ትምህርታዊ ልህቀትን ለመቀጠል እና ለማስጠበቅ የአንተን ለጋስ ስጦታዎች ይፈልጋል	እባኮትን $100 ሚሊዮን  ለነርሲንግ ትምህርት ቤት ይለግሱ፣ አለበለዚያ የመታሰቢያ ሃውልትዎ አይሰራልወትም	neutral	Entailment	entailment
+454	የነርስ ትምህርት ቤት ትምህርታዊ ልህቀትን ለመቀጠል እና ለማስጠበቅ የአንተን ለጋስ ስጦታዎች ይፈልጋል	የነርሲንግ ትምህርት ቤቱ ሁሉንም የገንዘብ ግቦቹን አሟልቷል፣ ስለዚህ ምንም ተጨማሪ ገንዘብ አያስፈልገውም	contradiction	Contradiction	contradiction
+455	የነርስ ትምህርት ቤት ትምህርታዊ ልህቀትን ለመቀጠል እና ለማስጠበቅ የአንተን ለጋስ ስጦታዎች ይፈልጋል	ለነርሲንግ ትምህርት ቤቱ እንደሚለግሱ ተስፋ እናደርጋለን	entailment	Entailment	entailment
+456	80% ተሳታፊዎች የግጭት አፈታት ችሎታዎች መጨመርን ሪፖርት ያደርጋሉ	ከግማሽ በላይ ተሳታፊዎች የግጭት አፈታት ችሎታወች መጨመርን ሪፖርት ያደርጋሉ	entailment	Entailment	entailment
+457	80% ተሳታፊዎች የግጭት አፈታት ችሎታዎች መጨመርን ሪፖርት ያደርጋሉ	የግጭት አፈታት ችሎታዎች መጨመርን የሚናገሩት ከተሳታፊዎች አንድ አራተኛውቹ ብቻ ናቸው	contradiction	Entailment	entailment
+458	80% ተሳታፊዎች የግጭት አፈታት ችሎታዎች መጨመርን ሪፖርት ያደርጋሉ	ከ100 በላይ ግለሰቦች ተሳታፊዎች ነበሩ	neutral	Entailment	entailment
+459	እባኮትን አንለግስም ላሉት ሰወች መልዕክት እንዳትልክላቸው	መለገስ ብታቆም አሳፋሪ ነው	entailment	Entailment	entailment
+460	እባኮትን አንለግስም ላሉት ሰወች መልዕክት እንዳትልክላቸው	አንለግም ያሉት ሰወች ሥም ዝርዝራቸው ለአለም እንዲታይ ታትሟል፣ ስለዚህ እመኑኝ፣ እንደዛ ማፈር አትፈልጉም	neutral	Entailment	entailment
+461	እባኮትን አንለግስም ላሉት ሰወች መልዕክት እንዳትልክላቸው	ብዙ ለጋሾች አሉን ስለዚህ እባካችሁ ልገሳውን አቁሙ	contradiction	Entailment	entailment
+462	ወደኛ ወለል ኮምፒውተር እና ሞደም ያለው ማንኛውም ሰው መግባት ይችላል	ወደወለሉ ለመግባት ሰወች ምንም ነገር አያስፈልጋቸውም	contradiction	Entailment	entailment
+463	ወደኛ ወለል ኮምፒውተር እና ሞደም ያለው ማንኛውም ሰው መግባት ይችላል	ወደወለሉ ለመግባት ሰወች ሁለቱም ኮምፒውተር እና ሞደም ያስፈልጋቸዋል	entailment	Entailment	entailment
+464	ወደኛ ወለል ኮምፒውተር እና ሞደም ያለው ማንኛውም ሰው መግባት ይችላል	ወደወለሉ ለመግባት ሰወች ሁለቱም ኮምፒውተር እና ሞደም ይዘው መሄድ አለባቸው	neutral	Entailment	entailment
+465	የቲኬት ሽያጮች እና የደንበኝነት ምዝገባዎች የእኛን ሙሉውን ወቅት ገንዘብ ሊደጉሙልን አይችሉም	የቲኬት ሽያጭ እስካለን ድረስ ሙሉ ወቅታችንን ያስተዳድረናል	contradiction	Contradiction	contradiction
+466	የቲኬት ሽያጮች እና የደንበኝነት ምዝገባዎች የእኛን ሙሉውን ወቅት ገንዘብ ሊደጉሙልን አይችሉም	የሙሉ ወቅታችንን ወጭ ለመሸፈን ከቲኬት ሽያጮች እና የደንበኝነት ምዝገባዎች በላይ ያስፈልገናል	entailment	Entailment	entailment
+467	የቲኬት ሽያጮች እና የደንበኝነት ምዝገባዎች የእኛን ሙሉውን ወቅት ገንዘብ ሊደጉሙልን አይችሉም	የቲኬት ሽያጮች እና የደምበግኝነት ምዝገባዎች ለሙሉ ወጫችን  70% ወጪዎችን ብቻ ይሸፍናሉ	neutral	"ሰላም! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the premise **contradicts** the hypothesis.
+
+The premise states that ticket sales and attendance records cannot account for our entire budget, while the hypothesis claims that they cover 70% of our expenses. These two statements are mutually exclusive, hence the contradiction."	contradiction
+468	አዲስ የመጡ እቃወች እያንዳንዱ ስጦታ ልዩነት ያመጣል	ሁሉም ስጦታዎች በየወሩ መጽሔታችን ውስጥ ይመዘገባሉ እና ማስታወቂያቸው ይወጣል	neutral	Entailment	entailment
+469	አዲስ የመጡ እቃወች እያንዳንዱ ስጦታ ልዩነት ያመጣል	እያንዳንዱ የተሰጠህ ስጦታ እንደ አንድ ነገር ይቆጠራል	entailment	Entailment	entailment
+470	አዲስ የመጡ እቃወች እያንዳንዱ ስጦታ ልዩነት ያመጣል	ከ $100 በላይ የሆኑ ስጦታዎች ብቻ ለውጥ ያመጣሉ	contradiction	Entailment	entailment
+471	 $365,000  ግባችን ላይ ለመድረስ ከጓደኞቻችን እና እንደርስዎ ካሉ ተከታዮቻችን ብዙ ይቀረናል	የገንዘብ ግባችን $300,000 ይበልጣል	entailment	Contradiction	contradiction
+472	 $365,000  ግባችን ላይ ለመድረስ ከጓደኞቻችን እና እንደርስዎ ካሉ ተከታዮቻችን ብዙ ይቀረናል	በእውነቱ የገንዘብ ግባችንን በሦስት እጥፍ እንደምናሳድግ ተስፋ እናደርጋለን	neutral	Entailment	entailment
+473	 $365,000  ግባችን ላይ ለመድረስ ከጓደኞቻችን እና እንደርስዎ ካሉ ተከታዮቻችን ብዙ ይቀረናል	ገንዘብን በተመለከተ ምንም መመዘኛዎች የሉንም	contradiction	Entailment	entailment
+474	የመንግስት ጤና ጣቢያችን ለበርካታ አመታት ሲሰራ የቆየ ሲሆን በቅርቡ ደግሞ የወንጀል መከላከያ ጤና ጣቢያ ጨምረናል	የመንግስት ጤና ጣቢያችን ለስምንት ዓመታት አገልግሏል	neutral	Entailment	entailment
+475	የመንግስት ጤና ጣቢያችን ለበርካታ አመታት ሲሰራ የቆየ ሲሆን በቅርቡ ደግሞ የወንጀል መከላከያ ጤና ጣቢያ ጨምረናል	የመንግስት ጤና ጣቢያችን ከተከፈተ የመጀመሪያ አመቱን በሚቀጥለው ወር  ያከብራል	contradiction	Entailment	entailment
+476	የመንግስት ጤና ጣቢያችን ለበርካታ አመታት ሲሰራ የቆየ ሲሆን በቅርቡ ደግሞ የወንጀል መከላከያ ጤና ጣቢያ ጨምረናል	የመንግስት ጤና ጣቢያችን ከ አንድ አመት በላይ በስራ ላይ ነበር	entailment	Entailment	entailment
+477	የቲኬት ገቢ የእነዚህን ፕሮግራሞች ወጪ መሸፈን አለጀመረም	የእነዚህ ዝግጂቶች ወጪ በቲኬት ገቢው የማይሸፈን ይመስላል	entailment	"አስንታ! (Ah, okay!)
+
+After analyzing the premise and hypothesis, I conclude that it's a **contradiction**."	contradiction
+478	የቲኬት ገቢ የእነዚህን ፕሮግራሞች ወጪ መሸፈን አለጀመረም	የእነዚህ ዝግጂቶች ዋጋ በጣም ከፍተኛ ነው	neutral	Entailment	entailment
+479	የቲኬት ገቢ የእነዚህን ፕሮግራሞች ወጪ መሸፈን አለጀመረም	የቲኬት ገቢው በእርግጠኝነት የእነዚህን ፕሮግራሞች ወጪ ይሸፍናል	contradiction	Entailment	entailment
+480	ኦምኒያ ቪንቺት አሞር (ለሳምንታዊ መደብ ካልሰሩ)፡ ብሪት ሁሜ (ፎክስ ኒውስ ሰንበት) ለምን ሌዊንስኪ ላይሆን እንደሚችል ገምታለች አሁንም በፕሬዚዳንቱ ላይ ተስፋየሌለው ፍቅር አላት	ብሪት ሁም የፎክስ ዋና ዘጋቢ ነው	neutral	Entailment	entailment
+481	ኦምኒያ ቪንቺት አሞር (ለሳምንታዊ መደብ ካልሰሩ)፡ ብሪት ሁሜ (ፎክስ ኒውስ ሰንበት) ለምን ሌዊንስኪ ላይሆን እንደሚችል ገምታለች አሁንም በፕሬዚዳንቱ ላይ ተስፋየሌለው ፍቅር አላት	ብሪት ሁም ለ ሲኤንኤን ይሰራል	contradiction	Entailment	entailment
+482	ኦምኒያ ቪንቺት አሞር (ለሳምንታዊ መደብ ካልሰሩ)፡ ብሪት ሁሜ (ፎክስ ኒውስ ሰንበት) ለምን ሌዊንስኪ ላይሆን እንደሚችል ገምታለች አሁንም በፕሬዚዳንቱ ላይ ተስፋየሌለው ፍቅር አላት	ብሪት ሁም ለ ፎክስ ይሰራል	entailment	Entailment	entailment
+483	ለተከታታዩ የበለጠ ሰውኛ እንዲሆን ሚካኤል አፕትድን መቀጠሩ ብዙ ስራ ሠርቷል	ሚካኤል አፕቴድ ሰውኛ እና አስደሳች ገፅታወች በማስወጣታቸው ተከታታዩን አቋርጦታል	contradiction	Entailment	entailment
+484	ለተከታታዩ የበለጠ ሰውኛ እንዲሆን ሚካኤል አፕትድን መቀጠሩ ብዙ ስራ ሠርቷል	ሚካኤል አፕቴድ በተከታታዩ ላይ የግል ብቃትን ለመጨመር ተቀጥሮ ነበር	entailment	Entailment	entailment
+485	ለተከታታዩ የበለጠ ሰውኛ እንዲሆን ሚካኤል አፕትድን መቀጠሩ ብዙ ስራ ሠርቷል	ተከታታዩ ስሜት የሌለው እና አሰልቺ ነው ተብሎ ይታሰብ ነበር፣ስለዚህ ደረጃ አሰጣጦችን ለማሻሻል አስደሳች እና ግላዊ ደረጃወችን ለመጨመር ሚካኤል አፕትድን መቅጠር አስፈላጊ ነበር	neutral	Entailment	entailment
+486	ሴት ልጅን በነጭ ፈር ካፖርት እና በረጂም ጫማ ለማየት	ሴት ልጅቷ ለበረዶ መንሸራተቻ የሚሆን አለባበስ ለብሳለች	neutral	Entailment	entailment
+487	ሴት ልጅን በነጭ ፈር ካፖርት እና በረጂም ጫማ ለማየት	ሴት ልጅቷ ነጭ ልብሶች ለብሳለች	entailment	Entailment	entailment
+488	ሴት ልጅን በነጭ ፈር ካፖርት እና በረጂም ጫማ ለማየት	ሴት ልጅቷ ሁሉም የለበሰችው ቀይ ነው	contradiction	"The language used is Amharic, an Ethiopian Semitic language.
+
+The premise states that a girl is wearing a white dress and a red shoe to be seen. The hypothesis states that all the clothes the girl wears are red.
+
+The premise does not necessarily imply that all the girl's clothes are red, only that she is wearing a white dress and a red shoe. Therefore, the relationship between the premise and the hypothesis is neutral."	neutral
+489	ፊልሙ ለመጥቀስ የዘነጋው ነገር ካፍማን ራሱን  እንዴት ማስወገድ እንደሚፈልግ ብዙ ጊዜ መናገሩን ነበር	ፊልሙ ስለራሱ ሞት ሲወያይ ካፍማን አያነሳም	entailment	Entailment	entailment
+490	ፊልሙ ለመጥቀስ የዘነጋው ነገር ካፍማን ራሱን  እንዴት ማስወገድ እንደሚፈልግ ብዙ ጊዜ መናገሩን ነበር	ፊልሙ ከካፍማን ጋር ስለ አሟሟቱ ጥልቅ ቃለ ምልልስ አድርጓል	contradiction	Entailment	entailment
+491	ፊልሙ ለመጥቀስ የዘነጋው ነገር ካፍማን ራሱን  እንዴት ማስወገድ እንደሚፈልግ ብዙ ጊዜ መናገሩን ነበር	ስለ ካፍማን አንዳንድ ወሳኝ ዝርዝሮችን ቢተውም ፊልሙ ግንባር ቀደም ነበር	neutral	Entailment	entailment
+492	ሮክፌለር ኤንጅል ታርቤልን ለመበቀል እያለ በአድፍጦ ውጊያ ስቃይ ዉስጥ ነበር	ሮክፌለር ለካንሰር ምርምር ልገሳ አደረገ	neutral	Entailment	entailment
+493	ሮክፌለር ኤንጅል ታርቤልን ለመበቀል እያለ በአድፍጦ ውጊያ ስቃይ ዉስጥ ነበር	ሮክፌለር ለጋስ ነበር	entailment	Entailment	entailment
+494	ሮክፌለር ኤንጅል ታርቤልን ለመበቀል እያለ በአድፍጦ ውጊያ ስቃይ ዉስጥ ነበር	ሮክፌለር ስስታም ነበር	contradiction	Entailment	entailment
+495	ክሌይማን በቅርቡ ኒው ዮርክ ውስጥ በነበረው የንግድ ጉዳይ ላይ በጎሳዎች መካከል በተነሱ ግጭቶች ሌላኛውን  ቡድን ደግፎ ቆመ	ክላይማን በካሊፎርኒያ የጎሳ አድሏዊነት አስነስቷል	contradiction	Entailment	entailment
+496	ክሌይማን በቅርቡ ኒው ዮርክ ውስጥ በነበረው የንግድ ጉዳይ ላይ በጎሳዎች መካከል በተነሱ ግጭቶች ሌላኛውን  ቡድን ደግፎ ቆመ	ክላይማን በጎሳ አድልዎ እንደሚከሰስ አልጠበቀም ነበር	neutral	Entailment	entailment
+497	ክሌይማን በቅርቡ ኒው ዮርክ ውስጥ በነበረው የንግድ ጉዳይ ላይ በጎሳዎች መካከል በተነሱ ግጭቶች ሌላኛውን  ቡድን ደግፎ ቆመ	በክላይማን ላይ የጎሳ አድሎአዊ ክሶች ነበሩ	entailment	Entailment	entailment
+498	የድርጅት ሃላፊወች በተሰበሰቡበት ክፍል ውስጥ በU.S የሰው ሃይል አስተዳደር ላይ ጮሆ ይሳደባል ብሎ የጠበቀ አልነበረም	የድርጅት ተወካዮች ሱፍ ይለብሳሉ	neutral	"አስተያየት! (Ah, interesting!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is:
+
+Neutral
+
+The premise talks about the organization's leaders and their role in the U.S. human resource management, while the hypothesis mentions the organization's representatives being sufficient. The two statements are not directly related, and one does not necessarily imply or contradict the other."	neutral
+499	የድርጅት ሃላፊወች በተሰበሰቡበት ክፍል ውስጥ በU.S የሰው ሃይል አስተዳደር ላይ ጮሆ ይሳደባል ብሎ የጠበቀ አልነበረም	አንድ ሰው የድርጅት ተወካዮችን ፉጨት ይጠብቃል	contradiction	Entailment	entailment
+500	የድርጅት ሃላፊወች በተሰበሰቡበት ክፍል ውስጥ በU.S የሰው ሃይል አስተዳደር ላይ ጮሆ ይሳደባል ብሎ የጠበቀ አልነበረም	አንድ ሰው የድርጅት ተወካዮችን ፉጨት አይጠብቅም	entailment	Entailment	entailment
+501	እንክብካቤ በአትሌቲክስ አፈጻጸም ላይ የበለጠ ጉልህ ተጽእኖ ስላለው ብቻ ግን ተፈጥሮ ለዘብተኛ ሆናለች ማለት አይደለም	አትሌቶች የተወለዱት ሁሉንም አቅማቸውን ሙሉ በሙሉ እውን በማድረግ ነው	contradiction	Entailment	entailment
+502	እንክብካቤ በአትሌቲክስ አፈጻጸም ላይ የበለጠ ጉልህ ተጽእኖ ስላለው ብቻ ግን ተፈጥሮ ለዘብተኛ ሆናለች ማለት አይደለም	የአትሌቲክስ አቅም ከጄኔቲክስ ይልቅ በልምምድ የበለጠ ይጎዳል	entailment	Entailment	entailment
+503	እንክብካቤ በአትሌቲክስ አፈጻጸም ላይ የበለጠ ጉልህ ተጽእኖ ስላለው ብቻ ግን ተፈጥሮ ለዘብተኛ ሆናለች ማለት አይደለም	በጣም ጠንካራ የሆኑ አትሌቶች በየሳምንቱ ቢያንስ ለስምንት ሰዓት ልምምድ ያደርጋሉ	neutral	Neutral	neutral
+504	አንዴ ቤት፣ዩናይትድ ስቴት በሁለት መንገድ አቅርቦቶችን እንደምታቋርጥ ተማርኩ	ፖለቲካ ላይ ፍላጎት አለኝ	neutral	Neutral	neutral
+505	አንዴ ቤት፣ዩናይትድ ስቴት በሁለት መንገድ አቅርቦቶችን እንደምታቋርጥ ተማርኩ	ስለ ዩናይትድ ስቴት ተማርኩ	entailment	Entailment	entailment
+506	አንዴ ቤት፣ዩናይትድ ስቴት በሁለት መንገድ አቅርቦቶችን እንደምታቋርጥ ተማርኩ	ወደ ቤት ከመምጣቴ በፊት ዩናይትድ ስቴት በሁለት መንገድ አቅርቦቶችን እንደምታቋርጥ ተማርኩ	contradiction	Entailment	entailment
+507	የአለማችን አንጋፋ እና ትልቁ የዩኒቨርስቲ ፕሬስ ኦክስፎርድ የግጥም ዝርዝሮቹን መሰረዙን አስታውቋል	በኦክስፎርድ ያለው የግጥም ዝርዝር አሁን እየቀጠለ አይደለም	entailment	"እንኳን! (Hello!)
+
+After analyzing the premise and hypothesis, I conclude that it's a **contradiction**."	contradiction
+508	የአለማችን አንጋፋ እና ትልቁ የዩኒቨርስቲ ፕሬስ ኦክስፎርድ የግጥም ዝርዝሮቹን መሰረዙን አስታውቋል	የተከበረው ዩኒቨርሲቲ የግጥም ዝርዝሩን በንቃት ለመጠበቅ የሚያስችል የገንዘብ ድጋፍ የለውም	neutral	Entailment	entailment
+509	የአለማችን አንጋፋ እና ትልቁ የዩኒቨርስቲ ፕሬስ ኦክስፎርድ የግጥም ዝርዝሮቹን መሰረዙን አስታውቋል	ዩኒቨርሲቲው የግጥም ዝርዝሩን ለመጠበቅ እናም ፈጽሞ እንደማይሰርዘው ቆርጦ ተነስቷል	contradiction	Entailment	entailment
+510	ለሰው ልጅ የማጽናኛ ሽልማት ግን አለ	የማጽናኛ ሽልማቱ ለእያንዳንዱ ሰው ነጻ ሁለት የፍጥነት ማደባለቂያ ነው	neutral	Entailment	entailment
+511	ለሰው ልጅ የማጽናኛ ሽልማት ግን አለ	በዚህ ሁኔታ ውስጥ ለሰዎች ምንም መለዋወጥ የለም	contradiction	Entailment	entailment
+512	ለሰው ልጅ የማጽናኛ ሽልማት ግን አለ	ይህ ሁሉ ለሰው ልጆች መጥፎ ዜና አይደለም	entailment	Entailment	entailment
+513	በእነዚህ ድረ፡ገጾች  ላይ ለውርርድ የሚደረጉ ዝግጅቶች ስፖርቶች ብቻ አይደሉም	በፖለቲካ ውድድር እና ምርጫዎች ላይ ያለ ውርርድ በእነዚህ ድረ፡ገጾችም ተቀባይነት አለው	neutral	Entailment	entailment
+514	በእነዚህ ድረ፡ገጾች  ላይ ለውርርድ የሚደረጉ ዝግጅቶች ስፖርቶች ብቻ አይደሉም	እነዚህ ድረ፡ገጾች  በስፖርት ዝግጅቶች ላይ ያለ ውርርድ ብቻ ይቀበላሉ	contradiction	Entailment	entailment
+515	በእነዚህ ድረ፡ገጾች  ላይ ለውርርድ የሚደረጉ ዝግጅቶች ስፖርቶች ብቻ አይደሉም	እነዚህ ድረ፡ገጾች በተለያዩ እንቅስቃሴዎች ላይ ምርጡን ይወስዳሉ	entailment	Entailment	entailment
+516	በ  ኦገስት 25 ከዲሞክራሲያዊ ጉባኤው በኃላ በ አትላንቲክ ከተማ ኒውጀርዚ ጆንሰን የ56 አመቱ እጩ በ ሶስት ተከታታይ የተመዘገቡ ጉባኤወች ላይ ከፕረዝዳንታዊ ውድድሩ ራሱን ሊያገል እንደሚችል አስጠነቀቀ	ጆንሰን ድጋፍ ማጣት ስሜት ተሰማው	neutral	Entailment	entailment
+517	በ  ኦገስት 25 ከዲሞክራሲያዊ ጉባኤው በኃላ በ አትላንቲክ ከተማ ኒውጀርዚ ጆንሰን የ56 አመቱ እጩ በ ሶስት ተከታታይ የተመዘገቡ ጉባኤወች ላይ ከፕረዝዳንታዊ ውድድሩ ራሱን ሊያገል እንደሚችል አስጠነቀቀ	ጆንሰን ስለመውጣት አስቦ አያውቅም	contradiction	Entailment	entailment
+518	በ  ኦገስት 25 ከዲሞክራሲያዊ ጉባኤው በኃላ በ አትላንቲክ ከተማ ኒውጀርዚ ጆንሰን የ56 አመቱ እጩ በ ሶስት ተከታታይ የተመዘገቡ ጉባኤወች ላይ ከፕረዝዳንታዊ ውድድሩ ራሱን ሊያገል እንደሚችል አስጠነቀቀ	ጆንሰን ለመልቀቅ ቆርጧል	entailment	Entailment	entailment
+519	ላማር አሌክሳንደር የፕሬዚዳንትነት ጨረታውን አቋርጧል	ቢያንስ አንድ ሰው ፕሬዚዳንት ለመሆን በሚደረገው ሙከራ ተስፋ ቆርጧል	entailment	Entailment	entailment
+520	ላማር አሌክሳንደር የፕሬዚዳንትነት ጨረታውን አቋርጧል	ላማር አሌክሳንደር የፕሬዚዳንቱን ዘመቻ ለመተው ፈቃደኛ አልሆነም	contradiction	Contradiction	contradiction
+521	ላማር አሌክሳንደር የፕሬዚዳንትነት ጨረታውን አቋርጧል	ሚስተር አሌክሳንደር አሳፋሪ ፎቶውቹ ከታተሙ በኋላ ለመልቀቅ ተገደዱ	neutral	"The language used is Amharic, an Ethiopian Semitic language.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise talks about Alexander's presidency, while the hypothesis mentions Alexander's photo being taken after a meeting. The two statements are unrelated and do not logically follow or contradict each other."	neutral
+522	በዚህ አሳዛኝ የሲቪል ነጻነት መዝገብ ላይ በዋይት ሀውስ የመጀመሪያ የጉዞ ቢሮ ምርመራ  FBIን አላግባብ መጠቀም  እና ፋይልጌት እየተባለ መጠራቱ ነው	ዋይት ሀውስ በፖለቲካ እጩዎች ላይ የ ኤፍቢአይ ሰላይ አለው	neutral	Entailment	entailment
+523	በዚህ አሳዛኝ የሲቪል ነጻነት መዝገብ ላይ በዋይት ሀውስ የመጀመሪያ የጉዞ ቢሮ ምርመራ  FBIን አላግባብ መጠቀም  እና ፋይልጌት እየተባለ መጠራቱ ነው	ዋይት ሀውስ ኤፍቢአይ አላግባብ ይጠቀማል	entailment	Entailment	entailment
+524	በዚህ አሳዛኝ የሲቪል ነጻነት መዝገብ ላይ በዋይት ሀውስ የመጀመሪያ የጉዞ ቢሮ ምርመራ  FBIን አላግባብ መጠቀም  እና ፋይልጌት እየተባለ መጠራቱ ነው	ዋይት ሀውስ ኤፍቢአይ በ አግባቡ ይጠቀማል	contradiction	Entailment	entailment
+525	ቱንግ በንብረት ተንታኞች ላይ እርምጃ እንደሚወስድ ቃል ገብቷል፣ ነገር ግን ብዙዎች የእሱ ጩኸት ከንክሻው የከፋ እንደሚሆን ያስባሉ	ቱንግ ስለ ንብረት ገማቾች ግድ የለውም	contradiction	Entailment	entailment
+526	ቱንግ በንብረት ተንታኞች ላይ እርምጃ እንደሚወስድ ቃል ገብቷል፣ ነገር ግን ብዙዎች የእሱ ጩኸት ከንክሻው የከፋ እንደሚሆን ያስባሉ	ቱንግ የንብረት ገማቾች ሥነ ምግባር የጎደለው እርምጃ እየወሰዱ እንደሆነ ያስባል	neutral	Entailment	entailment
+527	ቱንግ በንብረት ተንታኞች ላይ እርምጃ እንደሚወስድ ቃል ገብቷል፣ ነገር ግን ብዙዎች የእሱ ጩኸት ከንክሻው የከፋ እንደሚሆን ያስባሉ	ቱንግ በንብረት ገማቾች ላይ ተጽዕኖ ማሳደር ይፈልጋል	entailment	Entailment	entailment
+528	የቦርሳ ችግር ቅረታወችቹ ተፈተዋል የማይሰሩ የበረራ አስተናጋጆች፣ምክኒያታዊ ያልሆኑ የበረራ መሰረዞች፣የግፍ ክፍያወች 	የ10  ሰዎች ሻንጣ ጠፍቷል	neutral	Neutral	neutral
+529	የቦርሳ ችግር ቅረታወችቹ ተፈተዋል የማይሰሩ የበረራ አስተናጋጆች፣ምክኒያታዊ ያልሆኑ የበረራ መሰረዞች፣የግፍ ክፍያወች 	ሰዎች ስለ ሻንጣወቻቸው ቅሬታ አቅርበዋል	entailment	Neutral	neutral
+530	የቦርሳ ችግር ቅረታወችቹ ተፈተዋል የማይሰሩ የበረራ አስተናጋጆች፣ምክኒያታዊ ያልሆኑ የበረራ መሰረዞች፣የግፍ ክፍያወች 	ምንም ዓይነት ቅሬታዎች አልነበሩም	contradiction	Contradiction	contradiction
+531	ሎረንስሲንግልተን የተባለው የታወቀ አስገድዶ ደፋሪ የተጎጅወቹን ክንድ ቆርጦ ከጣለ በኋላ ለስምንት አመታት ብቻ ከታሰረበት ቢወጣም እንደገና አንዲትን ሴት በፍሎሪዳ ወግቶ በመግደሉ በቁጭር ስር ሊውል ችሏል	 የተጎጅወቹን ክንድ ቆርጦ ከጣለ በኋላ በቆሻሻ መጣያ ቆርቆሮ ሊደብቃቸው ሞከረ	neutral	Entailment	entailment
+532	ሎረንስሲንግልተን የተባለው የታወቀ አስገድዶ ደፋሪ የተጎጅወቹን ክንድ ቆርጦ ከጣለ በኋላ ለስምንት አመታት ብቻ ከታሰረበት ቢወጣም እንደገና አንዲትን ሴት በፍሎሪዳ ወግቶ በመግደሉ በቁጭር ስር ሊውል ችሏል	በእስር ቤት ያሳለፈው ጊዜ ሙሉ በሙሉ እንደቀየረው ለሁሉም ግልጽ ነበር	contradiction	"አስንታን! (Ah-sin-tan!) That's a tough one!
+
+After careful analysis, I'd say the premise **contradicts** the hypothesis.
+
+The premise suggests that the person was released from prison after 8 years, while the hypothesis claims that the person's entire prison sentence was served in full, implying that they didn't get released early. These two statements are mutually exclusive, hence the contradiction."	contradiction
+533	ሎረንስሲንግልተን የተባለው የታወቀ አስገድዶ ደፋሪ የተጎጅወቹን ክንድ ቆርጦ ከጣለ በኋላ ለስምንት አመታት ብቻ ከታሰረበት ቢወጣም እንደገና አንዲትን ሴት በፍሎሪዳ ወግቶ በመግደሉ በቁጭር ስር ሊውል ችሏል	ሚስተር ሲንግልተን በፍሎሪዳ የተፈረደበት አስገድዶ መድፈር ነው	entailment	Entailment	entailment
+534	የኒው ሪፐብሊክ ባልደረባ ቻርለስ ሌን እንዳሉት  የገብርኤል ጋርካያ ማርኬዝ የጠለፋ ዜና  ታማኝነት የጎደለው  ጋዜጠኝነትን ይመዘግባል 	ቻርለስ ሌይን ዘጋቢ ነው	entailment	Entailment	entailment
+535	የኒው ሪፐብሊክ ባልደረባ ቻርለስ ሌን እንዳሉት  የገብርኤል ጋርካያ ማርኬዝ የጠለፋ ዜና  ታማኝነት የጎደለው  ጋዜጠኝነትን ይመዘግባል 	ቻርለስ ሌይን መኪኖች ሽጧል	contradiction	Entailment	entailment
+536	የኒው ሪፐብሊክ ባልደረባ ቻርለስ ሌን እንዳሉት  የገብርኤል ጋርካያ ማርኬዝ የጠለፋ ዜና  ታማኝነት የጎደለው  ጋዜጠኝነትን ይመዘግባል 	ቻርለስ ሌን ፑሊትዘርን ሽልማትን አሸንፏል	neutral	Entailment	entailment
+537	ፍርድ ቤቱ በዛሬው ጠዋት በዋሽንግተን ውስጥ ብቸኛው የፖለቲካ ሰርከስ አይደለም	ፍርድ ቤቱ በዋሽንግተን ብቸኛው የፖለቲካ ቦታ አይደለም	entailment	Entailment	entailment
+538	ፍርድ ቤቱ በዛሬው ጠዋት በዋሽንግተን ውስጥ ብቸኛው የፖለቲካ ሰርከስ አይደለም	የፖለቲካው ቀን ከጠዋት ጀምሮ ሳይሆን አይቀርም	neutral	Entailment	entailment
+539	ፍርድ ቤቱ በዛሬው ጠዋት በዋሽንግተን ውስጥ ብቸኛው የፖለቲካ ሰርከስ አይደለም	በፍርድ ቤቱ ቀልዶች ያሉት ሰርከስ አለ	contradiction	"አስነብን! (Let's see!)
+
+The premise states that there is no political service (የፖለቲካ ሰርከስ) in the Federal Court (ፍርድ ቤቱ) today in Washington.
+
+The hypothesis states that there is a service (ሰርከስ) in the Federal Court (ፍርድ ቤቱ) that has attendees (ቀልዶች).
+
+The premise and hypothesis are contradictory, as the premise denies the existence of a political service, while the hypothesis affirms the existence of a service (albeit with attendees).
+
+So, the answer is: **contradiction**."	contradiction
+540	አንድ የዶዘር ሹፌር በገንቢው እየተሰራ ላለው ለአዲስ ልማት መንገድ እየጠረገ እንደሆነ ማሰብ እንችላለን  ሃይ፣ ሎይድ	የዶዘር ሹፌር ዶዘር እያስነሳ እንደሆነ ማሰብ ትችላለህ	neutral	Entailment	entailment
+541	አንድ የዶዘር ሹፌር በገንቢው እየተሰራ ላለው ለአዲስ ልማት መንገድ እየጠረገ እንደሆነ ማሰብ እንችላለን  ሃይ፣ ሎይድ	የዶዘር ሹፌር ማሰብ ትችላለህ	entailment	Entailment	entailment
+542	አንድ የዶዘር ሹፌር በገንቢው እየተሰራ ላለው ለአዲስ ልማት መንገድ እየጠረገ እንደሆነ ማሰብ እንችላለን  ሃይ፣ ሎይድ	የዶዘር ሹፌር ማሰብ አትችልም	contradiction	Contradiction	contradiction
+543	ይህንን በደብዳቤ ለDr ነግሬው እሱን ለማስደሰት ይመስል ነበር እና በዚያ ገና ትንሽ የፍራፍሬ ኬክ ላከልኝ	ሃኪሙ የላክሁትን ደብዳቤ እንደተቀበለ እርግጠኛ ነኝ	entailment	Entailment	entailment
+544	ይህንን በደብዳቤ ለDr ነግሬው እሱን ለማስደሰት ይመስል ነበር እና በዚያ ገና ትንሽ የፍራፍሬ ኬክ ላከልኝ	በዚያ የገና በዓል ዶክተሩ የላከልኝን ኬክ አልበላሁም	neutral	Entailment	entailment
+545	ይህንን በደብዳቤ ለDr ነግሬው እሱን ለማስደሰት ይመስል ነበር እና በዚያ ገና ትንሽ የፍራፍሬ ኬክ ላከልኝ	ዶክተሩ በዚያ የገና በዓል በጠርሙስ ውስጥ ወይን ላከልኝ	contradiction	Entailment	entailment
+546	ቡድኑ ቀደም ሲል በሚታወሱት ቢኔኤተሮች ይታወቅ ነበር ፣ እሱም በሚያጓጓ ሁኔታ ፣ እንደ የህንድ ቅጽል ስምም ሊቆጠር ይችላል	ቡድኑ ታዋቂ ስላልነበረ ስሙን ቀይሯል	neutral	Contradiction	contradiction
+547	ቡድኑ ቀደም ሲል በሚታወሱት ቢኔኤተሮች ይታወቅ ነበር ፣ እሱም በሚያጓጓ ሁኔታ ፣ እንደ የህንድ ቅጽል ስምም ሊቆጠር ይችላል	ቡድኑ ከዚህ በፊት ስም ነበረው እንደ የህንድ ቅጽል ስምም ሊታሰብ ይችላል	entailment	Entailment	entailment
+548	ቡድኑ ቀደም ሲል በሚታወሱት ቢኔኤተሮች ይታወቅ ነበር ፣ እሱም በሚያጓጓ ሁኔታ ፣ እንደ የህንድ ቅጽል ስምም ሊቆጠር ይችላል	ቡድኑ አንድ ስም ብቻ ነው ያለው	contradiction	Entailment	entailment
+549	በትሀሳኡሩስ ውስጥ እንደዚህ ያለ ትርጉም ማግኘት አልቻልኩም 	 ትርጉሙን በ ትሀሳኡሩስ ውስጥ አገኘሁት	contradiction	Contradiction.	contradiction
+550	በትሀሳኡሩስ ውስጥ እንደዚህ ያለ ትርጉም ማግኘት አልቻልኩም 	ትሀሳኡሩስ ውስጥ ተመለከትኩ እና ትርጓሜ አላገኘሁም	entailment	Entailment	entailment
+551	በትሀሳኡሩስ ውስጥ እንደዚህ ያለ ትርጉም ማግኘት አልቻልኩም 	እኔ የተጠቀምኩት  የነበረው ትሀሳኡሩስ መደበኛ ትሀሳኡሩስ ነበር	neutral	Entailment	entailment
+552	አንድ ሰው እንዴት ማድረግ ይችላል	እንዴት ብዙ ሰዎች ምንም ማድረግ አይችሉም	contradiction	Contradiction	contradiction
+553	አንድ ሰው እንዴት ማድረግ ይችላል	እንዴት አንድ ሰው እንደዚህ መትፎ ነገር ያደርጋል	neutral	Entailment	entailment
+554	አንድ ሰው እንዴት ማድረግ ይችላል	አንድ ሰው ይህን ማድረግ የሚቻለው እንዴት ነው	entailment	Entailment	entailment
+555	ከዚህም በላይ በመቅድሙ ስራ መሠረት በሃያኛው ክፍለ ዘመን እንደተነሱ የሚታወቁ ቃላትን ብቻ ይዟል፣ ነገር ግን የ 20 ኛው ክፍለ ዘመን ቀደምት ወታደራዊ ቃላትን ይተዋል 	በመግቢያው ላይ እንደተገለጸው፣ በሃያኛው ክፍለ ዘመን የተነሱ ቃላትን ይዟል ነገር ግን ቀደም ሲል የተነሱትን ቃላቶች ይተዋል	entailment	Entailment	entailment
+556	ከዚህም በላይ በመቅድሙ ስራ መሠረት በሃያኛው ክፍለ ዘመን እንደተነሱ የሚታወቁ ቃላትን ብቻ ይዟል፣ ነገር ግን የ 20 ኛው ክፍለ ዘመን ቀደምት ወታደራዊ ቃላትን ይተዋል 	ከጥንት ጀምሮ በውስጡ የተካተቱት ሁሉም ቃላቶች አሉት	contradiction	Entailment	entailment
+557	ከዚህም በላይ በመቅድሙ ስራ መሠረት በሃያኛው ክፍለ ዘመን እንደተነሱ የሚታወቁ ቃላትን ብቻ ይዟል፣ ነገር ግን የ 20 ኛው ክፍለ ዘመን ቀደምት ወታደራዊ ቃላትን ይተዋል 	ከ ሃያኛው ክፍለ ዘመን በፊት ብዙ የተለያዩ ዘይቤዎች አሉ	neutral	Entailment	entailment
+558	አንድ ሰው የ1984 እትም ካለው፣ ከአጭር ጊዜ (እና ብዙም ውድ ያልሆነ) ማሟያ ከመግዛት ይልቅ ይህን መጽሐፍ በመግዛቱ ቅር ሊለው ይችላል	የ 1984ቱ እትም ከብዙዎቹ ምርጥ ነው	neutral	Entailment	entailment
+559	አንድ ሰው የ1984 እትም ካለው፣ ከአጭር ጊዜ (እና ብዙም ውድ ያልሆነ) ማሟያ ከመግዛት ይልቅ ይህን መጽሐፍ በመግዛቱ ቅር ሊለው ይችላል	መጽሐፉ የሚሸጥ አይደለም	contradiction	Entailment	entailment
+560	አንድ ሰው የ1984 እትም ካለው፣ ከአጭር ጊዜ (እና ብዙም ውድ ያልሆነ) ማሟያ ከመግዛት ይልቅ ይህን መጽሐፍ በመግዛቱ ቅር ሊለው ይችላል	አቅርቦቱ ከመጽሐፉ ርካሽ ነው	entailment	Entailment	entailment
+561	በርንስታይን በመግቢያው ላይ አብራርቷል	በርንስታይን በጥልቀት አላብራራውም	neutral	Contradiction	contradiction
+562	በርንስታይን በመግቢያው ላይ አብራርቷል	በርንስታይን በማጠቃለያው ላይ ብቻ ነው ያብራራው	contradiction	"አስተያየት!
+
+The answer is: contradiction"	contradiction
+563	በርንስታይን በመግቢያው ላይ አብራርቷል	መግቢያው ማብራሪያወችን ይዟል	entailment	Entailment	entailment
+564	 ከሃያ ዓመታት ያህል ዕውቀት በኋላም እንኳ አንድ የውጭ አገር ሰው ስለ እነርሱ እንግዳ የሆኑ ብዙ ነገሮችን መለየት አስቸጋሪ ስለሆነ ብቻ እነዚህ ርዕሰ ጉዳዮች ጣልቃ እንዲገቡ አይመከሩም 	የአፍ መፍቻ ቋንቋ ተናጋሪዎች እንኳን አንዳንድ ጊዜ በቀልድ ላይ ችግር አለባቸው	neutral	Neutral	neutral
+565	 ከሃያ ዓመታት ያህል ዕውቀት በኋላም እንኳ አንድ የውጭ አገር ሰው ስለ እነርሱ እንግዳ የሆኑ ብዙ ነገሮችን መለየት አስቸጋሪ ስለሆነ ብቻ እነዚህ ርዕሰ ጉዳዮች ጣልቃ እንዲገቡ አይመከሩም 	ቀልድ ባጠቃላይ ለውጭ አገር ሰዎች ለመረዳት በጣም ቀላል ከሆኑ ነገሮች አንዱ ነው	contradiction	Entailment	entailment
+566	 ከሃያ ዓመታት ያህል ዕውቀት በኋላም እንኳ አንድ የውጭ አገር ሰው ስለ እነርሱ እንግዳ የሆኑ ብዙ ነገሮችን መለየት አስቸጋሪ ስለሆነ ብቻ እነዚህ ርዕሰ ጉዳዮች ጣልቃ እንዲገቡ አይመከሩም 	እነዚህ ርዕሰ ጉዳዮች ለውጭ ሰዎች ለመረዳት አስቸጋሪ ናቸው	entailment	Entailment	entailment
+567	በመጨረሻም ፣ አንድ ሰው የተለየ ትርጉም ካለው ማራዘም መጠንቀቅ አለበት	አዘጋጆች የተቀጠሩት በተለምዶ ይህን አይነት ስህተት ለመያዝ ነው	neutral	Entailment	entailment
+568	በመጨረሻም ፣ አንድ ሰው የተለየ ትርጉም ካለው ማራዘም መጠንቀቅ አለበት	ማራዘም የአረፍተ ነገር ትርጉም መብራራቱን ለማረጋገጥ ጥሩ መንገድ ነው	contradiction	Entailment	entailment
+569	በመጨረሻም ፣ አንድ ሰው የተለየ ትርጉም ካለው ማራዘም መጠንቀቅ አለበት	ረዘም ያለ መግለጫ ለመስጠት ሲሞክር ትርጉሙ ሊለወጥ ይችላል	entailment	Entailment	entailment
+570	በሙቀት እራስህን እንዲያዞርህ አድርግ	በሰዎች ጭንቅላት ላይ ሙቀት መጨመር ትኩረታቸውን እና ተመስጧቸውን ለማሻሻል ጥሩ መንገድ ነው	contradiction	Entailment	entailment
+571	በሙቀት እራስህን እንዲያዞርህ አድርግ	ከመጠን በላይ ሙቀት በአንዳንድ ሁኔታዎች ማዞር ሊያስከትል ይችላል	entailment	Entailment	entailment
+572	በሙቀት እራስህን እንዲያዞርህ አድርግ	ዛሬ ከወቅቱ አማካይ ሙቀት አምስት ዲግሪ በላይ ነበር	neutral	"አስተያየት! (Ah, understanding!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is: NEUTRAL.
+
+The premise is giving an instruction to make something happen, while the hypothesis is stating a fact about a specific situation. They don't seem to be directly related, and one doesn't necessarily imply or contradict the other."	neutral
+573	ማንም ሌላ ሙያተኛ እንዲህ የበለፀገ ራስን የማጥላላት ባህል የለውም	ሌሎች ብዙ ባለሙያዎች ራሳቸው ከፍ አድርገው ያስባሉ	neutral	Entailment	entailment
+574	ማንም ሌላ ሙያተኛ እንዲህ የበለፀገ ራስን የማጥላላት ባህል የለውም	ብዙ ሞያወች እራስን የማጥላላት ልምድ የላቸውም	contradiction	Entailment	entailment
+575	ማንም ሌላ ሙያተኛ እንዲህ የበለፀገ ራስን የማጥላላት ባህል የለውም	ሌላ ሥራ ስለ ራሱ የመተቸት ባህል የለውም	entailment	Entailment	entailment
+576	እና በትዕቢት ማስታወሻዎች ፣ እነዚያ በአካባቢያዊ አፈ ታሪኮች ውስጥ ቀስቃሽ ስሞችን ያተረፉ ጨርቆች እነዚህን አጠራሮች በግል ደብዳቤዎች ፣ የቤት ወሬወች እና ግልፅ ያልሆነ የማንነት ቅፅ ይጠቀማሉ	እነዚህ ወረቀቶች ዝና የላቸውም	contradiction	Entailment	entailment
+577	እና በትዕቢት ማስታወሻዎች ፣ እነዚያ በአካባቢያዊ አፈ ታሪኮች ውስጥ ቀስቃሽ ስሞችን ያተረፉ ጨርቆች እነዚህን አጠራሮች በግል ደብዳቤዎች ፣ የቤት ወሬወች እና ግልፅ ያልሆነ የማንነት ቅፅ ይጠቀማሉ	እነዚህ ወረቀቶች ጥሩ ዝና ላቸውም	entailment	Entailment	entailment
+578	እና በትዕቢት ማስታወሻዎች ፣ እነዚያ በአካባቢያዊ አፈ ታሪኮች ውስጥ ቀስቃሽ ስሞችን ያተረፉ ጨርቆች እነዚህን አጠራሮች በግል ደብዳቤዎች ፣ የቤት ወሬወች እና ግልፅ ያልሆነ የማንነት ቅፅ ይጠቀማሉ	እነዚያ ወረቀቶች የብዙ ቤት እመቤቶች  ሹክሹክታ አላቸው 	neutral	Entailment	entailment
+579	ቀላል እና ነጣ ያለ የቢራውን ባህሪ የሚገልፅ ከሆነ	ቢራ ቀላል እና ነጣ ያለ የሚል ፅሁፍ ሊኖረው ይችላል	entailment	Entailment	entailment
+580	ቀላል እና ነጣ ያለ የቢራውን ባህሪ የሚገልፅ ከሆነ	ቀላል እና ነጣ ያለ የሚሉት ቃላት ወይንንና ዉስኪን ብቻ ለመግለፅ ያግለግላሉ	contradiction	Entailment	entailment
+581	ቀላል እና ነጣ ያለ የቢራውን ባህሪ የሚገልፅ ከሆነ	ቀላል ቢራ ከፍተኛ የአልኮል መጠን የለውም	neutral	Entailment	entailment
+582	ያልታደሉት ስራ የበዛባቸው ስሞች  እነሱም ሆነ ሌላ አማራጭ ስሞች በማይፈለጉበት ጊዜ እንዃ ጥቅም ላይ ይውላሉ	ሰዎች ተቀያሪ ስም ለማግኘት ይቸገራሉ	neutral	Entailment	entailment
+583	ያልታደሉት ስራ የበዛባቸው ስሞች  እነሱም ሆነ ሌላ አማራጭ ስሞች በማይፈለጉበት ጊዜ እንዃ ጥቅም ላይ ይውላሉ	ስሙ ብዙ ጊዜ ጥቅም ላይ ውሏል	entailment	Entailment	entailment
+584	ያልታደሉት ስራ የበዛባቸው ስሞች  እነሱም ሆነ ሌላ አማራጭ ስሞች በማይፈለጉበት ጊዜ እንዃ ጥቅም ላይ ይውላሉ	ስሙ የበለጠ ጥቅም ላይ መዋል አለበት	contradiction	Entailment	entailment
+585	በዚህ ሁሉ ላይ፣ ልብ የሚነካ ጽሁፍ አንዳንድ ጊዜ የማይረሳና ችግሩን የሚያባብስ የመሆን የማያስደስት እውነታ አለን	 ሰዎች መጥፎ የእጅ ጽሁፎችን የማስታወስ ዕድላቸው ከፍተኛ ነው	contradiction	Entailment	entailment
+586	በዚህ ሁሉ ላይ፣ ልብ የሚነካ ጽሁፍ አንዳንድ ጊዜ የማይረሳና ችግሩን የሚያባብስ የመሆን የማያስደስት እውነታ አለን	 በጥሩ ሁኔታ የተጻፈ ጽሁፎች ብዙ ጊዜ ከመጥፎ የእጅ ጽሁፎች  ይልቅ ለማስታወስ ይቀላሉ	entailment	Neutral	neutral
+587	በዚህ ሁሉ ላይ፣ ልብ የሚነካ ጽሁፍ አንዳንድ ጊዜ የማይረሳና ችግሩን የሚያባብስ የመሆን የማያስደስት እውነታ አለን	በጥሩ ሁኔታ የተጻፈ  ጽሁፎች በብዛት ለማምረት በጣም ውድ ነው	neutral	Entailment	entailment
+588	ከዚህ አመለካከት ጋር የተጋፈጡ እና በመጠኑም የተገረሙ እንግሊዛውያን ቃሉን በዋናነት በመግለጽ ያላቸውን ክብር አረጋግጠዋል	ብሪታንያ ምንም ክብር አልነበራቸውም	contradiction	Contradiction	contradiction
+589	ከዚህ አመለካከት ጋር የተጋፈጡ እና በመጠኑም የተገረሙ እንግሊዛውያን ቃሉን በዋናነት በመግለጽ ያላቸውን ክብር አረጋግጠዋል	ብሪታኒያ የዓለምን ኢኮኖሚ ተቆጣጥራለች	neutral	Neutral	neutral
+590	ከዚህ አመለካከት ጋር የተጋፈጡ እና በመጠኑም የተገረሙ እንግሊዛውያን ቃሉን በዋናነት በመግለጽ ያላቸውን ክብር አረጋግጠዋል	ብሪታኒያ በአለም ዙሪያ በጣም ይነግዱ ነበር	entailment	Neutral	neutral
+591	አንዳንድ ጊዜ እባብ የመሰለ ነው	አንዳንዴ ለመለየት በጣም አስቸጋሪ ሊሆን ይችላል	entailment	Entailment	entailment
+592	አንዳንድ ጊዜ እባብ የመሰለ ነው	በጥንቃቄ ለተሸፈነው ሞተር ምስጋና ይግባውና በጣም ትንሽ ድምጽ ነው የሚያሰማው	neutral	Neutral	neutral
+593	አንዳንድ ጊዜ እባብ የመሰለ ነው	ከማንኛውም ርቀት ለማወቅ ሁልጊዜ በጣም ቀላል ነበር	contradiction	"ሰላም! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: neutral.
+
+The premise talks about something being like a flower at some time, while the hypothesis discusses the difficulty of knowing something from a distance at all times. The two statements don't seem to be directly related, and one doesn't necessarily imply or contradict the other."	neutral
+594	እንደ እውነቱ ከሆነ በብሪታንያ ውስጥ ከሰሜን አሜሪካ የበለጠ ልዩ የሆኑ የእንግሊዝኛ ቋንቋዎች አሉ እና እነሱ ጋር ጊዜ ያሳለፈ ሰው የማይገናኙ መሆናቸውን ያውቃል	ብሪታንያ በሰሜን አሜሪካ ከሚገኙት የበለጠ ብዙ የእንግሊዝኛ ልዩ ዘዬዎች አሏት	entailment	Entailment	entailment
+595	እንደ እውነቱ ከሆነ በብሪታንያ ውስጥ ከሰሜን አሜሪካ የበለጠ ልዩ የሆኑ የእንግሊዝኛ ቋንቋዎች አሉ እና እነሱ ጋር ጊዜ ያሳለፈ ሰው የማይገናኙ መሆናቸውን ያውቃል	ከሰሜን አሜሪካ እና የብሪታንያ የአነጋገር ዘየ ፍፁም ተመሳሳይ ነው እና ሰዎች በመካከላቸው ያለውን ልዩነት መለየት አይችሉም	contradiction	"እንተኛው! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is:
+
+contradiction"	contradiction
+596	እንደ እውነቱ ከሆነ በብሪታንያ ውስጥ ከሰሜን አሜሪካ የበለጠ ልዩ የሆኑ የእንግሊዝኛ ቋንቋዎች አሉ እና እነሱ ጋር ጊዜ ያሳለፈ ሰው የማይገናኙ መሆናቸውን ያውቃል	ከሰሜን አሜሪካ የመጡ ሰዎች ከሚነገሩት የብሪታንያ የአነጋገር ዘየ ግማሹን ለመረዳት ይቸገራሉ	neutral	Entailment	entailment
+597	አንድ የቴኔሲ መረጃ ሰጭ የውሻ አየር በማለት ሞቃታማ፣ ዝናብ አልባ የአየር ሁኔታ ለመግለፅ ተጠቅሟል፣ ይህም የውሻ ቀናትን ከሚለው አገላለጽ የነሐሴን ደረቅ የአየር ሁኔታ የሚያመለክት ሊሆን ይችላል	እንደ መረጃ አቅራቢው ከሆነ በሞቃትና እርጥብ አየር ሁኔታ ወቅታዊውን ከባድ ዝናብ ለመግለጽ ያገለግል ነበር	contradiction	Entailment	entailment
+598	አንድ የቴኔሲ መረጃ ሰጭ የውሻ አየር በማለት ሞቃታማ፣ ዝናብ አልባ የአየር ሁኔታ ለመግለፅ ተጠቅሟል፣ ይህም የውሻ ቀናትን ከሚለው አገላለጽ የነሐሴን ደረቅ የአየር ሁኔታ የሚያመለክት ሊሆን ይችላል	ሰኔ እና ሃምሌ ደግሞ በ ቴነሴ በጣም ሞቃት ነው	neutral	Entailment	entailment
+599	አንድ የቴኔሲ መረጃ ሰጭ የውሻ አየር በማለት ሞቃታማ፣ ዝናብ አልባ የአየር ሁኔታ ለመግለፅ ተጠቅሟል፣ ይህም የውሻ ቀናትን ከሚለው አገላለጽ የነሐሴን ደረቅ የአየር ሁኔታ የሚያመለክት ሊሆን ይችላል	በነሃሴ ወር  የአየር ሁኔታው ​​​​ሞቃታማ እና ዝናብ የሌለበት ነው	entailment	Entailment	entailment

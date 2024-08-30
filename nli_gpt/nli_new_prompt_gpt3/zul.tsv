@@ -1,0 +1,601 @@
+premise,hypothesis,label,output
+"Ngangingacabangi ngisho nangalokho, kodwa ngangikhathazekile futhi ngaze ngagcina sengikhuluma naye futhi",Angikaze ngikhulume naye futhi,contradiction,True
+"Ngangingacabangi ngisho nangalokho, kodwa ngangikhathazekile futhi ngaze ngagcina sengikhuluma naye futhi",Ngangithukuthele kakhulu ngaze ngaqala ukukhuluma naye,entailment,True
+"Ngangingacabangi ngisho nangalokho, kodwa ngangikhathazekile futhi ngaze ngagcina sengikhuluma naye futhi",Sakhuluma kahle,neutral,True
+Bangitshela ukuthi bazobiza owesilisa ekugcineni engizohlangana naye,Angikaze ngitshelwe lutho ngokuthi kumele ngihlangane nobani,contradiction,True
+Bangitshela ukuthi bazobiza owesilisa ekugcineni engizohlangana naye,Ngatshelwa ukuthi owesilisa uzobizwa ukuze sihlangane,entailment,True
+Bangitshela ukuthi bazobiza owesilisa ekugcineni engizohlangana naye,Owesilisa wafika emva kwesikhathi,neutral,True
+"Kuningi ongakhuluma ngakho kulokho,ngizokweqa lokho",Ngifuna ukukutshela yonke into engiyaziyo ngalokho,contradiction,True
+"Kuningi ongakhuluma ngakho kulokho,ngizokweqa lokho","Ngeke ngikhulume ngalokho, yize noma kukuningi engingakusho",entailment,True
+"Kuningi ongakhuluma ngakho kulokho,ngizokweqa lokho",Ngeke ngikhulume ngomlando wedolobha ngoba kuningi engingakusho,neutral,True
+Anginaso isiqiniseko ukuthi kungani,Nginesiqiniseko ukuthi isizathu yini,contradiction,True
+Anginaso isiqiniseko ukuthi kungani,Angazi ukuthi kungani ashintshelwa ezikoleni,neutral,False
+Anginaso isiqiniseko ukuthi kungani,Angazi kwenzekelani lokho,entailment,True
+"Kwakuyimina kuphela owayesebenza kuzilawuli, ukuhlola izimbobo eziphakeme ezincane",Angikuthandanga ukuthi kube yimi kuphela osebenzisa izilawuli zokuhlola,neutral,True
+"Kwakuyimina kuphela owayesebenza kuzilawuli, ukuhlola izimbobo eziphakeme ezincane",Ukuhlolwa kwakwenziwa ezimbobweni eziphakeme ezincane,entailment,True
+"Kwakuyimina kuphela owayesebenza kuzilawuli, ukuhlola izimbobo eziphakeme ezincane",Babambalwa kuthina abagijimela kuzilawuli ukuyohlola,contradiction,True
+"NginguSayitsheni omkhulu, osethathe umhlalaphansi, njengokusho kukaRick",Ngisasebenza kuze kube yimanje,contradiction,True
+"NginguSayitsheni omkhulu, osethathe umhlalaphansi, njengokusho kukaRick",Ngathatha umhlalaphansi ngonyaka wezi-2002,neutral,True
+"NginguSayitsheni omkhulu, osethathe umhlalaphansi, njengokusho kukaRick",URick wakutshela ukuthi ngathatha umhlalaphansi,entailment,True
+"Kwakunezinkomba zokungena nokuphuma kwemali etafuleni lami, yingenxa yalokho noCutty, igama lekhasimende lelo",Ikhasimende uCutty wenza u$10000 ngenyanga,neutral,True
+"Kwakunezinkomba zokungena nokuphuma kwemali etafuleni lami, yingenxa yalokho noCutty, igama lekhasimende lelo",Kunekhasimende elibizwa ngoCutty,entailment,True
+"Kwakunezinkomba zokungena nokuphuma kwemali etafuleni lami, yingenxa yalokho noCutty, igama lekhasimende lelo",Asinalo ikhasimende elibizwa ngoCutty,contradiction,True
+Intombazane engisizile iphuma ngale kwedolobha,Intombazane engifuna ingisize ihlala kude kakhulu,entailment,True
+Intombazane engisizile iphuma ngale kwedolobha,Intombazane ezongisiza ihlala kumamayela awu-5 kude,neutral,True
+Intombazane engisizile iphuma ngale kwedolobha,Akekho ongangisiza,contradiction,True
+"Bahlukaniswa ngokuthi ubani ozosebenza emasimini nokuthi obani abazoba yizingane zasendlini, into ecishe ibenjalo",Bonke bavuma ukuthi bazosebenza emasimini,contradiction,True
+"Bahlukaniswa ngokuthi ubani ozosebenza emasimini nokuthi obani abazoba yizingane zasendlini, into ecishe ibenjalo",Abakwazanga ukuvuma ukuthi ubani ozoya ensimini nolungele ukusebenza endlini,entailment,True
+"Bahlukaniswa ngokuthi ubani ozosebenza emasimini nokuthi obani abazoba yizingane zasendlini, into ecishe ibenjalo",Abakwwazanga ukuvuma ukuthi ubani ozosebenza ensimini kakotini nokuthi ngubani ozosula phansi,neutral,True
+"Babenezingane eziyisihlanu, eyodwa yazo yashona",Zonke izingane zabo zaphila,contradiction,False
+"Babenezingane eziyisihlanu, eyodwa yazo yashona",Uyedwa umntwana owashona kwabahlanu,entailment,True
+"Babenezingane eziyisihlanu, eyodwa yazo yashona",Umntwana owashona wazalwa egula,neutral,True
+"Wathi bekunezinyembezi ezehlayo emehlweni akhe waphinde wathi,wabe esethi kuJoe weza endaweni yokungena",Ngesikhathi emtshela ukuthi akeze endaweni yokungena wayenezinyembezi emehlweni akhe,entailment,True
+"Wathi bekunezinyembezi ezehlayo emehlweni akhe waphinde wathi,wabe esethi kuJoe weza endaweni yokungena",Washesha wazisula izinyembezi emfa kokuphosa uJoe endaweni yokungena,contradiction,True
+"Wathi bekunezinyembezi ezehlayo emehlweni akhe waphinde wathi,wabe esethi kuJoe weza endaweni yokungena",Wayejabule ukubona uJoe waze waqala ukukhala,neutral,False
+Ngisho ngakuthiwa indizamshini yayivutha yayizosha bese iyancibilika iphume ngesivalo sensimbi ukuze ukushisa kuputshuke,Ukushisa kungagcineka futhi ngesikhathi somlilo,neutral,True
+Ngisho ngakuthiwa indizamshini yayivutha yayizosha bese iyancibilika iphume ngesivalo sensimbi ukuze ukushisa kuputshuke,Ukushisa kungaputshuka kungxenyana yensimbi emva kokusha kwendizamshini,entailment,True
+Ngisho ngakuthiwa indizamshini yayivutha yayizosha bese iyancibilika iphume ngesivalo sensimbi ukuze ukushisa kuputshuke,ukushisa ngeke kuputshuke ngesikhathi somlilo,contradiction,False
+"Lona nguSayitsheni omkhulu uClem Francis,osethathe umhlalaphansi kumbutho wezasemoyeni zaseUS",INkosi ithathe umhlalaphansi kwezombutho wasemoyeni zaseUS,entailment,True
+"Lona nguSayitsheni omkhulu uClem Francis,osethathe umhlalaphansi kumbutho wezasemoyeni zaseUS",INkosi isanda kuthatha umhlalaphansi emasontweni ambalwa adlule,neutral,True
+"Lona nguSayitsheni omkhulu uClem Francis,osethathe umhlalaphansi kumbutho wezasemoyeni zaseUS",INkosi yezombutho yezomoya zaseUS uqale umsebenzi wakhe kulelisonto,contradiction,True
+Kuya lapho kunezindizamshini ezimbili noma ezintathu ezifikayo ngesonto futhi angazi ukuthi zisuke zindizela kuphi,Zingaphezu kweyodwa izindizamshini ezifikayo njalo ngesonto,entailment,False
+Kuya lapho kunezindizamshini ezimbili noma ezintathu ezifikayo ngesonto futhi angazi ukuthi zisuke zindizela kuphi,Ukunyuka kwesiminyaminya sezindizamshini kuyinkinga,neutral,True
+Kuya lapho kunezindizamshini ezimbili noma ezintathu ezifikayo ngesonto futhi angazi ukuthi zisuke zindizela kuphi,Azikho izindizamshini ezifikayo,contradiction,True
+Bese bekwenzile ukuqeqeshwa kwabo kumasuthi engcindezi aphelele futhi kungithathe isikhathi uma uya kumasuthi engcindezi aphelele,Kuthatha izinyanga ezintathu ukuqeda ukuqeqeshwa ekusebenziseni amasuthi engcindezi aphelele,neutral,True
+Bese bekwenzile ukuqeqeshwa kwabo kumasuthi engcindezi aphelele futhi kungithathe isikhathi uma uya kumasuthi engcindezi aphelele,Ukuqeqesha usebenzisa amasuthi engcindezi aphelele kuthatha isikhathi,entailment,True
+Bese bekwenzile ukuqeqeshwa kwabo kumasuthi engcindezi aphelele futhi kungithathe isikhathi uma uya kumasuthi engcindezi aphelele,Singenza ukuthi uqeqeshwe ukuthi usebenzise amasuthi engcindezi aphelele ekupheleni kosuku,contradiction,True
+"Ngifuna ukusho ukuthi bebungekho ubungozi bokungena nebhomu ngoba belingeke liqhume ngisho kuthiwa lishaye phansi kanzima kanjani,",Ibhomu licishwe umshayeli webhanoyi,neutral,True
+"Ngifuna ukusho ukuthi bebungekho ubungozi bokungena nebhomu ngoba belingeke liqhume ngisho kuthiwa lishaye phansi kanzima kanjani,",Ibhomu lalingenalo ithuba lokuqhuma,entailment,True
+"Ngifuna ukusho ukuthi bebungekho ubungozi bokungena nebhomu ngoba belingeke liqhume ngisho kuthiwa lishaye phansi kanzima kanjani,",Kwakukhona ubungozi obukhulu bokuqhuma kwebhomu,contradiction,True
+Kunjani ukuthi kubukeka engathi yini engizama ukuyenza,Anginaso isiqiniseko sokuthi kubukeka kanjani kuwena,contradiction,Neither
+Kunjani ukuthi kubukeka engathi yini engizama ukuyenza,Kuyabonakala ukuthi ngizama ukuyenza lento,entailment,True
+Kunjani ukuthi kubukeka engathi yini engizama ukuyenza,Ngizama ukuqeda iphrojekthi yami ngesonto elizayo,neutral,True
+"Kodwa vele, izilwane ziyadedeleka ngaso sonke isikhathi, ikakhulukazi izimbuzi",Izimbuzi ziyeqa eshedeni zonke izinsuku,neutral,True
+"Kodwa vele, izilwane ziyadedeleka ngaso sonke isikhathi, ikakhulukazi izimbuzi",Izimbuzi ziyeqa njalo,entailment,True
+"Kodwa vele, izilwane ziyadedeleka ngaso sonke isikhathi, ikakhulukazi izimbuzi",Izimbuzi bezigcinwe ziphephile futhi zivikelekile,contradiction,True
+Iminyango ibivaliwe ngesikhathi singena,Yonke iminyango ibivuliwe,contradiction,False
+Iminyango ibivaliwe ngesikhathi singena,Okhiye bebekuthina,neutral,True
+Iminyango ibivaliwe ngesikhathi singena,Sangena phakathi yize noma iminyango yayikhiyiwe,entailment,True
+Ngakho kwakumele ngithathe okuphelele bese ngiyazama futhi ngibone ngaleyondlela,Ngizwa nginethemba lokuthi okuphelele yikona engikudingayo ukuze ngithole kahle yonke lento,neutral,True
+Ngakho kwakumele ngithathe okuphelele bese ngiyazama futhi ngibone ngaleyondlela,Anginalo ulwazi lokuthi ngenzenjani ngokuphelele nje ngicela unginike eminye imininingwane ukuze ngithole isisombululo senkinga,contradiction,True
+Ngakho kwakumele ngithathe okuphelele bese ngiyazama futhi ngibone ngaleyondlela,Ngizokubala ngsusela kokuphelele,entailment,True
+futhi lokho kuningi umakuyiqiniso ukuthi omama badla izidakamizwa,Omama badla izidakamizwa,neutral,True
+futhi lokho kuningi umakuyiqiniso ukuthi omama badla izidakamizwa,Omama izincwadimvume zemithi noma izidakamizwa,contradiction,True
+futhi lokho kuningi umakuyiqiniso ukuthi omama badla izidakamizwa,Omama bathatha izidakamizwa,entailment,True
+yebo kiumnandi ukube belina,Anginankinga nemvula,neutral,True
+yebo kiumnandi ukube belina,Kumnandi futhi liyana,entailment,True
+yebo kiumnandi ukube belina,Kubi kakhulu nalelilanga elingapheli,contradiction,True
+oh ibiza malini impilo yomuntu nokuthi uzokwazi noma cha ungayihlumelelisa impilo yomuntu,Zonke izimpilo zifanelwe ukuhlunyeleliswa noma ithuba lesibili,neutral,True
+oh ibiza malini impilo yomuntu nokuthi uzokwazi noma cha ungayihlumelelisa impilo yomuntu,Akekho umuntu ofanelwe ukuhlunyeleliswa isimilo,contradiction,False
+oh ibiza malini impilo yomuntu nokuthi uzokwazi noma cha ungayihlumelelisa impilo yomuntu,Ngaphandle kokuhlunyeleliswa kwesimilo impilo ifanelwe yini,entailment,True
+oh mfana unenkinga lapho yokuxhunywa kwezintambo zikagesi okungajwayelekile,Angikaze ngiyibone le nkinga yaloluhlobo lokuxhuma izintambo zikagezi ngaphambilini,neutral,True
+oh mfana unenkinga lapho yokuxhunywa kwezintambo zikagesi okungajwayelekile,Ukuxhunywa kwezintambo zikagesi akuyona inkinga,contradiction,True
+oh mfana unenkinga lapho yokuxhunywa kwezintambo zikagesi okungajwayelekile,Kunenkinga edalwa yiloku kuxhunywa kwezintambo zikagesi okungajwayelekile,entailment,True
+"Kuzwakala kumnandi kakhulu, yebo kuyamangaza kumina ukuthi zingalki izinto abazivumelayo",Angimangali ukuthi babenozwelo,contradiction,True
+"Kuzwakala kumnandi kakhulu, yebo kuyamangaza kumina ukuthi zingalki izinto abazivumelayo",Ngiyamangala ukuthi banivumelile nathatha ukudla neziphuzo la,neutral,True
+"Kuzwakala kumnandi kakhulu, yebo kuyamangaza kumina ukuthi zingalki izinto abazivumelayo",Ngiyamangala ukuthi baphunyulile,entailment,True
+oh kodwa ke izingane zami sezinamashumi amabili nanye namashumi amabili nanye ngakho akumele,Akumele ngoba izingane zami sezingaphezu kweminyaka engamashumi amabili.,entailment,True
+oh kodwa ke izingane zami sezinamashumi amabili nanye namashumi amabili nanye ngakho akumele,Mhlampe kumele ngikwenze ngoba iminyaka yabo isondelene,neutral,True
+oh kodwa ke izingane zami sezinamashumi amabili nanye namashumi amabili nanye ngakho akumele,Kumele ngoba bobabili uneminyaka eyishumi noneminyaka eyishumi nanye,contradiction,True
+Yebo abantu abangaba emsebenzini noma yingasiphi isikhathi noma izinqumozabo ezingaba nenkinga uma kufanele benze izinqumo.,Yebo abantu kungenzeka bangakwazi ukukhetha kahle,entailment,True
+Yebo abantu abangaba emsebenzini noma yingasiphi isikhathi noma izinqumozabo ezingaba nenkinga uma kufanele benze izinqumo.,Yebo kubantu okungenzeka ukuthi abalambile,neutral,True
+Yebo abantu abangaba emsebenzini noma yingasiphi isikhathi noma izinqumozabo ezingaba nenkinga uma kufanele benze izinqumo.,Yebo abantu abanamakhono ezinqumo ababinankinga,contradiction,True
+cha basasohambweni balokhu behamba kusukela ngeminyaka yamashumi ayisithupha.,Bebelokhu behamba kusukela ungakashayi unyaka wezi-1970,entailment,True
+cha basasohambweni balokhu behamba kusukela ngeminyaka yamashumi ayisithupha.,Ngiyakuthanda ukuhamba,neutral,True
+cha basasohambweni balokhu behamba kusukela ngeminyaka yamashumi ayisithupha.,Basanda kuweda uhambo lwabo,contradiction,True
+ungawenza kanjani ama-aerobics?,Ungachaza ukuthi ungawenza kanjani ama-aerobics?,entailment,True
+ungawenza kanjani ama-aerobics?,Nginentshisekelo yama-aerobics ngoba ngidinga engizokwenza okuzohambisa kahle igazi enhliziyweni,neutral,True
+ungawenza kanjani ama-aerobics?,Ngicela uyeke ukukhuluma ngama-aerobics,contradiction,True
+Yebo kuhle lokho bengingakaze ngikucabange,Umbono obhedayo loyo ngiwuyekile ngesonto elidlule,contradiction,True
+Yebo kuhle lokho bengingakaze ngikucabange,Iphuzu elihle lelo,entailment,True
+Yebo kuhle lokho bengingakaze ngikucabange,Ingwijikhwebu oyishilo iyiphuzu elihle,neutral,True
+Ukunakekelwa emini izinsuku ezimbili ngesonto bakubiza ngokuthi ukunakekelwa emini izakhamuzi ezindala kodwa uya esikhungweni sezakhamizi ezindala,Ukunakekelwa emini kuvulwa zonke izinsuku ezinganeni ezingaphansi kweminyaka emihlanu kuphela,contradiction,False
+Ukunakekelwa emini izinsuku ezimbili ngesonto bakubiza ngokuthi ukunakekelwa emini izakhamuzi ezindala kodwa uya esikhungweni sezakhamizi ezindala,Bayabayekela beze izinsuku ezingaphezu kwezimbili uma izakhamizi ezindala zizokuvumela,neutral,True
+Ukunakekelwa emini izinsuku ezimbili ngesonto bakubiza ngokuthi ukunakekelwa emini izakhamuzi ezindala kodwa uya esikhungweni sezakhamizi ezindala,Bakubiza ngokuthi usuku lokunakekela lwabadala kodwa kubizwa ngesikhungo sabadala,entailment,True
+kwakuyinhloso yabo leyo,Yilokho akade benentshisekelo yakho,entailment,False
+kwakuyinhloso yabo leyo,Lokho akukhona akade bekufuna,contradiction,True
+kwakuyinhloso yabo leyo,Bayifeza inhloso yabo,neutral,True
+ukulawula isibhamu kusho ukusebenzisa izandla zombili,Uhhafu wazo zonke izibhamu ezigeja ukudubula imiphumela yokusebenzisa isandla esisodwa,neutral,False
+ukulawula isibhamu kusho ukusebenzisa izandla zombili,Indlela yokuya phambili ukuze ulawule isibhamu ukusebenzisa izinyawo zombili,contradiction,False
+ukulawula isibhamu kusho ukusebenzisa izandla zombili,Sebenzisa izandla zombili uma uzifundisa ukulawula isibhamu,entailment,True
+kodwa eh futhi sekuqhamuka manje kuvela kwenye indawo angazi ukuthi kuqhamukaphi,Angazi ukuthi kuqhamukaphi kodwa kuyashesha,entailment,True
+kodwa eh futhi sekuqhamuka manje kuvela kwenye indawo angazi ukuthi kuqhamukaphi,Kuza ngokushesha kodwa engathi ngiyazi ukuthi kuqhamuka kuphi,neutral,Neither
+kodwa eh futhi sekuqhamuka manje kuvela kwenye indawo angazi ukuthi kuqhamukaphi,Kuza njengosulubha futhi ngiyazi kahle ukuthi kuzoza nini.,contradiction,False
+cha okuseqinisweni angikujwayele futhi angicabangi,Angazi kakhulu ngakho,entailment,Neither
+cha okuseqinisweni angikujwayele futhi angicabangi,Angizinaki izindaba zothando,neutral,Neither
+cha okuseqinisweni angikujwayele futhi angicabangi,Sengiyifunde iminyaka,contradiction,True
+yebo wayelungile uyamazi,Ngicabanga ukuthi uyazi ukuthi uyamangaza,neutral,True
+yebo wayelungile uyamazi,Cha wayebheda,contradiction,True
+yebo wayelungile uyamazi,Yebo wayenza kahle kakhulu,entailment,True
+yebo waphakamisa ukuthi asebenzise imophu athanda ukuyisebenzisa,Waphakamisa ukuthi kuthengwe ivakhumu,contradiction,True
+yebo waphakamisa ukuthi asebenzise imophu athanda ukuyisebenzisa,Waphakamisa ukuthi kutholwe imophu,entailment,True
+yebo waphakamisa ukuthi asebenzise imophu athanda ukuyisebenzisa,Wayefuna ukuhlanza igazi ngemophu,neutral,True
+kubi ngampela lapha ngaphandle sekube nothelawayeka wokudubula ezindlini ezintathu eduze nendlu yethu,Kube nokudutshulwa okungenani kumamayela awu-100 kusuka la sihlala khona,contradiction,False
+kubi ngampela lapha ngaphandle sekube nothelawayeka wokudubula ezindlini ezintathu eduze nendlu yethu,Ukudubula kwakuseduze nasendlini kwangenza ngasaba ukuphumela emnyango,neutral,True
+kubi ngampela lapha ngaphandle sekube nothelawayeka wokudubula ezindlini ezintathu eduze nendlu yethu,"Bekunokudubula eduze nasekhaya, asikho sihle isimo kulendawo",entailment,True
+kuyiqiniso ayikho ngampela inhlalayenza,Angivumelani nawe ikhona inhlalayenza,contradiction,True
+kuyiqiniso ayikho ngampela inhlalayenza,Ngicabanga ukuthi uqinisile ngalenhlalayenza,neutral,False
+kuyiqiniso ayikho ngampela inhlalayenza,Uqinisile ukuthi akuyona inhlalayenza,entailment,True
+ngiyazama ukubekezela,Ngiyakucabanga ukulinda,entailment,True
+ngiyazama ukubekezela,Ngizama ngakho konke okusemandleni,neutral,True
+ngiyazama ukubekezela,Ngizoyiyeka yonke lento futhi ngeke ngibheke emuva,contradiction,False
+Sivula indawo yokungena kwikusasa lwezobuchwepheshe,Sakha izanduleli ezinesidingo zekusasa lwezobuchwepheshe,entailment,True
+Sivula indawo yokungena kwikusasa lwezobuchwepheshe,"Sakha izidluliseli, ukuze ikusasa liphathwe yi-Al.",neutral,True
+Sivula indawo yokungena kwikusasa lwezobuchwepheshe,Sifuna ukuvimba ezobuchwepheshe ukuthi zingaphumeleli,contradiction,True
+"Isibonelo, okuphezulu,konke okofuzo kujika kubebomvana","Okuphezulu,uhhafu kuphela wokofuzo ojika ubebomvana",contradiction,True
+"Isibonelo, okuphezulu,konke okofuzo kujika kubebomvana",Kungenzeka yini ukuthi okofuzo kushintshe umbala,entailment,True
+"Isibonelo, okuphezulu,konke okofuzo kujika kubebomvana",Kwesinye isikhathi okofuzo kungashintsha kube luhlaza njengesibhakabhaka futhi,neutral,True
+UDaniel Yamins ungungoti wezibalo ohlakaniphe kakhulu,UMnumzane Yamins muhle kakhulu ezibalweni,entailment,True
+UDaniel Yamins ungungoti wezibalo ohlakaniphe kakhulu,UMnumzane Yamins ugxila ku-algebra negeometry,neutral,True
+UDaniel Yamins ungungoti wezibalo ohlakaniphe kakhulu,UMnumzane Yamins uyiciko elihle kodwa uyabheda ezibalweni.,contradiction,True
+"Uma kunjalo, bajwayele ukjuba seduze nomngcele?",Ngiyazi abahambi baze bafike eduze nomngcele,contradiction,True
+"Uma kunjalo, bajwayele ukjuba seduze nomngcele?","Ngiyafuna ukwazi, bajwayele ukuba seNgilandi.",neutral,True
+"Uma kunjalo, bajwayele ukjuba seduze nomngcele?",Usomlomo ubefuna ukucaciselwa ngokuthi bajwayele ukuhamba bafike eduze komngcele.,entailment,False
+"Futhi kukhona, ngicabanga ulwazi lwenhlayiyana ukuthi ibhayosifiye iyaqhubeka nokuzakha yona ukuze ikwazi ukuphila esikhathini sokuphatha ukwandisa isethi yezozalo",Ibhayosifiye iyashintsha kakhulu,entailment,True
+"Futhi kukhona, ngicabanga ulwazi lwenhlayiyana ukuthi ibhayosifiye iyaqhubeka nokuzakha yona ukuze ikwazi ukuphila esikhathini sokuphatha ukwandisa isethi yezozalo",Ibhayosifiye ishintsha ngokwamazinga okushisa,neutral,True
+"Futhi kukhona, ngicabanga ulwazi lwenhlayiyana ukuthi ibhayosifiye iyaqhubeka nokuzakha yona ukuze ikwazi ukuphila esikhathini sokuphatha ukwandisa isethi yezozalo",Ibhayosifiye ayishintshi,contradiction,True
+Ngalokho kuxhuma ikhristali ejwayelekile ngeke ikwazi ukugcinangobumfihlo ulwazi oluningi,Amakhristali ajwayelekile anesisindo esikhulu njengendawo yokugcina ulwazi,contradiction,False
+Ngalokho kuxhuma ikhristali ejwayelekile ngeke ikwazi ukugcinangobumfihlo ulwazi oluningi,Amakhristali ajwayelekile awalona usizo kakhulu ekugcineni ngobumfihlo ulwazi.,entailment,False
+Ngalokho kuxhuma ikhristali ejwayelekile ngeke ikwazi ukugcinangobumfihlo ulwazi oluningi,Kukhona ezinye izinhlobo zamakhristali ezisiza kakhulu ekugcineni ngobumfihlo ulwazi lwezezindawo esebenzisa imisebe,neutral,True
+"Ekugcineni abantu abadala abadingi ukufundisa abantwana basenkulisa ukuthi bazenzise, njengoba bebuye benze uma bebasiza ukuhlanganisa amaphazili noma eminye imisebenzi ecishe ifane",Abantwana basenkulisa badalwe ukuthi benze kangcono ukuthi bahlanganise iphazili ukunokuthi badlale imidlalo yokuzenzisa,contradiction,True
+"Ekugcineni abantu abadala abadingi ukufundisa abantwana basenkulisa ukuthi bazenzise, njengoba bebuye benze uma bebasiza ukuhlanganisa amaphazili noma eminye imisebenzi ecishe ifane",Abantwana basenkulisa abadingi usizo olukhulu ekufundeni ukuthi bazenzise,entailment,True
+"Ekugcineni abantu abadala abadingi ukufundisa abantwana basenkulisa ukuthi bazenzise, njengoba bebuye benze uma bebasiza ukuhlanganisa amaphazili noma eminye imisebenzi ecishe ifane",Abantwana basenkulisa abanawo amakhono adingekayo endawo ukuze bahlanganise kahle amaphazili ngokwabo,neutral,True
+[Kulesisizwe] kwatholwa inkululeko nokuzimisela esiphakamisweni sokuthi wonke amadoda adalwe ngokulingana,Amanothi ngalesi siphakamiso aqoshwa kumadokhumenti engeziwe amaningana.,neutral,True
+[Kulesisizwe] kwatholwa inkululeko nokuzimisela esiphakamisweni sokuthi wonke amadoda adalwe ngokulingana,Abanye abantu bakhokhelwa ukuthi bonke abantu bayalingana.,entailment,False
+[Kulesisizwe] kwatholwa inkululeko nokuzimisela esiphakamisweni sokuthi wonke amadoda adalwe ngokulingana,Lesi sizwe satholwa sinenkolelo yokuthi abanye abantu bazalwa bengcono ukunabanye.,contradiction,True
+Kumele ngimuncome kakhulu?,nginesiqiniseko ukuthi ngidinga ukumushaya ngokuhluleka kwakhe.,contradiction,True
+Kumele ngimuncome kakhulu?,Ngiyazibuza ukuthi ngabe ufuna ukunconywa kakhulu yimi,entailment,False
+Kumele ngimuncome kakhulu?,Kumele ngimuncome kakhulu ngokudlala kwakhe uphiyano,neutral,False
+Amathiyori ohleloxhumana iSpin angasetshenziswa ukwakha ngezindlela ezahlukene,Ezinye izindlela zingasetshenziswa ukwakha amathiyori ohlelokuxhumana ispin,entailment,True
+Amathiyori ohleloxhumana iSpin angasetshenziswa ukwakha ngezindlela ezahlukene,Izinhlelokuxhumana iSpin zisebenza kakhulu kwezobuchwepheshe bokugcina imininingo,neutral,True
+Amathiyori ohleloxhumana iSpin angasetshenziswa ukwakha ngezindlela ezahlukene,Uhlelokuxhumana iSpin ngeke ulucabange ngezindlela ezahlukene,contradiction,True
+Cha cha angifuni ukuthi ufe.,Angifuni ufe!,entailment,True
+Cha cha angifuni ukuthi ufe.,Anginandaba uma ufa!,contradiction,True
+Cha cha angifuni ukuthi ufe.,Ngiyodinwa kakhulu uma ufa!,neutral,False
+Wahilelwa phambi komphakathi ngoNdasa kunyaka wezi-1875 eSan Jose eCalifornia,ICalifornia yayenza izigwebo zentambo esidlangalaleni kwaze kwashaya unyaka wezi-1875,entailment,True
+Wahilelwa phambi komphakathi ngoNdasa kunyaka wezi-1875 eSan Jose eCalifornia,Wakhululwa kukhona konke okubi ayekwenzile wahanjiswa,contradiction,False
+Wahilelwa phambi komphakathi ngoNdasa kunyaka wezi-1875 eSan Jose eCalifornia,Wahilelwa ngokuvukela umbuso nokuntshontsha amahhashi,neutral,True
+"Kulokho kuphatha okunezinkinga,kwakhanya ulwandle oluluhlaza oluchininekayo",Ulwandle lwaluluhlaza njengesibhakabhaka futhi lushelela njengengilazi.,contradiction,True
+"Kulokho kuphatha okunezinkinga,kwakhanya ulwandle oluluhlaza oluchininekayo",Ulwandle lwalugcwele izinhlanzi ezincane ezazimakiwe eceleni komkhumbi.,neutral,True
+"Kulokho kuphatha okunezinkinga,kwakhanya ulwandle oluluhlaza oluchininekayo",Ulwandle lwaluluhlaza futhi lubukeka lunamagwebu.,entailment,True
+Umyalelo wezomthetho wonke omusha wawufuna ukusebenza ngendlela yawo ecacile isuke esiphithiphithini sangonyaka wezi-1860,Ngonyaka wezi-1870 yonke imiyalelo yezomthetho yaphela izwe lalingesanambuso ngokugcwele,contradiction,True
+Umyalelo wezomthetho wonke omusha wawufuna ukusebenza ngendlela yawo ecacile isuke esiphithiphithini sangonyaka wezi-1860,Ngonyaka wezi-1860 kwakuyisikhathi sesiphithiphithi,entailment,True
+Umyalelo wezomthetho wonke omusha wawufuna ukusebenza ngendlela yawo ecacile isuke esiphithiphithini sangonyaka wezi-1860,Umyalelo omusha wezomthetho ufisa ukwandisa amalungelo ezabasebenzi,neutral,True
+"Noma yikuphi ukucabanga okuphezulu, akuvezile, kuvela ekuxhumaneni ngenhlalo yabantu phakathi kwengane nabamele yena noma isiko lakhe benza umsebenzi ngokuhlanganyela",Izingane azikwazi nokwabelana ngezindlela eziphakeme zokucabanga.,contradiction,True
+"Noma yikuphi ukucabanga okuphezulu, akuvezile, kuvela ekuxhumaneni ngenhlalo yabantu phakathi kwengane nabamele yena noma isiko lakhe benza umsebenzi ngokuhlanganyela",Ukudoba eminye yemisebenzi ejwayelekile okwabelwana ngawo kumasiko amaningi ahlukene.,neutral,True
+"Noma yikuphi ukucabanga okuphezulu, akuvezile, kuvela ekuxhumaneni ngenhlalo yabantu phakathi kwengane nabamele yena noma isiko lakhe benza umsebenzi ngokuhlanganyela",Ukwabelana ngemisebenzi ejwayelekile kwesinye isikhathi kuyasiza ukuze kwabelwane ngezindlela eziphakeme zokucabanga.,entailment,True
+"Abanye omakhelwane babenomthandazo, abaholi bakamoya abahola umphakathi ngomkhuleko emngcwabeni, ukugubha usuku lwabangcwele uma engekho umfundisi",Akekho komakhelwane onabaholi bakamoya abangebona abefundisi.,contradiction,False
+"Abanye omakhelwane babenomthandazo, abaholi bakamoya abahola umphakathi ngomkhuleko emngcwabeni, ukugubha usuku lwabangcwele uma engekho umfundisi",Abanye omakhelwane babenabo abaholi abangebona abefundisi.,entailment,True
+"Abanye omakhelwane babenomthandazo, abaholi bakamoya abahola umphakathi ngomkhuleko emngcwabeni, ukugubha usuku lwabangcwele uma engekho umfundisi",Abanye abaholi bakamoya babenezinwele ezimnyama.,neutral,True
+"Inhlaloziwici ezimangalisayo idlala indima nayo, ukuvela kwamathuba nokuchumanisa imisebenzi eyahlukene mhlampe kusiza izingane zibambe okufanayo nakwahlukile phakathi kwabantu abakufisayo, izinkolelo nemizwa",Izingane zingafunda ukuthi abantu bahlukene noma bafana kanjani.,entailment,True
+"Inhlaloziwici ezimangalisayo idlala indima nayo, ukuvela kwamathuba nokuchumanisa imisebenzi eyahlukene mhlampe kusiza izingane zibambe okufanayo nakwahlukile phakathi kwabantu abakufisayo, izinkolelo nemizwa",Izingane zingabona ukuthi ukuhlukana kobuhlanga kuhlukene kanjani.,neutral,True
+"Inhlaloziwici ezimangalisayo idlala indima nayo, ukuvela kwamathuba nokuchumanisa imisebenzi eyahlukene mhlampe kusiza izingane zibambe okufanayo nakwahlukile phakathi kwabantu abakufisayo, izinkolelo nemizwa",Izingane azikwaziukufunda noma yini.,contradiction,False
+"Igunya eliphezulu lomyalelo womthethosisekelo waseJalimani emva kwempi,kwakuyiyona ingozi enkulu yangesikhathi sesiphithiphithi saseNazi",Ukuphatha kweNazi kwayivumela,contradiction,True
+"Igunya eliphezulu lomyalelo womthethosisekelo waseJalimani emva kwempi,kwakuyiyona ingozi enkulu yangesikhathi sesiphithiphithi saseNazi",Ukuphatha kweNazi kwabulala wonke umuntu owayebandakanyeka,neutral,True
+"Igunya eliphezulu lomyalelo womthethosisekelo waseJalimani emva kwempi,kwakuyiyona ingozi enkulu yangesikhathi sesiphithiphithi saseNazi",Ukuphatha kweNazi kwayinqanda,entailment,True
+Ingane uSonja yaqala yalingisela ukuthukuthela kwezingane kwendodakazi yakhe,Akekho owayenokuthukuthela kwezingane,contradiction,False
+Ingane uSonja yaqala yalingisela ukuthukuthela kwezingane kwendodakazi yakhe,USonja yingane.,entailment,True
+Ingane uSonja yaqala yalingisela ukuthukuthela kwezingane kwendodakazi yakhe,USonja uthukuthele.,neutral,True
+"6 Eminyakeni engamashumi amahlanu nanhlanu kuholela kuCivil War, inkantolo yasebenzisa lamandla ngokonga",Inkantolo yayibuye isebenzise lamandla kushuminyaka okwaholela kuCivil War.zanele,entailment,True
+"6 Eminyakeni engamashumi amahlanu nanhlanu kuholela kuCivil War, inkantolo yasebenzisa lamandla ngokonga",Inkantolo yasebenzisa lamandla izikhathi ezine eminyakeni engamashumi amahlanu namhlanu okwaholela kuCivil War.,neutral,True
+"6 Eminyakeni engamashumi amahlanu nanhlanu kuholela kuCivil War, inkantolo yasebenzisa lamandla ngokonga",Inkantolo yasebenzisa lamandla izikhathi eziyigidi ezinhlanu eminyakeni engamashumi amahlanu nanhlanu okwaholela kuCivil War.,contradiction,True
+Ngiyakuqinisekisa mnumzane ukuthi bengikwazi konke.,Ngiyakutshela ukuthi nginikeziwe lonke ulwazi ngayo yonke into.,entailment,True
+Ngiyakuqinisekisa mnumzane ukuthi bengikwazi konke.,Ukufa kukamseshi engaziswa ngakho.,neutral,True
+Ngiyakuqinisekisa mnumzane ukuthi bengikwazi konke.,Miningi imininingwane engafihlelwa yona.,contradiction,False
+Umsindo waphazamisa uKaputeni Blood ebuthentekeni bakhe,Ukaputeni Blood wayekwazi ukucabanga imicabango yakhe ethentekile ngaphandle kokuphazamiseka,contradiction,True
+Umsindo waphazamisa uKaputeni Blood ebuthentekeni bakhe,UKapteni uBlood wayecabanga kwaphulwa ngeminye imisindo,entailment,True
+Umsindo waphazamisa uKaputeni Blood ebuthentekeni bakhe,Ukuklewula komdlwane kwamphazamisa ukaputeni ekujuleni komcabango wakhe,neutral,True
+"Kodwa ngeke ngikukhohlwe lokho ngangingekho ngcono ukunesigqila emzini kamalume wakho eBarbados,nangisebenzisa ngomusa othize",Ungiphathe kahle ngesikhathi ngiyisigqila eBarbados.,entailment,True
+"Kodwa ngeke ngikukhohlwe lokho ngangingekho ngcono ukunesigqila emzini kamalume wakho eBarbados,nangisebenzisa ngomusa othize","Ubunonya kumina,wangiphatha kabi ukudlula udoti.",contradiction,True
+"Kodwa ngeke ngikukhohlwe lokho ngangingekho ngcono ukunesigqila emzini kamalume wakho eBarbados,nangisebenzisa ngomusa othize",Umalume wakho wayengishaya kanzima zonke izinsuku ngesikhathi esangiphethe.,neutral,True
+"Lapha akukho ngaphezu kwamamayela amathathu kude, kuwakuyindawo enodonga olungalingani oluludlaza olugcwele ukubukeka kwasentshonalanga",Indawo enohlaza oluningi yayibonakala,entailment,True
+"Lapha akukho ngaphezu kwamamayela amathathu kude, kuwakuyindawo enodonga olungalingani oluludlaza olugcwele ukubukeka kwasentshonalanga",Isiqhingi ababesondela kuso kwakungahlalwa kusona,neutral,True
+"Lapha akukho ngaphezu kwamamayela amathathu kude, kuwakuyindawo enodonga olungalingani oluludlaza olugcwele ukubukeka kwasentshonalanga","Babengaboni mhlaba amamayela , kukhona ulwandle olungenamkhawulo",contradiction,True
+"Ngiyisithunywa seNgonyama kulezizingxenye ezinesihluku, iNkosi uSunderland eduze kwezinduna","Ingonyama inabaphelezeli, ngingomunye wabo",entailment,True
+"Ngiyisithunywa seNgonyama kulezizingxenye ezinesihluku, iNkosi uSunderland eduze kwezinduna",Ingonyama ingithume lapha ngesonto eledlule,neutral,True
+"Ngiyisithunywa seNgonyama kulezizingxenye ezinesihluku, iNkosi uSunderland eduze kwezinduna",Angiyithathi imiyalelo eNgonyameni,contradiction,True
+"Ngikukweleta lokho-noma bengizitshela lokho, esho njalo",Wayengacabangi ukuthi kukhona ayekukweleta khona,contradiction,True
+"Ngikukweleta lokho-noma bengizitshela lokho, esho njalo",Wayekukweleta ngosizo owamnika lona njengomuntu ongenalutho,neutral,True
+"Ngikukweleta lokho-noma bengizitshela lokho, esho njalo",Ngangithi kukhona akukweleta khona,entailment,True
+Akungcono ukube ngangazi ukunokusondela eJamaica ebusuku,Ngahambela eduze kweJamaica emva kokushona kwelanga,entailment,True
+Akungcono ukube ngangazi ukunokusondela eJamaica ebusuku,Ngahambela eJamaica ngomkhumbi omkhulu,neutral,False
+Akungcono ukube ngangazi ukunokusondela eJamaica ebusuku,Mina nonkosikazi wami safika eJamaica emini bebade.,contradiction,False
+Imicabango kaBlood yayingalokhu kanye nezinye izinto ngesikhathi elele ngobuvila embhedeni,UBlood walala waphupha iphupho elingenangqondo embhedeni wakhe wasemini,contradiction,True
+Imicabango kaBlood yayingalokhu kanye nezinye izinto ngesikhathi elele ngobuvila embhedeni,UBlood wajula ngomcabango ngesikhathi elele phansi,entailment,True
+Imicabango kaBlood yayingalokhu kanye nezinye izinto ngesikhathi elele ngobuvila embhedeni,UBlood wayecabanga kakhulu ngokuthi wagcina nini ukubona umama wakhe,neutral,True
+Kulungile ke ngizokutshela,Kulungile ngizokutshela ngakho,entailment,True
+Kulungile ke ngizokutshela,Angeke ngisho lutho kuwena,contradiction,True
+Kulungile ke ngizokutshela,Yingoba uthembisile ukuthi ngeke ukuphinde lokhu engikutshela khona,neutral,True
+"Ya, futhi iyiphi leyo ndlela?",Omunye ubuza ukuthi iyiphi indlela okumele sihambe ngayo,entailment,Neither
+"Ya, futhi iyiphi leyo ndlela?",Obuzayo uyedwa futhi akanamuntu ozovumelana naye,contradiction,True
+"Ya, futhi iyiphi leyo ndlela?",Obuzayo uyaphuthuma udinga umuntu uzomtshela ngokushesha ukuthi iyiphi indlela okumele ithathwe.,neutral,True
+Angikuthathi kancane ukuthunywa yiNkosi,Ukuvumela ukuthunywa yiNkosi kuphambene nezinkolelo zami,neutral,True
+Angikuthathi kancane ukuthunywa yiNkosi,Sengiyicabange kahle lento yokuthunywa yiNkosi,entailment,True
+Angikuthathi kancane ukuthunywa yiNkosi,Sengisayinde imvume yokuvuma ukuthunywa yiNkosi ngaphandle kokucabanga kabili,contradiction,True
+Wabona ukuthi kugenzeka abaleke ngokushesha,Wabona ukuthi wayenosuku lonke ukuthi abaleke,contradiction,True
+Wabona ukuthi kugenzeka abaleke ngokushesha,Ubonile ukuthi kumele athathe isinqumo ngokushesha.,entailment,True
+Wabona ukuthi kugenzeka abaleke ngokushesha,Uma ehlala endaweni eyodwa uzotholakala.,neutral,True
+"Futhi ube yilokhu akade eyikho wenza nayekade ekwenza eminyakeni emithathu edlule, kusho yena, washo ngosizi ngaphandle kokusho ngenzondo yasekuqaleni",Wayengakuthandi ukuthi wayesebulale abantu abaningi eminyakeni emithathu edlule.,neutral,False
+"Futhi ube yilokhu akade eyikho wenza nayekade ekwenza eminyakeni emithathu edlule, kusho yena, washo ngosizi ngaphandle kokusho ngenzondo yasekuqaleni",Wakhuluma ngokujabula ngokuthatha izinto ezinobungozi kanye nobungaye,contradiction,False
+"Futhi ube yilokhu akade eyikho wenza nayekade ekwenza eminyakeni emithathu edlule, kusho yena, washo ngosizi ngaphandle kokusho ngenzondo yasekuqaleni",Ubekhuluma ngezwi elidabukisayo,entailment,True
+Ngiyacabanga ukuthi kwakuyisemvakwemfashini yohlobo lwakho.,Ngazitshela ukuthi inhlobo yakho yenza nje,entailment,True
+Ngiyacabanga ukuthi kwakuyisemvakwemfashini yohlobo lwakho.,Ngifundile ngohlobo lwakho namasiko abo.,neutral,True
+Ngiyacabanga ukuthi kwakuyisemvakwemfashini yohlobo lwakho.,Ngicabanga ukuthi lokhu akujwayelekile enhlobeni yakho,contradiction,True
+ukuhlina kwafongqa amashiya,ukuhleka kwakhe kwagcwala ubuso,contradiction,True
+ukuhlina kwafongqa amashiya,Wezwa ukugula esiswini sakhe.,neutral,True
+ukuhlina kwafongqa amashiya,kwakunokuhlina ebusweni bakhe.,entailment,True
+"Ubelokhu emubhekile namehlo akhe acwebezelayo kodwa ukubuka kwakhe kwakunokuvuma okunokudangala,lokho kuhlina okukhulu nokusabisa kwamashiya,ukubukeka kobuso bakhe kwashintsha",Ubuso bakhe bashintsha ngemva kokubona ubuso bakhe.,entailment,True
+"Ubelokhu emubhekile namehlo akhe acwebezelayo kodwa ukubuka kwakhe kwakunokuvuma okunokudangala,lokho kuhlina okukhulu nokusabisa kwamashiya,ukubukeka kobuso bakhe kwashintsha",Ubuso bakhe bachachamba uma ebona ukuhlina ebusweni bakhe.,contradiction,True
+"Ubelokhu emubhekile namehlo akhe acwebezelayo kodwa ukubuka kwakhe kwakunokuvuma okunokudangala,lokho kuhlina okukhulu nokusabisa kwamashiya,ukubukeka kobuso bakhe kwashintsha",Wayengazi ukuthi ngabe umdinelwe yini.,neutral,True
+Ehamba ngokukhululeka wadlula olulungiselwe impi waphinde wadlula amasango amakhulu eya enkundleni yokudlala,Njengoba amasango amakhulu ayevaliwe wajomba uthango wangena enkundleni yokudlala.,contradiction,True
+Ehamba ngokukhululeka wadlula olulungiselwe impi waphinde wadlula amasango amakhulu eya enkundleni yokudlala,Amasango amakhulu kwakuyiyona kuphela indawo yokungena enkundleni yokudlala,neutral,True
+Ehamba ngokukhululeka wadlula olulungiselwe impi waphinde wadlula amasango amakhulu eya enkundleni yokudlala,Kwakukhona amasango amakhulu ayekuholela enkundleni yokudlala.,entailment,True
+"Uzokunyakazisela ezilengisweni, angingabazi esho ngokudelela",Ubecabanga ukuthi kukhona ozoya ezilengisweni,entailment,Neither
+"Uzokunyakazisela ezilengisweni, angingabazi esho ngokudelela",Wayengusherifi owayebambe isela.,neutral,True
+"Uzokunyakazisela ezilengisweni, angingabazi esho ngokudelela",Wahleba indlela yokweqa ezweni ukuze abalekele ijele.,contradiction,True
+Bengingabajezisa kanjani ngampela? Bekukuningi,Angikwazanga ukubajezisa.,entailment,True
+Bengingabajezisa kanjani ngampela? Bekukuningi,Ngabajezisa ngesikhathi ngiqala ukubabona.,contradiction,True
+Bengingabajezisa kanjani ngampela? Bekukuningi,"Ngangingeke ngizixolele, ukube angibajezisanga.",neutral,True
+Kade ngimfuna kulonyaka odlulile,Bengilokhu ngimlandela iskhathi esingangonyaka ngaphandle kokuthi azi.,neutral,True
+Kade ngimfuna kulonyaka odlulile,Sengimlandele iskhathi esicishe sifike esontweni.,contradiction,True
+Kade ngimfuna kulonyaka odlulile,Ngaphezu kwesikhathi esingangonyaka bengilokhu ngimlandela engazi.,entailment,False
+Isigcinamagugu asigxilile kumakhathalogi namalebuli.,Isigcinamagugu asithandi ukuthi silebulwe,neutral,True
+Isigcinamagugu asigxilile kumakhathalogi namalebuli.,Isigcinamagugu asiwathandi amabhukwana,entailment,False
+Isigcinamagugu asigxilile kumakhathalogi namalebuli.,Isigcinamagugu sigxile kakhulu kumakhathalogi,contradiction,False
+Lezi zimakethe ezivulelekile ziphinde zibe izindawo ezihalisayo ukuthenga kuzona eBeijing.,IBeijing inamamakethe avulelekile angabandakanya izitolo ezihehayo kakhulu.,entailment,False
+Lezi zimakethe ezivulelekile ziphinde zibe izindawo ezihalisayo ukuthenga kuzona eBeijing.,Izimakethe ezivulelekile eBeijing izona zindawo eziheha kakhulu emhlabeni.,neutral,True
+Lezi zimakethe ezivulelekile ziphinde zibe izindawo ezihalisayo ukuthenga kuzona eBeijing.,Imithetho eqinile yaseBeijing ivimbela izimakethe ezivulelekile kumikhawulo yedolobha.,contradiction,True
+Ibheyi enkulukazi ogwini lwasentshonalanga nenyakatho lunesikhumulo esihle kodwa kokubili amanzi nolwandle kungangcola,Amanzi nolwandle kuhlezi kuhlanzekile,contradiction,False
+Ibheyi enkulukazi ogwini lwasentshonalanga nenyakatho lunesikhumulo esihle kodwa kokubili amanzi nolwandle kungangcola,Amanzi nolwandle kungenzeka ukuthi kungcolile,entailment,True
+Ibheyi enkulukazi ogwini lwasentshonalanga nenyakatho lunesikhumulo esihle kodwa kokubili amanzi nolwandle kungangcola,Amanzi angcolile ngenxa yokungcoliswa,neutral,True
+"Leyo mibhijongo ngamabhange,futhi imigwaqo okwakhiwe kuyona iteketiswa ngokuthi yiMilla de Oro noma Golden Mile",Ayikho imibhijongo ekuGolden Mile engamabhange,contradiction,True
+"Leyo mibhijongo ngamabhange,futhi imigwaqo okwakhiwe kuyona iteketiswa ngokuthi yiMilla de Oro noma Golden Mile",Imibhijongo aseGolden Mile ngamabhange,entailment,True
+"Leyo mibhijongo ngamabhange,futhi imigwaqo okwakhiwe kuyona iteketiswa ngokuthi yiMilla de Oro noma Golden Mile",Imibhijongo ekuGolden Mile yizinhlobo zamabhizinisi ahlukene okubandakanya amabhange,neutral,True
+"Ngokwemvelo okwanele, nokubandakanyeka kweMpi yoMhlaba yesibili kwaqala ngeBritish Commonwealth Air Training Plan, kusetsheziswa izibhakabhaka eziphephile kubashayeli bamabhanoyi ezempi",ICanada inesibhakabhaka esiphephile,entailment,True
+"Ngokwemvelo okwanele, nokubandakanyeka kweMpi yoMhlaba yesibili kwaqala ngeBritish Commonwealth Air Training Plan, kusetsheziswa izibhakabhaka eziphephile kubashayeli bamabhanoyi ezempi",Izibhakabhaka zaseCanada zazingenawo amamisile,neutral,True
+"Ngokwemvelo okwanele, nokubandakanyeka kweMpi yoMhlaba yesibili kwaqala ngeBritish Commonwealth Air Training Plan, kusetsheziswa izibhakabhaka eziphephile kubashayeli bamabhanoyi ezempi",Izibhakabhaka zaseCanada zazinobungozi,contradiction,True
+"Futhi bahlezi bebekezela futhi benosizo, yize noma bazi ukuthi ugu lwabo oluthandekayo akuselona olwabo",Baphatheke kabi futhi banenzondo kuwona wonke umuntu manje njengoba sekumele babelane ngogu,contradiction,False
+"Futhi bahlezi bebekezela futhi benosizo, yize noma bazi ukuthi ugu lwabo oluthandekayo akuselona olwabo",Kumele babelane ngogu nabanye abantu manje,entailment,True
+"Futhi bahlezi bebekezela futhi benosizo, yize noma bazi ukuthi ugu lwabo oluthandekayo akuselona olwabo",Basebenzise amamayela abo angamakhulu amahlanu engaphambili logu,neutral,True
+"UKublai Khan wavusa eyakhe inhlokodolobha ngo-1279 ekujuleni kwesiqhingi iBeihai yaseBeijing, lapho omunye wemicebo yakhe usawumbukiso nanamhlanje",UKublai Khan wavusa inhlokodolobha eTaiwan,contradiction,False
+"UKublai Khan wavusa eyakhe inhlokodolobha ngo-1279 ekujuleni kwesiqhingi iBeihai yaseBeijing, lapho omunye wemicebo yakhe usawumbukiso nanamhlanje",UKublai Khan unemicebo yakhe eBeijing,entailment,True
+"UKublai Khan wavusa eyakhe inhlokodolobha ngo-1279 ekujuleni kwesiqhingi iBeihai yaseBeijing, lapho omunye wemicebo yakhe usawumbukiso nanamhlanje",UKublai Khan kwakuyindoda ehloniphekile,neutral,True
+"Ukujwayelana kalula nomphakathi wama-Anglo kuphela izikole ezingamaProtestant zamukela izingane zawo amaJuda aseMpumalanga Yurophu ukuze aphumelele eWestmount ecebile noma aphinde, futhi, athuthele eToronto.",AmaJuda aseMpumalanga yeYurophu amukeleka kahle kuwona wonke umuntu,contradiction,False
+"Ukujwayelana kalula nomphakathi wama-Anglo kuphela izikole ezingamaProtestant zamukela izingane zawo amaJuda aseMpumalanga Yurophu ukuze aphumelele eWestmount ecebile noma aphinde, futhi, athuthele eToronto.",AmaJuda awafunwa umphakathi wonke,neutral,False
+"Ukujwayelana kalula nomphakathi wama-Anglo kuphela izikole ezingamaProtestant zamukela izingane zawo amaJuda aseMpumalanga Yurophu ukuze aphumelele eWestmount ecebile noma aphinde, futhi, athuthele eToronto.",AmaJuda amukeleka kangcono emphakathini waseAnglo,entailment,True
+Uma kwenzeka sheshe uzijwayeze neqhinga,Ungasheshe ungene kuqhinga uzokona ubumnandi,contradiction,True
+Uma kwenzeka sheshe uzijwayeze neqhinga,"Zama ukuqondisisa iqhinga, uma uzokwazi",entailment,True
+Uma kwenzeka sheshe uzijwayeze neqhinga,Uzothola kulula ukuqondisisa ekilasini uma uqondisisa iqhinga lencwadi,neutral,True
+Izigcinazinto sakhe ngaphansi komhlaba sasingu-27m(88ft) sakhiwe ngemabuli nekhava engu-1200sqm (13000 sq ft),Wagqiba umuntu ngaphezu kuka-20m ngaphansi komhlaba,entailment,True
+Izigcinazinto sakhe ngaphansi komhlaba sasingu-27m(88ft) sakhiwe ngemabuli nekhava engu-1200sqm (13000 sq ft),Wayengusaziwayo obalulekile,neutral,True
+Izigcinazinto sakhe ngaphansi komhlaba sasingu-27m(88ft) sakhiwe ngemabuli nekhava engu-1200sqm (13000 sq ft),Isigcinazinto zakhe zomngcwabo sasakhiwe ngezinkuni,contradiction,True
+Khumbula ukufihla zonke izinto zakho eziphathekayo ezinkawini,Fihlela izinkawu zonke izinto zakho,entailment,True
+Khumbula ukufihla zonke izinto zakho eziphathekayo ezinkawini,Izinkawu zifuna izinto eziningi okubandakanya nezinto zakho,neutral,True
+Khumbula ukufihla zonke izinto zakho eziphathekayo ezinkawini,Asikho isidingo sokufihlela izinkawu izinto zakho,contradiction,True
+Eminyakeni ewu-1400 ngaphambi kokuvuswa kwesiGodlo sase Estei uMilreu wayephinde abe yindlu enkulu yezwe yomuntu odumile,UMilreu wayekumamayela awu-10 kuyona yonke into,neutral,False
+Eminyakeni ewu-1400 ngaphambi kokuvuswa kwesiGodlo sase Estei uMilreu wayephinde abe yindlu enkulu yezwe yomuntu odumile,UMilreu wayengaphandle kwezwe,entailment,False
+Eminyakeni ewu-1400 ngaphambi kokuvuswa kwesiGodlo sase Estei uMilreu wayephinde abe yindlu enkulu yezwe yomuntu odumile,UMilreu wayephakathi nedolobha,contradiction,True
+Amazinga okushisa olwandle ayahlukana phakathi kuka 18e no-24e C (64-75e F),Amazinga okushisa olwandle ahlezi eshintsha kodwa awayi ngaphansi kwamazinga abanda kakhulu,entailment,True
+Amazinga okushisa olwandle ayahlukana phakathi kuka 18e no-24e C (64-75e F),Amazinga okushisa olwandle ahlezi esendaweni eyodwa unyaka wonke,contradiction,True
+Amazinga okushisa olwandle ayahlukana phakathi kuka 18e no-24e C (64-75e F),"Amazinga okushisa olwandle ayakhuphuka emini, uma sekufudumele",neutral,True
+Isiqiwi iKinibalu ingenye yezindawo eziyisithupha ezivikelwe esizweni,Isiqiwi iKinabalu inezindlovu eziyishumi nobhejane abayisithupha,neutral,False
+Isiqiwi iKinibalu ingenye yezindawo eziyisithupha ezivikelwe esizweni,"Isizwe sinezindawo ezivikelwe, okubandakanya isiqiwi iKinabalu",entailment,True
+Isiqiwi iKinibalu ingenye yezindawo eziyisithupha ezivikelwe esizweni,Kunezindawo ezintathu ezivikelwe esizweni,contradiction,True
+Uzowabona amavidiyo endaba kaAnne nawe Amsterdam engaphansi komsebenzi ohambisana nezithombe nokwamagugu alesosikhathi.,Ngeke uzibone izithombe,contradiction,True
+Uzowabona amavidiyo endaba kaAnne nawe Amsterdam engaphansi komsebenzi ohambisana nezithombe nokwamagugu alesosikhathi.,Uzozibona izithombe,entailment,True
+Uzowabona amavidiyo endaba kaAnne nawe Amsterdam engaphansi komsebenzi ohambisana nezithombe nokwamagugu alesosikhathi.,Uzobona ezinye zezithombe zokuqala,neutral,True
+"Ibhishi iTreasure iyona ndawo ejwayele ukuhanjelwa abantu esingakhuluma ngayo,ngamahhotela awumsebenzi agudle kumabheyi amathathu",Akukho ukukhetha okuningi kumahhotela kubavakashi abavakashela ibhishi iTreasure,entailment,True
+"Ibhishi iTreasure iyona ndawo ejwayele ukuhanjelwa abantu esingakhuluma ngayo,ngamahhotela awumsebenzi agudle kumabheyi amathathu",Kukhona ihhotela elilodwa eliphezulu kubavakashi abavakashela ibhishi iTreasure,neutral,True
+"Ibhishi iTreasure iyona ndawo ejwayele ukuhanjelwa abantu esingakhuluma ngayo,ngamahhotela awumsebenzi agudle kumabheyi amathathu",Ibhishi iTreasure enye yezindawo eziningi ejwayelwe ukuhanjelwa endaweni,contradiction,True
+"Ihlobo liletha ukufudumala kodwa ayi ukushisa namazinga okushisa afudumele asolwandle, okwenza kube kuhle ukutshuza neminye imidlalo yasemanzini",Kuhlezi kuku 100 ukushisa noma kushisa kakhulu ehlobo,contradiction,False
+"Ihlobo liletha ukufudumala kodwa ayi ukushisa namazinga okushisa afudumele asolwandle, okwenza kube kuhle ukutshuza neminye imidlalo yasemanzini",Kujwayele ukuba u-75 ehlobo,neutral,False
+"Ihlobo liletha ukufudumala kodwa ayi ukushisa namazinga okushisa afudumele asolwandle, okwenza kube kuhle ukutshuza neminye imidlalo yasemanzini",Amazinga okushisa afudumele ngesikhathi sasehlobo,entailment,True
+Kwamanye amachibi yilakuhlala khona izivakashi ezijikijela uhlweza zithembe ukuthinta ikhanda lehombe okuyindlela eyisiqiniseko yokuzitholela inhlanhla.,Abantu abayijikijeli imali ngoba yibhadi,contradiction,False
+Kwamanye amachibi yilakuhlala khona izivakashi ezijikijela uhlweza zithembe ukuthinta ikhanda lehombe okuyindlela eyisiqiniseko yokuzitholela inhlanhla.,Abantu bajikijela uhlweza yize noma uphawu lutho kungenziwa,neutral,True
+Kwamanye amachibi yilakuhlala khona izivakashi ezijikijela uhlweza zithembe ukuthinta ikhanda lehombe okuyindlela eyisiqiniseko yokuzitholela inhlanhla.,Abantu bajikijela uhlweza emanzini,entailment,True
+Idolobha eliyisikhumulo saseNafplio lenza isisekelo esihle ukuthi kube indawo yokuhambela futhi mhlampe kungaba indawo enhle ukuthi ube nesidlo sasemini ohambweni lakho,INafplio inendawo ebukwayo enhle,neutral,True
+Idolobha eliyisikhumulo saseNafplio lenza isisekelo esihle ukuthi kube indawo yokuhambela futhi mhlampe kungaba indawo enhle ukuthi ube nesidlo sasemini ohambweni lakho,INafplio inesisekelo esibi,contradiction,False
+Idolobha eliyisikhumulo saseNafplio lenza isisekelo esihle ukuthi kube indawo yokuhambela futhi mhlampe kungaba indawo enhle ukuthi ube nesidlo sasemini ohambweni lakho,INafplio inesesekelo esihle,entailment,True
+Eprinsengracht u-Otto Frank nomndeni wakhe bacasha egumbini elisophahleni endaweni yamabhizinisi abo isikhathi esingaphezu kweminyaka emibili ngaphambi kokuthi babanjwe,U-Otto Frank wabanjwa ngosuku lwesibili,contradiction,True
+Eprinsengracht u-Otto Frank nomndeni wakhe bacasha egumbini elisophahleni endaweni yamabhizinisi abo isikhathi esingaphezu kweminyaka emibili ngaphambi kokuthi babanjwe,U-Otto Frank wacasha ngaphezu kwezinyanga ezingu-25,entailment,True
+Eprinsengracht u-Otto Frank nomndeni wakhe bacasha egumbini elisophahleni endaweni yamabhizinisi abo isikhathi esingaphezu kweminyaka emibili ngaphambi kokuthi babanjwe,U-Otto Frank wazifihla kwaze kwaba ayamuthola amaNazi.,neutral,True
+Ohulumeni abaningi bezifundazwe nabasekhaya banezidingo ezengeziwe zokucwaningwa kwamabhuku.,Ohulumeni bezasemakhaya bayakwazi ukuzenzela eyabo imithetho.,neutral,True
+Ohulumeni abaningi bezifundazwe nabasekhaya banezidingo ezengeziwe zokucwaningwa kwamabhuku.,Ohulumeni bezasemakhaya abanazo izidingo.,contradiction,True
+Ohulumeni abaningi bezifundazwe nabasekhaya banezidingo ezengeziwe zokucwaningwa kwamabhuku.,Kunezidingo ezengeziwe zokucwaningwa kwamabhuku ngohulumeni basekhaya.,entailment,True
+Iqembu lezokuphepha liqhuba amaseshini phakathi kwezikhathi eziyisishiyagalombili neziyishumi nambili ngenyanga.,Iqembu lezokuphepha lenza amaseshini izikhathi eziyisishiyagalolunye ngenyanga.,neutral,True
+Iqembu lezokuphepha liqhuba amaseshini phakathi kwezikhathi eziyisishiyagalombili neziyishumi nambili ngenyanga.,Iqembu lezokuphepha lwenza iseshini njalo ngosuku enyangeni,contradiction,True
+Iqembu lezokuphepha liqhuba amaseshini phakathi kwezikhathi eziyisishiyagalombili neziyishumi nambili ngenyanga.,Iqembu lezokuphepha liqhuba amaseshini amaningi ngonyaka.,entailment,True
+"Nokho, ubunjiniyela bokuqala bafezwa ngaphambili.",Ubunjiniyela baba nesigaba sokuqala.,entailment,True
+"Nokho, ubunjiniyela bokuqala bafezwa ngaphambili.",Ubunjiniyela benzeka esigabeni sokugcina,contradiction,True
+"Nokho, ubunjiniyela bokuqala bafezwa ngaphambili.","Ngaphandle kwenkathi yokuqala, ubunjiniyela bungase bungafezeki ezigabeni ezizayo.",neutral,True
+"Ngakho ke, abathathi bezinqumo zikahulumeni nabaphathi bamukela izindlela ezintsha zokucabanga, becabangela izindlela ezihlukene zokufinyelela imigomo, futhi basebenzise ulwazi olusha ukuze baqondise izinqumo.",Abamele uhulumeni bashintsha izindlela zabo zokwenza izinto.,entailment,True
+"Ngakho ke, abathathi bezinqumo zikahulumeni nabaphathi bamukela izindlela ezintsha zokucabanga, becabangela izindlela ezihlukene zokufinyelela imigomo, futhi basebenzise ulwazi olusha ukuze baqondise izinqumo.",Abamele uhulumeni bazama ukwandisa amandla ngokucabanga ngokwehlukile.,neutral,True
+"Ngakho ke, abathathi bezinqumo zikahulumeni nabaphathi bamukela izindlela ezintsha zokucabanga, becabangela izindlela ezihlukene zokufinyelela imigomo, futhi basebenzise ulwazi olusha ukuze baqondise izinqumo.",Abamele uhulumeni bayanqaba ukushintsha indlela yokuphila,contradiction,True
+Amadokodo ecala angase adinge ukuhunyushwa kulabo abafunda olunye ulimi ngaphandle kwesiNgisi.,Amadokodo amukeleke uma ebhalwe ngesingisi.,contradiction,False
+Amadokodo ecala angase adinge ukuhunyushwa kulabo abafunda olunye ulimi ngaphandle kwesiNgisi.,Amadokodo engabhalwa ngesishayini nangesilashiya.,neutral,True
+Amadokodo ecala angase adinge ukuhunyushwa kulabo abafunda olunye ulimi ngaphandle kwesiNgisi.,Amadokodo engabhala ngezinye izilimi,entailment,True
+Eminye imizamo iyaqhubeka noma esahlelwa singabala,Eminingi imizamo yethu isendleleni kumanje.,neutral,True
+Eminye imizamo iyaqhubeka noma esahlelwa singabala,Akukho esikuhlelile ngekusasa.,contradiction,False
+Eminye imizamo iyaqhubeka noma esahlelwa singabala,Khona esikuhlelile,entailment,True
+"Bala izici ezifana nezikhathi ezimfishane, ukuthola amafayela kwikhompuyutha, nengcindezi yokuthola amadokhumenti adingekayo.",Bawasusa amafayela ekhompyutha ku-IBM.,neutral,True
+"Bala izici ezifana nezikhathi ezimfishane, ukuthola amafayela kwikhompuyutha, nengcindezi yokuthola amadokhumenti adingekayo.",Bawasusa ekuyiwonawona kwikhompuyutha amafayela.,entailment,True
+"Bala izici ezifana nezikhathi ezimfishane, ukuthola amafayela kwikhompuyutha, nengcindezi yokuthola amadokhumenti adingekayo.",Bawagcina ekuyiwonawona amafayela,contradiction,True
+"Bese, abafanayo abameli benza imizamo yokubuyekeza okokuqala umhlinzeki omusha ukuze aphendule imibuzo futhi axoxe nganoma yiziphi izinkinga eziphawulwe",Abameli bavakasha isikhathi esingangehora,neutral,True
+"Bese, abafanayo abameli benza imizamo yokubuyekeza okokuqala umhlinzeki omusha ukuze aphendule imibuzo futhi axoxe nganoma yiziphi izinkinga eziphawulwe",Kwakuvakashe umumeli.,entailment,True
+"Bese, abafanayo abameli benza imizamo yokubuyekeza okokuqala umhlinzeki omusha ukuze aphendule imibuzo futhi axoxe nganoma yiziphi izinkinga eziphawulwe",Asikaze sivakashelwe.,contradiction,False
+"Ukonga akuthinti nje kuphela inani lengcebo, kodwa ingcebo yona inomthelela ekukhetheni ukonga.",Ukukhetha ukuthi umuntu uzosindisa noma cha kuthinta ingcebo yakhe.,entailment,True
+"Ukonga akuthinti nje kuphela inani lengcebo, kodwa ingcebo yona inomthelela ekukhetheni ukonga.",Ingcebo nokonga akuvamile ukuncikana ngayo yonke indlela.,contradiction,True
+"Ukonga akuthinti nje kuphela inani lengcebo, kodwa ingcebo yona inomthelela ekukhetheni ukonga.",Abantu abacebile bajwayele ukonga ingxenye enkulu yomholo,neutral,True
+"Ngokwesibonelo, enye inhlangano seyifunde yaba nobuhlakani ngokuhlanganiswa okubili okwakudinga ukuthi inkampani ihlanganise amabhizinisi amasha ngokushesha futhi ihlele kabusha ukuze ihlangabezane nezidingo zebhizinisi ezikhulayo.","Nakuba kunjalo kwaba nokuhlanganyela kwababili, sasingekho isidingo senkampani ukuthi sishintshe indlela ekuhlukene ngayo abaphathi.",contradiction,True
+"Ngokwesibonelo, enye inhlangano seyifunde yaba nobuhlakani ngokuhlanganiswa okubili okwakudinga ukuthi inkampani ihlanganise amabhizinisi amasha ngokushesha futhi ihlele kabusha ukuze ihlangabezane nezidingo zebhizinisi ezikhulayo.",Ukuhlanganisa izinkampani ezimbili kube eyodwa nokushintsha abaphathi kuletha ubudlobongela endaweni yokusebenzela.,neutral,True
+"Ngokwesibonelo, enye inhlangano seyifunde yaba nobuhlakani ngokuhlanganiswa okubili okwakudinga ukuthi inkampani ihlanganise amabhizinisi amasha ngokushesha futhi ihlele kabusha ukuze ihlangabezane nezidingo zebhizinisi ezikhulayo.",Sihlole izinkampani esezike nahlanganiswa kabili zaphinde zashintsha abaphathi ngokushesha ngoba behlose ukulungela izidingo zenkampani.,entailment,True
+"Isakhiwo, sikhathazwa ukuthi izimali zizodedelwa ngaphambi kokuhlolisisa ukuthi uhambo lubekhona yini",Besazi ukuthi ukukhokhelwa kuzoba umzukuzuku.,contradiction,True
+"Isakhiwo, sikhathazwa ukuthi izimali zizodedelwa ngaphambi kokuhlolisisa ukuthi uhambo lubekhona yini",Besithemba ukuthi sizoholelwa ngaphambi kokuhlolisisa,entailment,True
+"Isakhiwo, sikhathazwa ukuthi izimali zizodedelwa ngaphambi kokuhlolisisa ukuthi uhambo lubekhona yini",Besizitshela ukuthi sizokhokhelwa ngokushesha singenzelwa ubukhoshokhosho,neutral,True
+"Ithekhinologi seyenziwe yaba sezingeni kwenzelwa ukuhambelana nezindlela zokwenza zalizi zinkampani, ngoba ithekhinologi injengokhiye wezohwebo, ayi njengethuluzi",Isoftware yokuhlela ethuthukisiwe ingenye yobuchwepheshe obubalulekile amabhizinisi agxile kubo.,neutral,True
+"Ithekhinologi seyenziwe yaba sezingeni kwenzelwa ukuhambelana nezindlela zokwenza zalizi zinkampani, ngoba ithekhinologi injengokhiye wezohwebo, ayi njengethuluzi",Ithekhinologi iyithuluzi akuwona ukhiye wamanghinisi,contradiction,False
+"Ithekhinologi seyenziwe yaba sezingeni kwenzelwa ukuhambelana nezindlela zokwenza zalizi zinkampani, ngoba ithekhinologi injengokhiye wezohwebo, ayi njengethuluzi",Ibhizinisi ligqugquzela kakhulu ithekhinologi,entailment,True
+Amaganyana amabili avela kwizincwadi zendaba zibalulekile kumthelela wocwaningo lekusasa,Izincwadi zingashintsha ucwaningo lokuhlola amasampuli,neutral,True
+Amaganyana amabili avela kwizincwadi zendaba zibalulekile kumthelela wocwaningo lekusasa,Izincwadi zingashintsha ucwaningo lwekusasa,entailment,True
+Amaganyana amabili avela kwizincwadi zendaba zibalulekile kumthelela wocwaningo lekusasa,Akukho okunye okusazokwenziwa ukushintsha ucwaningo,contradiction,True
+Imigqa eyakhiwe amabhokisi ibonisa izinga lenhlalakahle yabo bonke abathumeli beposi ehlanganisiwe futhi imigqa eyakhiwe ngamadayimane ibonisa ukulahlekelwa kobuchwepheshe (uma kungalungile) kokushintshela umsebenzi kwelinye iqembu.,Imigqa ibala ukuthi izinga lenhlalakahle yabathumeli liyi-10%.,neutral,True
+Imigqa eyakhiwe amabhokisi ibonisa izinga lenhlalakahle yabo bonke abathumeli beposi ehlanganisiwe futhi imigqa eyakhiwe ngamadayimane ibonisa ukulahlekelwa kobuchwepheshe (uma kungalungile) kokushintshela umsebenzi kwelinye iqembu.,Olayini abakhombisi lutho ngaphandle komkhondo.,contradiction,False
+Imigqa eyakhiwe amabhokisi ibonisa izinga lenhlalakahle yabo bonke abathumeli beposi ehlanganisiwe futhi imigqa eyakhiwe ngamadayimane ibonisa ukulahlekelwa kobuchwepheshe (uma kungalungile) kokushintshela umsebenzi kwelinye iqembu.,Imigqa ikhombisa ukuthi ingakanani inhlalakahle kuwo bonke abathumeli.,entailment,True
+"Ngokusekelwe kulokhu kuhlola ubungozi, iCenterlink ithuthukise uhla lwamasu athile okuvimbela okuhloswe ngawo ukufundisa abahlomuli nabaqashi ngokubika imali engenayo.",ICenterlink ayizange ixazulule kanjani inkinga.,contradiction,False
+"Ngokusekelwe kulokhu kuhlola ubungozi, iCenterlink ithuthukise uhla lwamasu athile okuvimbela okuhloswe ngawo ukufundisa abahlomuli nabaqashi ngokubika imali engenayo.",ICenterlink yayinamasu amaningi okufundisa abantu ukuthi babike kanjani imali engenayo ngoba uhulumeni wayelahlekelwa yimali eningi ngamaphutha.,neutral,True
+"Ngokusekelwe kulokhu kuhlola ubungozi, iCenterlink ithuthukise uhla lwamasu athile okuvimbela okuhloswe ngawo ukufundisa abahlomuli nabaqashi ngokubika imali engenayo.",ICenterlink yayinamasu amaningi okufundisa abantu ukuthi babike kanjani imali engenayo.,entailment,True
+Lokhu kwavumela ukuboniswa komklamo ngaphambi kokuba izinkampani zenze ukutshalwa kwezimali okumba eqolo emishinini yokukhiqiza kanye namathuluzi okwakha ummeleli wokukhiqiza.,Bebengakhombisa ukuthi kuhlelwe ukuthi kubenjani,entailment,True
+Lokhu kwavumela ukuboniswa komklamo ngaphambi kokuba izinkampani zenze ukutshalwa kwezimali okumba eqolo emishinini yokukhiqiza kanye namathuluzi okwakha ummeleli wokukhiqiza.,Babengakhombisa inkampani ukuthi kwakunganabo ubuhlakani ukwakha izinkampani ezintsha.,neutral,False
+Lokhu kwavumela ukuboniswa komklamo ngaphambi kokuba izinkampani zenze ukutshalwa kwezimali okumba eqolo emishinini yokukhiqiza kanye namathuluzi okwakha ummeleli wokukhiqiza.,Babengenalo icebo lokukhombisa iqhaza lokubeka imali.,contradiction,True
+Imizamo yeSouth Carolina yaletha impumelelo yonyaka olandelayo.,Akukho noyedwa eSouth Carolina owasebenzisana nabanye,contradiction,False
+Imizamo yeSouth Carolina yaletha impumelelo yonyaka olandelayo.,iSC yasebenzisana ndawonye,entailment,True
+Imizamo yeSouth Carolina yaletha impumelelo yonyaka olandelayo.,Amademokhrasi namaRiphabhulikhi aseNingizimu Carolina asebenza ndawonye.,neutral,True
+"Ngokwesikhulu Sebhodi, izitifiketi zesigaba 605(b) zeBhodi azizange zinikezwe ngokuhlukile kuMeluleki Omkhulu Wokuphathwa Kwamabhizinisi Amancane (i-SBA) wokumela.",Ibhodi alizange lizinikeze izitifiketi ze-SBA futhi lokho likushiyele ehhovisi lomhloli.,neutral,True
+"Ngokwesikhulu Sebhodi, izitifiketi zesigaba 605(b) zeBhodi azizange zinikezwe ngokuhlukile kuMeluleki Omkhulu Wokuphathwa Kwamabhizinisi Amancane (i-SBA) wokumela.",Ibhodi alizange linikeze izitifiketi ze-SBA.,entailment,True
+"Ngokwesikhulu Sebhodi, izitifiketi zesigaba 605(b) zeBhodi azizange zinikezwe ngokuhlukile kuMeluleki Omkhulu Wokuphathwa Kwamabhizinisi Amancane (i-SBA) wokumela.",Ibhodi lanikezela izitifiketi ze-SBA nsuku zonke kunoma ubani ozicelayo.,contradiction,False
+"Makwenzeka okufanayo ehhotela nezinye izindleko ezithile, kuzoqinisekiswa uhambo lwangempela.",Amaketanga amaningi amahhotela kazwelonke amukela izinkokhelo zekhadi lesikweletu.,neutral,True
+"Makwenzeka okufanayo ehhotela nezinye izindleko ezithile, kuzoqinisekiswa uhambo lwangempela.",Uhambo ngokwalo luzoqinisekiswa kusetshenziswa izindleko zehhotela.,entailment,True
+"Makwenzeka okufanayo ehhotela nezinye izindleko ezithile, kuzoqinisekiswa uhambo lwangempela.",Ayikho indlela yokwenza isiqiniseko sokuthi uhambo lubekhona ngampela noma cha.,contradiction,True
+"Isibonelo, inhlokodolobha eyodwa yesifunda esiyivakashele iyikhaya lezinkampani zama-software ezingaphezu kuka-600.",Inhlokodolobha iyindawo enhle yamasoftware enkampani.,neutral,True
+"Isibonelo, inhlokodolobha eyodwa yesifunda esiyivakashele iyikhaya lezinkampani zama-software ezingaphezu kuka-600.",Inhlokodolobha eyodwa inezizumbulu lezinkampani zesoftware.,entailment,True
+"Isibonelo, inhlokodolobha eyodwa yesifunda esiyivakashele iyikhaya lezinkampani zama-software ezingaphezu kuka-600.",Izinkampani zesoftware zigwema osonhlamvukazi ngezizathu zomthetho.,contradiction,True
+"Ekukaleni ukusebenza kahle, ukuphelela akufinyeleleki.",Ungaba ophelele uma uzama kanzima ngokwanele.,contradiction,True
+"Ekukaleni ukusebenza kahle, ukuphelela akufinyeleleki.",Angeke ube ngophelele,entailment,True
+"Ekukaleni ukusebenza kahle, ukuphelela akufinyeleleki.",Ngeke uphelele ngoba sonke singabantu abanamaphutha ajulile.,neutral,True
+"Uzakwethu owaqashisa igumbi ku-Hazmi noMihdhar ngo-2000 uyisakhamuzi ngokusobala esithobela umthetho esinokuxhumana okunesikhathi eside, okunobungane phakathi kwamaphoyisa endawo kanye nabasebenzi be-FBI.",U-Hazmi no-Mihdhar bathenga umuzi futhi abazange baxhumane namuntu.,contradiction,True
+"Uzakwethu owaqashisa igumbi ku-Hazmi noMihdhar ngo-2000 uyisakhamuzi ngokusobala esithobela umthetho esinokuxhumana okunesikhathi eside, okunobungane phakathi kwamaphoyisa endawo kanye nabasebenzi be-FBI.","U-Hazmi no-Mihdhar baqashe igumbi unyaka wonke, ngo-$500 ngosuku.",neutral,False
+"Uzakwethu owaqashisa igumbi ku-Hazmi noMihdhar ngo-2000 uyisakhamuzi ngokusobala esithobela umthetho esinokuxhumana okunesikhathi eside, okunobungane phakathi kwamaphoyisa endawo kanye nabasebenzi be-FBI.",U-Hazmi no-Mihdhar baqashe igumbi.,entailment,True
+"Ngohambo lwabo oluya e-Bosnia, bheka umbiko Wezobunhloli, ukuphenywa ngemibuzo kwelungu le-Saudi al Qaeda, Oct. 3, 2001.",lungu le-al Qaeda laya eBosnia izikhathi ezingu-18 ngo-2001.,neutral,False
+"Ngohambo lwabo oluya e-Bosnia, bheka umbiko Wezobunhloli, ukuphenywa ngemibuzo kwelungu le-Saudi al Qaeda, Oct. 3, 2001.",Ilungu le-al Qaeda laya eBosnia.,entailment,True
+"Ngohambo lwabo oluya e-Bosnia, bheka umbiko Wezobunhloli, ukuphenywa ngemibuzo kwelungu le-Saudi al Qaeda, Oct. 3, 2001.",Abukho ubufakazi belungu le-al Quaeda elaya eBosnia.,contradiction,False
+UJane ucele isisebenzi  saseNew York esabelwe usesho lwe-Mihdhar ukuthi isayine ifomu lokuvuma le-FISA elibonisa ukuthi umenzeli uyaqonda ukuthi kufanele aphathe kanjani ulwazi lwe-FISA.,UJane wacela ifomu lokuvuma le-FISA ukuthi lisayinwe yijaji likahulumeni.,neutral,True
+UJane ucele isisebenzi  saseNew York esabelwe usesho lwe-Mihdhar ukuthi isayine ifomu lokuvuma le-FISA elibonisa ukuthi umenzeli uyaqonda ukuthi kufanele aphathe kanjani ulwazi lwe-FISA.,UJane wacela ukuthi ifomu lokuvuma le-FISA lisayinwe.,entailment,True
+UJane ucele isisebenzi  saseNew York esabelwe usesho lwe-Mihdhar ukuthi isayine ifomu lokuvuma le-FISA elibonisa ukuthi umenzeli uyaqonda ukuthi kufanele aphathe kanjani ulwazi lwe-FISA.,UJane wathi akukho ukuvuma kwe-FISA okudingekayo.,contradiction,False
+Akukho okugqamayo nganoma iyiphi yazo maqondana nesendlalelo sokuvikeleka kuphela ebesihlobene nokuhlolwa kwangempela kwendawo yokuhlola.,Ubufakazi obushaqisayo butholakale ngesikhathi sokuhlolwa kwendawo yokuhlola.,contradiction,True
+Akukho okugqamayo nganoma iyiphi yazo maqondana nesendlalelo sokuvikeleka kuphela ebesihlobene nokuhlolwa kwangempela kwendawo yokuhlola.,Ukuhlolwa kwendawo yokuhlola kuncike ngokuphelele ekwazisweni abasizi babantu abenza ukuhlola.,neutral,True
+Akukho okugqamayo nganoma iyiphi yazo maqondana nesendlalelo sokuvikeleka kuphela ebesihlobene nokuhlolwa kwangempela kwendawo yokuhlola.,Ukuhlolwa kwendawo yokuhlola akukwazanga ukuthola noma yibuphi ubufakazi obuphikisana nabo.,entailment,True
+"UKhallad ulethe inguquko yesibili, okungukuthi bobathathu bahamba ndawonye baya eKarachi.",UKhallad uthe akazi lutho ngabo bobathathu.,contradiction,False
+"UKhallad ulethe inguquko yesibili, okungukuthi bobathathu bahamba ndawonye baya eKarachi.",UKhallad uthe laba bobathathu bebengahamba ndawonye.,entailment,True
+"UKhallad ulethe inguquko yesibili, okungukuthi bobathathu bahamba ndawonye baya eKarachi.",UKhallad uthe kunamathuba angu-50% ukuthi laba bobathathu baye eKarachi ndawonye ngo-Okthoba.,neutral,True
+"Umbiko wezobunhloli, ukuphenywa kwe-Binalshibh, Oct. 1, 2002.",UBinalshibh waphenywa ngemibuzo yithimba le-FBI.,neutral,True
+"Umbiko wezobunhloli, ukuphenywa kwe-Binalshibh, Oct. 1, 2002.",UBinalshibh waphenywa ngemibuzo ngo 2002.,entailment,True
+"Umbiko wezobunhloli, ukuphenywa kwe-Binalshibh, Oct. 1, 2002.","UBinalshibh akazange kukhulunywe naye, futhi wanyamalala.",contradiction,True
+UMihdhar wathola entsha i-U.S visa emvakwezinsuku ezimbili iCIA-FBI ihlangana neNew York.,UMihdar waba neUS visa yokungena ezweni.,entailment,True
+UMihdhar wathola entsha i-U.S visa emvakwezinsuku ezimbili iCIA-FBI ihlangana neNew York.,"UMihdar akakaze waba nevisa, ngakho ke akakaze afike kuthina eUS.",contradiction,True
+UMihdhar wathola entsha i-U.S visa emvakwezinsuku ezimbili iCIA-FBI ihlangana neNew York.,UMihdhar yanikezwa ivisa ngoba wayengayona ingozi.,neutral,True
+"Naphezu kweminyaka emibili yophenyo, i-FBI ayikwazanga ukuthola umuntu osebenza naye noma ukucacisa ukuthi ungubani ngempela.",IFBI ayikwazanga ngisho ukuthola umuntu owahamba eFlorida ngo 2001.,neutral,True
+"Naphezu kweminyaka emibili yophenyo, i-FBI ayikwazanga ukuthola umuntu osebenza naye noma ukucacisa ukuthi ungubani ngempela.",I-FBI ayikwazanga ukuthola wayengubani umuntu.,entailment,True
+"Naphezu kweminyaka emibili yophenyo, i-FBI ayikwazanga ukuthola umuntu osebenza naye noma ukucacisa ukuthi ungubani ngempela.",I-FBI yathola ukuthi kwakungubani yabe seyimphonsa eJele.,contradiction,True
+"Endabeni ye-American 11, ukuxhumana kokugcina okuvamile okuvela endizeni kwakungo-8:13 A.M.",Kwakukhona ukuxhumana nabase American 11,entailment,True
+"Endabeni ye-American 11, ukuxhumana kokugcina okuvamile okuvela endizeni kwakungo-8:13 A.M.",Kube nokuxhumana okuvela ku-American 11 njalo ngemizuzu emihlanu.,neutral,True
+"Endabeni ye-American 11, ukuxhumana kokugcina okuvamile okuvela endizeni kwakungo-8:13 A.M.",Kwakukhona ukuxhumana nabase American 11,contradiction,True
+"Ukuyithola bekuzodinga ukubambisana okusheshayo nokukhulu kakhulu kuhulumeni waseJalimane, okungenzeka kube nzima ukukuthola.",Uma seluqediwe uphenyo kungenzeka ludalule indawo yababaleke abathathu.,neutral,True
+"Ukuyithola bekuzodinga ukubambisana okusheshayo nokukhulu kakhulu kuhulumeni waseJalimane, okungenzeka kube nzima ukukuthola.",Uhulumeni waseJalimane kungenzeka kube nzima ukwenza uphenyo olusheshayo noluphelele.,entailment,True
+"Ukuyithola bekuzodinga ukubambisana okusheshayo nokukhulu kakhulu kuhulumeni waseJalimane, okungenzeka kube nzima ukukuthola.",Uphenyo lungaba lula futhi kube lula kuhulumeni ukuthi aluqhube.,contradiction,False
+"Lawa makhono ayenganele, kodwa kuncane okwenziwa ukuwakhulisa noma ukuwalungisa.",Abalushintshanga kakhulu uhlelo lwabo lokuqapha.,neutral,True
+"Lawa makhono ayenganele, kodwa kuncane okwenziwa ukuwakhulisa noma ukuwalungisa.",Abazange benze okuningi ukushintsha izinto.,entailment,True
+"Lawa makhono ayenganele, kodwa kuncane okwenziwa ukuwakhulisa noma ukuwalungisa.",Bahamba ibanga elide ukuze balungise yonke into.,contradiction,False
+"Umqhafazo womhlaziyi, nokho, ubonisa ukuthi ubedida imihume eminingi nezithiyo ezingokomthetho ekwabelaneni ngolwazi nemithetho elawula ukusetshenziswa kwama-ejenti obugebengu kolwazi oluqoqwe ngemigudu yezobunhloli.",Umhlaziyi wethule ukuhlaziya okucace bha.,contradiction,True
+"Umqhafazo womhlaziyi, nokho, ubonisa ukuthi ubedida imihume eminingi nezithiyo ezingokomthetho ekwabelaneni ngolwazi nemithetho elawula ukusetshenziswa kwama-ejenti obugebengu kolwazi oluqoqwe ngemigudu yezobunhloli.",Umhlaziyi ubengacaci ezintweni eziningi.,entailment,True
+"Umqhafazo womhlaziyi, nokho, ubonisa ukuthi ubedida imihume eminingi nezithiyo ezingokomthetho ekwabelaneni ngolwazi nemithetho elawula ukusetshenziswa kwama-ejenti obugebengu kolwazi oluqoqwe ngemigudu yezobunhloli.",Umbiko womhlaziyi bewudida kangangokuthi akekho owayekwazi ukuwufunda.,neutral,True
+"Amanye amaphoyisa abe esebelwa ukuba asize ekuphumeni ezitebhisini; abanye babelwa ukuba basheshise ukuphuma eplaza, concourse, nasePATH esiteshini.",Amaphoyisa athola ezawo izabelo.,entailment,True
+"Amanye amaphoyisa abe esebelwa ukuba asize ekuphumeni ezitebhisini; abanye babelwa ukuba basheshise ukuphuma eplaza, concourse, nasePATH esiteshini.",Amaphoyisa avele agijima ngokunganaki lapho edingeka khona.,contradiction,True
+"Amanye amaphoyisa abe esebelwa ukuba asize ekuphumeni ezitebhisini; abanye babelwa ukuba basheshise ukuphuma eplaza, concourse, nasePATH esiteshini.",Kwabelwa amaphoyisa izikhundla eziphezulu ngobudala babo.,neutral,True
+"Ngomhlaka 9 Septhemba, kwafika izindaba ezimangalisayo zivela e-Afghanistan.",Sathola izindaba ezivela e-Afghanistan.,entailment,True
+"Ngomhlaka 9 Septhemba, kwafika izindaba ezimangalisayo zivela e-Afghanistan.",Asizwanga lutho oluvela e-Afghanistan kwaze kwaba Okthoba.,contradiction,False
+"Ngomhlaka 9 Septhemba, kwafika izindaba ezimangalisayo zivela e-Afghanistan.",Satshelwa ngokuhlaselwa okuzayo mhlaka 9 Septhemba.,neutral,True
+"Ukungakwazi ukuxhumana kwakuyisici esibucayi e-World Trade Center, ePentagon, naseSomerset County, ePennsylvania, izizinda zokuphahlazeka, lapho ama-ejensi",Ukuxhumana kwasebenza kahle kakhulu ngo-9/11.,contradiction,True
+"Ukungakwazi ukuxhumana kwakuyisici esibucayi e-World Trade Center, ePentagon, naseSomerset County, ePennsylvania, izizinda zokuphahlazeka, lapho ama-ejensi",Abantu bebenenkinga yokuxhumana eWorld Trade Center ngoba ugesi ubucimile futhi nezintambo zezingcingo bezingekho.,neutral,True
+"Ukungakwazi ukuxhumana kwakuyisici esibucayi e-World Trade Center, ePentagon, naseSomerset County, ePennsylvania, izizinda zokuphahlazeka, lapho ama-ejensi",Abantu bebenenkinga yokuxhumana eWorld Trade Center.,entailment,True
+"Ukuseshwa kolwazi olutholakala kalula bekungase kutholwe izincwadi zokushayela, ukubhaliswa kwemoto, nohlu lwezingcingo.",Abaphenyi baphinde bacela ukufinyelela kusizindalwazi sochwepheshe.,neutral,True
+"Ukuseshwa kolwazi olutholakala kalula bekungase kutholwe izincwadi zokushayela, ukubhaliswa kwemoto, nohlu lwezingcingo.",Izinhlobo ezimbalwa zolwazi bezitholakala kusizindalwazi esikhona.,entailment,True
+"Ukuseshwa kolwazi olutholakala kalula bekungase kutholwe izincwadi zokushayela, ukubhaliswa kwemoto, nohlu lwezingcingo.",Yayingekho izindlela zokuthola ulwazi ngezihloko uma usebenzisa izimboni eziphilayo.,contradiction,True
+"Ukubonakalisa ukusoleka ngakho konke okwenziwayo, umqondisi waziqhelelanisa no-Hazmi no-Mihdhar, kodwa hhayi ngaphambi kokuba bathole usizo.",Umqondisi mabhalane wathinta iziphathimandla futhi wenqaba ukusiza kuleli cala.,contradiction,True
+"Ukubonakalisa ukusoleka ngakho konke okwenziwayo, umqondisi waziqhelelanisa no-Hazmi no-Mihdhar, kodwa hhayi ngaphambi kokuba bathole usizo.",Umabhalane wanikeza usizo naphezu kokungabaza kwakhe.,entailment,False
+"Ukubonakalisa ukusoleka ngakho konke okwenziwayo, umqondisi waziqhelelanisa no-Hazmi no-Mihdhar, kodwa hhayi ngaphambi kokuba bathole usizo.",Usizo beluhlanganisa ukheshi nosizo lokuthola izincwadi zokuhamba.,neutral,False
+"Ngo-2003, lezi zikhundla zaqedwa; zonke izindaba zobuphekula bamazwe ngamazwe manje zithola igama elifanayo, 315.",Zonke izindaba ezikhathazayo zinikezwa ilebula eliphezulu ngokubaluleka.,neutral,True
+"Ngo-2003, lezi zikhundla zaqedwa; zonke izindaba zobuphekula bamazwe ngamazwe manje zithola igama elifanayo, 315.",Zonke izindaba ezikhathazayo zithola ilebula elifanayo,entailment,True
+"Ngo-2003, lezi zikhundla zaqedwa; zonke izindaba zobuphekula bamazwe ngamazwe manje zithola igama elifanayo, 315.",Udaba ngalunye olukhathazayo lwahlulelwa futhi luhlelwa ngokuzimela.,contradiction,True
+"Leli phoyisa, elalibone ukuwa kwebhilidi laseNingizimu, labikela amayunithi e-ESU asebhilidini laseNtshonalanga emyalelweni waso wokuphuma.",Akekho owasala eNorth Tower ngemva kokuwa kwebhilidi laseNingizimu.,contradiction,False
+"Leli phoyisa, elalibone ukuwa kwebhilidi laseNingizimu, labikela amayunithi e-ESU asebhilidini laseNtshonalanga emyalelweni waso wokuphuma.",Ibhilidi laseNingizimu lawa kusasele imizuzu engu-30 ngaphambi kokuba iphoyisa likhulume namayunithi e-ESU kwibhilidi laseNtshonalanga.,neutral,False
+"Leli phoyisa, elalibone ukuwa kwebhilidi laseNingizimu, labikela amayunithi e-ESU asebhilidini laseNtshonalanga emyalelweni waso wokuphuma.",Amaphoyisa abona kuwa ibhilidi laseNingizimu.,entailment,True
+I-Indianapolis ingenye yezindawo ezinhle kakhulu zabalingisi abangasebenzela abaningi,Abalingisi bathanda i-Indianapolis ngenxa yazo zonke izinhlaka zokulingisa lapho.,neutral,True
+I-Indianapolis ingenye yezindawo ezinhle kakhulu zabalingisi abangasebenzela abaningi,"Uma ungumlingisi, kufanele ucabange ukuthuthela e-Indianapolis.",entailment,True
+I-Indianapolis ingenye yezindawo ezinhle kakhulu zabalingisi abangasebenzela abaningi,"Kunzima ukuthola umsebenzi e-Indianapolis uma ukubhizinisi lama-movie netiyetha, njengoba ngokuvamile kuyidolobha lobuchwepheshe.",contradiction,True
+"Sihlinzeka ngosizo ngocingo amahora angu-24 ngosuku, izinsuku ezingu-7 ngeviki ngeSikhungo Sensiza Yolwazi Lokuvimbela &amp; Ulayini Wosizo Lomzali.",Abantu bangaxhumana nathi kuphela nge-imeyili noma besebenzise imeyili.,contradiction,False
+"Sihlinzeka ngosizo ngocingo amahora angu-24 ngosuku, izinsuku ezingu-7 ngeviki ngeSikhungo Sensiza Yolwazi Lokuvimbela &amp; Ulayini Wosizo Lomzali.","Siyatholakala ocingweni, noma ingasiphi isikhathi sosuku",entailment,True
+"Sihlinzeka ngosizo ngocingo amahora angu-24 ngosuku, izinsuku ezingu-7 ngeviki ngeSikhungo Sensiza Yolwazi Lokuvimbela &amp; Ulayini Wosizo Lomzali.",Sithole izingcingo ezidlulile kwikhulu njalo ngoMsombuluko kuya kuLwesihlanu.,neutral,True
+Ngoba lamabhokisi azosala engafasiwe emuva kwesikhathi eside izipho zivuliwe.,Lamabhokisi aphethe amabhomu ayingozi,neutral,True
+Ngoba lamabhokisi azosala engafasiwe emuva kwesikhathi eside izipho zivuliwe.,Lamabhokisi azovulelwa ezinye izipho.,contradiction,True
+Ngoba lamabhokisi azosala engafasiwe emuva kwesikhathi eside izipho zivuliwe.,Lamabhokisi azosala engavaliwe isikhathi eside.,entailment,True
+"Uma sehlisa amaxabiso, sidinga ukuza kuwena, amalunga ayizibukeli, azocela uxhaso oluncane oluzosisiza sifeze inhloso.","Ukuze sigcine amanani amathikithi ethu engaphansi kuka-$10, sizodinga wonke amalungu ethu ezithameli ukuthi anikele ngo-$25.",neutral,False
+"Uma sehlisa amaxabiso, sidinga ukuza kuwena, amalunga ayizibukeli, azocela uxhaso oluncane oluzosisiza sifeze inhloso.","Besingagcina amanani ethu ephansi uma besifuna ngempela, ngaphandle kwemali yakho, kodwa umphathi wethu uthanda izinto zakhe eziphambili.",contradiction,True
+"Uma sehlisa amaxabiso, sidinga ukuza kuwena, amalunga ayizibukeli, azocela uxhaso oluncane oluzosisiza sifeze inhloso.",Umnikelo wakho ungasisiza sehlise amanani.,entailment,True
+"00 yasiza ekwenzeni ukuthi sikwazi ukunikeza isiqondiso, isikhuthazo kanye nokuzijabulisa ezinganeni zase-Indianapolis ezingaba ngu-400.","Ngenxa yeminikelo yethu yomusa, sikwazile ukumema u-Beyonce ukuthi siphonsele izintandane zase-Indianapolis ikhonsathi.",neutral,False
+"00 yasiza ekwenzeni ukuthi sikwazi ukunikeza isiqondiso, isikhuthazo kanye nokuzijabulisa ezinganeni zase-Indianapolis ezingaba ngu-400.","Besinethemba lokuthi sizokwenzela izingane idili likaKhisimusi, kodwa asikaze sikwazi ukuzenzela lutho.",contradiction,False
+"00 yasiza ekwenzeni ukuthi sikwazi ukunikeza isiqondiso, isikhuthazo kanye nokuzijabulisa ezinganeni zase-Indianapolis ezingaba ngu-400.",Sikwazile ukusiza eziningi izingane ze-Indianapolis.,entailment,True
+"Ekuqaleni, abantu bangabamba iqhaza ngokwenza isipho saminyaka yonke esingakhawulelwe sika-$1,000 noma ngaphezulu ku-Chancellor's Circle, noma ama-$500 noma",Abantu bangabamba iqhaza ngemuva kokwenza umnikelo omncane ka-$50.,contradiction,False
+"Ekuqaleni, abantu bangabamba iqhaza ngokwenza isipho saminyaka yonke esingakhawulelwe sika-$1,000 noma ngaphezulu ku-Chancellor's Circle, noma ama-$500 noma",Abantu bangadlala indima uma bengafaka uxhaso olukhulu.,entailment,True
+"Ekuqaleni, abantu bangabamba iqhaza ngokwenza isipho saminyaka yonke esingakhawulelwe sika-$1,000 noma ngaphezulu ku-Chancellor's Circle, noma ama-$500 noma",Abantu abaningi bakhetha ukunikela kwabasondelene namakhansela.,neutral,True
+Isipho sakho sangalesikhathi singakusiza ngokungaphezulu kwinzuzo yentela ekupheleni konyaka.,"Uma unesipho esingafinyelela $1,000,  ungakwazi ukuthola izinzuzo zentela ngokuqinisekile.",neutral,True
+Isipho sakho sangalesikhathi singakusiza ngokungaphezulu kwinzuzo yentela ekupheleni konyaka.,"Ngeshwa, abeluleki bethu bezentela bangakweluleka ukuthi ungenzi zipho.",contradiction,True
+Isipho sakho sangalesikhathi singakusiza ngokungaphezulu kwinzuzo yentela ekupheleni konyaka.,Ungase ukwazi ukuthatha imali edonswayo yentela eminikelweni yakho,entailment,True
+"Njengoba wazi, ubulungu baleli qembu buhlanganisa labo bangani kanye nabafundi besikhathi esidlule abanikela ngo-$1,000 noma ngaphezulu minyaka yonke esikoleni somthetho.",Amanye amalungu aleli qembu anikele ngemali engaphezu kuka-$100k esikoleni.,neutral,True
+"Njengoba wazi, ubulungu baleli qembu buhlanganisa labo bangani kanye nabafundi besikhathi esidlule abanikela ngo-$1,000 noma ngaphezulu minyaka yonke esikoleni somthetho.","Sinabantu kuleliqembu abafake ngaphezu kuka $1,000 kwisikole somthetho.",entailment,True
+"Njengoba wazi, ubulungu baleli qembu buhlanganisa labo bangani kanye nabafundi besikhathi esidlule abanikela ngo-$1,000 noma ngaphezulu minyaka yonke esikoleni somthetho.","Siyahlela ukubuza kuleliqembu ukuthi liphonse umnikelo kwisikole, kodwa abakaze.",contradiction,False
+"Ngiseyingane ekhule kuma-5O's, enye yezinkumbulo zami ezijabulisa kakhulu kwakuwukuthamela imidlalo ye-Civic Theatre","Ngangikuzonda ukuya emidlalweni yeshashalazi ngiseyingane, yingakho ngaba usosayensi.",contradiction,False
+"Ngiseyingane ekhule kuma-5O's, enye yezinkumbulo zami ezijabulisa kakhulu kwakuwukuthamela imidlalo ye-Civic Theatre",Ngangikuthanda ukuya etiyetha ngiseyingane.,entailment,True
+"Ngiseyingane ekhule kuma-5O's, enye yezinkumbulo zami ezijabulisa kakhulu kwakuwukuthamela imidlalo ye-Civic Theatre",Umdidiyeli weCivic Theatre engangiwukhonzile bekunguBeauty and the Beast.,neutral,True
+Uma umuntu ngamunye ethole incwadi ezonikela ngo $18.,"Bonke abathole lencwadi: unganikeli ngemali yakho, kuwimkhonyovu.",contradiction,False
+Uma umuntu ngamunye ethole incwadi ezonikela ngo $18.,"Uma unikela ngo-$18, sizokunikeza isipho.",neutral,True
+Uma umuntu ngamunye ethole incwadi ezonikela ngo $18.,Sithemba ukuthi abazothola izincwadi bazonikela ngo $18.,entailment,True
+"Vele ukhiphe ingxenye engezansi, hlola inketho esebenzayo, wenze noma yiziphi izinguquko ekhelini lakho uma kudingeka futhi uyithumele emvilophini evaliwe.",Sicela ungenzi izinguquko ekhelini lakho,contradiction,True
+"Vele ukhiphe ingxenye engezansi, hlola inketho esebenzayo, wenze noma yiziphi izinguquko ekhelini lakho uma kudingeka futhi uyithumele emvilophini evaliwe.","Kufakwe kwimvilophu emhlophe, nekheli lakho kuyo",neutral,True
+"Vele ukhiphe ingxenye engezansi, hlola inketho esebenzayo, wenze noma yiziphi izinguquko ekhelini lakho uma kudingeka futhi uyithumele emvilophini evaliwe.","Ukhululekile ukwenza izinguquko ekhelini lakho, uma ubona kufanelekile.",entailment,True
+Isikole Sobuhlengikazi sidinga izipho zakho zokuphana ukuze siqhubeke futhi siphakamise ukuqhakaza kwaso kwezemfundo.,"Sicela unikele ngezigidi ezingu-$100 eSikoleni Sobuhlengikazi, noma uzolahlekelwa isifanekiso sakho esiyisikhumbuzo.",neutral,True
+Isikole Sobuhlengikazi sidinga izipho zakho zokuphana ukuze siqhubeke futhi siphakamise ukuqhakaza kwaso kwezemfundo.,"ISikole Sobuhlengikazi sihlangabezane nazo zonke izinjongo zaso zezezimali, ngakho-ke asisadingi mali.",contradiction,True
+Isikole Sobuhlengikazi sidinga izipho zakho zokuphana ukuze siqhubeke futhi siphakamise ukuqhakaza kwaso kwezemfundo.,Sithemba ukuthi uzonikela eSikoleni Sobuhlengikazi.,entailment,True
+U-80% wabahlanganyeli uzobika amakhono angeziwe okuxazulula izingxabano.,Abangaphezu kwesigamu ababambiqhaza bazobika amakhono angeziwe okuxazulula izingxabano.,entailment,True
+U-80% wabahlanganyeli uzobika amakhono angeziwe okuxazulula izingxabano.,Ikota kuphela yabahlanganyeli ezobika amakhono angeziwe okuxazulula izingxabano.,contradiction,True
+U-80% wabahlanganyeli uzobika amakhono angeziwe okuxazulula izingxabano.,Bekunabahlanganyeli abangaphezu kwe-100 ngabanye.,neutral,False
+Sicela ungasheleli ohlwini lwethu lwabanikeli abaphelelwe yisikhathi.,Kungaba yihlazo uma uyeka ukunikela.,entailment,True
+Sicela ungasheleli ohlwini lwethu lwabanikeli abaphelelwe yisikhathi.,"Uhlu lwethu lokunikela oluphelelwe yisikhathi lushicilelwe ukuze lubonwe umhlaba, ngakho-ke ngithembe, awufuni ukuhlazeka kanjalo!",neutral,True
+Sicela ungasheleli ohlwini lwethu lwabanikeli abaphelelwe yisikhathi.,"Sinabaxhasi abaningi kakhulu, ngakho-ke sicela uyeke ukunikela.",contradiction,True
+Ukufinyelela emagcekeni ethu kuzovulelwa noma ubani onekhompyutha nemodemu.,Abantu abadingi lutho ukuze bathole ukufinyelela kwezizathu.,contradiction,False
+Ukufinyelela emagcekeni ethu kuzovulelwa noma ubani onekhompyutha nemodemu.,Abantu badinga kokubili ikhompuyutha kanye nemodemu ukuze bangene emagcekeni.,entailment,True
+Ukufinyelela emagcekeni ethu kuzovulelwa noma ubani onekhompyutha nemodemu.,"Abantu badinga ukuphatha ikhompuyutha yabo kanye nemodemu ngenkathi bengena emagcekeni, ukuze bakwazi ukufinyelela.",neutral,True
+Ukuthengiswa kwamathikithi nokubhaliselwe akukwazi ukuxhasa ngezimali isizini yethu ephelele,Inqobo nje uma sinokuthengiswa kwamathikithi isizini yethu yonke sixhaswa ngezimali.,contradiction,False
+Ukuthengiswa kwamathikithi nokubhaliselwe akukwazi ukuxhasa ngezimali isizini yethu ephelele,Isizini yethu ephelele idinga okwengeziwe ukuze siyixhase ngezimali bese kuba ukuthengiswa kwamathikithi nokubhalisela.,entailment,True
+Ukuthengiswa kwamathikithi nokubhaliselwe akukwazi ukuxhasa ngezimali isizini yethu ephelele,Ukuthengiswa kwamathikithi nokubhaliselwe kuhlanganisa kuphela u-70% wezindleko zezimali zesizini yethu ephelele.,neutral,False
+UKUFIKA KWESIPHO ESISHA KWENZA UMEHLUKO!,Zonke izipho zishicilelwe futhi zimenyezelwe kujenali yethu yanyanga zonke.,neutral,True
+UKUFIKA KWESIPHO ESISHA KWENZA UMEHLUKO!,Sonke isipho esinikezwayo sibheke kokuthile.,entailment,True
+UKUFIKA KWESIPHO ESISHA KWENZA UMEHLUKO!,Izipho ezingaphezulu kuka-$100 kuphela ezenza umehluko.,contradiction,True
+"Kusenendlela ende okufanele siyihambe ngaphambi kokuthi sifinyelele umgomo wethu ka-$365,000 ovela kubangani nababhalisile njengawe.","Impokophelo yethu yemali idlula u-$300,000.",entailment,True
+"Kusenendlela ende okufanele siyihambe ngaphambi kokuthi sifinyelele umgomo wethu ka-$365,000 ovela kubangani nababhalisile njengawe.",Sihlose ukuphinda kathathu inhloso yethu yemali.,neutral,False
+"Kusenendlela ende okufanele siyihambe ngaphambi kokuthi sifinyelele umgomo wethu ka-$365,000 ovela kubangani nababhalisile njengawe.",Asinaso isikhungo somthombo maqondana nemali.,contradiction,True
+"I-Civil Practice Clinic yethu isisebenze iminyaka eminingana, futhi muva nje sengeze Umtholampilo Wokuvikela Ubugebengu.",I-Civil Practice Clinic yethu isisebenze iminyaka eyisishiyagalombili.,neutral,False
+"I-Civil Practice Clinic yethu isisebenze iminyaka eminingana, futhi muva nje sengeze Umtholampilo Wokuvikela Ubugebengu.",I-Civil Practice Clinic yethu igubha unyaka wayo wokuqala ogcwele isebenza ngenyanga ezayo.,contradiction,True
+"I-Civil Practice Clinic yethu isisebenze iminyaka eminingana, futhi muva nje sengeze Umtholampilo Wokuvikela Ubugebengu.","I-Civil Practice Clinic yethu isisebenze iminyaka eminingana, futhi muva nje sengeze Umtholampilo Wokuvikela Ubugebengu.",entailment,True
+Imali engenayo yamathikithi ayifinyeleli ukukhokhela izindleko zalezi zinhlelo.,Kubukeka sengathi izindleko zalezi zinhlelo ngeke zikhokhelwe yimali engenayo yamathikithi.,entailment,True
+Imali engenayo yamathikithi ayifinyeleli ukukhokhela izindleko zalezi zinhlelo.,Izindleko zalezi zinhlelo ziphezulu kakhulu.,neutral,True
+Imali engenayo yamathikithi ayifinyeleli ukukhokhela izindleko zalezi zinhlelo.,Imali engenayo yethikithi izokhokhela izindleko zalezi zinhlelo.,contradiction,True
+U-Omnia vincit amor (ngaphandle kwalapho usebenzela isonto elilodwa vo): U-Brit Hume ( Fox News Sunday ) uqagela ukuthi kungani u-Lewinsky engase angabi Usathanda umongameli ongenathemba.,U-Brit Hume uyintatheli ehamba phambili kwaFox.,neutral,True
+U-Omnia vincit amor (ngaphandle kwalapho usebenzela isonto elilodwa vo): U-Brit Hume ( Fox News Sunday ) uqagela ukuthi kungani u-Lewinsky engase angabi Usathanda umongameli ongenathemba.,U-Brit Hume usebenzela i-CNN.,contradiction,False
+U-Omnia vincit amor (ngaphandle kwalapho usebenzela isonto elilodwa vo): U-Brit Hume ( Fox News Sunday ) uqagela ukuthi kungani u-Lewinsky engase angabi Usathanda umongameli ongenathemba.,U-Brit Hume usebenzela uFox.,entailment,True
+Kuningi osekwenziwe ngokuqasha uMichael Apted ukuletha ukuthintana kwabantu ochungechungeni,"UMichael Apted wonakalise uchungechunge ngokugcizelela ukuthi bakhiphe noma yiziphi izinto ezifudumele, ezingabantu.",contradiction,True
+Kuningi osekwenziwe ngokuqasha uMichael Apted ukuletha ukuthintana kwabantu ochungechungeni,U-Michael Apted uqashelwe ukwengeza ubuhlakani bomuntu siqu ochungechungeni.,entailment,True
+Kuningi osekwenziwe ngokuqasha uMichael Apted ukuletha ukuthintana kwabantu ochungechungeni,"Lolu chungechunge belucatshangwa ukuthi luyabanda futhi luyisicefe, ngakho-ke bekubalulekile ukuqasha u-Michael Apted ukuze engeze ukuthinta okufudumele, komuntu",neutral,True
+ukubukela intombazane epaki enoboya obumhlophe namabhuzu,Intombazane igqokele ukuyodlala emaqhweni.,neutral,True
+ukubukela intombazane epaki enoboya obumhlophe namabhuzu,Intombazane igqoke izimpahla ezimhophe,entailment,True
+ukubukela intombazane epaki enoboya obumhlophe namabhuzu,Intombazane igqoke ezibovu zodwa,contradiction,True
+Lokhu le filimu engakunaki ukukusho ukuthi uKaufman wayevame ukukhuluma ngokuthi angathanda kanjani ukuhoxisa ukufa kwakhe.,Ifilimu ayikhulumi ngoKaufman lapho exoxa ngokufa kwakhe.,entailment,False
+Lokhu le filimu engakunaki ukukusho ukuthi uKaufman wayevame ukukhuluma ngokuthi angathanda kanjani ukuhoxisa ukufa kwakhe.,Ifilimu yaba nengxoxo ejulile noKaufman mayelana nokufa kwakhe.,contradiction,True
+Lokhu le filimu engakunaki ukukusho ukuthi uKaufman wayevame ukukhuluma ngokuthi angathanda kanjani ukuhoxisa ukufa kwakhe.,"Ifilimu yayihlabahlosile, naphezu kokushiya imininingwane ebalulekile mayelana noKaufman.",neutral,True
+U-Rockefeller ubanjwe yilokhu kupha okudabukisayo ngesikhathi i-Aveng Angel Tarbell iqala ukuklebhula inyama yakhe kuMcClure.,U-Rockefeller unikeze ucwaningo lomdlavuza.,neutral,True
+U-Rockefeller ubanjwe yilokhu kupha okudabukisayo ngesikhathi i-Aveng Angel Tarbell iqala ukuklebhula inyama yakhe kuMcClure.,U-Rockefeller wayepha.,entailment,True
+U-Rockefeller ubanjwe yilokhu kupha okudabukisayo ngesikhathi i-Aveng Angel Tarbell iqala ukuklebhula inyama yakhe kuMcClure.,URockefeller wayenenonya engaphani,contradiction,True
+"Muva nje, ecaleni lezohwebo eNew York, uKlayman wazithola ekwelinye icala lamacala okucwasa ngokwezizwe.",UKlayman ukhuliswe ngamacala okuchema eCalifornia.,contradiction,False
+"Muva nje, ecaleni lezohwebo eNew York, uKlayman wazithola ekwelinye icala lamacala okucwasa ngokwezizwe.",UKlayman ubengalindele ukuthi abekwe icala lokuchema.,neutral,True
+"Muva nje, ecaleni lezohwebo eNew York, uKlayman wazithola ekwelinye icala lamacala okucwasa ngokwezizwe.",Kube nezinsolo zokuchema nobuhlanga ku-Klayman.,entailment,True
+"Umuntu ubengeke alindele inqwaba yama-reps ezinkampani ukuthi ahayize, abhodle, futhi amemeze kabi kunobhala wezabasebenzi wase-U.S. ohlezi",Abameli bezinkampani bagqoka amasudi.,neutral,True
+"Umuntu ubengeke alindele inqwaba yama-reps ezinkampani ukuthi ahayize, abhodle, futhi amemeze kabi kunobhala wezabasebenzi wase-U.S. ohlezi",Umuntu angalindela ama-reps ezinkampani ukuthi ashaye ikhwelo.,contradiction,False
+"Umuntu ubengeke alindele inqwaba yama-reps ezinkampani ukuthi ahayize, abhodle, futhi amemeze kabi kunobhala wezabasebenzi wase-U.S. ohlezi",Umuntu ubengeke alindele ama-reps ezinkampani ukuthi ashaye ikhwelo.,entailment,False
+"Ngenxa yokuthi ukukhuliswa kunomphumela obaluleke kakhulu ekusebenzeni kwezemidlalo akusho ukuthi imvelo ilele, noma kunjalo.",Abasubathi bazalwa benawo wonke amandla abo okusebenza agcwaliseke ngokugcwele.,contradiction,True
+"Ngenxa yokuthi ukukhuliswa kunomphumela obaluleke kakhulu ekusebenzeni kwezemidlalo akusho ukuthi imvelo ilele, noma kunjalo.",Indlela abasubathi abenza ngayo kuthinteka kakhulu ekuqeqesheni kunofuzo.,entailment,True
+"Ngenxa yokuthi ukukhuliswa kunomphumela obaluleke kakhulu ekusebenzeni kwezemidlalo akusho ukuthi imvelo ilele, noma kunjalo.",Abasubathi abaningi abanohlonze baziqeqesha okungenani amahora ayisishiyagalombili isonto ngalinye.,neutral,True
+"Lapho ngisekhaya, ngafunda ukuthi i-United States ivala umgudu wokuthola impahla ngezindlela ezimbili.",Ngithanda ipolitiki,neutral,True
+"Lapho ngisekhaya, ngafunda ukuthi i-United States ivala umgudu wokuthola impahla ngezindlela ezimbili.",Ngafunda nge-United States,entailment,True
+"Lapho ngisekhaya, ngafunda ukuthi i-United States ivala umgudu wokuthola impahla ngezindlela ezimbili.",Ngifunde ukuthi i-United States ivala umgudu wokuletha izimpahla ngezindlela ezimbili ngaphambi kokubuyela ekhaya,contradiction,True
+Umshini wokushicilela wenyuvesi omdala kunayo yonke nomkhulu kunawo wonke emhlabeni---Oxford--usanda kumemezela ukuthi ukhansela uhlu lwayo lwezinkondlo.,Uhlu lwezinkondlo e-Oxford alusaqhubeki.,entailment,True
+Umshini wokushicilela wenyuvesi omdala kunayo yonke nomkhulu kunawo wonke emhlabeni---Oxford--usanda kumemezela ukuthi ukhansela uhlu lwayo lwezinkondlo.,Inyuvesi yodumo ayinayo imali yokugcina uhlu lwezinkondlo lusebenza.,neutral,False
+Umshini wokushicilela wenyuvesi omdala kunayo yonke nomkhulu kunawo wonke emhlabeni---Oxford--usanda kumemezela ukuthi ukhansela uhlu lwayo lwezinkondlo.,Inyuvesi izinikele ekugcineni uhlu lwezinkondlo futhi iyafunga ukuthi ayisoze yalukhansela.,contradiction,False
+"Kukhona umklomelo wokududuza esintwini, nokho.",Umklomelo wokududuza i-blender yejubane emibili yamahhala yawo wonke umuntu.,neutral,False
+"Kukhona umklomelo wokududuza esintwini, nokho.",Akukho okubi kubantu kulesi simo.,contradiction,True
+"Kukhona umklomelo wokududuza esintwini, nokho.",Lezi akuzona zonke izindaba ezimbi kubantu.,entailment,False
+Ezemidlalo akuzona kuphela imicimbi ongabhejelwa kuzo kulawa masayithi.,Ukubheja emiqhudelwaneni yezepolitiki nokhetho nakho kuyamukelwa kulawa masayithi.,neutral,True
+Ezemidlalo akuzona kuphela imicimbi ongabhejelwa kuzo kulawa masayithi.,Lawa masayithi amukela kuphela ukubheja emicimbini yezemidlalo.,contradiction,True
+Ezemidlalo akuzona kuphela imicimbi ongabhejelwa kuzo kulawa masayithi.,Lawa masayithi athatha okungcono kakhulu emisebenzini embalwa.,entailment,True
+"Ngomhla zingama-25 ku-Agasti, ngemva kokuvulwa komhlangano weDemocratic City, e-Atlantic City, N.J., uJohnson, owayeneminyaka engu-56 ngaleso sikhathi, wasabisa ezingxoxweni ezintathu ezirekhodiwe ngokuthi uzohoxa emncintiswaneni wobumongameli.",UJohnson wazizwa eswela ukwesekwa.,neutral,True
+"Ngomhla zingama-25 ku-Agasti, ngemva kokuvulwa komhlangano weDemocratic City, e-Atlantic City, N.J., uJohnson, owayeneminyaka engu-56 ngaleso sikhathi, wasabisa ezingxoxweni ezintathu ezirekhodiwe ngokuthi uzohoxa emncintiswaneni wobumongameli.",UJohnson akazange acabange ukuhoxa.,contradiction,False
+"Ngomhla zingama-25 ku-Agasti, ngemva kokuvulwa komhlangano weDemocratic City, e-Atlantic City, N.J., uJohnson, owayeneminyaka engu-56 ngaleso sikhathi, wasabisa ezingxoxweni ezintathu ezirekhodiwe ngokuthi uzohoxa emncintiswaneni wobumongameli.",U-Lamar Alexander uhoxise isicelo sakhe sokuba ngumongameli.,entailment,False
+U-Lamar Alexander uhoxise isicelo sakhe sokuba ngumongameli.,Okungenani oyedwa uyeke umzamo wakhe wokuba umongameli.,entailment,Neither
+U-Lamar Alexander uhoxise isicelo sakhe sokuba ngumongameli.,U-Lamar Alexander wenqaba ukuyeka umkhankaso wakhe wokuba ngumongameli.,contradiction,True
+U-Lamar Alexander uhoxise isicelo sakhe sokuba ngumongameli.,UMnu Alexander uphoqeleke ukuthi ashiye ngemuva kokushicilelwa kwezithombe zakhe ezingamahloni.,neutral,False
+"Phezu kwaleli rekhodi elidabukisayo lenkululeko yomphakathi ukusetshenziswa kabi kwe-FBI ophenyweni lwangempela lwehhovisi lezokuvakasha lwe-White House, nalokho osekwaziwa ngele-Filegate.",I-White House inenhloli ye-FBI ngabangenele ukhetho lwezepolitiki.,neutral,True
+"Phezu kwaleli rekhodi elidabukisayo lenkululeko yomphakathi ukusetshenziswa kabi kwe-FBI ophenyweni lwangempela lwehhovisi lezokuvakasha lwe-White House, nalokho osekwaziwa ngele-Filegate.",I-White House isebenzisa kabi i-FBI.,entailment,True
+"Phezu kwaleli rekhodi elidabukisayo lenkululeko yomphakathi ukusetshenziswa kabi kwe-FBI ophenyweni lwangempela lwehhovisi lezokuvakasha lwe-White House, nalokho osekwaziwa ngele-Filegate.",I-White House isebenzisa i-FBI ngendlela efanele.,contradiction,False
+"U-Tung ufunge wagomela ukuthi uzobhekana nabaqaguli bempahla, kodwa abaningi bacabanga ukuthi amagxolo akhe azoba mabi kakhulu kunokuluma kwakhe.",U-Tung akanandaba nabaqageli bezakhiwo.,contradiction,False
+"U-Tung ufunge wagomela ukuthi uzobhekana nabaqaguli bempahla, kodwa abaningi bacabanga ukuthi amagxolo akhe azoba mabi kakhulu kunokuluma kwakhe.",U-Tung ucabanga ukuthi abaqageli bezakhiwo benza okuphambene nokuziphatha.,neutral,True
+"U-Tung ufunge wagomela ukuthi uzobhekana nabaqaguli bempahla, kodwa abaningi bacabanga ukuthi amagxolo akhe azoba mabi kakhulu kunokuluma kwakhe.",U-Tung ufuna ukuthonya abaqageli bezakhiwo.,entailment,True
+"Izikhalo zazihlanganisa izinkinga zemithwalo, abasizi bezindiza abakhohlakele, izindiza ezikhanselwe ngendlela engaqondakali, unya lokukhokha.",Abantu abangu-10 babelahlekelwe yimithwalo.,neutral,True
+"Izikhalo zazihlanganisa izinkinga zemithwalo, abasizi bezindiza abakhohlakele, izindiza ezikhanselwe ngendlela engaqondakali, unya lokukhokha.",Abantu bakhala ngemithwalo.,entailment,True
+"Izikhalo zazihlanganisa izinkinga zemithwalo, abasizi bezindiza abakhohlakele, izindiza ezikhanselwe ngendlela engaqondakali, unya lokukhokha.",Zazingekho nhlobo izikhalo.,contradiction,True
+"ULawrence Singleton, umdlwenguli odume kabi owagenca izingalo zesisulu sakhe wabe esehlala iminyaka eyisishiyagalombili kuphela ejele, uboshiwe esigamekweni",Ngemva kokugenca izimpaphe zezisulu zakhe wazama ukuzifihla emgqonyeni kadoti.,neutral,True
+"ULawrence Singleton, umdlwenguli odume kabi owagenca izingalo zesisulu sakhe wabe esehlala iminyaka eyisishiyagalombili kuphela ejele, uboshiwe esigamekweni",Kwaba sobala kuwo wonke umuntu ukuthi ukuboshwa kwakhe kwase kumenze wahlunyeleliswa ngokuphelele.,contradiction,True
+"ULawrence Singleton, umdlwenguli odume kabi owagenca izingalo zesisulu sakhe wabe esehlala iminyaka eyisishiyagalombili kuphela ejele, uboshiwe esigamekweni",UMnu Singleton ulahlwe yicala lokudlwengula eFlorida.,entailment,True
+UCharles Lane weNew Republic uthi Izindaba Zokuthumba zimane zelula irekhodi likaGabriel Garcaa Marquez lobuntatheli bokungathembeki.,UCharles Lane uyintatheli.,entailment,True
+UCharles Lane weNew Republic uthi Izindaba Zokuthumba zimane zelula irekhodi likaGabriel Garcaa Marquez lobuntatheli bokungathembeki.,UCharles Lane udayise izimoto.,contradiction,False
+UCharles Lane weNew Republic uthi Izindaba Zokuthumba zimane zelula irekhodi likaGabriel Garcaa Marquez lobuntatheli bokungathembeki.,UCharles Lane uwine iPulitzer.,neutral,True
+Inkantolo akulona kuphela isekisi lezombusazwe eWashington namhlanje ekuseni.,Inkantolo akuyona yodwa indawo yezepolitiki e-Washington.,entailment,True
+Inkantolo akulona kuphela isekisi lezombusazwe eWashington namhlanje ekuseni.,Usuku lwezepolitiki cishe luqala ekuseni.,neutral,True
+Inkantolo akulona kuphela isekisi lezombusazwe eWashington namhlanje ekuseni.,Kunesekisi enkantolo enabangazi lutho.,contradiction,True
+"Umuntu angacabanga ngogandaganda osebenzisa ugandaganda njengoba evula umgwaqo wentuthuko entsha ehalaliselwa unjiniyela Hey, Loyd ...",Ungacabanga umshayeli wagandaganda eqala ugandaganda.,neutral,True
+"Umuntu angacabanga ngogandaganda osebenzisa ugandaganda njengoba evula umgwaqo wentuthuko entsha ehalaliselwa unjiniyela Hey, Loyd ...",Ungamcabanga umshayeli kagandaganda.,entailment,True
+"Umuntu angacabanga ngogandaganda osebenzisa ugandaganda njengoba evula umgwaqo wentuthuko entsha ehalaliselwa unjiniyela Hey, Loyd ...",Angeke umcabange umshayeli kagandaganda,contradiction,True
+"Ngabika lokhu encwadini eya kuDkt. kwakubonakala kumhlekisa, futhi wangithumelela ikhekhe elincane lezithelo ngalowoKhisimusi.",Nginesiqiniseko sokuthi udokotela wayithola incwadi engayithumela,entailment,True
+"Ngabika lokhu encwadini eya kuDkt. kwakubonakala kumhlekisa, futhi wangithumelela ikhekhe elincane lezithelo ngalowoKhisimusi.",Angilidlanga ikhekhe udokotela angithumelela lona ngalowakhisimuzi,neutral,True
+"Ngabika lokhu encwadini eya kuDkt. kwakubonakala kumhlekisa, futhi wangithumelela ikhekhe elincane lezithelo ngalowoKhisimusi.",Udokotela wangithumelela ibhodlela lewayini ngalowakhisimuzi.,contradiction,True
+"Iqembu phambilini belaziwa ngegama elikhumbulekayo elithi Beaneaters, okungenzeka, ngendlela exakile, liphinde lithathwe njengesiteketiso samaNdiya.",Iqembu lashintsha igama lalo ngoba yayinegama elingadumile.,neutral,True
+"Iqembu phambilini belaziwa ngegama elikhumbulekayo elithi Beaneaters, okungenzeka, ngendlela exakile, liphinde lithathwe njengesiteketiso samaNdiya.",Iqembu lalinegama phambilini leli ongacabanga ukuthi isiteketiso saseNdiya,entailment,True
+"Iqembu phambilini belaziwa ngegama elikhumbulekayo elithi Beaneaters, okungenzeka, ngendlela exakile, liphinde lithathwe njengesiteketiso samaNdiya.",Iqembu lisake laba nesiteketiso esisodwa qhwaba.,contradiction,True
+Angikwazanga ukuthola lencazelo kwiThesaurus.,Ngiyitholile incazelo kwiThesaurus.,contradiction,True
+Angikwazanga ukuthola lencazelo kwiThesaurus.,Ngabheka kwiThesaurus futhi ngangayithola incazelo.,entailment,True
+Angikwazanga ukuthola lencazelo kwiThesaurus.,Ithesaurus engiyisebenzisile kwakuyithesaurus ejwayelekile.,neutral,True
+Engakwenza kanjani lokho?,Kungenzeka kanjani ukuthi abantu abaningi bengenzi lutho?,contradiction,False
+Engakwenza kanjani lokho?,Engakwenza kanjani okubi kanjena?,neutral,False
+Engakwenza kanjani lokho?,Kwenzeka kanjani ukuthi enze kanjalo?,entailment,True
+"Ngaphezu kwalokho, iqukethe kuphela amagama aziwayo ukuthi avela Ekhulwini Lamashumi amabili, ngokweSingeniso, kodwa ayishiyi inkulumo-ze yezempi yasekuqaleni","Ngokwesandulelo, iqukethe amagama avela ekhulwini lamashumi amabili kodwa ishiya ngaphandle isitsotsi esavela ngaphambili.",entailment,True
+"Ngaphezu kwalokho, iqukethe kuphela amagama aziwayo ukuthi avela Ekhulwini Lamashumi amabili, ngokweSingeniso, kodwa ayishiyi inkulumo-ze yezempi yasekuqaleni",Inaso sonke i-slang esiqukethwe kuyo kusukela ekuqaleni kwesikhathi.,contradiction,True
+"Ngaphezu kwalokho, iqukethe kuphela amagama aziwayo ukuthi avela Ekhulwini Lamashumi amabili, ngokweSingeniso, kodwa ayishiyi inkulumo-ze yezempi yasekuqaleni",Kunezinhlobo eziningi ze-slang kusukela ngaphambi kwekhulu lamashumi amabili.,neutral,True
+"Uma umuntu enohlelo lwango-1984, angase akucasukele ukuthenga le ncwadi kunesengezo esifushane (futhi esingabizi kakhulu).",Uhlelo lwango-1984 luhamba phambili kakhulu.,neutral,True
+"Uma umuntu enohlelo lwango-1984, angase akucasukele ukuthenga le ncwadi kunesengezo esifushane (futhi esingabizi kakhulu).",Incwadi ayidayisi.,contradiction,True
+"Uma umuntu enohlelo lwango-1984, angase akucasukele ukuthenga le ncwadi kunesengezo esifushane (futhi esingabizi kakhulu).",Isengezo ishibhile kunencwadi.,entailment,False
+UBernstein uyachaza esethulweni,UBernstein akakuchazi ngokubanzi.,neutral,False
+UBernstein uyachaza esethulweni,UBernstein wachaza kuphela esiphethweni.,contradiction,True
+UBernstein uyachaza esethulweni,Isingeniso siqukethe incazelo.,entailment,True
+"Akuphakanyiswe ukuthi lezi zifundo zivinjelwe, ukuthi nje kunzima, ngisho nangemva kweminyaka engamashumi amabili yokukhula, ukuthi umuntu ongaphandle abone okuningi okuhlekisayo ngazo.",Ngisho nezikhulumi zomdabu kwesinye isikhathi ziba nenkinga namahlaya.,neutral,True
+"Akuphakanyiswe ukuthi lezi zifundo zivinjelwe, ukuthi nje kunzima, ngisho nangemva kweminyaka engamashumi amabili yokukhula, ukuthi umuntu ongaphandle abone okuningi okuhlekisayo ngazo.",Amahlaya ngokuvamile angenye yezinto ezilula ukuze abantu bangaphandle baziqonde.,contradiction,True
+"Akuphakanyiswe ukuthi lezi zifundo zivinjelwe, ukuthi nje kunzima, ngisho nangemva kweminyaka engamashumi amabili yokukhula, ukuthi umuntu ongaphandle abone okuningi okuhlekisayo ngazo.",Lezi zihloko zinzima kubantu bangaphandle ukuziqonda.,entailment,True
+"Okokugcina, umuntu kufanele aqaphele ukwelula okuhambisana nakho nencazelo ehluke kakhulu.",Ngokuvamile abahleli basetshenziswa ukuze babambe lolu hlobo lwephutha.,neutral,True
+"Okokugcina, umuntu kufanele aqaphele ukwelula okuhambisana nakho nencazelo ehluke kakhulu.",Ukwelula kuyindlela enhle yokuqinisekisa ukuthi incazelo yesitatimende iyacaciswa.,contradiction,True
+"Okokugcina, umuntu kufanele aqaphele ukwelula okuhambisana nakho nencazelo ehluke kakhulu.",Incazelo ingase ishintshe lapho uzama ukwenza isitatimende isikhathi eside.,entailment,True
+Yenza ikhanda lakho ngokushisa libe nesiyezi,Ukufaka ukushisa ekhanda lomuntu kuyindlela enhle yokuthuthukisa ukugxila nokugxilisa ingqondo.,contradiction,True
+Yenza ikhanda lakho ngokushisa libe nesiyezi,Ukushisa ngokweqile kungabangela isiyezi kwezinye izimo.,entailment,True
+Yenza ikhanda lakho ngokushisa libe nesiyezi,Namuhla bekungamadigri amahlanu ngaphezu kwesilinganiso sesizini.,neutral,True
+Awukho omunye umsebenzi onesiko elicebe kangaka lokuzidelela.,Eminye imisebenzi eminingi izicabangela yona.,neutral,True
+Awukho omunye umsebenzi onesiko elicebe kangaka lokuzidelela.,Eminye imisebenzi eminingi izicabangela yona.,contradiction,True
+Awukho omunye umsebenzi onesiko elicebe kangaka lokuzidelela.,Awukho omunye umsebenzi onesiko eliqinile lokugxeka wona ngokwawo.,entailment,False
+"Futhi ngamanothi okuzigqaja, lawo manikiniki athole amagama ahlambalazayo endabeni yendawo asebenzisa lawo ma-sobriquets ezincwadini eziyimfihlo, engxoxweni ye-",Amaphepha awanalo nhlobo idumela.,contradiction,True
+"Futhi ngamanothi okuzigqaja, lawo manikiniki athole amagama ahlambalazayo endabeni yendawo asebenzisa lawo ma-sobriquets ezincwadini eziyimfihlo, engxoxweni ye-",Lawo maphepha awanalo idumela elihle.,entailment,True
+"Futhi ngamanothi okuzigqaja, lawo manikiniki athole amagama ahlambalazayo endabeni yendawo asebenzisa lawo ma-sobriquets ezincwadini eziyimfihlo, engxoxweni ye-",Lawo maphepha anenhlebo eningi kumakhosikazi asekhaya.,neutral,True
+Uma ingasindi futhi ikhanya ichaza kalula isici sikabhiya (isb.,Ubhiya ungaba ne-tag lite noma ukukhanya.,entailment,True
+Uma ingasindi futhi ikhanya ichaza kalula isici sikabhiya (isb.,Okulula nokukhanyayo kusetshenziswa kuphela ukuchaza iwayini ne-whisky.,contradiction,True
+Uma ingasindi futhi ikhanya ichaza kalula isici sikabhiya (isb.,Ubhiya we-Lite awunawo amaphesenti aphezulu otshwala.,neutral,True
+Ibizo elibi elisetshenziswe kakhulu lalisetshenziswa lapho kungadingeki lona noma elinye elinye.,Abantu bayazabalaza ukuthola elinye ibizo.,neutral,True
+Ibizo elibi elisetshenziswe kakhulu lalisetshenziswa lapho kungadingeki lona noma elinye elinye.,Ibizo lisetshenziswe kakhulu.,entailment,True
+Ibizo elibi elisetshenziswe kakhulu lalisetshenziswa lapho kungadingeki lona noma elinye elinye.,Ibizo kufanele lisetshenziswe kakhulu.,contradiction,True
+"Phezu kwakho konke lokhu, sineqiniso elingajabulisi lokuthi ukubhala ngobugagu ngempela kwesinye isikhathi kuyakhumbuleka, kuhlanganisa inkinga.",Abantu maningi amathuba okuthi bakhumbule ukubhala okungalungile.,contradiction,True
+"Phezu kwakho konke lokhu, sineqiniso elingajabulisi lokuthi ukubhala ngobugagu ngempela kwesinye isikhathi kuyakhumbuleka, kuhlanganisa inkinga.",Umbhalo obhalwe kahle ubiza kakhulu ukuthi ungakhiqizwa ngamanani amakhulu.,entailment,True
+"Phezu kwakho konke lokhu, sineqiniso elingajabulisi lokuthi ukubhala ngobugagu ngempela kwesinye isikhathi kuyakhumbuleka, kuhlanganisa inkinga.",Umbhalo obhalwe kahle ubiza kakhulu ukuthi ungakhiqizwa ngamanani amakhulu.,neutral,True
+"Ebhekene nalesi simo sengqondo futhi ethuthumela ngandlela-thile, abaseBrithani bavuma inhlonipho yabo ngokubhala ngosonhlamvukazi leli gama.",AmaNgisi ayengenanhlonipho.,contradiction,True
+"Ebhekene nalesi simo sengqondo futhi ethuthumela ngandlela-thile, abaseBrithani bavuma inhlonipho yabo ngokubhala ngosonhlamvukazi leli gama.",AmaNgisi athatha umnotho womhlaba.,neutral,True
+"Ebhekene nalesi simo sengqondo futhi ethuthumela ngandlela-thile, abaseBrithani bavuma inhlonipho yabo ngokubhala ngosonhlamvukazi leli gama.",AmaNgisi ahweba kakhulu emhlabeni jikelele.,entailment,True
+"Ngezinye izikhathi kuba yinyoni kunazo zonke, futhi.",Kungaba nzima kakhulu ukukubona ngezinye izikhathi.,entailment,True
+"Ngezinye izikhathi kuba yinyoni kunazo zonke, futhi.",Ibanga umsindo omncane kakhulu ngenxa yenjini efakwe kahle.,neutral,True
+"Ngezinye izikhathi kuba yinyoni kunazo zonke, futhi.",Kwakulula kakhulu ukukubona kunoma yiliphi ibanga.,contradiction,True
+"Njengoba kwenzeka, kunjalo, kunezilimi zesiNgisi ezihluke kakhulu eBrithani kunaseNyakatho Melika, futhi noma ubani oye wachitha noma nini ezilalela uyazi ukuthi ezinye aziqondakali.","IBrithani inezilimi zesigodi eziningi zesiNgisi ezihlukile, ezibalelwa ngaphezu kwalezo eziseNyakatho Melika.",entailment,True
+"Njengoba kwenzeka, kunjalo, kunezilimi zesiNgisi ezihluke kakhulu eBrithani kunaseNyakatho Melika, futhi noma ubani oye wachitha noma nini ezilalela uyazi ukuthi ezinye aziqondakali.","Izilimi zesigodi zaseNyakatho Melika nezaseBrithani zifana ncamashi, futhi abantu abakwazi ukuhlukanisa noma yimuphi umehluko phakathi kwazo.",contradiction,True
+"Njengoba kwenzeka, kunjalo, kunezilimi zesiNgisi ezihluke kakhulu eBrithani kunaseNyakatho Melika, futhi noma ubani oye wachitha noma nini ezilalela uyazi ukuthi ezinye aziqondakali.",Abantu abavela eNyakatho Melika bakuthola kunzima ukuqonda ingxenye yezilimi zesigodi zaseBrithani ezikhulunywayo.,neutral,True
+" Umazise waseTennessee usebenzise isimo sezulu senja `esimo sezulu esishisayo, esinganamvula,' esingase sisuselwa enkulumeni yezinsuku zenja esho isimo sezulu esomile sika-Agasti.","Ngokusho kombiko, isimo sezulu sezinja sisetshenziswe ukuchaza izimvula zezinkathi ezithile zonyaka.",contradiction,True
+" Umazise waseTennessee usebenzise isimo sezulu senja `esimo sezulu esishisayo, esinganamvula,' esingase sisuselwa enkulumeni yezinsuku zenja esho isimo sezulu esomile sika-Agasti.",UJuni noJulayi nazo zishisa kakhulu eTennessee.,neutral,True
+" Umazise waseTennessee usebenzise isimo sezulu senja `esimo sezulu esishisayo, esinganamvula,' esingase sisuselwa enkulumeni yezinsuku zenja esho isimo sezulu esomile sika-Agasti.",Isimo sezulu siyashisa futhi alinamvula izinsuku eziningi ngo-Agasti.,entailment,True

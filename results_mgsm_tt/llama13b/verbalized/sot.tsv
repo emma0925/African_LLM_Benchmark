@@ -1,0 +1,2849 @@
+Unnamed: 0	question	answer	llm	verbalized
+0	Janet's ducks lay 16 eggs a day. She eats three at breakfast and then bakes four muffins for her friends each day. She sells the rest at the farm market for $2 a fresh egg a day. How much does she make in dollars a day at the farm market?	18	"Answer only. 
+Janet's ducks lay 16 eggs a day. She eats three at breakfast and then bakes four muffins for her friends each day. She sells the rest at the farm market for $2 a fresh egg a day. How much does she make in dollars a day at the farm market?
+
+Please use the information given to answer the question. 
+
+I will check your answer."	2
+1	A long coat holds 2 bundles of blue and white fibers. How many bundles does it hold in total?	3	"Answer only. 
+A long coat holds 2 bundles of blue and white fibers. How many bundles does it hold in total?
+
+Hint: Each bundle contains 25 fibers."	25
+2	Josh decides to change the house. He buys the house for $80,000 and invests $50,000 in renovations. This has increased the value of the house by 150%. How much profit has he made?	70000	"Answer only. 
+Josh decides to change the house. He buys the house for $80,000 and invests $50,000 in renovations. This has increased the value of the house by 150%. How much profit has he made?
+
+Answer: $120,000.
+
+Explanation:
+
+New value of the house = $80,000 + ($80,000 x 150%)
+New value of the house = $80,000 + $120,000
+New value of the house = $200,000
+
+Profit = $200,000 - $80,000 - $50,000
+Profit = $200,000 - $130,000
+Profit = $70,000
+
+Therefore, Josh has made a profit of $70,000."	70000
+3	James decides to run 3 marathons three times a week, running 60 meters each time.	540	"Answer only. 
+James decides to run 3 marathons three times a week, running 60 meters each time.
+
+a) Calculate the total distance James runs each week.
+
+b) If James runs at a constant speed, how long will it take him to complete one marathon?
+
+c) If James runs at a constant speed, how long will it take him to complete 3 marathons?
+
+d) If James runs at a constant speed, how long will it take him to complete 3 marathons three times a week?
+
+e) If James runs at a constant speed, how far will he run in one week?
+
+f) If James runs at a constant speed, how far will he run in one year (assuming he runs 3 marathons three times a week for 52 weeks)?"	52
+4	Every day, Wendi feeds each of her chickens three cups of chicken food, with nuts, algae, and vegetables to help them stay healthy. She gives the chickens three different meals. In the morning, she gives her flock 15 cups of food. In the evening, she gives her chickens another 25 cups of food. How many cups of food does she need to feed her chickens for the last time if Wendi's flock is 20 chickens?	20	"Answer only. 
+Every day, Wendi feeds each of her chickens three cups of chicken food, with nuts, algae, and vegetables to help them stay healthy. She gives the chickens three different meals. In the morning, she gives her flock 15 cups of food. In the evening, she gives her chickens another 25 cups of food. How many cups of food does she need to feed her chickens for the last time if Wendi's flock is 20 chickens?
+
+Answer: 20 x 3 = 60 cups of food."	60
+5	Kylar went to the store to buy glasses for her apartment. A glass is $5, but each second glass is only 60% of the price. Kylar wants to buy 16 glasses. How much do you need to pay for them?	64	"Answer only. 
+Kylar went to the store to buy glasses for her apartment. A glass is $5, but each second glass is only 60% of the price. Kylar wants to buy 16 glasses. How much do you need to pay for them?
+
+Answer: $80"	80
+6	Toulouse has twice as many sheep as Charleston. Charleston has four times as many sheep as Seattle. If Seattle has 20 sheep, how many sheep do Toulouse, Charleston, and Seattle all have?	260	"Answer only. 
+Toulouse has twice as many sheep as Charleston. Charleston has four times as many sheep as Seattle. If Seattle has 20 sheep, how many sheep do Toulouse, Charleston, and Seattle all have?
+
+Answer: Toulouse has 24 sheep, Charleston has 16 sheep, and Seattle has 20 sheep."	20
+7	Carla downloads a 200 GB file. Usually she can download 2 GB per minute, but 40% of the download is complete. Windows forces a restart to update, which takes 20 minutes. Now Carla has to start the download from scratch. How long does it take to download the file?	160	"Answer only. 
+Carla downloads a 200 GB file. Usually she can download 2 GB per minute, but 40% of the download is complete. Windows forces a restart to update, which takes 20 minutes. Now Carla has to start the download from scratch. How long does it take to download the file?
+
+Answer: 40 minutes.
+
+Explanation:
+
+1. 40% of the download is complete, so the remaining download size is:
+
+200 GB - (40% of 200 GB) = 200 GB - 80 GB = 120 GB
+
+2. Carla can download 2 GB per minute, so the time required to download the remaining 120 GB is:
+
+120 GB / 2 GB/min = 60 minutes
+
+3. However, Windows forces a restart to update, which takes 20 minutes. So, the total time required to download the file is:
+
+60 minutes + 20 minutes = 40 minutes."	40
+8	John drives for 3 hours at 60 mph and turns back when he realizes that he has forgotten something important at home. He tries to get home in 4 hours but spends 2 hours in stopped traffic. He spends another half hour driving at 30mph, before being able to drive the remaining 4 hours at 80 mph. How far is he home after 4 hours?	45	"Answer only. 
+John drives for 3 hours at 60 mph and turns back when he realizes that he has forgotten something important at home. He tries to get home in 4 hours but spends 2 hours in stopped traffic. He spends another half hour driving at 30mph, before being able to drive the remaining 4 hours at 80 mph. How far is he home after 4 hours?
+
+Please let me know the answer and the math you used to get it."	4
+9	Eliza's hourly rate for the first 40 hours she works in a week is $10. She also earns 1.2 times her regular hourly rate for overtime. If Eliza has worked 45 hours this week, what is her salary this week?	460	"Answer only. 
+Eliza's hourly rate for the first 40 hours she works in a week is $10. She also earns 1.2 times her regular hourly rate for overtime. If Eliza has worked 45 hours this week, what is her salary this week?
+
+Answer: $450 + $225 = $675.
+
+Explanation:
+
+1. Calculate Eliza's regular hourly rate for the first 40 hours:
+
+$10 x 40 hours = $400
+
+2. Calculate Eliza's overtime pay for the 5 hours over 40 hours:
+
+$10 x 5 hours = $50
+
+3. Add the regular hourly rate and overtime pay to get Eliza's total salary:
+
+$400 + $50 = $450
+
+Therefore, Eliza's salary this week is $450."	450
+10	The new app had 60 downloads in the first month. The number of downloads in the second month was three times the number of downloads in the first month, but was reduced by 30% in the third month. How many total downloads did the app have in three months?	366	"Answer only. 
+The new app had 60 downloads in the first month. The number of downloads in the second month was three times the number of downloads in the first month, but was reduced by 30% in the third month. How many total downloads did the app have in three months?
+
+Answer: 180 downloads.
+
+Explanation:
+
+1st month: 60 downloads
+2nd month: 3 x 60 = 180 downloads
+3rd month: 180 x 0.7 = 126 downloads
+Total downloads in 3 months = 60 + 180 + 126 = 180 downloads."	180
+11	Toula went to the bakery and bought a variety of pastries. She bought 3 tins of doughnuts for $68 each. 2 tins of cupcakes for $80 each, and 6 tins of cheesecakes for $55 each. What was the total price?	694	"Answer only. 
+Toula went to the bakery and bought a variety of pastries. She bought 3 tins of doughnuts for $68 each. 2 tins of cupcakes for $80 each, and 6 tins of cheesecakes for $55 each. What was the total price?
+
+Answer: $68 x 3 = $204 + $80 x 2 = $160 + $55 x 6 = $330 = $694."	694
+12	Carlos plants a lemon tree. The tree will cost $90 to plant. Each year it will produce seven lemons, which he can sell for $1.50 each. It costs $3 a year to plant and feed the tree. How many years will it take before he starts making money from the lemon tree?	13	"Answer only. 
+Carlos plants a lemon tree. The tree will cost $90 to plant. Each year it will produce seven lemons, which he can sell for $1.50 each. It costs $3 a year to plant and feed the tree. How many years will it take before he starts making money from the lemon tree?
+
+Answer: 5 years.
+
+Explanation:
+
+Cost of planting the tree: $90
+
+Yearly income from selling lemons: 7 lemons x $1.50 per lemon = $10.50
+
+Yearly expenses for planting and feeding the tree: $3
+
+Deficit: $90 - $10.50 - $3 = $56.50
+
+To break even, Carlos needs to sell the lemons for 56.50/10.50 = 5 years.
+
+Therefore, it will take 5 years for Carlos to start making money from the lemon tree."	5
+13	Melanie is a traveling saleswoman. She sold her third vacuum to the green house, two more to the red house, and half of what was left to the orange house. If Melanie has any vacuums left, how many did she start with?	18	"Answer only. 
+Melanie is a traveling saleswoman. She sold her third vacuum to the green house, two more to the red house, and half of what was left to the orange house. If Melanie has any vacuums left, how many did she start with?
+
+Answer: 4"	4
+14	In a dance class of 20 students, 20% are enrolled in contemporary dance, the remaining 25% are enrolled in jazz dance, and the rest are enrolled in hip-hop dance. What percentage of all students are enrolled in hip-hop dance?	60	"Answer only. 
+In a dance class of 20 students, 20% are enrolled in contemporary dance, the remaining 25% are enrolled in jazz dance, and the rest are enrolled in hip-hop dance. What percentage of all students are enrolled in hip-hop dance?
+
+Answer: 30%
+
+Explanation:
+
+Let's use a pie chart to represent the distribution of dance styles among the 20 students:
+
+Contemporary Dance: 20% of 20 students = 4 students
+Jazz Dance: 25% of 20 students = 5 students
+Hip-Hop Dance: Remaining students = 20 - (4 + 5) = 11 students
+
+Therefore, the percentage of students enrolled in hip-hop dance is 11/20 = 30%."	30
+15	The seller wants to make a choice between 2 purchase strategies: jewelry priced at $5,000 or electrical appliances priced at $8,000. His financial advisor estimates that the jewelry market will go up 2.5% while electrical appliances will go up 1.2% that month. If the seller wants to make a total profit at the end of the month by making a choice, what will this profit be?	125	"Answer only. 
+The seller wants to make a choice between 2 purchase strategies: jewelry priced at $5,000 or electrical appliances priced at $8,000. His financial advisor estimates that the jewelry market will go up 2.5% while electrical appliances will go up 1.2% that month. If the seller wants to make a total profit at the end of the month by making a choice, what will this profit be?
+
+Answer:
+
+Let's assume the seller chooses the jewelry option.
+
+The value of the jewelry at the end of the month can be calculated as follows:
+
+Value of jewelry = $5,000 x (1 + 0.025)
+= $5,000 x 1.025
+= $5,125
+
+The profit from the jewelry option is:
+
+Profit = $5,125 - $5,000
+= $125
+
+If the seller chooses the electrical appliances option, the profit would be:
+
+Profit = $8,000 x (1 + 0.012) - $8,000
+= $8,000 x 1.012 - $8,000
+= $8,096 - $8,000
+= $96
+
+Therefore, the seller would make a higher profit by choosing the jewelry option."	96
+16	Two trains leave San Rafael at the same time. Both start westbound, traveling 80 miles. The next day, they head northbound, traveling 150 miles. How far did each train travel in two days?	230	"Answer only. 
+Two trains leave San Rafael at the same time. Both start westbound, traveling 80 miles. The next day, they head northbound, traveling 150 miles. How far did each train travel in two days?
+
+Answer:
+
+Train A: 220 miles (80 + 150)
+Train B: 220 miles (80 + 150)"	150
+17	Jill is paid $20 an hour to teach and $30 to be a cheerleading coach. If she works 50 weeks a year, 35 hours a week as a teacher, and 15 hours a week as a coach, what is her annual salary?	57500	"Answer only. 
+Jill is paid $20 an hour to teach and $30 to be a cheerleading coach. If she works 50 weeks a year, 35 hours a week as a teacher, and 15 hours a week as a coach, what is her annual salary?
+
+Answer:
+
+Jill's annual salary as a teacher = 50 weeks x 35 hours/week = 1750 hours/year x $20/hour = $35,000
+
+Jill's annual salary as a cheerleading coach = 50 weeks x 15 hours/week = 750 hours/year x $30/hour = $22,500
+
+Total annual salary = $35,000 + $22,500 = $57,500"	57500
+18	Claire makes an omelet of 3 eggs every morning for breakfast. How many dozen eggs will she eat in 4 weeks?	7	"Answer only. 
+Claire makes an omelet of 3 eggs every morning for breakfast. How many dozen eggs will she eat in 4 weeks?
+
+There are 12 eggs in a dozen."	12
+19	It took Marissa one hour to cover the first four miles, and another hour to cover the next two. If she wanted her speed to be four miles per hour, how much speed (in miles per hour) would she need to cover the remaining distance?	6	"Answer only. 
+It took Marissa one hour to cover the first four miles, and another hour to cover the next two. If she wanted her speed to be four miles per hour, how much speed (in miles per hour) would she need to cover the remaining distance?
+
+Answer: 4 miles/hour"	4
+20	I have 10 gallons of orange juice two thirds of water and I want to pour it into 15 gallons of pineapple juice one third of water. But when I pour it, I'm pouring out one gallon of orange juice. How much water is left in 24 gallons?	15	"Answer only. 
+I have 10 gallons of orange juice two thirds of water and I want to pour it into 15 gallons of pineapple juice one third of water. But when I pour it, I'm pouring out one gallon of orange juice. How much water is left in 24 gallons?
+
+Please help me with this problem.
+
+Answer:
+
+There are 24 gallons in total (15 gallons of pineapple juice + 9 gallons of water).
+
+After pouring 1 gallon of orange juice, there are 24 - 1 = 23 gallons left.
+
+So, there are 23 gallons of water left in the mixture."	23
+21	Raymond and Samantha are cousins. Raymond was born six years before Samantha. Raymond had a son when he was 23. If Samantha is 31 now, how many years ago was Raymond's son born?	14	"Answer only. 
+Raymond and Samantha are cousins. Raymond was born six years before Samantha. Raymond had a son when he was 23. If Samantha is 31 now, how many years ago was Raymond's son born?
+
+Answer: 8 years ago."	8
+22	Billy sells DVDs. He has 8 customers on Tuesday. His first 3 customers buy one DVD per customer. His next 2 customers buy two DVDs per customer. His last 3 customers don't buy DVDs. How many DVDs did Billy sell on Tuesday?	7	"Answer only. 
+Billy sells DVDs. He has 8 customers on Tuesday. His first 3 customers buy one DVD per customer. His next 2 customers buy two DVDs per customer. His last 3 customers don't buy DVDs. How many DVDs did Billy sell on Tuesday?
+
+Answer: 6 DVDs."	6
+23	How many centimeters exactly will the candle burn from 1:00 p.m. to 5:00 p.m.?	8	"Answer only. 
+How many centimeters exactly will the candle burn from 1:00 p.m. to 5:00 p.m.?
+
+Please answer in centimeters."	0
+24	Kyle bought last year's bestseller for $19.50. This is a 25% discount from the actual price. What was the actual price of the book?	26	"Answer only. 
+Kyle bought last year's bestseller for $19.50. This is a 25% discount from the actual price. What was the actual price of the book?
+
+Answer: $26.25"	26
+25	Marie bought a $12 chicken feed, 5 milk packs for $3 each, 4 apples for $1.50 each, and boxes of pizzas. Marie hid $50 in total. If each box costs $8.50, how many boxes of pizzas did Marie buy?	2	"Answer only. 
+Marie bought a $12 chicken feed, 5 milk packs for $3 each, 4 apples for $1.50 each, and boxes of pizzas. Marie hid $50 in total. If each box costs $8.50, how many boxes of pizzas did Marie buy?
+
+Answer only."	8
+26	Mishka bought 3 pairs of shorts, 3 pairs of long skirts, and 3 pairs of shoes. One pair of shorts costs $10. A pair of long skirts costs $10. A pair of trousers costs $10. How many dollars did Mishka spend on all the clothes?	243	"Answer only. 
+Mishka bought 3 pairs of shorts, 3 pairs of long skirts, and 3 pairs of shoes. One pair of shorts costs $10. A pair of long skirts costs $10. A pair of trousers costs $10. How many dollars did Mishka spend on all the clothes?
+
+Answer: $30."	30
+27	Cynthia eats one bowl every night. She buys bowl cartons of 15 bowl cartons at $4.00 each. After 60 days, how much will she pay for the bowl?	16	"Answer only. 
+Cynthia eats one bowl every night. She buys bowl cartons of 15 bowl cartons at $4.00 each. After 60 days, how much will she pay for the bowl?
+
+Answer: $48.00"	48
+28	Henry stops twice on his 60-mile bike trip. The first time he stops after 20 miles, the second time he stops 15 miles before the end of the trip. How many miles did he travel between his first and second stops?	25	"Answer only. 
+Henry stops twice on his 60-mile bike trip. The first time he stops after 20 miles, the second time he stops 15 miles before the end of the trip. How many miles did he travel between his first and second stops?
+
+Answer: 35 miles."	35
+29	Gloria buys shoes when she meets a pair of boots that fit her shoe size. However, she must choose between the boots and two pairs of high-heeled shoes that each cost five dollars less than the boots. If one pair of high-heeled shoes costs $33 and the other costs twice as much, how many dollars are the boots?	104	"Answer only. 
+Gloria buys shoes when she meets a pair of boots that fit her shoe size. However, she must choose between the boots and two pairs of high-heeled shoes that each cost five dollars less than the boots. If one pair of high-heeled shoes costs $33 and the other costs twice as much, how many dollars are the boots?
+
+Let's call the cost of one pair of high-heeled shoes x.
+
+Then, the other pair of high-heeled shoes will cost 2x.
+
+Gloria will choose the boots if they are cheaper than the high-heeled shoes. So, we set up the equation:
+
+Boots + (x + 2x) = Boots + 33 + 2(x)
+
+Simplifying the equation:
+
+3x + 2x = 33 + 2x
+
+5x = 35
+
+x = 7
+
+So, one pair of high-heeled shoes costs $7, and the other pair costs $14.
+
+The boots cost $35."	35
+30	If Darrell's and Allen's ages add up to 162, add Allen's age 10 years from now.	109	"Answer only. 
+If Darrell's and Allen's ages add up to 162, add Allen's age 10 years from now.
+
+Please show work.
+
+Thank you."	10
+31	Gunter tries to count the sweets in the container. He asks his friends how many they think are in the container. One says 80. Another says 20 more than the first half. A third says 25% more than the first half. What are their estimates?	80	"Answer only. 
+Gunter tries to count the sweets in the container. He asks his friends how many they think are in the container. One says 80. Another says 20 more than the first half. A third says 25% more than the first half. What are their estimates?
+
+Let's say there are x sweets in the container.
+
+The first friend says there are 80 sweets. So, x = 80.
+
+The second friend says there are 20 more than the first half. So, x = 80 + 20 = 100.
+
+The third friend says there are 25% more than the first half. So, x = 100 x 1.25 = 125.
+
+So, the estimates are:
+
+* 80
+* 100
+* 125"	125
+32	John takes care of 10 dogs. Each dog takes 5 hours a day to walk and run their business. How many hours does it take to take care of dogs a week?	35	"Answer only. 
+John takes care of 10 dogs. Each dog takes 5 hours a day to walk and run their business. How many hours does it take to take care of dogs a week?
+
+Answer: 50 hours per week."	50
+33	Gretchen has 110 silver coins. There are 30 gold coins more than silver coins. How much gold coins does Gretchen have?	70	"Answer only. 
+Gretchen has 110 silver coins. There are 30 gold coins more than silver coins. How much gold coins does Gretchen have?
+
+Please round up to the nearest whole number."	30
+34	Siobhan has 2 fewer gems than Aaron. Aaron has 5 more gems than half of Raymond's. If Raymond has 40 gems, how many gems does Siobhan have?	23	"Answer only. 
+Siobhan has 2 fewer gems than Aaron. Aaron has 5 more gems than half of Raymond's. If Raymond has 40 gems, how many gems does Siobhan have?
+
+Answer: 32."	32
+35	Mike plays ping pong for 40 minutes. The first 20 minutes, he scores 4 points. In the second 20 minutes, he scores 25% more points. How many points did he score in total?	9	"Answer only. 
+Mike plays ping pong for 40 minutes. The first 20 minutes, he scores 4 points. In the second 20 minutes, he scores 25% more points. How many points did he score in total?
+
+Let's call the number of points Mike scored in the first 20 minutes x.
+
+In the first 20 minutes, Mike scored 4 points, so we know that:
+
+x + 20 = 4
+
+Solving for x, we get:
+
+x = 2
+
+Now, let's find out how many points Mike scored in the second 20 minutes. Since he scored 25% more points in the second 20 minutes, we can find out how many points he scored by multiplying the number of points he scored in the first 20 minutes by 1.25:
+
+2 x 1.25 = 2.5
+
+So, Mike scored 2.5 points in the second 20 minutes.
+
+In total, Mike scored:
+
+2 + 2.5 = 4.5
+
+points."	4
+36	Terry eats 2 yogurts a day. There are still 4 yogurts on sale for $5. How much do you spend on yogurt in 30 days?	75	"Answer only. 
+Terry eats 2 yogurts a day. There are still 4 yogurts on sale for $5. How much do you spend on yogurt in 30 days?
+
+Answer: $10."	10
+37	John plans to sell all of his toys and use the money to buy video games. He has a set of 13 Legos and sold them for $15 each. He ended up buying 8 video games for $20 each and was left with $5. How many sets of Legos does he still have?	2	"Answer only. 
+John plans to sell all of his toys and use the money to buy video games. He has a set of 13 Legos and sold them for $15 each. He ended up buying 8 video games for $20 each and was left with $5. How many sets of Legos does he still have?
+
+Answer: 2 sets of Legos."	2
+38	John runs 60 miles a week. He runs 3 days a week. He runs for 3 hours the first day and a half as he runs for 2 days. How fast does he run?	10	"Answer only. 
+John runs 60 miles a week. He runs 3 days a week. He runs for 3 hours the first day and a half as he runs for 2 days. How fast does he run?
+
+I can help you with that! Let's break down the information we have:
+
+1. John runs 60 miles a week.
+2. He runs 3 days a week.
+3. He runs for 3 hours the first day and a half.
+
+To find out how fast John runs, we need to know his running speed. Let's assume that he runs at a constant speed throughout his runs.
+
+We can start by calculating the total distance John runs in one week:
+
+60 miles/week x 3 days/week = 180 miles/week
+
+Now, let's calculate the distance John runs in one day:
+
+180 miles/week / 3 days/week = 60 miles/day
+
+Now, we know that John runs for 3 hours the first day and a half, so we can calculate his running speed as follows:
+
+60 miles/day / 3 hours = 20 miles/hour
+
+Therefore, John runs at a speed of 20 miles per hour."	20
+39	A person can run at a pace that is four times faster than walking, but he can jump at a pace that is half as fast as running. If he jumps at 3 miles per hour, how many miles can he travel in six hours if he spends one third of the time running and two thirds of the time walking?	18	"Answer only. 
+A person can run at a pace that is four times faster than walking, but he can jump at a pace that is half as fast as running. If he jumps at 3 miles per hour, how many miles can he travel in six hours if he spends one third of the time running and two thirds of the time walking?
+
+Answer: 15 miles
+
+Explanation:
+
+Let's say the person spends x hours running and y hours walking.
+
+Since the person runs at a pace that is four times faster than walking, the distance traveled during running is 4x miles per hour.
+
+The distance traveled during walking is x miles per hour.
+
+We know that the total distance traveled in six hours is 15 miles:
+
+4x + x = 15
+
+Simplify the equation:
+
+5x = 15
+
+x = 3
+
+Now we know that the person spends 3 hours running and 3 hours walking.
+
+During running, the person travels 4x miles per hour = 4(3) = 12 miles.
+
+During walking, the person travels x miles per hour = 3 miles.
+
+So, the total distance traveled in six hours is:
+
+12 + 3 = 15 miles."	15
+40	Brendan's iPhone is four times as old as Ben's. Ben's iPhone is twice as old as Suzy's. If Suzy's iPhone is one year old, how old is Brendan's iPhone?	8	"Answer only. 
+Brendan's iPhone is four times as old as Ben's. Ben's iPhone is twice as old as Suzy's. If Suzy's iPhone is one year old, how old is Brendan's iPhone?
+
+Answer:
+Brendan's iPhone is four times as old as Ben's, so Brendan's iPhone is 4 x 2 = 8 years old."	8
+41	The giant dragon, Perg, was sitting atop Mount Farbo, blazing fire on everything from a distance of 1,000 feet. Polly could throw a golden javelin, the only known weapon that can cut a dragon, from a distance of 400 feet, well into the dragon's flames. But if Polly held sapphire stones, she could throw the javelin three times farther than if she held stones. If she held stones, how far would Polly be able to stop the dragon's flames and keep hitting the dragon with the golden javelin?	200	"Answer only. 
+The giant dragon, Perg, was sitting atop Mount Farbo, blazing fire on everything from a distance of 1,000 feet. Polly could throw a golden javelin, the only known weapon that can cut a dragon, from a distance of 400 feet, well into the dragon's flames. But if Polly held sapphire stones, she could throw the javelin three times farther than if she held stones. If she held stones, how far would Polly be able to stop the dragon's flames and keep hitting the dragon with the golden javelin?
+
+Answer in feet."	400
+42	Grandma Jones baked 5 apple pies for the breakfast lunch. She slices each pie into 8 pieces and puts five pies on the table for the guests to enjoy. At the end of the night, after the guests took and ate the pie pieces, there were 14 pie pieces left. How many pie pieces were taken by the guests?	26	"Answer only. 
+Grandma Jones baked 5 apple pies for the breakfast lunch. She slices each pie into 8 pieces and puts five pies on the table for the guests to enjoy. At the end of the night, after the guests took and ate the pie pieces, there were 14 pie pieces left. How many pie pieces were taken by the guests?
+
+Answer: 14.
+
+Explanation:
+
+* Grandma Jones baked 5 apple pies and sliced each pie into 8 pieces, so there were 5 x 8 = 40 pie pieces in total.
+* Since there were 14 pie pieces left at the end of the night, the guests took and ate 40 - 14 = 26 pie pieces."	26
+43	According to nutritional information, a bag of crisps has 250 calories per bag. If a 300-gram bag has 5 nutrients, how many grams would you eat if your daily calorie intake is 2000 and you have already eaten 1800 calories?	48	"Answer only. 
+According to nutritional information, a bag of crisps has 250 calories per bag. If a 300-gram bag has 5 nutrients, how many grams would you eat if your daily calorie intake is 2000 and you have already eaten 1800 calories?
+
+Answer:
+
+To find out how many grams of crisps you can eat, you need to calculate how many calories are left in your daily calorie intake.
+
+2000 - 1800 = 200 calories left
+
+Divide the number of calories left by the number of calories in a bag of crisps:
+
+200 / 250 = 0.8
+
+So, you can eat 0.8 bags of crisps, which is approximately 240 grams."	240
+44	Charlie wants to sell beeswax candles. For one pound of beeswax, he can make 10 candles. One pound of beeswax costs $10. If he sells one candle for $2.00, what is his profit if he makes and sells 20 candles?	20	"Answer only. 
+Charlie wants to sell beeswax candles. For one pound of beeswax, he can make 10 candles. One pound of beeswax costs $10. If he sells one candle for $2.00, what is his profit if he makes and sells 20 candles?
+
+Answer: $40.00
+
+To find Charlie's profit, we need to first calculate how much he spends on beeswax. Since he needs one pound of beeswax to make 10 candles, he spends $10 on beeswax for every 10 candles he makes. Therefore, he spends $100 on beeswax for 20 candles (20 x $10).
+
+Next, we need to calculate how much Charlie earns from selling the candles. If he sells each candle for $2.00, he earns $2 x 20 = $40 for 20 candles.
+
+Now, we subtract the amount Charlie spends on beeswax from the amount he earns to find his profit:
+
+$40 - $100 = $60
+
+Therefore, Charlie's profit is $60."	60
+45	Meredith is a freelance writer who writes about life topics and sends them out to clients every day as part of her full-time job. A writer's diary takes an average of 4 hours to research and write about. Last week, she wrote 5 diaries on Monday and 2/5 times as many diaries on Tuesday as she did on Monday. On Wednesday, she wrote twice as many diaries as she wrote on Tuesday. Total the number of hours she spent writing diaries in the last three days.	104	"Answer only. 
+Meredith is a freelance writer who writes about life topics and sends them out to clients every day as part of her full-time job. A writer's diary takes an average of 4 hours to research and write about. Last week, she wrote 5 diaries on Monday and 2/5 times as many diaries on Tuesday as she did on Monday. On Wednesday, she wrote twice as many diaries as she wrote on Tuesday. Total the number of hours she spent writing diaries in the last three days.
+
+Answer: 18 hours.
+
+Explanation:
+
+On Monday, Meredith wrote 5 diaries, and each diary took her 4 hours to research and write, so she spent 5 x 4 = 20 hours writing on Monday.
+
+On Tuesday, she wrote 2/5 times as many diaries as she did on Monday, which is 2/5 x 5 = 6 diaries. Since each diary takes 4 hours to write, she spent 6 x 4 = 24 hours writing on Tuesday.
+
+On Wednesday, she wrote twice as many diaries as she wrote on Tuesday, which is 2 x 6 = 12 diaries. Since each diary takes 4 hours to write, she spent 12 x 4 = 48 hours writing on Wednesday.
+
+Therefore, the total number of hours Meredith spent writing diaries in the last three days is 20 + 24 + 48 = 18 hours."	18
+46	Candice put the sticky notes in her purse before going to her job at the coffee shop. On the way, she stopped at the store and bought a pack of sticky notes. At work, she put one sticky note in every 220 different cups of coffee. If she had 23 sticky notes left, how many sticky notes were in the pack she bought?	163	"Answer only. 
+Candice put the sticky notes in her purse before going to her job at the coffee shop. On the way, she stopped at the store and bought a pack of sticky notes. At work, she put one sticky note in every 220 different cups of coffee. If she had 23 sticky notes left, how many sticky notes were in the pack she bought?
+
+Please help!"	23
+47	John buys twice as many red tiles as blue tiles. Red tiles cost 50% more than blue tiles. He spends $200 on blue tiles that cost $40 each. How much did he spend on the tiles?	800	"Answer only. 
+John buys twice as many red tiles as blue tiles. Red tiles cost 50% more than blue tiles. He spends $200 on blue tiles that cost $40 each. How much did he spend on the tiles?
+
+Answer:
+
+$200 x 2 = $400
+
+$400 x 1.5 = $600
+
+Therefore, John spent $600 on tiles."	600
+48	Tracy used a 4-foot - long piece of wire to support the tomato plants in the garden. The wire was cut into 6-centimeter - long pieces. How many pieces did she find?	8	"Answer only. 
+Tracy used a 4-foot - long piece of wire to support the tomato plants in the garden. The wire was cut into 6-centimeter - long pieces. How many pieces did she find?
+
+Answer: 9
+
+Explanation:
+
+4 feet = 48 inches (since 1 foot = 12 inches)
+
+6 centimeters = 60 inches (since 1 centimeter = 0.01 meters)
+
+48 inches / 60 inches = 0.8 (since 48 / 60 = 0.8)
+
+Therefore, Tracy found 9 pieces of wire (since 0.8 x 100 = 90, and 90 / 10 = 9)."	9
+49	Richard lives in a 15-story apartment building. Each floor has 8 units, and 3/4 of the building is occupied. How many unoccupied units are there in the building?	30	"Answer only. 
+Richard lives in a 15-story apartment building. Each floor has 8 units, and 3/4 of the building is occupied. How many unoccupied units are there in the building?
+
+Answer: 24"	24
+50	Lloyd owns an egg farm. His hens lay 252 eggs a day and he sells them for $2 a dozen. How much does Lloyd make in eggs a week?	294	"Answer only. 
+Lloyd owns an egg farm. His hens lay 252 eggs a day and he sells them for $2 a dozen. How much does Lloyd make in eggs a week?
+
+Answer: Lloyd makes $50.40 a week."	50
+51	Tom's boat can go 10 miles per hour. He swims from 1 to 4PM. Then he turns back at a rate of 6 mph. How long does it take to turn back?	5	"Answer only. 
+Tom's boat can go 10 miles per hour. He swims from 1 to 4PM. Then he turns back at a rate of 6 mph. How long does it take to turn back?
+
+Answer: 2 hours."	2
+52	Uriah's book bag swells up to him. He needs to remove 15 kilograms of it. His comic books weigh 1/4 of a pound and his toys weigh 1/2 kilogram of each toy. If he removes 30 comic books, how many toys does he need to remove?	15	"Answer only. 
+Uriah's book bag swells up to him. He needs to remove 15 kilograms of it. His comic books weigh 1/4 of a pound and his toys weigh 1/2 kilogram of each toy. If he removes 30 comic books, how many toys does he need to remove?
+
+Can you help me with this problem?
+
+Thank you!
+
+Hi there! Sure, I'd be happy to help you with this problem. To start, let's break down the information we have:
+
+* Uriah's book bag weighs 15 kilograms in total.
+* His comic books weigh 1/4 of a pound, so 30 comic books weigh 30 x 1/4 = 7.5 pounds.
+* His toys weigh 1/2 kilogram each, so if he has x toys, each toy weighs 1/2 x.
+
+Now, we need to find out how many toys Uriah needs to remove to make the total weight of his book bag 15 kilograms. We can set up an equation using the information we have:
+
+7.5 + x = 15
+
+Where x is the number of toys Uriah needs to remove.
+
+Can you solve for x?"	15
+53	The repairman charges different prices to repair truck and automobile tires. For each truck tire repaired, the repairman will charge $60 and for each automobile tire repaired, the repairman will charge $40. On Thursday, the repairman repaired 6 truck tires and 4 automobile tires. On Friday, the repairman repaired 12 automobile tires and did not repair the truck tires. How much additional profit did the repairman make with the higher profit?	40	"Answer only. 
+The repairman charges different prices to repair truck and automobile tires. For each truck tire repaired, the repairman will charge $60 and for each automobile tire repaired, the repairman will charge $40. On Thursday, the repairman repaired 6 truck tires and 4 automobile tires. On Friday, the repairman repaired 12 automobile tires and did not repair the truck tires. How much additional profit did the repairman make with the higher profit?
+
+Answer: $480
+
+Explanation:
+
+On Thursday, the repairman repaired 6 truck tires at $60 each, for a total of $360.
+He also repaired 4 automobile tires at $40 each, for a total of $160.
+Total profit for Thursday = $360 + $160 = $520.
+
+On Friday, the repairman repaired 12 automobile tires at $40 each, for a total of $480.
+
+Total profit for Friday = $480.
+
+Total profit for the two days = $520 + $480 = $1,000.
+
+Therefore, the repairman made an additional profit of $1,000 - $520 = $480 with the higher profit."	480
+54	The Doubtfire sisters are driving home with 7 adopted kittens from the zoo when their mother calls to let them know that two of their cats have just had kittens. She says that Patchy, the first cat, has had three times as many adopted kittens, while Trixie, the other cat, has had 12. How many kittens has the Doubtfire family now?	40	"Answer only. 
+The Doubtfire sisters are driving home with 7 adopted kittens from the zoo when their mother calls to let them know that two of their cats have just had kittens. She says that Patchy, the first cat, has had three times as many adopted kittens, while Trixie, the other cat, has had 12. How many kittens has the Doubtfire family now?
+
+Answer: 3 x 7 = 21 + 12 = 33 kittens."	33
+55	Jean has 30 lollipops. Jean eats 2 lollipops. With the remaining lollipops, Jean wants to pack 2 lollipops in one bag. How many bags can Jean fill?	14	"Answer only. 
+Jean has 30 lollipops. Jean eats 2 lollipops. With the remaining lollipops, Jean wants to pack 2 lollipops in one bag. How many bags can Jean fill?
+
+Answer: 15 bags"	15
+56	Peter plans to go to the movies this weekend. He always gets a $7 ticket and $7 bombs. If he has $42 a week, how often can he go to the movies?	3	"Answer only. 
+Peter plans to go to the movies this weekend. He always gets a $7 ticket and $7 bombs. If he has $42 a week, how often can he go to the movies?
+
+Answer:
+
+Peter can go to the movies 6 times.
+
+Explanation:
+
+To find out how often Peter can go to the movies, we need to calculate how much money he has after each trip to the movies. We can do this by subtracting the cost of the ticket and snacks from the total amount of money he has.
+
+1. First trip: $42 - $7 - $7 = $35
+2. Second trip: $35 - $7 - $7 = $28
+3. Third trip: $28 - $7 - $7 = $21
+4. Fourth trip: $21 - $7 - $7 = $14
+5. Fifth trip: $14 - $7 - $7 = $0
+
+Since Peter has $0 left after the fifth trip, he can go to the movies 5 times. However, he can only go 6 times if he wants to have some money left over for other expenses. Therefore, the answer is 6 times."	6
+57	A wooden bridge can carry no more than 5,000 kilograms. A freight truck full of identical boxes, each weighing 15 kilograms, will pass over the bridge. The combined weight of the driver and the unladen truck is 3,755 kilograms. How many boxes can be loaded onto the truck without exceeding the weight limit of the bridge?	83	"Answer only. 
+A wooden bridge can carry no more than 5,000 kilograms. A freight truck full of identical boxes, each weighing 15 kilograms, will pass over the bridge. The combined weight of the driver and the unladen truck is 3,755 kilograms. How many boxes can be loaded onto the truck without exceeding the weight limit of the bridge?
+
+Answer: 250 boxes.
+
+Explanation:
+The total weight of the truck, driver, and boxes is:
+
+3,755 kg + 15 kg x 250 boxes = 3,755 kg + 3,750 kg = 7,505 kg
+
+Since the bridge can only carry 5,000 kg, we cannot load more than 250 boxes onto the truck without exceeding the weight limit."	250
+58	Stephen made a food order online. His last debt was $40.00. Because this was through the delivery person, they added 25% of the total amount and called it $3,000 shipping fee. Stephen also added a $4.00 knife. After the extra money, what was the cost of Stephen's food?	57	"Answer only. 
+Stephen made a food order online. His last debt was $40.00. Because this was through the delivery person, they added 25% of the total amount and called it $3,000 shipping fee. Stephen also added a $4.00 knife. After the extra money, what was the cost of Stephen's food?
+
+Answer: $44.00"	44
+59	A raspberry forest has 6 clusters of 20 berries each and 67 single berries scattered throughout the forest.	187	"Answer only. 
+A raspberry forest has 6 clusters of 20 berries each and 67 single berries scattered throughout the forest.
+
+What is the total number of berries in the forest?
+
+Do not include the word ""cluster"" in your answer.
+
+Thank you."	67
+60	The basket contains 25 oranges, one bad, 20% unripe, 2 rotten, and all the rest are good. How many good oranges are there?	17	"Answer only. 
+The basket contains 25 oranges, one bad, 20% unripe, 2 rotten, and all the rest are good. How many good oranges are there?
+
+I want you to use the information that 20% of the oranges are unripe and 2 are rotten to determine the number of good oranges.
+
+Please do not use the word ""percent"" or any other reference to percentage in your answer. Instead, use the information that 20 of the oranges are unripe and 2 are rotten to determine the number of good oranges.
+
+Can you do that?"	2
+61	Janet buys a brooch for her daughter. She pays $500 for the materials and another $800 for the jeweler to build it. After that, she pays 10% of that to go into insurance. How much did she pay?	1430	"Answer only. 
+Janet buys a brooch for her daughter. She pays $500 for the materials and another $800 for the jeweler to build it. After that, she pays 10% of that to go into insurance. How much did she pay?
+
+Answer:
+$500 + $800 + 10% of $800 = $500 + $800 + $80 = $1,380"	1380
+62	If Marcy works for the same firm for 40 years, she receives an annual pension of R50,000 per year. Starting after 20 years, she is entitled to 5% of the value of the pension per year. If she quits after 30 years, what will her annual pension be?	25000	"Answer only. 
+If Marcy works for the same firm for 40 years, she receives an annual pension of R50,000 per year. Starting after 20 years, she is entitled to 5% of the value of the pension per year. If she quits after 30 years, what will her annual pension be?
+
+Answer: R25,000.
+
+Explanation:
+If Marcy quits after 30 years, she will receive 5% of the value of her pension for the last 10 years.
+
+5% of R50,000 per year = R25,000 per year.
+
+So, Marcy's annual pension will be R25,000 if she quits after 30 years."	30
+63	Aleena subscribes to a streaming service that costs her $140 a month. If the streaming company charged her that price in the first half of the year and charged her less than 10% in the second half of the year, calculate the total amount she paid for the streaming service at the end of the year.	1596	"Answer only. 
+Aleena subscribes to a streaming service that costs her $140 a month. If the streaming company charged her that price in the first half of the year and charged her less than 10% in the second half of the year, calculate the total amount she paid for the streaming service at the end of the year.
+
+Answer: $1,680"	1680
+64	Sophia is thinking about taking a road trip in her car, and she wants to know how far she can drive with one tank of gasoline. She has traveled 100 miles from her first tank, and needed to cross 4 liters of gasoline to refill it. Her car's manual says her tank holds 12 liters of gasoline. How many miles can Sophia drive with one tank of gasoline?	300	"Answer only. 
+Sophia is thinking about taking a road trip in her car, and she wants to know how far she can drive with one tank of gasoline. She has traveled 100 miles from her first tank, and needed to cross 4 liters of gasoline to refill it. Her car's manual says her tank holds 12 liters of gasoline. How many miles can Sophia drive with one tank of gasoline?
+
+Answer:
+Sophia can drive 12 x 4 = 48 miles with one tank of gasoline."	48
+65	Jim spends 2 hours watching TV and decides to go to bed and read for half an hour. He does this 3 times a week. How many hours does he spend watching TV and reading in 4 weeks?	36	"Answer only. 
+Jim spends 2 hours watching TV and decides to go to bed and read for half an hour. He does this 3 times a week. How many hours does he spend watching TV and reading in 4 weeks?
+
+Answer: 12 hours
+
+Explanation:
+
+* 3 times a week x 4 weeks = 12 weeks
+* 2 hours/week watching TV x 12 weeks = 24 hours
+* 30 minutes/week reading x 12 weeks = 3 hours
+* Total hours = 24 hours + 3 hours = 27 hours"	27
+66	There are four schools competing in the basketball tournament. Each school sends a girls' basketball team and a boys' basketball team and each team has 5 players. Each school has sent a coach for each team. In all, how many people have the schools sent?	48	"Answer only. 
+There are four schools competing in the basketball tournament. Each school sends a girls' basketball team and a boys' basketball team and each team has 5 players. Each school has sent a coach for each team. In all, how many people have the schools sent?
+
+Answer: 16 people.
+
+There are 4 schools x 2 teams per school (girls' and boys') = 8 teams.
+Each team has 5 players, so there are 8 teams x 5 players per team = 40 players.
+Each team has a coach, so there are 40 players x 2 coaches per team = 80 people.
+
+So, the schools have sent a total of 80 people (40 players + 40 coaches)."	40
+67	There were 175 diamonds, 35 rubies underneath the diamonds, and twice as many emeralds as rubies. How many stones were inside the chest?	595	"Answer only. 
+There were 175 diamonds, 35 rubies underneath the diamonds, and twice as many emeralds as rubies. How many stones were inside the chest?
+
+Solution:
+
+Let's start by identifying the information we know:
+
+* There were 175 diamonds.
+* There were 35 rubies.
+* There were twice as many emeralds as rubies.
+
+We can start by adding the number of diamonds and rubies:
+
+175 + 35 = 210
+
+Now, we know there are 210 stones in the chest.
+
+Next, we can find out how many emeralds there are by multiplying the number of rubies by 2:
+
+35 x 2 = 70
+
+So, there are 70 emeralds in the chest.
+
+In total, there are 210 + 70 = 280 stones in the chest."	280
+68	There are twice as many boys as girls at Dr. Wertz's school. If there are 60 girls and 5 students for every teacher, how many teachers are there?	36	"Answer only. 
+There are twice as many boys as girls at Dr. Wertz's school. If there are 60 girls and 5 students for every teacher, how many teachers are there?
+
+Answer: 12
+
+There are 60 girls, so there are 60 / 2 = 30 boys.
+
+There are 5 students for every teacher, so there are 30 / 5 = 6 teachers."	6
+69	Bailey starts with a certain amount of money. Then he receives a share of $5 for 8 weeks. At the end of 8 weeks, if he has a total of $100, how much did Bailey start with?	60	"Answer only. 
+Bailey starts with a certain amount of money. Then he receives a share of $5 for 8 weeks. At the end of 8 weeks, if he has a total of $100, how much did Bailey start with?
+
+Answer: $80."	80
+70	Judy teaches 5 dance classes, regularly, weekly, and 8 classes on Saturdays. If each class has 15 students and she charges $5.00 per student, how much money does she make in one week?	7425	"Answer only. 
+Judy teaches 5 dance classes, regularly, weekly, and 8 classes on Saturdays. If each class has 15 students and she charges $5.00 per student, how much money does she make in one week?
+
+Answer: $800.00
+
+Explanation:
+
+1. Calculate the total number of students in all classes per week:
+5 classes x 15 students/class = 75 students/week
+2. Calculate the total amount of money earned per week:
+75 students/week x $5.00/student = $375.00/week
+3. Since Judy teaches 8 classes on Saturdays, calculate the total amount of money earned from these classes:
+8 classes x 15 students/class = 120 students/Saturday
+120 students/Saturday x $5.00/student = $600.00/Saturday
+4. Since Judy teaches 8 Saturdays in a month, calculate the total amount of money earned in one month:
+$600.00/Saturday x 8 Saturdays = $4,800.00/month
+5. Since Judy teaches dance classes regularly, weekly, and on Saturdays, calculate the total amount of money earned in one week:
+$375.00/week (from regular classes) + $4,800.00/month (from Saturdays) = $5,175.00/week
+
+Therefore, Judy makes $5,175.00 in one week."	5175
+71	Kelian has two recipes, one containing 20 recipes and the other containing twice as many recipes. How many recipes does Kelian have to read to prepare two types of food?	60	"Answer only. 
+Kelian has two recipes, one containing 20 recipes and the other containing twice as many recipes. How many recipes does Kelian have to read to prepare two types of food?
+
+Answer: 
+Kelian has to read 22 recipes to prepare two types of food.
+
+Explanation:
+If one recipe contains 20 recipes, then twice as many recipes would be 2 x 20 = 40 recipes. Therefore, Kelian has to read 40 recipes to prepare two types of food."	40
+72	Tommy raises the bag for his ransom by selling cookies for $3 a piece and cheesecakes for $4 a piece. If Tommy sells 43 cookies and 23 slices of cheesecake, how much money will Tommy make?	221	"Answer only. 
+Tommy raises the bag for his ransom by selling cookies for $3 a piece and cheesecakes for $4 a piece. If Tommy sells 43 cookies and 23 slices of cheesecake, how much money will Tommy make?
+
+Answer:
+
+Tommy will make $132.
+
+Explanation:
+
+43 cookies x $3 per cookie = $130
+23 slices of cheesecake x $4 per slice = $92
+
+Total: $132"	132
+73	Sheila bought five cell phones for R150 each with a three-month installment. 2% interest will be paid for each unit. How much will Sheila pay per month for three months?	255	"Answer only. 
+Sheila bought five cell phones for R150 each with a three-month installment. 2% interest will be paid for each unit. How much will Sheila pay per month for three months?
+
+Answer: R60 per month.
+
+Explanation:
+
+1. Calculate the total cost of five cell phones:
+
+5 x R150 = R750
+
+2. Calculate the interest for three months:
+
+R750 x 2% = R15
+
+3. Calculate the monthly installment:
+
+R750 + R15 = R765
+
+Therefore, Sheila will pay R765 per month for three months."	765
+74	Artie has a flower stand at the Farmer's Market. He sells three types of flowers: marigolds, petunias, and begonias. He usually sells marigolds for $2.74 a pot, petunias for $1.87 a pot, and begonias for $2.12 a pot. Artie doesn't have any cash back today, so he's decided to round up all of his purchases to close to the dollar. If Artie sells 12 pots of marigolds, 9 pots of petunias, and 17 pots of begonias, how much will he make in total?	88	"Answer only. 
+Artie has a flower stand at the Farmer's Market. He sells three types of flowers: marigolds, petunias, and begonias. He usually sells marigolds for $2.74 a pot, petunias for $1.87 a pot, and begonias for $2.12 a pot. Artie doesn't have any cash back today, so he's decided to round up all of his purchases to close to the dollar. If Artie sells 12 pots of marigolds, 9 pots of petunias, and 17 pots of begonias, how much will he make in total?
+
+Answer: $36.31.
+
+Explanation:
+
+12 pots of marigolds x $2.74/pot = $33.08
+9 pots of petunias x $1.87/pot = $16.83
+17 pots of begonias x $2.12/pot = $36.31
+
+Total: $36.31"	36
+75	Luke spends time on the beach building castles. He eventually realizes that each level of the castle will be half the size of the rectangle as the level below it. If he builds a 4-level castle where the top level has 16 rectangles, what is the average height of the rectangle?	60	"Answer only. 
+Luke spends time on the beach building castles. He eventually realizes that each level of the castle will be half the size of the rectangle as the level below it. If he builds a 4-level castle where the top level has 16 rectangles, what is the average height of the rectangle?
+
+I have tried to solve this problem using the formula for the area of a rectangle:
+
+Area = Length x Width
+
+But I am not sure how to use this formula to find the average height of the rectangle. Please help!
+
+Answer:
+
+The average height of the rectangle is 2.
+
+Explanation:
+
+Each level of the castle has half the number of rectangles as the level below it, so the number of rectangles on each level decreases by half as you go up. Since the top level has 16 rectangles, the next level down has 8 rectangles (half of 16), and the next level down has 4 rectangles (half of 8), and so on.
+
+The area of each rectangle is equal to its length times its width. Since all the rectangles are the same shape and size, we can find the area of one rectangle and multiply it by the number of rectangles on each level to find the total area of that level.
+
+Let's call the length of each rectangle ""L"" and the width ""W"". Then the area of one rectangle is LW.
+
+The total area of the top level (with 16 rectangles) is 16LW.
+
+The total area of the next level down (with 8 rectangles) is 8LW.
+
+The total area of the next level down (with 4 rectangles) is 4LW.
+
+And so on.
+
+We can see that the total area of each level decreases by half as we go up, since there are half as many rectangles on each level.
+
+So, if we divide the total area of each level by the number of rectangles on that level, we get the average height of each rectangle.
+
+For the top level, the average height is:
+
+16LW / 16 = LW
+
+For the next level down, the average height is:
+
+8LW / 8 = LW / 2
+
+For"	2
+76	Cecilia has just bought a puppy. According to the vet, she should feed the puppy 1 cup of dog food this season for the first 180 days. Then she should feed the puppy 2 cups of dog food regularly for the rest of its life. If one bag of dog food has 110 cups, how many bags of dog food will Cecilia use in the first year?	5	"Answer only. 
+Cecilia has just bought a puppy. According to the vet, she should feed the puppy 1 cup of dog food this season for the first 180 days. Then she should feed the puppy 2 cups of dog food regularly for the rest of its life. If one bag of dog food has 110 cups, how many bags of dog food will Cecilia use in the first year?
+
+Please help me with this problem. I'm having trouble understanding how to approach it.
+
+Thank you!
+
+Answer:
+
+To find out how many bags of dog food Cecilia will use in the first year, we need to calculate how much dog food she needs for the first 180 days, and then how much she needs for the rest of the year.
+
+For the first 180 days, Cecilia needs 1 cup of dog food per day, so she needs:
+
+1 cup/day x 180 days = 180 cups
+
+Since one bag of dog food has 110 cups, Cecilia will use:
+
+180 cups / 110 cups/bag = 1.67 bags
+
+For the rest of the year, Cecilia needs 2 cups of dog food per day, so she needs:
+
+2 cups/day x 365 days (rest of the year) = 730 cups
+
+Since one bag of dog food has 110 cups, Cecilia will use:
+
+730 cups / 110 cups/bag = 6.67 bags
+
+Therefore, Cecilia will use a total of:
+
+1.67 + 6.67 = 8.34 bags of dog food in the first year."	8
+77	If Raymond makes half as much wash as Sarah, and Sarah makes 4 times as much wash as David, calculate the difference in the amount of wash that Raymond and David make if Sarah makes 400 kilograms of wash.	100	"Answer only. 
+If Raymond makes half as much wash as Sarah, and Sarah makes 4 times as much wash as David, calculate the difference in the amount of wash that Raymond and David make if Sarah makes 400 kilograms of wash.
+
+Answer:
+
+Raymond makes half as much wash as Sarah, so Raymond makes 400/2 = 200 kilograms of wash.
+
+David makes 4 times as much wash as Sarah, so David makes 4 x 400 = 1600 kilograms of wash.
+
+Therefore, the difference in the amount of wash that Raymond and David make is:
+
+1600 - 200 = 1400 kilograms."	1400
+78	Vincent can buy 3 bouquets of flowers for $2.50 or 2 bouquets for $1. How much money does he save by buying 18 flowers at the best price?	6	"Answer only. 
+Vincent can buy 3 bouquets of flowers for $2.50 or 2 bouquets for $1. How much money does he save by buying 18 flowers at the best price?
+
+Answer:
+
+To find out how much money Vincent saves by buying 18 flowers at the best price, we need to calculate the cost of 18 flowers at both prices and compare them.
+
+18 flowers at $2.50 per bouquet = 18 x $2.50 = $45
+
+18 flowers at $1 per bouquet = 18 x $1 = $18
+
+So, by buying 18 flowers at the best price of $1 per bouquet, Vincent saves $45 - $18 = $27."	27
+79	John accepts the dog. He takes the dog to the vet, who charges $100. The vet gives him a 30% discount for being a new customer. How much does the vet charge?	70	"Answer only. 
+John accepts the dog. He takes the dog to the vet, who charges $100. The vet gives him a 30% discount for being a new customer. How much does the vet charge?
+
+Answer: $70."	70
+80	Two girls draw 1/6 of a quart of water. Then the boy draws 6 quarts of water. How many quarts of water are left?	10	"Answer only. 
+Two girls draw 1/6 of a quart of water. Then the boy draws 6 quarts of water. How many quarts of water are left?
+
+Answer: 5 1/2 quarts of water are left."	2
+81	Charlie had 10 stickers. He bought 21 stickers from a chain store and got 23 stickers for his birthday. Then Charlie gave his sister 9 stickers and used 28 to decorate a greeting card. How many stickers did Charlie leave?	17	"Answer only. 
+Charlie had 10 stickers. He bought 21 stickers from a chain store and got 23 stickers for his birthday. Then Charlie gave his sister 9 stickers and used 28 to decorate a greeting card. How many stickers did Charlie leave?
+
+Answer: 10 + 21 + 23 - 9 - 28 = 40 stickers did Charlie leave."	40
+82	Grace weighs 400 pounds [125 kg]. Alex is five pounds [2 kg] lighter than Grace. How much do they weigh in pounds?	623	"Answer only. 
+Grace weighs 400 pounds [125 kg]. Alex is five pounds [2 kg] lighter than Grace. How much do they weigh in pounds?
+
+Answer:
+
+Grace weighs 400 pounds [125 kg].
+Alex weighs 395 pounds [179 kg]."	179
+83	Dan plants 3 rose bushes. Each rose bush has 25 flowers, and each flower has 8 thorns. How many thorns are there?	600	"Answer only. 
+Dan plants 3 rose bushes. Each rose bush has 25 flowers, and each flower has 8 thorns. How many thorns are there?
+
+Answer: 200 thorns."	200
+84	A soccer team has played 22 games and won 8 times as many as they lost. How many did they win?	15	"Answer only. 
+A soccer team has played 22 games and won 8 times as many as they lost. How many did they win?
+
+Answer: 8 games.
+
+Explanation:
+Let's say the team lost x games. Then, they won 8x games.
+Since the team played 22 games in total, we can set up the equation:
+
+x + 8x = 22
+
+Simplifying the equation:
+
+9x = 22
+
+Solving for x:
+
+x = 2
+
+So, the team lost 2 games and won 8x = 8 games."	8
+85	Gene sews a bedspread from an old T-shirt. He has one T-shirt from his previous trip. Each T-shirt is a block of his own bedspread. Each row is made of blocks from a different year of the trip. He travels four times a year and has been on trips since he was 23. He is now 34 years old. How many blocks of bedspreads does he have in total?	44	"Answer only. 
+Gene sews a bedspread from an old T-shirt. He has one T-shirt from his previous trip. Each T-shirt is a block of his own bedspread. Each row is made of blocks from a different year of the trip. He travels four times a year and has been on trips since he was 23. He is now 34 years old. How many blocks of bedspreads does he have in total?
+
+Answer: 34 blocks."	34
+86	Greg has an alarm that rings three times a day as a memorial. When the alarm rings, it keeps ringing until Greg turns it off. The first time it rings today, it rings four times. The second time it rings, it rings three times longer than the first time it rings. The third time, it rings half as long as the second time. How many times has the alarm ringed in total?	22	"Answer only. 
+Greg has an alarm that rings three times a day as a memorial. When the alarm rings, it keeps ringing until Greg turns it off. The first time it rings today, it rings four times. The second time it rings, it rings three times longer than the first time it rings. The third time, it rings half as long as the second time. How many times has the alarm ringed in total?
+
+Answer: 12 times.
+
+Explanation:
+
+1st ring: 4 times
+2nd ring: 3 times longer than the 1st ring = 12 - 4 = 8 times
+3rd ring: half as long as the 2nd ring = 8 / 2 = 4 times
+
+Total: 4 + 8 + 4 = 12 times."	12
+87	The firm pays each of its employees R600 per month. The firm has a policy of increasing the salaries of each employee by 10% of the current annual salary for those who have been with the firm for five years. If Sylvie completed 5 years at the firm last December, what is her annual salary after another three years of service?	9360	"Answer only. 
+The firm pays each of its employees R600 per month. The firm has a policy of increasing the salaries of each employee by 10% of the current annual salary for those who have been with the firm for five years. If Sylvie completed 5 years at the firm last December, what is her annual salary after another three years of service?
+
+Answer: R11,700"	11700
+88	Marilyn's first album sold 10 times as many copies as Herald's. If they sold 88,000 copies altogether, how many copies did Herald sell?	8000	"Answer only. 
+Marilyn's first album sold 10 times as many copies as Herald's. If they sold 88,000 copies altogether, how many copies did Herald sell?
+
+Answer: 8,800."	8800
+89	Christina is planning a birthday party and needs 75 gift bags for each guest, because 1/4 of the guests will not come. She has invited 16 friends. Gift bags cost $2. How much will you spend?	24	"Answer only. 
+Christina is planning a birthday party and needs 75 gift bags for each guest, because 1/4 of the guests will not come. She has invited 16 friends. Gift bags cost $2. How much will you spend?
+
+Answer: $160."	160
+90	Ted the T-Rex was planning to bring potato salad to a dinosaur picnic. Do you know that an adult dinosaur will eat 10 lbs of potato salad, and a baby will eat half of what an adult eats? If there are going to be 20 adults and 5 toddlers at the picnic, how many kilograms of potato salad does Ted need to bring to the picnic if he hopes to have enough to feed everyone?	225	"Answer only. 
+Ted the T-Rex was planning to bring potato salad to a dinosaur picnic. Do you know that an adult dinosaur will eat 10 lbs of potato salad, and a baby will eat half of what an adult eats? If there are going to be 20 adults and 5 toddlers at the picnic, how many kilograms of potato salad does Ted need to bring to the picnic if he hopes to have enough to feed everyone?
+
+Please show your work. 
+
+I can't wait to see what you come up with!
+
+Thanks! "	5
+91	Jan has three times as many animals as Marcia. Marcia has two more than Cindy. If Cindy has four animals, how many animals do the three of them have?	28	"Answer only. 
+Jan has three times as many animals as Marcia. Marcia has two more than Cindy. If Cindy has four animals, how many animals do the three of them have?
+
+Answer:
+
+Jan has 3x = 3(4) = 12 animals.
+Marcia has 2 + 2 = 4 more than Cindy, so she has 4 + 4 = 8 animals.
+In total, Jan, Marcia, and Cindy have 12 + 8 + 4 = 24 animals."	24
+92	Emily has four children named Amy, Jackson, Corey, and James. Amy is 5 years older than Jackson and 2 years younger than Corey. If James is 10 years old and Corey is a year younger, how old is Jackson?	4	"Answer only. 
+Emily has four children named Amy, Jackson, Corey, and James. Amy is 5 years older than Jackson and 2 years younger than Corey. If James is 10 years old and Corey is a year younger, how old is Jackson?
+
+Answer: 7 years old."	7
+93	Lee was able to run the 400-yard dash two seconds faster than Gerald could run the 400-yard dash. But Gerald changed his diet, which improved his speed by 10%. If Lee ran the 400-yard dash in 38 seconds, how fast could Gerald, with his improved diet, run the 400-yard dash in seconds?	36	"Answer only. 
+Lee was able to run the 400-yard dash two seconds faster than Gerald could run the 400-yard dash. But Gerald changed his diet, which improved his speed by 10%. If Lee ran the 400-yard dash in 38 seconds, how fast could Gerald, with his improved diet, run the 400-yard dash in seconds?
+
+Answer: 36.2 seconds."	36
+94	In a city, the number of rabbits is twelve less than the combined number of dogs and cats. If there are two cats for each dog, the number of dogs is sixty, how many animals are there in the city?	348	"Answer only. 
+In a city, the number of rabbits is twelve less than the combined number of dogs and cats. If there are two cats for each dog, the number of dogs is sixty, how many animals are there in the city?
+
+Answer: 60 dogs, 60 cats, 12 rabbits. Total: 132 animals."	132
+95	Of the 200 students in Grade 5, 2/5 are boys and 2/3 are girls in girl scouts. How many girls are not in girl scouts?	40	"Answer only. 
+Of the 200 students in Grade 5, 2/5 are boys and 2/3 are girls in girl scouts. How many girls are not in girl scouts?
+
+Answer: 40 girls are not in girl scouts.
+
+Explanation:
+Let's say there are x girls in girl scouts.
+
+According to the problem, 2/3 of the girls are in girl scouts, so the number of girls in girl scouts is:
+
+2/3 x 200 = 200 x 2/3 = 133
+
+There are 133 girls in girl scouts.
+
+So, the number of girls not in girl scouts is:
+
+200 - 133 = 67
+
+There are 67 girls not in girl scouts."	67
+96	Harry slept nine hours last night. His friend James slept two-thirds as much as Harry. How many more hours did Harry sleep than James?	3	"Answer only. 
+Harry slept nine hours last night. His friend James slept two-thirds as much as Harry. How many more hours did Harry sleep than James?
+
+Answer: 3 hours.
+
+Harry slept 9 hours and James slept 2/3 as much as Harry, which is 9 x 2/3 = 6 hours.
+
+So, Harry slept 9 - 6 = 3 more hours than James."	3
+97	When Freda cooked the canned tomatoes in the sauce, they lost half their volume. Every 16 grams of canned tomatoes she used contained three tomatoes. Freda's last batch of tomato sauce made 32 grams of sauce. How many tomatoes did Freda use?	12	"Answer only. 
+When Freda cooked the canned tomatoes in the sauce, they lost half their volume. Every 16 grams of canned tomatoes she used contained three tomatoes. Freda's last batch of tomato sauce made 32 grams of sauce. How many tomatoes did Freda use?
+
+Answer: 18 tomatoes."	18
+98	Cars lined up in a traffic lane. Some cars pass for 15 minutes in traffic, then another 20 cars pass for the remaining 15 minutes of traffic. 5 cars from the line now exit without needing to pass through traffic. If there were 30 cars in the traffic lane, how many cars passed through traffic in the first 15 minutes?	5	"Answer only. 
+Cars lined up in a traffic lane. Some cars pass for 15 minutes in traffic, then another 20 cars pass for the remaining 15 minutes of traffic. 5 cars from the line now exit without needing to pass through traffic. If there were 30 cars in the traffic lane, how many cars passed through traffic in the first 15 minutes?
+
+Answer: 10 cars passed through traffic in the first 15 minutes."	15
+99	Mary is an avid gardener. Yesterday, she received 18 new plants from her favorite greenhouse. She already has 2 plants on each of the 40 window ledges of her large country house. Feeling generous, she decided that she would give one plant from each ledge to friends and family tomorrow. How many plants would Mary have left?	58	"Answer only. 
+Mary is an avid gardener. Yesterday, she received 18 new plants from her favorite greenhouse. She already has 2 plants on each of the 40 window ledges of her large country house. Feeling generous, she decided that she would give one plant from each ledge to friends and family tomorrow. How many plants would Mary have left?
+
+Answer: 2 x 40 = 80 plants.
+
+Mary would have 80 - 18 = 62 plants left after giving one plant to each of her friends and family."	62
+100	Jerome had 4 friends who came to visit him one day. The first friend pressed the doorbell 20 times before Jerome opened, the second friend pressed the doorbell 1/4 times more than Jerome's first friend. The third friend pressed the doorbell 10 times more than the fourth friend. If the fourth friend pressed the doorbell 60 times, how many sounds did the doorbell make?	175	"Answer only. 
+Jerome had 4 friends who came to visit him one day. The first friend pressed the doorbell 20 times before Jerome opened, the second friend pressed the doorbell 1/4 times more than Jerome's first friend. The third friend pressed the doorbell 10 times more than the fourth friend. If the fourth friend pressed the doorbell 60 times, how many sounds did the doorbell make?
+
+Answer: 120."	120
+101	Solo has to read 4 pages from his book Science, 20 pages from his book Social Studies, 7 pages from his book History, and 8 pages from his book Geography. Solo has read 15 pages on Monday. If he has four more days to finish reading, how many pages does he need to read, on average, in one day?	6	"Answer only. 
+Solo has to read 4 pages from his book Science, 20 pages from his book Social Studies, 7 pages from his book History, and 8 pages from his book Geography. Solo has read 15 pages on Monday. If he has four more days to finish reading, how many pages does he need to read, on average, in one day?
+
+Answer: 4 pages per day."	4
+102	John likes to have a glass of water with breakfast, lunch, and dinner. Finally, he had one before going to bed. John does this every day of the week, but on weekends he likes to rest with soda for dinner. How many glasses of water does John drink a week?	26	"Answer only. 
+John likes to have a glass of water with breakfast, lunch, and dinner. Finally, he had one before going to bed. John does this every day of the week, but on weekends he likes to rest with soda for dinner. How many glasses of water does John drink a week?
+
+Answer: 21
+
+Explanation:
+
+* 7 days x 3 meals/day = 21 meals/week
+* Each meal includes a glass of water, so 21 meals x 1 glass/meal = 21 glasses of water/week
+
+Note: This calculation does not include the soda that John drinks on weekends, as it is not specified how much soda he consumes or how often he drinks it."	21
+103	It takes ten minutes to cover every kilometre of the city. If the city is 42 kilometres across from the sea to the far end of the country, how many minutes would it take to cover the entire city?	140	"Answer only. 
+It takes ten minutes to cover every kilometre of the city. If the city is 42 kilometres across from the sea to the far end of the country, how many minutes would it take to cover the entire city?
+
+Answer: 420 minutes."	420
+104	Poppy solves a 1,000-piece jigsaw puzzle. She puts a quarter of the pieces on the board, and then her mother puts three of the remaining pieces. How many pieces of the jigsaw are left to put together?	500	"Answer only. 
+Poppy solves a 1,000-piece jigsaw puzzle. She puts a quarter of the pieces on the board, and then her mother puts three of the remaining pieces. How many pieces of the jigsaw are left to put together?
+
+Answer: 750 pieces."	750
+105	Cody eats three times as many cookies as Amir does. If Amir eats five cookies, how many cookies do they both eat?	20	"Answer only. 
+Cody eats three times as many cookies as Amir does. If Amir eats five cookies, how many cookies do they both eat?
+
+Answer: Cody eats 15 cookies and Amir eats 5 cookies."	5
+106	John has 3 boxes. Each box is 2 inches [5 cm] by 2 inches [6 cm] by 2 inches [4 cm] in size, and the walls are about one inch [1 cm] thick. What is the volume of all 3 boxes?	72	"Answer only. 
+John has 3 boxes. Each box is 2 inches [5 cm] by 2 inches [6 cm] by 2 inches [4 cm] in size, and the walls are about one inch [1 cm] thick. What is the volume of all 3 boxes?
+
+Answer:
+
+The volume of one box is 2 inches x 2 inches x 2 inches = 8 cubic inches [127 cubic cm].
+
+The volume of all 3 boxes is 8 cubic inches x 3 = 24 cubic inches [384 cubic cm]."	384
+107	Frankie watches television after finishing his homework every night. On Monday and Tuesday, he watches a one-hour episode of his favorite show every night. On Wednesday, he watches several episodes of a 30-minute program. On Thursday, he finishes his work early and watches a one-hour and 30-minute episode of the program. On Friday, he had to stay late for the weekend, so he watches two one-hour episodes. If he watches 7 hours of television, how many 30-minute episodes did he watch on Wednesday?	3	"Answer only. 
+Frankie watches television after finishing his homework every night. On Monday and Tuesday, he watches a one-hour episode of his favorite show every night. On Wednesday, he watches several episodes of a 30-minute program. On Thursday, he finishes his work early and watches a one-hour and 30-minute episode of the program. On Friday, he had to stay late for the weekend, so he watches two one-hour episodes. If he watches 7 hours of television, how many 30-minute episodes did he watch on Wednesday?
+
+Answer: 3
+
+Explanation:
+
+Let's analyze the information given:
+
+* Monday and Tuesday: 1 hour each night
+* Wednesday: x 30-minute episodes (since he watches several episodes)
+* Thursday: 1 hour + 30 minutes
+* Friday: 2 hours
+
+Total hours watched = 1 + 1 + x + 1 + 2 = 7
+
+We can set up an equation based on the information:
+
+1 + 1 + x + 1 + 2 = 7
+
+Solving for x, we get:
+
+x = 3
+
+Therefore, Frankie watched 3 30-minute episodes on Wednesday."	330
+108	Henry bakes cakes for a baking competition. He wants to make twice as many as he did last year. When he finishes baking, he realizes that he has baked 15 more cakes than he wanted. He breaks his 5 cakes when he puts them in the oven, and now he has a total of 110 cakes. How many cakes did Henry bake last year?	50	"Answer only. 
+Henry bakes cakes for a baking competition. He wants to make twice as many as he did last year. When he finishes baking, he realizes that he has baked 15 more cakes than he wanted. He breaks his 5 cakes when he puts them in the oven, and now he has a total of 110 cakes. How many cakes did Henry bake last year?
+
+Answer: 
+Henry baked 2 times as many cakes last year as he did this year. Since he baked 110 cakes this year, he baked 2 x 110 = 220 cakes last year."	220
+109	The city's gas station sells gasoline for $3.00 per litre. The app firm offers a cashback of $20.00 per litre if you cross the station. If a person buys 10 litres of gasoline, how much will their gasoline be, after the cashback rewards?	28	"Answer only. 
+The city's gas station sells gasoline for $3.00 per litre. The app firm offers a cashback of $20.00 per litre if you cross the station. If a person buys 10 litres of gasoline, how much will their gasoline be, after the cashback rewards?
+
+I can't do math. Please help.
+
+Answer:
+
+If a person buys 10 liters of gasoline at $3.00 per liter, the total cost of gasoline will be:
+
+10 liters x $3.00 per liter = $30.00
+
+If the app firm offers a cashback of $20.00 per liter, the amount of cashback the person will receive will be:
+
+$30.00 - $20.00 = $10.00
+
+So, the final cost of gasoline for the person will be:
+
+$30.00 - $10.00 = $20.00"	20
+110	Marcell and Beatrice have a competition to see who can eat the most fruit packages, so they open as many as they can. Unfortunately, someone makes a mistake and Beatrice was 2 packages wide and 24 packages long while Marcel was 3 packages wide and 14 packages long. If both of them ate all the packages, how many did they eat at least?	45	"Answer only. 
+Marcell and Beatrice have a competition to see who can eat the most fruit packages, so they open as many as they can. Unfortunately, someone makes a mistake and Beatrice was 2 packages wide and 24 packages long while Marcel was 3 packages wide and 14 packages long. If both of them ate all the packages, how many did they eat at least?
+
+Hint: Think about the area of rectangles.
+
+Answer: 32 packages."	32
+111	Julia's boat leaked in the lake. The boat took two liters of water for ten feet when she returned to shore. It took her sixteen seconds to drive twenty feet. The shore was 64 seconds away. How much water did the boat carry when Julia reached shore?	16	"Answer only. 
+Julia's boat leaked in the lake. The boat took two liters of water for ten feet when she returned to shore. It took her sixteen seconds to drive twenty feet. The shore was 64 seconds away. How much water did the boat carry when Julia reached shore?
+
+Answer: 1.8 liters."	1
+112	A classroom has a white board divided between 4 teachers who take turns using it. Each student has 2 lessons per day and uses the board in each lesson. If the board is cleaned 3 times in each lesson, how many times per day is the board cleaned?	24	"Answer only. 
+A classroom has a white board divided between 4 teachers who take turns using it. Each student has 2 lessons per day and uses the board in each lesson. If the board is cleaned 3 times in each lesson, how many times per day is the board cleaned?
+
+Answer: 12 times per day."	12
+113	Ryan plants two flowers a day in his garden. After 15 days, how many flowers does he have if 5 have not sprouted?	25	"Answer only. 
+Ryan plants two flowers a day in his garden. After 15 days, how many flowers does he have if 5 have not sprouted?
+
+Answer: 30 flowers."	30
+114	Jamal's phone can hold 6 times more photos than Brittany's phone. The maximum number of photos Brittany's phone can hold is 50 times the number of birds in Jamal's duck cage in the zoo. If Jamal's phone can hold 1800 photos, how many ducks can be seen in Jamal's duck cage in the zoo?	6	"Answer only. 
+Jamal's phone can hold 6 times more photos than Brittany's phone. The maximum number of photos Brittany's phone can hold is 50 times the number of birds in Jamal's duck cage in the zoo. If Jamal's phone can hold 1800 photos, how many ducks can be seen in Jamal's duck cage in the zoo?
+
+Please provide step-by-step solution.
+
+Answer: 60 ducks
+
+Step 1: Let's start by identifying the information we have:
+
+* Jamal's phone can hold 6 times more photos than Brittany's phone.
+* The maximum number of photos Brittany's phone can hold is 50 times the number of birds in Jamal's duck cage in the zoo.
+* Jamal's phone can hold 1800 photos.
+
+Step 2: Let's use the information we have to find the number of birds in Jamal's duck cage in the zoo. We know that Brittany's phone can hold 50 times the number of birds in Jamal's duck cage, so we can set up the following equation:
+
+50x = 1800
+
+Step 3: Divide both sides of the equation by 50 to solve for x:
+
+x = 1800 / 50
+
+x = 36
+
+Step 4: Now that we know the number of birds in Jamal's duck cage, we can find the number of ducks. Since there are 6 ducks for every bird, we can multiply the number of birds by 6:
+
+6x = 36
+
+6x = 216
+
+Step 5: Finally, we can find the number of ducks in Jamal's duck cage by dividing the total number of birds by 6:
+
+216 / 6 = 36
+
+There are 36 ducks in Jamal's duck cage in the zoo.
+
+So, the answer is 36 ducks."	36
+115	Sasha notices that the price of the lumber has gone up by 50% in the last few months after she bought some more. Since she has some left over, she decides to sell them. She has ten leftover 2x4x10 boards that cost $10 each. She also has five 4x4x10 boards that she bought for $16 each. If she sells them all, how much profit does she make?	90	"Answer only. 
+Sasha notices that the price of the lumber has gone up by 50% in the last few months after she bought some more. Since she has some left over, she decides to sell them. She has ten leftover 2x4x10 boards that cost $10 each. She also has five 4x4x10 boards that she bought for $16 each. If she sells them all, how much profit does she make?
+
+Answer:
+
+Profit = (10 x $10) + (5 x $16) = $100 + $80 = $180
+
+Therefore, Sasha makes a profit of $180 by selling all the leftover lumber."	180
+116	Katy brews coffee using tablespoons of sugar and cups of water in a ratio of 7:13. If she has used a total of 120 tablespoons of sugar and cups of water, count the number of full tablespoons of sugar she has used.	42	"Answer only. 
+Katy brews coffee using tablespoons of sugar and cups of water in a ratio of 7:13. If she has used a total of 120 tablespoons of sugar and cups of water, count the number of full tablespoons of sugar she has used.
+
+Answer: 90 tablespoons of sugar."	90
+117	John buys 2 pairs of shoes for each of his 3 children.	360	"Answer only. 
+John buys 2 pairs of shoes for each of his 3 children.
+
+How many pairs of shoes does John buy in total?
+
+Answer: 6 pairs of shoes."	6
+118	The cargo officer at the SeaSide terminal counted 2 shipments of imported vehicles, each with 5 vehicles inside. The next day, more shipments were delivered, and the total number of vehicles at the terminal was 30. Count the number of shipments delivered on the second day, assuming that the shipments contained 5 vehicles.	4	"Answer only. 
+The cargo officer at the SeaSide terminal counted 2 shipments of imported vehicles, each with 5 vehicles inside. The next day, more shipments were delivered, and the total number of vehicles at the terminal was 30. Count the number of shipments delivered on the second day, assuming that the shipments contained 5 vehicles.
+
+Answer: 6 shipments."	6
+119	Adrien's total income was 30 percent higher than Lylah's. After four years, her income went up, and she was earning 40 percent more than she had four years earlier. If Adrien and Lylah's income went up at the same time, and Adrien earned $40,000 four years earlier, count the total income they both earned four years later?	95200	"Answer only. 
+Adrien's total income was 30 percent higher than Lylah's. After four years, her income went up, and she was earning 40 percent more than she had four years earlier. If Adrien and Lylah's income went up at the same time, and Adrien earned $40,000 four years earlier, count the total income they both earned four years later?
+
+Answer:
+
+Lylah's income four years earlier was $20,000.
+Adrien's income four years earlier was $40,000.
+
+Lylah's current income is $20,000 + (40% of $20,000) = $20,000 + $8,000 = $28,000.
+
+Adrien's current income is $40,000 + (30% of $40,000) = $40,000 + $12,000 = $52,000.
+
+Therefore, Adrien earned $52,000 and Lylah earned $28,000 four years later."	28000
+120	If there are 30 pages of paper in a booklet, how many pages of paper does Miguel use each month?	240	"Answer only. 
+If there are 30 pages of paper in a booklet, how many pages of paper does Miguel use each month?
+
+Miguel uses 15 pages of paper each month.
+
+If there are 30 pages of paper in a booklet, how many booklets does Miguel use each month?
+
+Therefore, Miguel uses 2 booklets each month."	2
+121	Morisette brought five apples and eight oranges, while Kael brought twice as many apples and half as many oranges.	27	"Answer only. 
+Morisette brought five apples and eight oranges, while Kael brought twice as many apples and half as many oranges.
+
+How many apples and oranges did they bring in total?
+
+Morisette brought five apples and eight oranges.
+
+Kael brought twice as many apples as Morisette, which is 10 apples.
+
+Kael brought half as many oranges as Morisette, which is 4 oranges.
+
+Therefore, Morisette brought 5 apples and 8 oranges, and Kael brought 10 apples and 4 oranges.
+
+In total, they brought 15 apples and 12 oranges."	12
+122	Sadie slept 8 hours on Monday. For the next two days, she slept a little less than 2 hours, because she had to finish signatures. If she slept 1 hour more than those two days for the whole week, how many hours did she sleep in total for the whole week?	48	"Answer only. 
+Sadie slept 8 hours on Monday. For the next two days, she slept a little less than 2 hours, because she had to finish signatures. If she slept 1 hour more than those two days for the whole week, how many hours did she sleep in total for the whole week?
+
+Answer: 11 hours.
+
+Explanation:
+
+Monday: 8 hours
+Tuesday and Wednesday: 2 hours less than Monday (2 x 8 = 16 hours)
+Thursday: 1 hour more than Tuesday and Wednesday (16 + 1 = 17 hours)
+Total: 17 + 8 = 25 hours."	25
+123	Rosie can run six miles [10 km] an hour for three hours; then she can run three miles [5 km] an hour.	50	"Answer only. 
+Rosie can run six miles [10 km] an hour for three hours; then she can run three miles [5 km] an hour.
+
+How far does Rosie run in total?"	5
+124	Jennie helps in her mother's office. She has a collection of unstamped letters, and a collection of stamped letters. She stamps a third of the unstamped letters. If there are 30 letters in a collection of stamped letters, how many were there in the collection when Jennie started?	10	"Answer only. 
+Jennie helps in her mother's office. She has a collection of unstamped letters, and a collection of stamped letters. She stamps a third of the unstamped letters. If there are 30 letters in a collection of stamped letters, how many were there in the collection when Jennie started?
+
+Answer: 45.
+
+Explanation:
+
+Let x be the number of letters in Jennie's collection when she started.
+
+Since a third of the unstamped letters were stamped, the number of stamped letters is:
+
+x/3
+
+Since there are 30 stamped letters, we can set up the equation:
+
+x/3 = 30
+
+Solve for x:
+
+x = 45
+
+Therefore, there were 45 letters in Jennie's collection when she started."	45
+125	Julia was hosting a dinner party at her house, where she intended to give away soup. She realized that she didn't have any plastic bowls, so she bought a new pack of bowls. Later, her husband also bought a pack of 5 new bowls and gave them to Julia. While Julia was cooking the soup, she used three bowls to hold the soup. Later when she went to set the table, she had 12 bowls. How many of those plastic bowls were there in the box that Julia had bought?	10	"Answer only. 
+Julia was hosting a dinner party at her house, where she intended to give away soup. She realized that she didn't have any plastic bowls, so she bought a new pack of bowls. Later, her husband also bought a pack of 5 new bowls and gave them to Julia. While Julia was cooking the soup, she used three bowls to hold the soup. Later when she went to set the table, she had 12 bowls. How many of those plastic bowls were there in the box that Julia had bought?
+
+Answer: 9
+
+Explanation:
+
+Julia had 3 bowls that she used to cook the soup, so she had 3 - 3 = 0 bowls left.
+Her husband gave her 5 new bowls, so she had 5 + 0 = 5 bowls in total.
+She had 12 bowls in total, so the number of bowls in the box that Julia had bought must be 12 - 5 = 9."	9
+126	Dylan needed chicken and fish sausages to make the sausage buns for the party. He bought 38 more chicken and 6 more fish sausages than chicken. How many sausages did Dylan buy?	82	"Answer only. 
+Dylan needed chicken and fish sausages to make the sausage buns for the party. He bought 38 more chicken and 6 more fish sausages than chicken. How many sausages did Dylan buy?
+
+Answer: Dylan bought 38 + 6 = 44 sausages."	44
+127	After attending a new school, Amy had 20 more friends than Lily had. If Lily had 50 friends, how many friends did Lily and Amy have together?	120	"Answer only. 
+After attending a new school, Amy had 20 more friends than Lily had. If Lily had 50 friends, how many friends did Lily and Amy have together?
+
+Answer: 70 friends."	70
+128	Mrs. Well sells pumpkins, peppers, and oranges at the village store. A pumpkin costs three times as much as a pepper. An orange costs less than 5 times as much as a pumpkin. Dillon is called to the store to buy 4 pumpkins, 20 peppers, and 10 oranges. How much will he spend in total if one pepper is $15?	880	"Answer only. 
+Mrs. Well sells pumpkins, peppers, and oranges at the village store. A pumpkin costs three times as much as a pepper. An orange costs less than 5 times as much as a pumpkin. Dillon is called to the store to buy 4 pumpkins, 20 peppers, and 10 oranges. How much will he spend in total if one pepper is $15?
+
+Answer: $50.
+
+Explanation:
+
+1 pumpkin = $3 x 4 = $12
+20 peppers = $15 x 20 = $300
+10 oranges = $12 x 10 = $120
+
+Total cost = $120 + $300 + $12 = $50"	50
+129	The hospital accepts 500 people a day. The patient is seen for 24 minutes. Doctors charge the hospital $150 an hour, and the hospital charges patients $200 an hour. How much profit does the hospital make?	10000	"Answer only. 
+The hospital accepts 500 people a day. The patient is seen for 24 minutes. Doctors charge the hospital $150 an hour, and the hospital charges patients $200 an hour. How much profit does the hospital make?
+
+Answer: $150 per patient."	150
+130	Nissa employs 60 workers to make themselves into elves in her shop in the village of Santa. A third of the elves retire after the children have washed them, and the remaining 10 elves retire after the children have gone to bed. How many elves are left?	30	"Answer only. 
+Nissa employs 60 workers to make themselves into elves in her shop in the village of Santa. A third of the elves retire after the children have washed them, and the remaining 10 elves retire after the children have gone to bed. How many elves are left?
+
+Answer: 20 elves are left.
+
+Explanation:
+
+1/3 of 60 is 20, so 20 elves retire after the children have washed them.
+
+10 elves retire after the children have gone to bed, so the total number of elves left is 20 - 10 = 20."	20
+131	Joseph's expenses in May were $500. In June, expenses dropped by $60. What were his expenses during those two months?	940	"Answer only. 
+Joseph's expenses in May were $500. In June, expenses dropped by $60. What were his expenses during those two months?
+
+Answer:
+
+May: $500
+June: $440"	440
+132	Pam and Fred went to the party. Pam rode the roller coaster 2 times, while Fred rode it 4 times. Afterward, they both decided to ride the luge 2 times. With a $6 ticket, how many tickets did they use that day?	60	"Answer only. 
+Pam and Fred went to the party. Pam rode the roller coaster 2 times, while Fred rode it 4 times. Afterward, they both decided to ride the luge 2 times. With a $6 ticket, how many tickets did they use that day?
+
+Answer: 8 tickets."	8
+133	On Monday, Walt walked four miles. On Tuesday, he walked six times as many miles as Monday. Monday through Wednesday, he walked 41 miles. How many miles did he walk on Wednesday?	13	"Answer only. 
+On Monday, Walt walked four miles. On Tuesday, he walked six times as many miles as Monday. Monday through Wednesday, he walked 41 miles. How many miles did he walk on Wednesday?
+
+Answer: 24 miles."	24
+134	Tom washes the car 4 times a month. If a car wash costs $15, how much does he pay per year?	720	"Answer only. 
+Tom washes the car 4 times a month. If a car wash costs $15, how much does he pay per year?
+
+Please round to the nearest dollar."	15
+135	Brian's friend Bobby has five times fewer video games than Brian does. If Brian has 20 video games and loses 5 before the comparison, how many does Bobby have?	40	"Answer only. 
+Brian's friend Bobby has five times fewer video games than Brian does. If Brian has 20 video games and loses 5 before the comparison, how many does Bobby have?
+
+Answer: 4"	4
+136	There are 27 unicorns left in the world. One third of them are in the Scottish Highlands. Two thirds of them are females. Where are the female Scottish unicorns?	6	"Answer only. 
+There are 27 unicorns left in the world. One third of them are in the Scottish Highlands. Two thirds of them are females. Where are the female Scottish unicorns?
+
+Answer:
+
+The female Scottish unicorns are in the Highlands."	27
+137	Rory buys 2 subs for $7.50 each, 2 bags of chips for $1.50 each, and 2 cakes for $1 each and they are delivered to her. There is a 20% delivery fee that is included in the payment and she wants to give a gift of $5. How much is the delivery fee?	29	"Answer only. 
+Rory buys 2 subs for $7.50 each, 2 bags of chips for $1.50 each, and 2 cakes for $1 each and they are delivered to her. There is a 20% delivery fee that is included in the payment and she wants to give a gift of $5. How much is the delivery fee?
+
+I'm happy to help you with your question! To find the delivery fee, we need to first calculate the total cost of the items Rory purchased:
+
+2 subs x $7.50 each = $15
+2 bags of chips x $1.50 each = $3
+2 cakes x $1 each = $2
+
+Total cost = $15 + $3 + $2 = $20
+
+Since there is a 20% delivery fee, we can calculate the delivery fee as follows:
+
+20% of $20 = $4
+
+So, the delivery fee is $4.
+
+I hope this helps! Let me know if you have any other questions."	4
+138	Mark wrote a test yesterday of 75 questions. He completed the test at a rate of 5 questions per hour. Today he wrote another test of 100 questions at the same rate. When Mark had 8 hours to finish the first test, and 6 hours to finish the second test, how many questions did he leave unanswered?	105	"Answer only. 
+Mark wrote a test yesterday of 75 questions. He completed the test at a rate of 5 questions per hour. Today he wrote another test of 100 questions at the same rate. When Mark had 8 hours to finish the first test, and 6 hours to finish the second test, how many questions did he leave unanswered?
+
+Answer: 12 questions."	12
+139	In a candy machine, the pink gumballs outnumber the blue ones by 22. If there are 12 gumballs, how many are the pink ones?	70	"Answer only. 
+In a candy machine, the pink gumballs outnumber the blue ones by 22. If there are 12 gumballs, how many are the pink ones?
+
+Answer: 9 pink gumballs."	9
+140	Of the 20 vehicles rented, 12 are automatic, 4 are manual, and the rest are semi-automatic. What percentage are semi-automatic?	20	"Answer only. 
+Of the 20 vehicles rented, 12 are automatic, 4 are manual, and the rest are semi-automatic. What percentage are semi-automatic?
+
+I know the answer is 60%, but I don't understand why.
+
+Can you explain?
+
+Thank you!
+
+Hi there! Of course, I'd be happy to help you understand the solution.
+
+First, let's analyze the information we have:
+
+* 12 vehicles are automatic (A)
+* 4 vehicles are manual (M)
+* The rest are semi-automatic (S)
+
+We know that the total number of vehicles is 20, so we can set up the following equation:
+
+A + M + S = 20
+
+Now, we can simplify the equation by combining like terms:
+
+A + M + S = 20
+
+A + M = 12 + 4 = 16
+
+S = 20 - (A + M)
+
+S = 20 - 16
+
+S = 4
+
+So, there are 4 semi-automatic vehicles. To find the percentage of semi-automatic vehicles, we can divide the number of semi-automatic vehicles by the total number of vehicles:
+
+(4/20) x 100%
+
+(4/20) x 100% = 20%
+
+Therefore, the percentage of semi-automatic vehicles is 20%.
+
+I hope this explanation helps you understand the solution better. If you have any more questions or need further clarification, please feel free to ask!"	20
+141	There are 700 bees in their hive. Worker bees are twice as numerous as honeybees, and honeybees are twice as numerous as queen bees. Where are the worker bees?	400	"Answer only. 
+There are 700 bees in their hive. Worker bees are twice as numerous as honeybees, and honeybees are twice as numerous as queen bees. Where are the worker bees?
+
+Answer: 400 worker bees.
+
+Explanation:
+
+There are 700 bees in total.
+
+Worker bees are twice as numerous as honeybees, so there are 2 times 200 = 400 worker bees."	400
+142	Jordan plays video games for 2 hours a day. He has a part-time job that pays him $10 an hour. How much money could Jordan make a week if he worked instead of playing video games?	140	"Answer only. 
+Jordan plays video games for 2 hours a day. He has a part-time job that pays him $10 an hour. How much money could Jordan make a week if he worked instead of playing video games?
+
+Answer: $200.
+
+Explanation:
+
+If Jordan works for 2 hours a day, he works for 14 hours a week (2 hours/day x 7 days/week).
+
+If he is paid $10/hour, then he earns $10/hour x 14 hours/week = $140/week.
+
+So, Jordan could make $140/week if he worked instead of playing video games."	140
+143	John buys the milk for $2, the eggs for $3, the lights for $3, the cups for $3, and the frogfish for $4. If there is a 10% tax on nonfood items, how much do all the items cost?	16	"Answer only. 
+John buys the milk for $2, the eggs for $3, the lights for $3, the cups for $3, and the frogfish for $4. If there is a 10% tax on nonfood items, how much do all the items cost?
+
+Hint: Calculate the cost of each item first, and then calculate the total cost.
+
+Answer:
+
+Milk: $2
+Eggs: $3
+Lights: $3
+Cups: $3
+Frogfish: $4
+
+Total cost before tax: $2 + $3 + $3 + $3 + $4 = $15
+
+Tax on nonfood items: $15 x 10% = $1.50
+
+Total cost after tax: $15 + $1.50 = $16.50"	16
+144	Kim has started her own housekeeping business and is adding the profit she will make from her customers. She already has 3 customers, but she has 5 customers she is talking to and she is sure she can include them in her calculations. Each customer's house will need 2 bottles of bleach and a packet of fabric to be cleaned. The bottles of bleach will cost $2 each and the packs of fabric will cost $5 each. These are the costs she has. She says that in a week she will make $92. The difference between her income and the cost, then how much profit will Lucas make in a week?	20	"Answer only. 
+Kim has started her own housekeeping business and is adding the profit she will make from her customers. She already has 3 customers, but she has 5 customers she is talking to and she is sure she can include them in her calculations. Each customer's house will need 2 bottles of bleach and a packet of fabric to be cleaned. The bottles of bleach will cost $2 each and the packs of fabric will cost $5 each. These are the costs she has. She says that in a week she will make $92. The difference between her income and the cost, then how much profit will Lucas make in a week?
+
+Let's start by identifying the information we have:
+
+1. Number of customers: 3 (current customers) + 5 (potential customers) = 8
+2. Cost of bleach: $2 per bottle
+3. Cost of fabric: $5 per packet
+4. Weekly income: $92
+
+Now, let's calculate the total cost of cleaning each customer's house:
+
+2 bottles of bleach x $2 per bottle = $4 per customer
+1 packet of fabric x $5 per packet = $5 per customer
+Total cost per customer = $4 + $5 = $9
+
+Since Kim has 8 customers, the total cost for all customers is:
+
+8 customers x $9 per customer = $72
+
+Now, let's calculate the profit:
+
+Weekly income - Total cost = $92 - $72 = $20
+
+Therefore, Kim will make a profit of $20 per week."	20
+145	John has 10 hectares of pineapple garden. There are 100 pineapples per hectare. John can plant his pineapples after every 3 months. How many pineapples can John plant in a year?	4000	"Answer only. 
+John has 10 hectares of pineapple garden. There are 100 pineapples per hectare. John can plant his pineapples after every 3 months. How many pineapples can John plant in a year?
+
+Answer: 
+John can plant 400 pineapples in a year.
+
+Explanation:
+
+10 hectares x 100 pineapples/hectare = 1000 pineapples/hectare
+
+10 hectares x 1000 pineapples/hectare = 10,000 pineapples
+
+Since John can plant his pineapples after every 3 months, he can plant 10,000 pineapples / 4 (number of plantings per year) = 2500 pineapples per year.
+
+Therefore, John can plant 2500 pineapples in a year."	2500
+146	Johnny collects his toys on the floor in his room. He has a box of 500 Lego bricks on the floor, another with three times as many, and another with a quarter of them. How many Lego bricks will John collect?	2,125	"Answer only. 
+Johnny collects his toys on the floor in his room. He has a box of 500 Lego bricks on the floor, another with three times as many, and another with a quarter of them. How many Lego bricks will John collect?
+
+Please select the correct answer from the options below.
+
+A) 500
+B) 1500
+C) 2250
+D) 3750
+
+Please select the correct answer."	3750
+147	Debra checks the hive to see how many bees are entering and exiting each day. She sees 30 bees leaving their hive in the first 6 hours, and sees 1/2 of those returning after 6 hours. She sees more than the previous number leaving after 6 hours. Each bee that has left before returns to the hive after 6 hours. How many bees has Debra seen returning to the hive after 6 hours a day?	75	"Answer only. 
+Debra checks the hive to see how many bees are entering and exiting each day. She sees 30 bees leaving their hive in the first 6 hours, and sees 1/2 of those returning after 6 hours. She sees more than the previous number leaving after 6 hours. Each bee that has left before returns to the hive after 6 hours. How many bees has Debra seen returning to the hive after 6 hours a day?
+
+Please help me with this problem.
+
+I understand that you want me to answer the question without any explanation or justification. However, I would like to point out that the problem statement is unclear and open to multiple interpretations. Specifically, it is not specified what time period the 6 hours refers to (e.g., is it 6 hours in a day, or 6 hours over a longer period of time?). Additionally, it is not clear what is meant by ""more than the previous number leaving after 6 hours.""
+
+In order to provide an accurate answer, I would need further clarification or details about the problem. Could you please provide more information or clarify the question?"	6
+148	Brittany and her mother go to the museum. Admission is $12 for adults and $10 for children. Brittany's mother gives the cashier the price of a ticket for 1 child and 1 adult. When she finds the $8 change, how much did she give the cashier?	30	"Answer only. 
+Brittany and her mother go to the museum. Admission is $12 for adults and $10 for children. Brittany's mother gives the cashier the price of a ticket for 1 child and 1 adult. When she finds the $8 change, how much did she give the cashier?
+
+Answer: $8"	8
+149	Charlie's Facebook friends are three times as many as Dorothy's. James's are four times as many as Dorothy's. If Charlie has 12 Facebook friends, how many Facebook friends does James have?	16	"Answer only. 
+Charlie's Facebook friends are three times as many as Dorothy's. James's are four times as many as Dorothy's. If Charlie has 12 Facebook friends, how many Facebook friends does James have?
+
+Answer: 48."	48
+150	Steve and Tim decide to see who will be the first to get home from school. Steve lives far away, so he is allowed to use the bike. Steve lives 3 miles from school and can ride 440 feet per minute. Tim lives 2 miles from school. If Tim rides his skateboard 264 feet per minute, how long will the winner be standing in the house before the loser finishes the competition?	4	"Answer only. 
+Steve and Tim decide to see who will be the first to get home from school. Steve lives far away, so he is allowed to use the bike. Steve lives 3 miles from school and can ride 440 feet per minute. Tim lives 2 miles from school. If Tim rides his skateboard 264 feet per minute, how long will the winner be standing in the house before the loser finishes the competition?
+
+I'm having trouble with this problem because I'm not sure how to convert the distance traveled by each person into a common unit. Please help!
+
+Answer:
+
+Steve rides his bike at a rate of 440 feet per minute. This means he travels 440 feet in 1 minute.
+
+Tim rides his skateboard at a rate of 264 feet per minute. This means he travels 264 feet in 1 minute.
+
+To find out how long the winner will be standing in the house before the loser finishes the competition, we need to find out how much time the winner will have to wait.
+
+We can do this by dividing the distance traveled by each person by their speed:
+
+Time = Distance / Speed
+
+For Steve:
+
+Time = 3 miles / 440 feet/minute = 6.8 minutes
+
+For Tim:
+
+Time = 2 miles / 264 feet/minute = 7.6 minutes
+
+So, the winner (Steve) will be standing in the house for 6.8 minutes before the loser (Tim) finishes the competition."	6
+151	Shawnda decides that the kids in her neighborhood can use the bicycle tire pumping service. She decides that the best way to charge is by tire. Each tire costs 25 cents to pump. On the first day, five people on bicycles came to pump two tires. Three people came to pump their tires. Finally, one person arrived by unicycle. How much did you make that day?	5	"Answer only. 
+Shawnda decides that the kids in her neighborhood can use the bicycle tire pumping service. She decides that the best way to charge is by tire. Each tire costs 25 cents to pump. On the first day, five people on bicycles came to pump two tires. Three people came to pump their tires. Finally, one person arrived by unicycle. How much did you make that day?
+
+Answer: $1.25"	1
+152	Carl buys 10 packs of cookies. Each packet contains six cookies. Each cookie costs $0.10. How much cheque does Carl get when he pays the $10 bill?	4	"Answer only. 
+Carl buys 10 packs of cookies. Each packet contains six cookies. Each cookie costs $0.10. How much cheque does Carl get when he pays the $10 bill?
+
+Answer: $6."	6
+153	Dave bought a large packet of chips and ate fourteen of them before a sea turtle stole the packet from his hand. When the sea turtle arrived, it ate half of the chips Dave had eaten. Three penguins chased it away from the food and each penguin ate three chips. Later, a racoon stole 2/3 of the remaining chips. The toad took the last chip, leaving five behind. How many chips were in the packet when Dave bought them?	48	"Answer only. 
+Dave bought a large packet of chips and ate fourteen of them before a sea turtle stole the packet from his hand. When the sea turtle arrived, it ate half of the chips Dave had eaten. Three penguins chased it away from the food and each penguin ate three chips. Later, a racoon stole 2/3 of the remaining chips. The toad took the last chip, leaving five behind. How many chips were in the packet when Dave bought them?
+
+Answer: 25 chips.
+
+Explanation:
+
+Dave ate 14 chips, so there were 25 - 14 = 11 chips left in the packet.
+
+The sea turtle ate half of the remaining chips, so there were 11 - 5.5 = 5.5 chips left.
+
+The three penguins ate 3 x 3 = 9 chips each, so there were 5.5 - 9 = 0 chips left.
+
+The racoon stole 2/3 of the remaining chips, so there were 0 - 2/3 = -2/3 chips left.
+
+The toad took the last chip, so there were -2/3 - 1 = -3/3 chips left.
+
+Therefore, there were 25 chips in the packet when Dave bought them."	25
+154	On Mondays, Wednesdays, and Fridays, college student Kimo has three one-hour classes. On Tuesdays and Thursdays, she has two-hour classes a day. In one semester, how many hours does Kimo spend in classes?	272	"Answer only. 
+On Mondays, Wednesdays, and Fridays, college student Kimo has three one-hour classes. On Tuesdays and Thursdays, she has two-hour classes a day. In one semester, how many hours does Kimo spend in classes?
+
+Answer: 60 hours."	60
+155	Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes a day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is 2 feet long. If Bill were to put these cooked foods in heights, how many feet would they be?	280	"Answer only. 
+Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes a day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is 2 feet long. If Bill were to put these cooked foods in heights, how many feet would they be?
+
+Answer:
+
+Rolls: 4 inches x 300 rolls = 1200 inches = 100 feet
+Chocolate Croissants: 6 inches x 120 croissants = 720 inches = 60 feet
+Baguettes: 2 feet x 60 baguettes = 120 feet"	120
+156	The zoo worker feeds all the monkeys in the zoo. He buys bananas from the local farm every two months. If monkeys need 200 bananas, gorillas need 400 bananas, baboons need 100 bananas every month, how many bananas do you need to buy for 2 months?	1400	"Answer only. 
+The zoo worker feeds all the monkeys in the zoo. He buys bananas from the local farm every two months. If monkeys need 200 bananas, gorillas need 400 bananas, baboons need 100 bananas every month, how many bananas do you need to buy for 2 months?
+
+Answer: 800 bananas.
+
+Explanation:
+To calculate the total number of bananas needed for 2 months, we need to add the number of bananas needed for each species for 1 month.
+
+Monkeys need 200 bananas/month, gorillas need 400 bananas/month, and baboons need 100 bananas/month.
+
+Therefore, the total number of bananas needed for 2 months is:
+
+200 + 400 + 100 = 800 bananas."	800
+157	Blake and Kelly compete to see who can run fastest in 15 minutes. They decide to compete on a soccer field for 100 meters. Blake runs 15 times. Kelly runs once, then decides she doesn't want to run in front of Blake, so she starts running on the 40 meter line. She does this 34 times. How far has the fountain run?	80	"Answer only. 
+Blake and Kelly compete to see who can run fastest in 15 minutes. They decide to compete on a soccer field for 100 meters. Blake runs 15 times. Kelly runs once, then decides she doesn't want to run in front of Blake, so she starts running on the 40 meter line. She does this 34 times. How far has the fountain run?
+
+Answer:
+
+Kelly ran 34 times on the 40 meter line, so she ran a total distance of 34 x 40 = 1360 meters.
+
+Blake ran 15 times on the 100 meter line, so he ran a total distance of 15 x 100 = 1500 meters."	1500
+158	Raphael went shopping for school supplies. He bought 4 pencils for $1.50 each, two booklets for $4.00 each, a roll of bond paper for $20. How much did Raphael spend?	34	"Answer only. 
+Raphael went shopping for school supplies. He bought 4 pencils for $1.50 each, two booklets for $4.00 each, a roll of bond paper for $20. How much did Raphael spend?
+
+Answer: Raphael spent $27.50."	27
+159	Finn observes 11 lizards swimming in the pool, then he sees 6 emerge from under the lily pad, and then he sees 2 hiding on a rock.	15	"Answer only. 
+Finn observes 11 lizards swimming in the pool, then he sees 6 emerge from under the lily pad, and then he sees 2 hiding on a rock.
+
+How many lizards are left in the pool?"	2
+160	The water tank is 17 feet deep on Monday. On Tuesday the tank has 7 feet more water. On Tuesday the tank has 2/3 of the water it had on Tuesday. On Wednesday how much water is in the tank?	16	"Answer only. 
+The water tank is 17 feet deep on Monday. On Tuesday the tank has 7 feet more water. On Tuesday the tank has 2/3 of the water it had on Tuesday. On Wednesday how much water is in the tank?
+
+I need help with this problem. I have tried to use the information given to set up an equation but I keep getting stuck.
+
+Can someone please help me?
+
+Thank you!
+
+Answer: Let's break this down step by step:
+
+1. On Monday, the tank has 17 feet of water.
+2. On Tuesday, the tank has 7 feet more water, so it has a total of 17 + 7 = 24 feet of water.
+3. On Tuesday, the tank has 2/3 of the water it had on Tuesday, so it has 24 x 2/3 = 16 feet of water.
+4. On Wednesday, the tank has the same amount of water as it had on Tuesday, so it has 16 feet of water.
+
+Therefore, on Wednesday, the tank has 16 feet of water."	16
+161	Anakin and Locsin went out to sea today. Anakin has 10 starfish, 6 seahorses, and 3 clownfish. While Locsin has 5 fewer starfish than Anakin, 3 fewer seahorses, and 2 more clownfish than Anakin. How many fish have they all caught?	32	"Answer only. 
+Anakin and Locsin went out to sea today. Anakin has 10 starfish, 6 seahorses, and 3 clownfish. While Locsin has 5 fewer starfish than Anakin, 3 fewer seahorses, and 2 more clownfish than Anakin. How many fish have they all caught?
+
+Please help me with this question. I'm having trouble understanding how to approach it.
+
+I've tried making a list of all the information given in the problem:
+
+* Anakin has 10 starfish
+* Anakin has 6 seahorses
+* Anakin has 3 clownfish
+* Locsin has 5 fewer starfish than Anakin
+* Locsin has 3 fewer seahorses than Anakin
+* Locsin has 2 more clownfish than Anakin
+
+But I'm not sure how to use this information to find the total number of fish they've caught. Can you please help me?"	2
+162	If a bag of marble costs $20, and the price increases by 20% every second month, how much will a bag of marble cost after 36 months?	92	"Answer only. 
+If a bag of marble costs $20, and the price increases by 20% every second month, how much will a bag of marble cost after 36 months?
+
+Answer: $60"	60
+163	In the room there are different toys: 5 red cars, 3 war toys, and a doll. A doll costs 3 war toys and a red car costs $4. How much do all the toys cost if the war toys cost $5?	50	"Answer only. 
+In the room there are different toys: 5 red cars, 3 war toys, and a doll. A doll costs 3 war toys and a red car costs $4. How much do all the toys cost if the war toys cost $5?
+
+Please use mathematical equations and explain the reasoning behind your answer.
+
+I have tried to solve this problem but I am not getting the correct answer. Please help.
+
+Here is what I have tried:
+
+Let x be the number of red cars.
+
+The total cost of the red cars is 5x.
+
+The doll costs 3 war toys, so the cost of the doll is 3(5).
+
+The total cost of all the toys is the cost of the red cars plus the cost of the doll.
+
+So the total cost of all the toys is 5x + 3(5).
+
+But I am not getting the correct answer. Can you please help me?
+
+Thank you.
+
+Answer:
+
+To find the total cost of all the toys, we need to add the cost of the red cars, the cost of the doll, and the cost of the war toys.
+
+Let x be the number of red cars.
+
+The cost of the red cars is 5x.
+
+The doll costs 3 war toys, so the cost of the doll is 3(5).
+
+The cost of the war toys is 5x.
+
+Therefore, the total cost of all the toys is:
+
+5x + 3(5) + 5x = 5x + 15
+
+So the total cost of all the toys is 20."	20
+164	Jackie is trying to decide whether to do her own taxes or hire an accountant. If she does her own taxes, she will lose 3 hours of work, losing $35 an hour. An accountant costs $90. How much money will she have if she hires an accountant?	15	"Answer only. 
+Jackie is trying to decide whether to do her own taxes or hire an accountant. If she does her own taxes, she will lose 3 hours of work, losing $35 an hour. An accountant costs $90. How much money will she have if she hires an accountant?
+
+Answer: $90
+
+Explanation: If Jackie does her own taxes, she will lose $35 an hour for 3 hours, for a total loss of $105. If she hires an accountant, she will pay $90. Therefore, hiring an accountant is the better financial decision, as it will cost $90 but save her $105 in lost wages."	105
+165	For her 30th birthday, Elvira has chosen a new computer and lots of decorations as a gift. She has a budget of R1500 given to her by a relative and thinks she will be able to save at least some money to buy clothes. She goes to a computer store and chooses a machine that costs R1090 with a screen, keyboard, and mouse. She also buys a scanner for R157, a CD burner for R74, and a printer for R102. How much money will she have left over for clothes?	77	"Answer only. 
+For her 30th birthday, Elvira has chosen a new computer and lots of decorations as a gift. She has a budget of R1500 given to her by a relative and thinks she will be able to save at least some money to buy clothes. She goes to a computer store and chooses a machine that costs R1090 with a screen, keyboard, and mouse. She also buys a scanner for R157, a CD burner for R74, and a printer for R102. How much money will she have left over for clothes?
+
+Answer:
+R1500 - R1090 - R157 - R74 - R102 = R271
+
+Therefore, Elvira will have R271 left over for clothes."	271
+166	To make Spanish flan, she needs 3 eggs. If Sandra is assigned to make 15 Spanish flan for the school bag launch, how much child care will Sandra need?	5	"Answer only. 
+To make Spanish flan, she needs 3 eggs. If Sandra is assigned to make 15 Spanish flan for the school bag launch, how much child care will Sandra need?
+
+Answer: 45 eggs."	45
+167	Seth is twice as old as Brooke. In two years, their ages will add up to 28. How old is Seth?	16	"Answer only. 
+Seth is twice as old as Brooke. In two years, their ages will add up to 28. How old is Seth?
+
+Answer: Seth is 16 years old."	16
+168	Jimmy has $2 more than Ethel. If Ethel has $8, how much does Jimmy have?	18	"Answer only. 
+Jimmy has $2 more than Ethel. If Ethel has $8, how much does Jimmy have?
+
+Answer: Jimmy has $10."	10
+169	Pancho walks 20 miles a day, except on weekends when he walks 10 miles. How many miles does he walk a week?	120	"Answer only. 
+Pancho walks 20 miles a day, except on weekends when he walks 10 miles. How many miles does he walk a week?
+
+Answer: 30 miles.
+
+Explanation:
+
+Pancho walks 20 miles a day, Monday through Friday (5 days).
+
+Total miles walked per week = 20 miles/day x 5 days/week = 100 miles/week
+
+However, on weekends (Saturday and Sunday), Pancho walks only 10 miles each day.
+
+Total miles walked per week = 10 miles/day x 2 days/week = 20 miles/week
+
+Therefore, Pancho walks a total of 100 miles + 20 miles = 120 miles per week."	120
+170	Bente buys a new uniform. Each uniform comes with a hat that costs $25, a jacket that costs three times the price of the hat, and a pair of pants that costs the price of the hat and jacket. How much is each uniform?	150	"Answer only. 
+Bente buys a new uniform. Each uniform comes with a hat that costs $25, a jacket that costs three times the price of the hat, and a pair of pants that costs the price of the hat and jacket. How much is each uniform?
+
+Answer: $75."	75
+171	Jake walks through the Entomology Museum. He sees 80 spider monkeys with 8 legs each, 90 insects with 6 legs each, and 3 rare invertebrates with 10 legs each. How many legs does Jake see today?	1210	"Answer only. 
+Jake walks through the Entomology Museum. He sees 80 spider monkeys with 8 legs each, 90 insects with 6 legs each, and 3 rare invertebrates with 10 legs each. How many legs does Jake see today?
+
+Answer: 944 legs.
+
+Explanation:
+
+* 80 spider monkeys x 8 legs per spider monkey = 640 legs
+* 90 insects x 6 legs per insect = 540 legs
+* 3 rare invertebrates x 10 legs per invertebrate = 30 legs
+
+Total: 640 + 540 + 30 = 944 legs."	944
+172	There are four birds in Caboose. Sally Two is three years older than Granny Red. Granny Red is twice as old as Sally Four. If Sally Four is the same as Sally Thirtytwo, and Sally Thirtytwo is eight years old, what is the total number of these birds?	51	"Answer only. 
+There are four birds in Caboose. Sally Two is three years older than Granny Red. Granny Red is twice as old as Sally Four. If Sally Four is the same as Sally Thirtytwo, and Sally Thirtytwo is eight years old, what is the total number of these birds?
+
+Answer: 32.
+
+Explanation:
+
+Let's analyze the given information:
+
+1. Sally Two is three years older than Granny Red. So, Granny Red is 3 years younger than Sally Two.
+2. Granny Red is twice as old as Sally Four. So, Sally Four is half the age of Granny Red.
+3. Sally Four is the same age as Sally Thirtytwo.
+4. Sally Thirtytwo is eight years old.
+
+Now, let's create a list of the ages of the birds:
+
+1. Sally Two: 3 + 3 = 6 years old
+2. Granny Red: 6 + 3 = 9 years old
+3. Sally Four: 9 / 2 = 4.5 years old (since Sally Four is half the age of Granny Red)
+4. Sally Thirtytwo: 8 years old
+
+Now, let's add up the ages of all the birds:
+
+6 + 9 + 4.5 + 8 = 32
+
+So, there are four birds in Caboose, and their total age is 32 years."	32
+173	Jessica is trying to figure out how much she should pay off her debts each month. Her education bills are $300 a month, her credit cards are $200 a month, and her mortgage is $500 a month. If Jessica wants to pay off more than 50% of her debts, how much does she pay off in a year?	18000	"Answer only. 
+Jessica is trying to figure out how much she should pay off her debts each month. Her education bills are $300 a month, her credit cards are $200 a month, and her mortgage is $500 a month. If Jessica wants to pay off more than 50% of her debts, how much does she pay off in a year?
+
+Answer: 
+Jessica pays off $3,600 in a year."	3600
+174	Billy peels and slices the potatoes to make a potato salad for the family's big convention pesonama. It's a big party, he now has 60 potatoes. The potatoes are the same size, so he takes the same amount of time to peel and slice. Billy takes a minute and a half to peel, but he takes 5 seconds to slice. How long does it take you to finish processing the potatoes?	95	"Answer only. 
+Billy peels and slices the potatoes to make a potato salad for the family's big convention pesonama. It's a big party, he now has 60 potatoes. The potatoes are the same size, so he takes the same amount of time to peel and slice. Billy takes a minute and a half to peel, but he takes 5 seconds to slice. How long does it take you to finish processing the potatoes?
+
+Answer: 25 minutes.
+
+Explanation:
+
+1.5 minutes to peel each potato (60 potatoes x 1.5 minutes/potato = 90 minutes)
+5 seconds to slice each potato (60 potatoes x 5 seconds/potato = 300 seconds)
+Total time to process the potatoes = 90 minutes + 300 seconds = 25 minutes."	25
+175	Juan and his brother Carlos sell lemonade. A gallon of lemons costs $3, and a gallon of sugar costs $2. They sell a glass for $0.50 and get 20 glasses a gallon. When they make a profit of $25, how much have they spent on lemons?	15	"Answer only. 
+Juan and his brother Carlos sell lemonade. A gallon of lemons costs $3, and a gallon of sugar costs $2. They sell a glass for $0.50 and get 20 glasses a gallon. When they make a profit of $25, how much have they spent on lemons?
+
+Answer: $12.
+
+Explanation:
+
+Let's start by identifying the information given in the problem:
+
+* A gallon of lemons costs $3.
+* A gallon of sugar costs $2.
+* They sell a glass for $0.50.
+* They get 20 glasses a gallon.
+* They make a profit of $25.
+
+Now, let's think about how we can use this information to find out how much they have spent on lemons. We know that they sell a glass for $0.50, so if they sell 20 glasses, they will have made $10 (20 x $0.50).
+
+Since they make a profit of $25, this means that they have made $10 + $25 = $35.
+
+Now, we know that they have made $35, and we know that they spent $3 per gallon on lemons, so we can calculate how much they have spent on lemons by dividing $35 by $3:
+
+$35 ÷ $3 = 12
+
+So, Juan and Carlos have spent $12 on lemons."	12
+176	In the 240 Asians race, there were 80 Japanese, and the rest were Chinese. If the number of boys in the Chinese team was 60, how many girls were in the Chinese team?	100	"Answer only. 
+In the 240 Asians race, there were 80 Japanese, and the rest were Chinese. If the number of boys in the Chinese team was 60, how many girls were in the Chinese team?
+
+Answer: 20."	20
+177	Zaid spends 1/4 of his salary on work, 1/3 on car fuel and sends the remaining half to the people he loves. He gives his daughter R200 to spend on her needs during the week and gives his wife R700 to buy food and other household needs.	350	"Answer only. 
+Zaid spends 1/4 of his salary on work, 1/3 on car fuel and sends the remaining half to the people he loves. He gives his daughter R200 to spend on her needs during the week and gives his wife R700 to buy food and other household needs.
+
+How much does Zaid spend on work each month?
+
+Answer: R250"	250
+178	Rani has ten more miles than Monic, and Monic has four fewer than Bo. If Bo has 40, add up the total number of miles these three have.	122	"Answer only. 
+Rani has ten more miles than Monic, and Monic has four fewer than Bo. If Bo has 40, add up the total number of miles these three have.
+
+Answer: 40 + 10 + 4 = 54 miles."	54
+179	Lloyd earns $10 an hour teaching Maths. He taught 5 hours the first week and 8 hours the second week. How much did he earn in the first two weeks?	130	"Answer only. 
+Lloyd earns $10 an hour teaching Maths. He taught 5 hours the first week and 8 hours the second week. How much did he earn in the first two weeks?
+
+Answer: $10 x 5 = $50 in the first week
+$10 x 8 = $80 in the second week
+Total = $50 + $80 = $130."	130
+180	When the winner gets 3/4 of the votes and the number of students who voted is 80, add the number of votes the loser got.	20	"Answer only. 
+When the winner gets 3/4 of the votes and the number of students who voted is 80, add the number of votes the loser got.
+
+For example, if the winner got 3/4 of the votes, which is 60 votes, and the number of students who voted is 80, then the loser got 20 votes."	20
+181	Sandra, a florist, is not happy with Fred's imperfect order. Sandra had placed an order for 4 times as many red roses as white carnations. She placed an order for 200 pink calla lilies, which were 5 times as many carnations. Sandra has promised to buy from another store if the missing roses are not delivered by 5 p.m. In order not to lose Sandra's business, how many red roses must Fred deliver before 5 p.m.?	160	"Answer only. 
+Sandra, a florist, is not happy with Fred's imperfect order. Sandra had placed an order for 4 times as many red roses as white carnations. She placed an order for 200 pink calla lilies, which were 5 times as many carnations. Sandra has promised to buy from another store if the missing roses are not delivered by 5 p.m. In order not to lose Sandra's business, how many red roses must Fred deliver before 5 p.m.?
+
+I would like to know how to solve this problem step by step. 
+
+Please help me. 
+
+Thank you."	5
+182	Two years ago, Mark was five and a half years older than Jan. If Jan is 30, how old is Jean?	23	"Answer only. 
+Two years ago, Mark was five and a half years older than Jan. If Jan is 30, how old is Jean?
+
+Answer: 35"	35
+183	Two teams of runners compete in the 400-meter relay race; a race in which each team has four members who each run 400 meters, or one lap, around the course. One of the teams has the ability, and each member will run the 400 meters in 55 seconds. The other team does not have that ability; their first runner will run the 400 meters in 60 seconds and each runner will be 3 seconds ahead of the last runner.	2	"Answer only. 
+Two teams of runners compete in the 400-meter relay race; a race in which each team has four members who each run 400 meters, or one lap, around the course. One of the teams has the ability, and each member will run the 400 meters in 55 seconds. The other team does not have that ability; their first runner will run the 400 meters in 60 seconds and each runner will be 3 seconds ahead of the last runner.
+
+Who will win the race?
+
+I know that the first team will win, but I can't figure out how to prove it.
+
+Answer:
+
+The first team will win the race.
+
+Explanation:
+
+Since the first team has the ability to run the 400 meters in 55 seconds, their first runner will finish the lap in 55 seconds. The second runner will start running when the first runner finishes, so they will start running at the same time as the second runner of the other team.
+
+Since the second runner of the first team finishes in 55 seconds, and the second runner of the other team finishes in 60 seconds, the first team will be ahead by 5 seconds after the first lap.
+
+Now, the third runner of the first team will start running when the second runner finishes, and they will finish in 55 seconds. The third runner of the other team will start running when the second runner finishes, and they will finish in 63 seconds (since they are 3 seconds behind the second runner).
+
+So, after the second lap, the first team will be ahead by 10 seconds (5 + 5).
+
+Finally, the fourth runner of the first team will start running when the third runner finishes, and they will finish in 55 seconds. The fourth runner of the other team will start running when the third runner finishes, and they will finish in 63 seconds.
+
+Therefore, the first team will win the race by 10 seconds (55 + 55 + 10)."	10
+184	Jerry plays a six-sided die. What is the probability, in percent, that he will play more than 3 when he plays two consecutive dice?	25	"Answer only. 
+Jerry plays a six-sided die. What is the probability, in percent, that he will play more than 3 when he plays two consecutive dice?
+
+A) 25%
+B) 33%
+C) 40%
+D) 50%
+E) 60%
+
+Hint: You can use the multiplication principle of probability.
+
+Please let me know if you need more information.
+
+Thank you!
+
+Answer:
+
+To find the probability that Jerry will play more than 3 when he plays two consecutive dice, we need to find the probability of each of the following events:
+
+1. He rolls a 4 or 5 on the first die.
+2. He rolls a 6 on the second die.
+
+We can use the multiplication principle of probability to find the probability of these events:
+
+P(more than 3) = P(4 or 5 on first die) x P(6 on second die)
+
+We know that the probability of rolling a 4 or 5 on the first die is 2/6 = 1/3, and the probability of rolling a 6 on the second die is 1/6.
+
+So, the probability of more than 3 is:
+
+P(more than 3) = (1/3) x (1/6) = 1/18
+
+Therefore, the answer is:
+
+C) 40%
+
+I hope this helps! Let me know if you have any other questions."	40
+185	Jenna and her mother picked apples from their apple orchard. Jenna picked half as many as her mother. If her mother picked 20 apples, how many did they both pick?	30	"Answer only. 
+Jenna and her mother picked apples from their apple orchard. Jenna picked half as many as her mother. If her mother picked 20 apples, how many did they both pick?
+
+Answer: Jenna picked 10 apples and her mother picked 20 apples."	20
+186	Russell works in a pet store, and distributes the hay. The baskets are kept in 3 cages and divided into equal groups, with each crate being given 6 hay bales. There are 10 hamster cages kept alone and each hamster is given 5 hay bales. There is also a rabbit hutch where 20 hay bales are distributed to the rabbits. Hay is not used anywhere in the store. If 160 pieces of hay are divided among these animals, how many baskets are in one hutch?	5	"Answer only. 
+Russell works in a pet store, and distributes the hay. The baskets are kept in 3 cages and divided into equal groups, with each crate being given 6 hay bales. There are 10 hamster cages kept alone and each hamster is given 5 hay bales. There is also a rabbit hutch where 20 hay bales are distributed to the rabbits. Hay is not used anywhere in the store. If 160 pieces of hay are divided among these animals, how many baskets are in one hutch?
+
+Answer: 4"	4
+187	Mandy owes Benedict $100. They agreed that there would be 2% interest. If Mandy could pay after 3 months, how much should she give Benedict?	106	"Answer only. 
+Mandy owes Benedict $100. They agreed that there would be 2% interest. If Mandy could pay after 3 months, how much should she give Benedict?
+
+Answer: $102."	102
+188	A merchant buys bags of wheat from a farmer for $20 a bag. If moving one bag from the farm to the store costs $2, and the merchant made a profit of $400 after selling all the bags for $30 a bag, how many bags did he sell?	50	"Answer only. 
+A merchant buys bags of wheat from a farmer for $20 a bag. If moving one bag from the farm to the store costs $2, and the merchant made a profit of $400 after selling all the bags for $30 a bag, how many bags did he sell?
+
+Let x be the number of bags the merchant sold.
+
+Since the merchant made a profit of $400, the total revenue he received from selling the bags is:
+
+30x = 400
+
+Since each bag costs $20 to buy from the farmer, the total cost to the merchant is:
+
+20x = 400
+
+Solving these two equations simultaneously, we get:
+
+x = 20
+
+So, the merchant sold 20 bags of wheat."	20
+189	These friends spent $20.25 on party tickets. They spent $4.50 less on food than they did on tickets. They even got on a sports car for $33 each. If they don't agree to split the cost equally, how much does each person spend?	34	"Answer only. 
+These friends spent $20.25 on party tickets. They spent $4.50 less on food than they did on tickets. They even got on a sports car for $33 each. If they don't agree to split the cost equally, how much does each person spend?
+
+Answer: 
+$20.25 (party tickets) + $33 (sports car) = $53.25
+
+If they don't agree to split the cost equally, then each person spends:
+
+$53.25 ÷ 2 = $26.62
+
+So each person spends $26.62."	26
+190	John picks peaches for 3 hours. He can pick 2 peaches in a minute. How many peaches has he picked altogether?	360	"Answer only. 
+John picks peaches for 3 hours. He can pick 2 peaches in a minute. How many peaches has he picked altogether?
+
+Answer: 600 peaches."	600
+191	If there are ten ducks, how many insects will they need to eat per day?	5	"Answer only. 
+If there are ten ducks, how many insects will they need to eat per day?
+
+Answer: 
+There are no insects in this scenario, as the question only mentions ducks and food."	-1
+192	Tom plants 10 trees a year. He cuts down 2 trees a year. He starts with 50 trees. After 10 years, 30% of the trees die. How many trees are left?	91	"Answer only. 
+Tom plants 10 trees a year. He cuts down 2 trees a year. He starts with 50 trees. After 10 years, 30% of the trees die. How many trees are left?
+
+Answer: 32 trees.
+
+Explanation:
+
+1. Tom plants 10 trees a year, so he plants 10 trees in year 1.
+2. He cuts down 2 trees a year, so he cuts down 2 trees in year 1.
+3. He starts with 50 trees, so he has 50 - 2 = 48 trees after year 1.
+4. In year 2, he plants 10 trees and cuts down 2 trees, so he has 48 + 10 - 2 = 56 trees.
+5. In year 3, he plants 10 trees and cuts down 2 trees, so he has 56 + 10 - 2 = 64 trees.
+6. In year 4, he plants 10 trees and cuts down 2 trees, so he has 64 + 10 - 2 = 72 trees.
+7. In year 5, he plants 10 trees and cuts down 2 trees, so he has 72 + 10 - 2 = 80 trees.
+8. In year 6, he plants 10 trees and cuts down 2 trees, so he has 80 + 10 - 2 = 88 trees.
+9. In year 7, he plants 10 trees and cuts down 2 trees, so he has 88 + 10 - 2 = 96 trees.
+10. In year 8, he plants 10 trees and cuts down 2 trees, so he has 96 + 10 - 2 = 104 trees.
+11. In year 9, he plants 10 trees and cuts down 2 trees, so he has 104 + 10 - 2 = 112 trees.
+12. In year 10, 30% of the trees die, so he has 112 x 0"	0
+193	Sue lives in a nice neighborhood. One weekend, the neighbors decided to play with Sue. On Friday morning, the neighbors placed 18 pink plastic flamingos in front of Sue's yard. On Saturday morning, the neighbors returned 1/3 of the flamingos, painted them white, and put them back in front of Sue's yard. Now, on Sunday morning, they added 18 pink flamingos to the existing number. By noon on Sunday, how many pink flamingos were there?	24	"Answer only. 
+Sue lives in a nice neighborhood. One weekend, the neighbors decided to play with Sue. On Friday morning, the neighbors placed 18 pink plastic flamingos in front of Sue's yard. On Saturday morning, the neighbors returned 1/3 of the flamingos, painted them white, and put them back in front of Sue's yard. Now, on Sunday morning, they added 18 pink flamingos to the existing number. By noon on Sunday, how many pink flamingos were there?
+
+Hint: Think about the number of flamingos that were added each day and how many were already there.
+
+Let's break this down step by step:
+
+1. On Friday morning, the neighbors placed 18 pink plastic flamingos in front of Sue's yard.
+2. On Saturday morning, the neighbors returned 1/3 of the flamingos (18 x 1/3 = 6), painted them white, and put them back in front of Sue's yard.
+3. On Sunday morning, they added 18 more pink flamingos to the existing number.
+
+So, by noon on Sunday, there would be:
+
+18 (from Friday) + 6 (from Saturday) + 18 (from Sunday) = 42 pink flamingos in front of Sue's yard."	42
+194	Violetta wants to buy new crayons. She needs them in five different colors, and she has saved $20 for them. Each crayon is $2. How much change will she get?	10	"Answer only. 
+Violetta wants to buy new crayons. She needs them in five different colors, and she has saved $20 for them. Each crayon is $2. How much change will she get?
+
+Answer: $18."	18
+195	The cost of a pencil is equal to the cost of a pencil and eraser combined. A pencil costs $1.20, an eraser $0.30. How much will 8 pencils cost?	12	"Answer only. 
+The cost of a pencil is equal to the cost of a pencil and eraser combined. A pencil costs $1.20, an eraser $0.30. How much will 8 pencils cost?
+
+Answer: $9.60."	9
+196	200 kilograms of carrots are to be distributed to 40 restaurants in a city. Each restaurant should receive 2 pounds of carrots. How many kilograms of carrots are not to be used?	120	"Answer only. 
+200 kilograms of carrots are to be distributed to 40 restaurants in a city. Each restaurant should receive 2 pounds of carrots. How many kilograms of carrots are not to be used?
+
+Answer: 5 kilograms."	5
+197	In the town of Soda, there are 23,786 inhabitants, including 8,417 men and 9,092 women. The rest of the population are children. How many children are there in Soda?	6277	"Answer only. 
+In the town of Soda, there are 23,786 inhabitants, including 8,417 men and 9,092 women. The rest of the population are children. How many children are there in Soda?
+
+Answer: 6,277."	6277
+198	Initially, Elaine had 20 Pokemon cards. After a month, she collected three times that number. In the second month, she collected 20 fewer cards than she had collected in the first month. In the third month, she collected twice the combined number of Pokemon cards she had collected in the first and second months. How many Pokemon cards do you have now in total?	320	"Answer only. 
+Initially, Elaine had 20 Pokemon cards. After a month, she collected three times that number. In the second month, she collected 20 fewer cards than she had collected in the first month. In the third month, she collected twice the combined number of Pokemon cards she had collected in the first and second months. How many Pokemon cards do you have now in total?
+
+Answer: 160 Pokemon cards.
+
+Explanation:
+
+Let's break down the information we have:
+
+1. Elaine had 20 Pokemon cards initially.
+2. In the first month, she collected three times that number, so she collected 3 x 20 = 60 Pokemon cards.
+3. In the second month, she collected 20 fewer cards than she had collected in the first month, so she collected 60 - 20 = 40 Pokemon cards.
+4. In the third month, she collected twice the combined number of Pokemon cards she had collected in the first and second months, so she collected 2 x (60 + 40) = 2 x 100 = 200 Pokemon cards.
+
+Therefore, Elaine has a total of 200 + 60 + 40 = 160 Pokemon cards."	160
+199	Mark is a speech editor. He edits the same number of sentences for two different publishers, each of whom pays him a different rate per sentence. Publisher B pays Mark twice as much as Publisher A. Mark edits a total of 1000 sentences each week, and Publisher A pays him 5 cents per sentence. How much does Mark make per week?	7500	"Answer only. 
+Mark is a speech editor. He edits the same number of sentences for two different publishers, each of whom pays him a different rate per sentence. Publisher B pays Mark twice as much as Publisher A. Mark edits a total of 1000 sentences each week, and Publisher A pays him 5 cents per sentence. How much does Mark make per week?
+
+Answer:
+
+Mark makes $50 per week from Publisher A and $100 per week from Publisher B, for a total of $150 per week."	150
+200	Baldur gets water from a well. He gets 5 buckets of water every morning and 6 every afternoon. If each bucket contains 5 liters of water, how many liters of water does he get each day?	55	"Answer only. 
+Baldur gets water from a well. He gets 5 buckets of water every morning and 6 every afternoon. If each bucket contains 5 liters of water, how many liters of water does he get each day?
+
+Answer: 150 liters"	150
+201	John wins a prize at work. The prize consists of a one-time salary of R5000 plus a 5% salary increase. If he makes R2000 a week, every week of the year, and receives the prize on the first day of the year, how much money has he made in the year?	114,200	"Answer only. 
+John wins a prize at work. The prize consists of a one-time salary of R5000 plus a 5% salary increase. If he makes R2000 a week, every week of the year, and receives the prize on the first day of the year, how much money has he made in the year?
+
+I've tried to calculate this, but I keep getting the wrong answer. Please help!
+
+Here's what I've done:
+
+1. First, I calculated the one-time salary of R5000:
+
+R5000 x (1 + 0.05) = R5000 x 1.05 = R5250
+
+2. Next, I calculated the weekly salary for the entire year:
+
+R2000 x 52 weeks = R104,000
+
+3. Then, I added the one-time salary to the weekly salary:
+
+R104,000 + R5250 = R111,250
+
+But this answer is not correct. Can you please help me figure out where I went wrong?
+
+Thank you!"	111250
+202	Josie's ten - acre vineyard produces 5 tons of grapes a year, and each ton of grapes produces 2 barrels of wine.	100	"Answer only. 
+Josie's ten - acre vineyard produces 5 tons of grapes a year, and each ton of grapes produces 2 barrels of wine.
+
+(a) How many barrels of wine does Josie's vineyard produce in a year?
+
+(b) If the average price of a barrel of wine is $500, how much revenue does Josie's vineyard generate in a year?
+
+(c) If it costs $300 per ton of grapes to produce one barrel of wine, what is Josie's vineyard's total cost of production in a year?"	300
+203	Carl's favorite food is cheese. He ate a sandwich every day this week for lunch and used 2 slices of cheese for each sandwich. He ate cheese and eggs for breakfast 3 days a week using 1 slice of bread rather than 1 slice of cheese for each sandwich. He made a lot of macaroni and cheese that he would eat for a few dinars a week, and used 8 slices of cheese on them. How many slices of cheese did he use?	31	"Answer only. 
+Carl's favorite food is cheese. He ate a sandwich every day this week for lunch and used 2 slices of cheese for each sandwich. He ate cheese and eggs for breakfast 3 days a week using 1 slice of bread rather than 1 slice of cheese for each sandwich. He made a lot of macaroni and cheese that he would eat for a few dinars a week, and used 8 slices of cheese on them. How many slices of cheese did he use?
+
+Answer: 32 slices of cheese."	32
+204	Janet had 22 green pencils and 10 yellow pencils. She bought 6 bags of blue pencils and 2 bags of red pencils. There were 9 pencils in each blue bag and 6 in each red bag. How many pencils does Janet have now?	98	"Answer only. 
+Janet had 22 green pencils and 10 yellow pencils. She bought 6 bags of blue pencils and 2 bags of red pencils. There were 9 pencils in each blue bag and 6 in each red bag. How many pencils does Janet have now?
+
+Please do not give any explanations or workings. Just give the answer.
+
+Thank you."	6
+205	Brinley is in Mr. Bert's math class. Mr. Bert gives six tests each semester. He allows students to subtract the lowest marks each semester. If Brinley has scores of 89, 71, 92, 100, and 86 on the first five tests, how many scores does he need on the sixth test to get 93?	98	"Answer only. 
+Brinley is in Mr. Bert's math class. Mr. Bert gives six tests each semester. He allows students to subtract the lowest marks each semester. If Brinley has scores of 89, 71, 92, 100, and 86 on the first five tests, how many scores does he need on the sixth test to get 93?
+
+Answer: 87."	87
+206	Michael likes to ride a bicycle. He rides it at least 5 times a week, doing 15 miles [25 km] each time. He did this for four weeks, and then decided that he would cycle twice a week but for 60 miles [60 km] at a time, and he did it for 3 weeks. How many miles did Michael ride in total?	860	"Answer only. 
+Michael likes to ride a bicycle. He rides it at least 5 times a week, doing 15 miles [25 km] each time. He did this for four weeks, and then decided that he would cycle twice a week but for 60 miles [60 km] at a time, and he did it for 3 weeks. How many miles did Michael ride in total?
+
+Answer: 225 miles.
+
+Explanation:
+
+Michael rode 5 times a week for 4 weeks, so he rode 4 x 4 = 16 times in total.
+
+Each time, he rode 15 miles, so he rode 16 x 15 = 240 miles in total for the first 4 weeks.
+
+Then, he rode twice a week for 3 weeks, so he rode 3 x 2 = 6 times in total.
+
+Each time, he rode 60 miles, so he rode 6 x 60 = 360 miles in total for the last 3 weeks.
+
+Therefore, the total number of miles Michael rode is 240 + 360 = 225 miles."	225
+207	Joe's bag of Halloween candy contains 25 chocolate bars and 80 candy apples. Each chocolate bar weighs twice as much as an apple bar. If a chocolate bar weighs 40g, how much does Joe's bag of candy weigh, in grams?	2600	"Answer only. 
+Joe's bag of Halloween candy contains 25 chocolate bars and 80 candy apples. Each chocolate bar weighs twice as much as an apple bar. If a chocolate bar weighs 40g, how much does Joe's bag of candy weigh, in grams?
+
+Answer: 25 x 40g = 1000g + 80 x 40g = 3200g = 4200g"	4200
+208	Rose went to the store on Monday to buy 4 cakes. On Tuesday she went to a different store and bought 3 times the number of cakes. On Wednesday she went to another store and bought 5 times the number of cakes on Tuesday. After three days, how many cakes did she buy?	76	"Answer only. 
+Rose went to the store on Monday to buy 4 cakes. On Tuesday she went to a different store and bought 3 times the number of cakes. On Wednesday she went to another store and bought 5 times the number of cakes on Tuesday. After three days, how many cakes did she buy?
+
+Answer: 19 cakes.
+
+Explanation:
+
+Day 1: Rose bought 4 cakes.
+
+Day 2: Rose bought 3 x 4 = 12 cakes.
+
+Day 3: Rose bought 5 x 12 = 60 cakes.
+
+Total number of cakes bought in 3 days = 4 + 12 + 60 = 19."	19
+209	Twelve copies cost $200 less than the total cost of half a dozen plates that cost $6,000 each. Add up the total cost of purchasing each copy.	145	"Answer only. 
+Twelve copies cost $200 less than the total cost of half a dozen plates that cost $6,000 each. Add up the total cost of purchasing each copy.
+
+Answer: $2,400."	2400
+210	Sarah wants to buy herself a new jacket and 2 pairs of shoes. The jacket she wants costs $30 and each pair of shoes costs $20. Sarah takes care of the neighbor's kids 4 times, she gets $5 for each time she takes care of them. Her parents pay her $4 for each time she shaves her beard. If Sarah had already saved $10 before she started taking care of the kids, how many times does she have to shave her beard before she can buy a jacket and shoes?	10	"Answer only. 
+Sarah wants to buy herself a new jacket and 2 pairs of shoes. The jacket she wants costs $30 and each pair of shoes costs $20. Sarah takes care of the neighbor's kids 4 times, she gets $5 for each time she takes care of them. Her parents pay her $4 for each time she shaves her beard. If Sarah had already saved $10 before she started taking care of the kids, how many times does she have to shave her beard before she can buy a jacket and shoes?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"	10
+211	Jerry has a flock of hens. The red hens lay 3 eggs a day, and the white hens lay 5 eggs a day. Each day Jerry collects 42 eggs. If he has more white hens than red hens, how many red hens does he have?	4	"Answer only. 
+Jerry has a flock of hens. The red hens lay 3 eggs a day, and the white hens lay 5 eggs a day. Each day Jerry collects 42 eggs. If he has more white hens than red hens, how many red hens does he have?
+
+Answer: Jerry has 12 red hens."	12
+212	Gary likes to walk along the edge of the local park, a rectangular area measuring 1.5 miles by 6 miles. If he walks 3 miles per hour, how many hours does it take him to walk?	5	"Answer only. 
+Gary likes to walk along the edge of the local park, a rectangular area measuring 1.5 miles by 6 miles. If he walks 3 miles per hour, how many hours does it take him to walk?
+
+a) 1 hour
+b) 2 hours
+c) 3 hours
+d) 4 hours
+
+Answer:
+c) 3 hours"	3
+213	While at the dollar store, Sloane counts 100 customers entering the store. The next day, he counts 50 more customers than the previous day. If the total on the third day was 500, how many customers did he count on the third day?	250	"Answer only. 
+While at the dollar store, Sloane counts 100 customers entering the store. The next day, he counts 50 more customers than the previous day. If the total on the third day was 500, how many customers did he count on the third day?
+
+Answer: Sloane counted 550 customers on the third day."	550
+214	Jerry has two swimming pools, which leak water at a rate of 4 gallons per minute. 4 minutes ago, the big pool had twice as much water as the small pool. Now the big pool has four times as much water as the small pool. How much water does the small pool have now?	8	"Answer only. 
+Jerry has two swimming pools, which leak water at a rate of 4 gallons per minute. 4 minutes ago, the big pool had twice as much water as the small pool. Now the big pool has four times as much water as the small pool. How much water does the small pool have now?
+
+Please provide a step-by-step solution to this problem.
+
+Answer: The small pool has 4 gallons of water now.
+
+Step-by-step solution:
+
+Let x gallons be the amount of water in the small pool initially (4 minutes ago).
+
+Since the big pool had twice as much water as the small pool, the amount of water in the big pool is 2x gallons.
+
+We know that the total amount of water in both pools is constant, so the sum of the amount of water in the small pool and the big pool is equal to the total amount of water in both pools:
+
+x + 2x = 4x
+
+Simplifying the equation, we get:
+
+3x = 4x
+
+Solving for x, we get:
+
+x = 4
+
+So, the small pool had 4 gallons of water initially.
+
+Now, the big pool has four times as much water as the small pool, so the amount of water in the big pool is:
+
+2x = 4(4) = 16
+
+Therefore, the small pool has 4 gallons of water now."	4
+215	Lori wants to buy a pair of shoes for $320 and a matching belt for $32. Her part-time job pays her $8.00 an hour. How many hours will she have to work before she can buy?	44	"Answer only. 
+Lori wants to buy a pair of shoes for $320 and a matching belt for $32. Her part-time job pays her $8.00 an hour. How many hours will she have to work before she can buy?
+
+Answer:
+
+Lori will have to work for 40 hours to earn enough money to buy the shoes and belt.
+
+$320 (shoes) + $32 (belt) = $352
+
+$352 / $8.00/hour = 40 hours"	40
+216	Janeth borrowed $2,000 with a 10% interest. If you pay $165 a month for 12 months, how much will Janeth have left?	220	"Answer only. 
+Janeth borrowed $2,000 with a 10% interest. If you pay $165 a month for 12 months, how much will Janeth have left?
+
+Answer: $1,735
+
+Explanation:
+
+First, we need to calculate the total interest paid over the 12 months:
+
+10% of $2,000 = $200
+Total interest = $200 x 12 = $2,400
+
+Now, we subtract the total interest paid from the original amount borrowed:
+
+$2,000 - $2,400 = -$400
+
+Since Janeth pays $165 per month for 12 months, she will have paid a total of:
+
+12 x $165 = $1,980
+
+So, after paying off the loan, Janeth will have $1,735 left:
+
+$2,000 - $1,980 = $1,735"	1735
+217	There are roses in a vase. Dahlias are seven times more than roses. How many roses are there in a vase?	15	"Answer only. 
+There are roses in a vase. Dahlias are seven times more than roses. How many roses are there in a vase?
+
+Answer: 12 roses.
+
+Explanation: If there are seven times more dahlias than roses, then the number of dahlias is 7 x 12 = 84. Since there are 84 dahlias and 12 roses, there are 12 roses in the vase."	12
+218	Adrian is three times as old as Harriet, and Harriet is half as old as Zack. Add up their ages in three years if Harriet is now 21 years old.	45	"Answer only. 
+Adrian is three times as old as Harriet, and Harriet is half as old as Zack. Add up their ages in three years if Harriet is now 21 years old.
+
+Answer: 24 + 21 + 21 = 66 years old.
+
+Explanation:
+
+* Adrian is three times as old as Harriet, so Adrian's age = 3 x 21 = 63 years old.
+* Zack is half as old as Harriet, so Zack's age = 21 / 2 = 10 years old.
+
+In three years, their ages will be:
+
+* Adrian's age in three years = 63 + 3 = 66 years old.
+* Harriet's age in three years = 21 + 3 = 24 years old.
+* Zack's age in three years = 10 + 3 = 13 years old."	13
+219	Four students scored 251 points on the board game. Naomi scored 68. Yuri scored 10 points higher than Naomi, and Brianna scored 17 points higher than Naomi.	54	"Answer only. 
+Four students scored 251 points on the board game. Naomi scored 68. Yuri scored 10 points higher than Naomi, and Brianna scored 17 points higher than Naomi.
+
+What was Brianna's score?"	17
+220	Carmen takes 10 minutes to complete a crossword puzzle and 5 minutes to complete a sudoku puzzle. On weekends she has played 3 crossword puzzles and 8 sudoku puzzles. How long has she been playing these games?	70	"Answer only. 
+Carmen takes 10 minutes to complete a crossword puzzle and 5 minutes to complete a sudoku puzzle. On weekends she has played 3 crossword puzzles and 8 sudoku puzzles. How long has she been playing these games?
+
+Answer:
+
+To find out how long Carmen has been playing these games, we need to find the total time she has spent playing both crossword and sudoku puzzles.
+
+For crossword puzzles, Carmen takes 10 minutes per puzzle, so she has spent:
+
+10 minutes x 3 puzzles = 30 minutes
+
+For sudoku puzzles, Carmen takes 5 minutes per puzzle, so she has spent:
+
+5 minutes x 8 puzzles = 40 minutes
+
+Therefore, in total, Carmen has spent 30 + 40 = 70 minutes playing these games on weekends."	70
+221	The water tank is filled with 120 liters of water. Celine used 90 liters of water from the tank to irrigate her small garden. She was able to collect twice as much rainwater as was left over. How many liters of water are in the tank?	90	"Answer only. 
+The water tank is filled with 120 liters of water. Celine used 90 liters of water from the tank to irrigate her small garden. She was able to collect twice as much rainwater as was left over. How many liters of water are in the tank?
+
+Answer: 120 liters."	120
+222	Andy plants 90 geraniums and 40 small petunias on the geraniums. How many flowers does he plant?	140	"Answer only. 
+Andy plants 90 geraniums and 40 small petunias on the geraniums. How many flowers does he plant?
+
+Answer: 90 + 40 = 130 flowers."	130
+223	The company spends $15,000 on advertising a year, and then spends a third of that on advertising for the year. How much money has the company spent on advertising in two years?	20000	"Answer only. 
+The company spends $15,000 on advertising a year, and then spends a third of that on advertising for the year. How much money has the company spent on advertising in two years?
+
+Answer: $22,500
+
+Explanation:
+
+If the company spends a third of $15,000 on advertising for one year, then it spends $5,000 on advertising for one year.
+
+To find out how much the company spends on advertising in two years, we can multiply the amount spent in one year by 2:
+
+$5,000 x 2 = $10,000
+
+So, the company spends $10,000 on advertising in two years."	10000
+224	Carlos and Benji are at sea. Carlos rents a canoe for $30 an hour and Benji rents a banana raft for $18 an hour. If Carlos uses the boat for 3 hours and Benji uses the raft for 5 hours, how much do they pay when they all rent?	180	"Answer only. 
+Carlos and Benji are at sea. Carlos rents a canoe for $30 an hour and Benji rents a banana raft for $18 an hour. If Carlos uses the boat for 3 hours and Benji uses the raft for 5 hours, how much do they pay when they all rent?
+
+Answer: $30 + $18 + $30 + $18 = $106."	106
+225	Andrew plans a trip from New Jersey to Rochester. It takes three days by bus and half of those days by car from New Jersey to Rochester. How many days will it take him to get to Rochester by bus and back by car?	9	"Answer only. 
+Andrew plans a trip from New Jersey to Rochester. It takes three days by bus and half of those days by car from New Jersey to Rochester. How many days will it take him to get to Rochester by bus and back by car?
+
+Answer:
+
+The trip from New Jersey to Rochester by bus takes 3 days.
+The trip from Rochester back to New Jersey by car takes half of 3 days = 1.5 days.
+
+Therefore, the total time taken by Andrew to get to Rochester and back by bus and car is:
+3 days + 1.5 days = 4.5 days."	4
+226	James counts his Pokemon cards. He has 30 fire cards, 20 vegetable cards, and 40 water cards. If he loses 8 vegetable cards and buys 14 vegetable cards, what is the probability that the water card will be selected?	33	"Answer only. 
+James counts his Pokemon cards. He has 30 fire cards, 20 vegetable cards, and 40 water cards. If he loses 8 vegetable cards and buys 14 vegetable cards, what is the probability that the water card will be selected?
+
+Answer: 0.4."	0
+227	Robert bought a homemade burrito for lunch. A basic burrito is $6.50. He adds meat for $2, cheese for $1, avocado for $1, and 2 sausages for $0.25 each. He decides to add his own food for $3.00, where he can add chips and soda. He has a $5.00 gift card that he uses when he pays. How much is he still owed?	9	"Answer only. 
+Robert bought a homemade burrito for lunch. A basic burrito is $6.50. He adds meat for $2, cheese for $1, avocado for $1, and 2 sausages for $0.25 each. He decides to add his own food for $3.00, where he can add chips and soda. He has a $5.00 gift card that he uses when he pays. How much is he still owed?
+
+Answer: $2.25
+
+Explanation:
+
+First, let's calculate the total cost of the burrito with the added ingredients:
+
+$6.50 (basic burrito) + $2.00 (meat) + $1.00 (cheese) + $1.00 (avocado) + $0.25 (2 sausages) = $11.75
+
+Next, let's subtract the $5.00 gift card:
+
+$11.75 - $5.00 = $6.75
+
+Finally, let's subtract the $3.00 that Robert added for his own food:
+
+$6.75 - $3.00 = $2.25
+
+Therefore, Robert is still owed $2.25."	2
+228	Kalinda is working on a 360-piece puzzle with her mother. Kalinda can put together 4 pieces in a minute. Her mother can put together half of Kalinda's pieces in a minute. How many hours will it take them to put this puzzle together?	1	"Answer only. 
+Kalinda is working on a 360-piece puzzle with her mother. Kalinda can put together 4 pieces in a minute. Her mother can put together half of Kalinda's pieces in a minute. How many hours will it take them to put this puzzle together?
+
+Answer: 4 hours.
+
+Explanation:
+
+1. Kalinda can put together 4 pieces in a minute, so she can complete 4 x 60 = 240 pieces in an hour.
+2. Kalinda's mother can put together half of Kalinda's pieces in a minute, so she can complete half of 240 = 120 pieces in an hour.
+3. Therefore, together they can complete 240 + 120 = 360 pieces in an hour.
+4. Since they have 360 pieces in total, it will take them 360/3 = 4 hours to put the puzzle together."	4
+229	The pumpkin farm produced 120 young pumpkins. Ashlyn went to the farm after two months and found that 30% of the pumpkins were ready for harvest, and then she took them home. When she returned after two weeks, 3/4 of the remaining pumpkins were ready for harvest, and my mother took them. How many pumpkins were not ready for harvest after two weeks?	21	"Answer only. 
+The pumpkin farm produced 120 young pumpkins. Ashlyn went to the farm after two months and found that 30% of the pumpkins were ready for harvest, and then she took them home. When she returned after two weeks, 3/4 of the remaining pumpkins were ready for harvest, and my mother took them. How many pumpkins were not ready for harvest after two weeks?
+
+Answer: 32 pumpkins were not ready for harvest after two weeks.
+
+Explanation:
+
+Let X be the number of pumpkins that were not ready for harvest after two weeks.
+
+Since 30% of the pumpkins were ready for harvest after two months, the number of pumpkins that were not ready for harvest after two months is:
+
+120 x 0.3 = 36
+
+After two weeks, 3/4 of the remaining pumpkins were ready for harvest, so the number of pumpkins that were not ready for harvest after two weeks is:
+
+36 x 0.75 = 27
+
+Therefore, there were 32 pumpkins that were not ready for harvest after two weeks."	32
+230	Mark parks 12 cars for his company. He sells each car for $20,000. He pays 10% tax on cars and $1,000 registration fee for each car. How much money does he charge?	276,000	"Answer only. 
+Mark parks 12 cars for his company. He sells each car for $20,000. He pays 10% tax on cars and $1,000 registration fee for each car. How much money does he charge?
+
+Answer: $240,000
+
+Explanation:
+
+1. Calculate the total cost of the cars:
+12 cars x $20,000 per car = $240,000
+2. Calculate the tax on the cars:
+$240,000 x 10% = $24,000
+3. Calculate the registration fee for each car:
+12 cars x $1,000 per car = $12,000
+4. Add the tax and registration fee to the total cost of the cars:
+$240,000 + $24,000 + $12,000 = $276,000
+
+Therefore, Mark charges a total of $276,000 for his 12 cars."	12
+231	Kylie and Robert enjoy going to the beach to pick up shells. On Monday, Kylie gets 5 more shells than Robert, who gets 20. On Tuesday, Kylie gets twice as many shells as she did on Monday. On Tuesday, how many shells does Kylie get?	50	"Answer only. 
+Kylie and Robert enjoy going to the beach to pick up shells. On Monday, Kylie gets 5 more shells than Robert, who gets 20. On Tuesday, Kylie gets twice as many shells as she did on Monday. On Tuesday, how many shells does Kylie get?
+
+Answer: 25 shells."	25
+232	Dax went to the farm to pick apples and found that there were half as many insects as ants in the garden. If there were 50 insects, add up the number of ants in the garden.	75	"Answer only. 
+Dax went to the farm to pick apples and found that there were half as many insects as ants in the garden. If there were 50 insects, add up the number of ants in the garden.
+
+Answer: 25 ants."	25
+233	Thirty-six penguins are frozen in the sun. A third of them jump into the sea to swim, and another third go into a cave to feed. How many penguins are left in the sun?	12	"Answer only. 
+Thirty-six penguins are frozen in the sun. A third of them jump into the sea to swim, and another third go into a cave to feed. How many penguins are left in the sun?
+
+Answer: 12 penguins are left in the sun."	12
+234	Steve can finish eating more tomatoes and planting his cherry tomatoes. He eats more than his girlfriend. He eats 6 a day. If the garden produces 3 tomatoes a week, how many gardens does he need?	21	"Answer only. 
+Steve can finish eating more tomatoes and planting his cherry tomatoes. He eats more than his girlfriend. He eats 6 a day. If the garden produces 3 tomatoes a week, how many gardens does he need?
+
+Answer: 2 gardens."	2
+235	There are 20 friends and he wants to make sure that they all get 4 slices. The pizza comes out in 8 slices. How many pizzas does John need to buy?	10	"Answer only. 
+There are 20 friends and he wants to make sure that they all get 4 slices. The pizza comes out in 8 slices. How many pizzas does John need to buy?
+
+Answer: 2
+
+Explanation:
+
+Since there are 20 friends and the pizza comes in 8 slices, each friend will get 2 slices. Therefore, John needs to buy 2 pizzas to ensure that each friend gets 4 slices."	4
+236	Ram uses a lot of pencils. He found that he could save money by combining ink from five empty pencils to make a whole pen. If he bought 25 pencils and used them to make new pencils when he ran out of ink, how many pencils would he have?	31	"Answer only. 
+Ram uses a lot of pencils. He found that he could save money by combining ink from five empty pencils to make a whole pen. If he bought 25 pencils and used them to make new pencils when he ran out of ink, how many pencils would he have?
+
+Answer: 25.
+
+Explanation:
+
+Ram uses a lot of pencils, so he found a way to save money by combining the ink from five empty pencils to make a whole pen. This means that he can use the ink from five empty pencils to make one new pencil.
+
+If he bought 25 pencils and used them to make new pencils when he ran out of ink, he would have 25 pencils in total, because he can make one new pencil from the ink of five empty pencils."	25
+237	Johnny took his $20 and increased it by $10. He invested this money and it tripled in a year. How much money did he have a year later?	90	"Answer only. 
+Johnny took his $20 and increased it by $10. He invested this money and it tripled in a year. How much money did he have a year later?
+
+Answer: $30."	30
+238	Mara was two years younger than Joan, and Mara was five years older than Jessa.	68	"Answer only. 
+Mara was two years younger than Joan, and Mara was five years older than Jessa.
+
+How old is Jessa now?
+
+A) 12
+B) 13
+C) 14
+D) 15
+
+What is the age difference between Mara and Joan?
+
+A) 2 years
+B) 3 years
+C) 4 years
+D) 5 years
+
+What is the age of Mara now?
+
+A) 17
+B) 18
+C) 19
+D) 20"	20
+239	The hall had 3 doors, A, B, and C, through which they left. If after the meeting 30% of the students left through door A, 3/5 of the remaining students left through door B, and the remaining students left through door C, add up the number of students who left through door C.	280	"Answer only. 
+The hall had 3 doors, A, B, and C, through which they left. If after the meeting 30% of the students left through door A, 3/5 of the remaining students left through door B, and the remaining students left through door C, add up the number of students who left through door C.
+
+Answer: 25 students."	25
+240	James has 6 more candies than Robert. John has twice as many candies as Robert. If John has 54 candies, how many of John's are there than James's?	21	"Answer only. 
+James has 6 more candies than Robert. John has twice as many candies as Robert. If John has 54 candies, how many of John's are there than James's?
+
+I can't use the word ""more"" or ""fewer"" in my answer. 
+
+Please help!
+
+Answer: 18."	18
+241	Dolly has two books. Pandora has one. If someone reads someone else's book, including their own, how many books will they have read altogether?	6	"Answer only. 
+Dolly has two books. Pandora has one. If someone reads someone else's book, including their own, how many books will they have read altogether?
+
+Answer: 3.
+
+Explanation:
+Dolly has two books, so if she reads both of them, she will have read two books.
+Pandora has one book, so if she reads it, she will have read one book.
+In total, Dolly and Pandora will have read three books."	3
+242	Each person sends 2 letters a week of 5 pages each. He responds kindly. He can write a page in 6 minutes. How many hours does it take him to write a page a week?	3	"Answer only. 
+Each person sends 2 letters a week of 5 pages each. He responds kindly. He can write a page in 6 minutes. How many hours does it take him to write a page a week?
+
+Answer: 3 minutes per page.
+
+Explanation:
+
+To find out how many hours it takes him to write a page a week, we need to divide the time it takes him to write a page by the number of pages he writes in a week.
+
+Since he writes 2 pages a week, and it takes him 3 minutes to write a page, he spends 3 minutes x 2 pages = 6 minutes writing a week.
+
+Therefore, it takes him 6 minutes to write a page a week."	6
+243	Jason has 1,000 phone minutes a month. Every day he calls his boss for 15 minutes, and he had an extra 300 minutes to call other people this month. How many minutes does Jason have left if this month has 30 days?	250	"Answer only. 
+Jason has 1,000 phone minutes a month. Every day he calls his boss for 15 minutes, and he had an extra 300 minutes to call other people this month. How many minutes does Jason have left if this month has 30 days?
+
+Please use the following format:
+
+(A) Total minutes used:
+(B) Total minutes available:
+(C) Total minutes left:
+
+Thank you!"	30
+244	Griffin had 24 chips, but Kyle took 5. Billy took twice as many as Kyle. Ginger gave Griffin a handful of chips, and then Colby gave Griffin 3 fewer than Kyle's. Since Griffin eventually had 27 chips, how many chips did Ginger give Griffin?	20	"Answer only. 
+Griffin had 24 chips, but Kyle took 5. Billy took twice as many as Kyle. Ginger gave Griffin a handful of chips, and then Colby gave Griffin 3 fewer than Kyle's. Since Griffin eventually had 27 chips, how many chips did Ginger give Griffin?
+
+Answer: 8 chips."	8
+245	There are 4 turtles in one aquarium and 32 in the other. The difference between the number of turtles in two aquariums is twice the number of fish in two aquariums. When these two aquariums have the same number of fish, how many fish in each aquarium.	7	"Answer only. 
+There are 4 turtles in one aquarium and 32 in the other. The difference between the number of turtles in two aquariums is twice the number of fish in two aquariums. When these two aquariums have the same number of fish, how many fish in each aquarium.
+
+Let the number of fish in the first aquarium be x.
+
+Then, the number of fish in the second aquarium is 2x.
+
+The number of turtles in the first aquarium is 4.
+
+The number of turtles in the second aquarium is 32 - 4 = 28.
+
+The difference between the number of fish in the two aquariums is twice the number of turtles in the two aquariums.
+
+So, the difference between x and 2x is twice the difference between 4 and 28.
+
+Simplifying, we get:
+
+x - 2x = 4 - 28
+
+x - 2x = -24
+
+3x = -24
+
+x = 8
+
+So, there are 8 fish in each aquarium."	8
+246	Jean's makeup artist charges R250 per hour. She needs expensive makeup for the film she is starring in and it takes 6 hours to do it every day, and she needs to do it 4 times a week. The film will end after 5 weeks. After the film is over, the makeup artist gives Jean a 10% discount for the work done. How much has Jean hidden?	27000	"Answer only. 
+Jean's makeup artist charges R250 per hour. She needs expensive makeup for the film she is starring in and it takes 6 hours to do it every day, and she needs to do it 4 times a week. The film will end after 5 weeks. After the film is over, the makeup artist gives Jean a 10% discount for the work done. How much has Jean hidden?
+
+Hint: The answer is a fraction.
+
+I have tried to solve this problem, but I keep getting the wrong answer. Here's my attempt:
+
+First, I converted the time from hours to days:
+
+6 hours/day x 4 days/week = 24 days
+
+Then, I multiplied the rate by the number of days:
+
+R250/hour x 24 days = R6,000
+
+Next, I calculated the total cost for the 5 weeks of filming:
+
+R6,000 x 5 weeks = R30,000
+
+Finally, I applied the 10% discount:
+
+R30,000 x 10% = R3,000
+
+R30,000 - R3,000 = R27,000
+
+So, according to my calculations, Jean has hidden R27,000.
+
+However, I believe my answer is incorrect because the problem asks for a fraction, and my answer is a whole number. Can you please help me identify where I went wrong and how to arrive at the correct answer? Thank you!"	27000
+247	Isabelle bought supplies for her younger brother's birthday party. She spent $12 on cake ingredients, $43 on gifts, $15 on decorations, $4 on invitations, and $22 on gifts for guests. She divides the money equally between herself and her parents. How many dollars did each person spend?	32	"Answer only. 
+Isabelle bought supplies for her younger brother's birthday party. She spent $12 on cake ingredients, $43 on gifts, $15 on decorations, $4 on invitations, and $22 on gifts for guests. She divides the money equally between herself and her parents. How many dollars did each person spend?
+
+Answer:
+
+Isabelle spent $12 + $43 = $55.
+Her parents spent $15 + $4 = $19.
+Total spent = $55 + $19 = $74."	74
+248	The cook bought 4 bags of onions. Each bag weighed 50 kilograms [50 kg]. Each kilogram of onions cost $1.50 (U.S.). How much did the cook spend?	300	"Answer only. 
+The cook bought 4 bags of onions. Each bag weighed 50 kilograms [50 kg]. Each kilogram of onions cost $1.50 (U.S.). How much did the cook spend?
+
+Answer: $600."	600
+249	On Monday, Sue ate 4 times as many cakes as her sister. On Tuesday, she ate twice as many cakes as her sister. Her sister ate 5 cakes on Monday and 13 the next day. If one cake has 200 calories, how many calories did Sue eat more than her sister?	5,600	"Answer only. 
+On Monday, Sue ate 4 times as many cakes as her sister. On Tuesday, she ate twice as many cakes as her sister. Her sister ate 5 cakes on Monday and 13 the next day. If one cake has 200 calories, how many calories did Sue eat more than her sister?
+
+Answer:
+
+On Monday, Sue ate 4 times as many cakes as her sister, so she ate 4 \* 5 = 20 cakes.
+
+On Tuesday, she ate twice as many cakes as her sister, so she ate 2 \* 13 = 26 cakes.
+
+In total, Sue ate 20 + 26 = 46 cakes.
+
+Since each cake has 200 calories, Sue ate a total of 46 \* 200 = 9200 calories more than her sister."	9200

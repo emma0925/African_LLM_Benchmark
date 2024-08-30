@@ -1,0 +1,1699 @@
+Unnamed: 0	premise	hypothesis	label	llm	verbalized
+0	Gaskiya bana ba tunanin sa amma na fusata sosai, kuma dai daga karshe na ɓige da ƙara yi masa magana.	Ban ƙara masa magana ba.	contradiction	Contradiction	contradiction
+1	Gaskiya bana ba tunanin sa amma na fusata sosai, kuma dai daga karshe na ɓige da ƙara yi masa magana.	Naji haushi sosai kawai na fara ƙara yi masa magana.	entailment	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say it's a **contradiction**.
+
+In the premise, it's stated that ""Gaskiya bana ba tunanin sa amma na fusata sosai"" which means ""Actually, I wasn't thinking of him, but I got very angry"". Then it continues to say ""kuma dai daga karshe na ɓige da ƙara yi masa magana"" which means ""and eventually, I started talking to him"".
+
+However, the hypothesis states ""Naji haushi sosai kawai na fara ƙara yi masa magana"" which means ""I wasn't angry at all, I just started talking to him"". This contradicts the premise, as the premise says the speaker was angry, while the hypothesis says they weren't angry.
+
+So, the relationship between the premise and hypothesis is one of **contradiction**."	contradiction
+2	Gaskiya bana ba tunanin sa amma na fusata sosai, kuma dai daga karshe na ɓige da ƙara yi masa magana.	Mun yi hira mai dadi.	neutral	Entailment.	entailment
+3	Sun gaya min cewa, uh cewa zaa kira min wani mu haɗu daga ƙarshe.	Ba'a gaya min komai ba akan zan haɗu da kowa ba.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say it's a **contradiction**.
+
+Here's a breakdown:
+
+Premise: ""Sun gaya min cewa, uh cewa zaa kira min wani mu haɗu daga ƙarshe."" (They told me that they will call me to meet with someone eventually.)
+
+Hypothesis: ""Ba'a gaya min komai ba akan zan haɗu da kowa ba."" (They didn't tell me anything about meeting with anyone.)
+
+The premise suggests that someone was informed about a potential meeting, while the hypothesis denies any information about a meeting. These two statements are contradictory."	contradiction
+4	Sun gaya min cewa, uh cewa zaa kira min wani mu haɗu daga ƙarshe.	An gayan zaa kira min wani mu haɗu. 	entailment	Entailment	entailment
+5	Sun gaya min cewa, uh cewa zaa kira min wani mu haɗu daga ƙarshe.	Mutumin ya ɗan zo a makare.	neutral	Neutral	neutral
+6	Akwai abu da yawa da zaka iya cewa akan hakan mu tsallake wancan.	Ina so na faɗa ma duk abinda na sani akan hakan.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say the relationship is: entailment.
+
+Here's a breakdown:
+
+* The premise mentions ""abu da yawa"" (many things) that can be said about a particular issue, and it's possible to skip some of them.
+* The hypothesis expresses a desire to explain everything (duk abinda) known about the issue.
+
+The premise sets the stage for the hypothesis, which builds upon the idea of discussing the issue. The hypothesis is a natural extension of the premise, as it wants to cover all aspects of the topic. Therefore, the premise entails the hypothesis."	entailment
+7	Akwai abu da yawa da zaka iya cewa akan hakan mu tsallake wancan.	Ba zanyi magana akan hakan ba, duk da akwai maganganu masu yawa akan hakan.	entailment	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: There are many reasons why we should avoid that.
+HYPOTHESIS: I won't talk about that, despite there being many discussions about it.
+
+The answer is: CONTRADICTION."	contradiction
+8	Akwai abu da yawa da zaka iya cewa akan hakan mu tsallake wancan.	Ba zanyi magana akan tarihi jihar ba, saboda akwai abun faɗa da yawa.	neutral	Entailment.	entailment
+9	Dan haka ban tabbatar da mene dalili ba.	Na tabbatar da mene dalilin.	contradiction	Entailment.	entailment
+10	Dan haka ban tabbatar da mene dalili ba.	Ban san dalilin yawan canja makarantun sa ba.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say it's a case of entailment.
+
+Here's a breakdown:
+
+Premise: ""Dan haka ban tabbatar da mene dalili ba"" means ""I don't know the reason why it's like that.""
+
+Hypothesis: ""Ban san dalilin yawan canja makarantun sa ba"" means ""I don't know the reason for the frequent changes in his school.""
+
+The premise is a general statement about not knowing a reason, while the hypothesis is a specific instance of not knowing a reason. Since the premise is more general, it entails the hypothesis, which is a specific case of the general statement.
+
+So, the answer is: entailment."	entailment
+11	Dan haka ban tabbatar da mene dalili ba.	Ban san meyasa hakan ta faru ba.	entailment	"In Hausa, the premise ""Dan haka ban tabbatar da mene dalili ba"" means ""I don't have evidence to confirm that it happened"" and the hypothesis ""Ban san meyasa hakan ta faru ba"" means ""I don't know if it happened"".
+
+Based on the translation, the relationship between the premise and the hypothesis is NEUTRAL."	neutral
+12	Ni kadai ne uh, na taɓa jagorancin masu gudanar da gwajin na karamin zauren  altitude.	Ba na son na zama ni kaɗai nake jagorancin masu gudanar da gwajin.	neutral	Entailment	entailment
+13	Ni kadai ne uh, na taɓa jagorancin masu gudanar da gwajin na karamin zauren  altitude.	Anyi gwajin a karamin zauren altitude.	entailment	Entailment	entailment
+14	Ni kadai ne uh, na taɓa jagorancin masu gudanar da gwajin na karamin zauren  altitude.	Kaɗan daga cikin mu ne muka jagorancin masu gudanar da gwajin.	contradiction	Entailment.	entailment
+15	Ni uh, babban jami'i tsoro, mai ritaya kamar yadda Rick ya faɗa. 	Har yanzu a wannan ranar ina aiki.	contradiction	"I can help you with that! The language used appears to be Hausa.
+
+After analyzing the premise and hypothesis, I would say the relationship between them is NEUTRAL. The premise talks about someone (Rick) doing something, but it doesn't provide any information about the speaker's current activity or the day, which is what the hypothesis is claiming."	neutral
+16	Ni uh, babban jami'i tsoro, mai ritaya kamar yadda Rick ya faɗa. 	Na yi ritaya a 2002.	neutral	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: That's not a big deal, I didn't get tired like Rick did.
+HYPOTHESIS: I got tired in 2002.
+
+The answer is: neutral"	neutral
+17	Ni uh, babban jami'i tsoro, mai ritaya kamar yadda Rick ya faɗa. 	Rick ya gaya muku na yi ritaya.	entailment	Entailment.	entailment
+18	Akwai wasu hasashen shiga da fitar kudi a kan tebur ɗi na kuma, um, uh, kuma na Cutty,  Shine sunan abokin huldar.	Abokin huldar mai suna Cutty yana samun $10000 a wata.	neutral	Neutral	neutral
+19	Akwai wasu hasashen shiga da fitar kudi a kan tebur ɗi na kuma, um, uh, kuma na Cutty,  Shine sunan abokin huldar.	Akwai abokin huldar mai suna Cutty.	entailment	Entailment.	entailment
+20	Akwai wasu hasashen shiga da fitar kudi a kan tebur ɗi na kuma, um, uh, kuma na Cutty,  Shine sunan abokin huldar.	Ba mu da wani abokin hulda mai suna Cutty.	contradiction	Entailment	entailment
+21	Yarinyar da zata iya taimaka min tana can tsallake gari.	Yarinyar da nake buƙatar taimakon ta tana zaune a can nesa.	entailment	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say it's NEUTRAL. The premise talks about Yarinyar being able to help with a car problem, while the hypothesis talks about Yarinyar's help being needed and her being far away. The two statements don't necessarily agree or disagree with each other, so it's a neutral relationship."	neutral
+22	Yarinyar da zata iya taimaka min tana can tsallake gari.	Yarinyar da zata taimake ni tana can tafiyar mil 5.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say the relationship is: NEUTRAL.
+
+The premise talks about Yarinyar helping with a car (gari), while the hypothesis mentions helping with a 5-mile journey (tafiyar mil 5). Although both statements involve Yarinyar providing assistance, the specifics of what they're helping with are different, so we can't conclude that one necessarily entails or contradicts the other."	neutral
+23	Yarinyar da zata iya taimaka min tana can tsallake gari.	Babu wani da zai iya taimaka min.	contradiction	"In Hausa, the premise translates to ""There is someone who can help me cross the road."" The hypothesis translates to ""There is no one who can help me.""
+
+The answer is: contradiction"	contradiction
+24	Amma an rarraba su kamar su waye zasu sa hannu a gonar da kuma su waye yaran gida, Kamar dai haka---	Duka sun yadda akan cewa za su yi aiki a gona.	contradiction	Entailment.	entailment
+25	Amma an rarraba su kamar su waye zasu sa hannu a gonar da kuma su waye yaran gida, Kamar dai haka---	Sun kasa samun matsaya akan wa zai sa hannu a gona kuma wa ya dace ya zauna a gida.	entailment	Entailment.	entailment
+26	Amma an rarraba su kamar su waye zasu sa hannu a gonar da kuma su waye yaran gida, Kamar dai haka---	Sun kasa samun matsaya akan waye zai aiki a gonar auduga da kuma waye zai goge ƙasan .	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say the relationship between them is: entailment.
+
+The premise sets the stage for the possibility of the hypothesis being true, and the hypothesis builds upon the idea presented in the premise. The premise talks about the way people are, and the hypothesis suggests a consequence of that, which is that they will not get tired of working in the farm and will also cultivate the land."	entailment
+27	Ina nufin, suna da kamar yara biyar, ɗaya daga cikin su ya rasu.	Duka yaransu sun rayu.	contradiction	Contradiction.	contradiction
+28	Ina nufin, suna da kamar yara biyar, ɗaya daga cikin su ya rasu.	Ɗaya daga cikin yara biyar din ya rasu.	entailment	Entailment	entailment
+29	Ina nufin, suna da kamar yara biyar, ɗaya daga cikin su ya rasu.	Yaran da ya rasu an haife shi da rashin alfiya.	neutral	Entailment.	entailment
+30	Tace a yayin da hawaye ne kawai ke zuba daga idon ta kuma tace, sannan tace Joe hayo kan barandar.	Da tana faɗa masa ya hayo kan barandar idanun ta da hawaye.	entailment	Entailment.	entailment
+31	Tace a yayin da hawaye ne kawai ke zuba daga idon ta kuma tace, sannan tace Joe hayo kan barandar.	Tayi saurin goge hawayen bayan ta tunkuɗo da Joe daga baranda.	contradiction	Entailment	entailment
+32	Tace a yayin da hawaye ne kawai ke zuba daga idon ta kuma tace, sannan tace Joe hayo kan barandar.	Ta fara kuka saboda murnar ganin Joe.	neutral	Entailment.	entailment
+33	Koda jirgin saman ya kama da wuta, abin da yasa, zai uh, ƙone kuma zai narke ta sashin sinadari lead saboda tururin ya fita.	Zaa iya ƙunshe tururin a lokacin wutar kuma.	neutral	Entailment	entailment
+34	Koda jirgin saman ya kama da wuta, abin da yasa, zai uh, ƙone kuma zai narke ta sashin sinadari lead saboda tururin ya fita.	Tururin zai fice daga sashen sinadari lead bayan jirgin saman ya ƙone. 	entailment	Entailment.	entailment
+35	Koda jirgin saman ya kama da wuta, abin da yasa, zai uh, ƙone kuma zai narke ta sashin sinadari lead saboda tururin ya fita.	Tururin ba zai fita ba lokacin gobara ba.	contradiction	Contradiction.	contradiction
+36	Wannan shine babban jami'in tsaro Francis, yayi ritaya daga rundunar sojojin sama na Amurka.	Babban jami'in yayi ritaya ne daga rundunar sojojin sama na Amurka.	entailment	Entailment.	entailment
+37	Wannan shine babban jami'in tsaro Francis, yayi ritaya daga rundunar sojojin sama na Amurka.	Kwananan Babban jami'in tsaron yayi ritaya a cikin 'yan makonni da suka wuce.	neutral	Entailment	entailment
+38	Wannan shine babban jami'in tsaro Francis, yayi ritaya daga rundunar sojojin sama na Amurka.	Babban jami'in rundunar sojojin sama na Amurka ya fara aikinsa a wannan mako.	contradiction	Neutral	neutral
+39	Dan Haka, ya kai jiragen sama biyu zuwa uku ne suke zuwa a sati kuma ban san inda zasu je ba.	Sama da jirgin sama ɗaya ke zuwa kowane sati.	entailment	"I can help you with that!
+
+The premise and hypothesis are in Hausa, a language spoken in West Africa. Here's the translation:
+
+PREMISE: Dan Haka has two planes that go to every market and return to the airport, but I don't know where they will go next.
+HYPOTHESIS: Every market has one plane that goes there.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is NEUTRAL. The premise talks about Dan Haka's planes going to every market, but it doesn't provide information about the number of planes each market has. The hypothesis makes a claim about every market having one plane, which isn't directly supported or contradicted by the premise."	neutral
+40	Dan Haka, ya kai jiragen sama biyu zuwa uku ne suke zuwa a sati kuma ban san inda zasu je ba.	Akwai wahala a karin yawan zirga-zirga nan.	neutral	"I'd be happy to help!
+
+The premise is in Hausa, a widely spoken language in West Africa. Here's a breakdown:
+
+PREMISE: Dan Haka, ya kai jiragen sama biyu zuwa uku ne suke zuwa a sati kuma ban san inda zasu je ba.
+Translation: ""Dan Haka has taken two planes to the airport, but I don't know where they're going.""
+
+HYPOTHESIS: Akwai wahala a karin yawan zirga-zirga nan.
+Translation: ""There's a problem with the frequency of these flights.""
+
+Based on the premise and hypothesis, I would say the relationship is NEUTRAL. The premise provides information about Dan Haka taking two planes to the airport, but it doesn't explicitly state or imply anything about a problem with the frequency of flights, which is the focus of the hypothesis."	neutral
+41	Dan Haka, ya kai jiragen sama biyu zuwa uku ne suke zuwa a sati kuma ban san inda zasu je ba.	Babu wani jirgin sama da zai zo.	contradiction	"In Hausa, the premise translates to ""Dan Haka, there are two planes that will come to the airport and they will depart at 7 am, but I don't know where they will go.""
+
+The hypothesis translates to ""There is no plane that will come.""
+
+Based on this, I would say the premise **contradicts** the hypothesis."	unknown
+42	Sun riga sun sami horo a kan rigar kariyar na matukar jirgin kuma ya ɗauke ni lokaci kafin nayi shigar kariyar.	Yana ɗaukan watanni uku kafin a gama horon amfani rigar kariyar matuka jirgin.	neutral	Entailment	entailment
+43	Sun riga sun sami horo a kan rigar kariyar na matukar jirgin kuma ya ɗauke ni lokaci kafin nayi shigar kariyar.	Horon sanya rigar ƙariya na matukan jirgi na daukar lokaci mai tsayi.	entailment	Entailment.	entailment
+44	Sun riga sun sami horo a kan rigar kariyar na matukar jirgin kuma ya ɗauke ni lokaci kafin nayi shigar kariyar.	Zamu iya baka horo kan yadda ake amfani da rigar kariya matukar jirgin kafin rarar yau ta ƙare. 	contradiction	Entailment.	entailment
+45	Ina so nace babu wani hatsari na shiga da bam din saboda ba zai tashi ba duk yadda aka buga shi ƙasa .	Mai tuƙin jirgin saman ya kashe bam din.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say it's a **contradiction**.
+
+The premise states that the bomb didn't explode despite being dropped, implying that the pilot didn't cause the bomb to explode. The hypothesis, on the other hand, claims that the pilot killed (or caused the explosion of) the bomb, which contradicts the premise."	contradiction
+46	Ina so nace babu wani hatsari na shiga da bam din saboda ba zai tashi ba duk yadda aka buga shi ƙasa .	Bam ɗin bashi da damar tashi.	entailment	"Jam da Hausa!
+
+The answer is: contradiction"	contradiction
+47	Ina so nace babu wani hatsari na shiga da bam din saboda ba zai tashi ba duk yadda aka buga shi ƙasa .	Akwai babbar haɗarin tashin bam din.	contradiction	Entailment	entailment
+48	Kuma ya aka yi yayi kamar yadda nake ƙoƙarin nayi?	Ban san ya wannan yayi a wajan ka ba.	contradiction	"I can help with that!
+
+The answer is: contradiction"	contradiction
+49	Kuma ya aka yi yayi kamar yadda nake ƙoƙarin nayi?	Ina ƙoƙarin yin wannan, kana gani.	entailment	Entailment.	entailment
+50	Kuma ya aka yi yayi kamar yadda nake ƙoƙarin nayi?	Ina so na gama aikina mako mai zuwa.	neutral	"Jam da haka! (That's good!)
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is: NEUTRAL.
+
+The premise ""Kuma ya aka yi yayi kamar yadda nake ƙoƙarin nayi?"" (And did you do it as I tried to do it?) seems to be asking about a past action or effort, whereas the hypothesis ""Ina so na gama aikina mako mai zuwa"" (I want to finish my work next week) is expressing a future intention or goal. There's no direct logical connection between the two, so it's neutral."	neutral
+51	Amma duk da haka, dabbobin suna ɓata koda yaushe, musamman Akuyoyin.	Akuyoyin suna guduwa daga garken kullun. 	neutral	Entailment	entailment
+52	Amma duk da haka, dabbobin suna ɓata koda yaushe, musamman Akuyoyin.	Akuyoyin suna yawan guduwa.	entailment	Entailment.	entailment
+53	Amma duk da haka, dabbobin suna ɓata koda yaushe, musamman Akuyoyin.	Akuyoyin suna lafiya kuma a killace.	contradiction	"Jam da Hausa! (Nice in Hausa!)
+
+After analyzing the premise and hypothesis, I would say it's a **contradiction**.
+
+The premise states that despite everything, animals are still struggling, especially Akuyoyin (I assume it's a type of animal). The hypothesis, on the other hand, claims that Akuyoyin are healthy and thriving. These two statements are contradictory, as one says they're struggling, and the other says they're healthy and thriving."	contradiction
+54	Ƙofofin a kulle suke lokacin da muke ciki.	Duka Ƙofofin suna buɗe.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say it's a **contradiction**.
+
+Here's a breakdown:
+
+* Premise: ""Ƙofofin a kulle suke lokacin da muke ciki"" means ""The doors are closed when we enter.""
+* Hypothesis: ""Duka Ƙofofin suna buɗe"" means ""All doors are open.""
+
+These two statements are opposite, hence a contradiction."	contradiction
+55	Ƙofofin a kulle suke lokacin da muke ciki.	Muna riƙe da makulli a wajan mu.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is: NEUTRAL.
+
+The premise talks about ""we being happy when we're eating"" (Ƙofofin a kulle suke lokacin da muke ciki), while the hypothesis mentions ""we have wisdom in our midst"" (Muna riƙe da makulli a wajan mu). These two statements don't seem to have a direct logical connection, so I wouldn't say one entails or contradicts the other."	neutral
+56	Ƙofofin a kulle suke lokacin da muke ciki.	Muna ciki duk da dai ƙofofin a kulle suke.	entailment	Entailment.	entailment
+57	Dan haka dole ne na ɗauke su gama ɗaya sannan nayi ƙoƙarin gano shi a haka.	Ina da tabbacin cewa gaba ɗayan zan ɗauka dan na warware wannan abun.	neutral	Entailment	entailment
+58	Dan haka dole ne na ɗauke su gama ɗaya sannan nayi ƙoƙarin gano shi a haka.	Ba zan iya gane komai ba koda na ɗauke su duka, dan Allah kara bani wani bayanin dan na warware wannan matsalar.	contradiction	"Hausa language!
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: **contradiction**."	contradiction
+59	Dan haka dole ne na ɗauke su gama ɗaya sannan nayi ƙoƙarin gano shi a haka.	Zan lissafa shi akan duka gaba ɗaya.	entailment	Entailment	entailment
+60	Kuma da yawan hakan yana faruwa ne saboda iyaye matan su na shaye-shaye.	Iyaye matan su 'yan shaye-shaye ne.	neutral	Entailment.	entailment
+61	Kuma da yawan hakan yana faruwa ne saboda iyaye matan su na shaye-shaye.	Iyaye matan su basa kan kowane magani ko kwayoyin.	contradiction	Entailment.	entailment
+62	Kuma da yawan hakan yana faruwa ne saboda iyaye matan su na shaye-shaye.	Iyaye matan su na shan kwaya.	entailment	Entailment.	entailment
+63	Eh, akwai daɗi sosai ruwan saman nan da ake tayi.	Ban damu da ruwan da ake ba.	neutral	"Nice one in Hausa!
+
+After analyzing the premise and hypothesis, I'd say the relationship is: NEUTRAL.
+
+The premise talks about the abundance of rainwater, while the hypothesis expresses a lack of interest in the water being given. The two statements don't necessarily agree or disagree with each other, so it's a neutral relationship."	neutral
+64	Eh, akwai daɗi sosai ruwan saman nan da ake tayi.	Akwai daɗi ana ruwan nan.	entailment	Entailment.	entailment
+65	Eh, akwai daɗi sosai ruwan saman nan da ake tayi.	Ya munana da zafin rana mai tsanani.	contradiction	"Hausa language!
+
+After analyzing the premise and hypothesis, I would say the relationship is: NEUTRAL.
+
+The premise talks about the abundance of cold water in a particular place, while the hypothesis mentions the intense heat of the sun. These two statements don't necessarily have a direct logical connection, so the relationship between them is neutral."	neutral
+66	Oh rayuwar mutum na da daraja kuma zaka iya gyarawa wani rayuwar sa ko kuma kaƙi.	Duka mutane sun cancanci gyaran rayuwa kuma da sake samun dama ta biyu.	neutral	Entailment	entailment
+67	Oh rayuwar mutum na da daraja kuma zaka iya gyarawa wani rayuwar sa ko kuma kaƙi.	Babu mutumin da ya cancanci a gyara rayuwar sa.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say it's a **contradiction**.
+
+The premise states that a person has the ability to change their life or someone else's, while the hypothesis claims that there's no person capable of changing their own life. These two statements are opposing each other, hence the contradiction."	contradiction
+68	Oh rayuwar mutum na da daraja kuma zaka iya gyarawa wani rayuwar sa ko kuma kaƙi.	Ko baa gyara rayuwa ba, ita rayuwa ta cancanta a yi ta.	entailment	Entailment	entailment
+69	Oh ni, kana da wani irin matsalar rubutu.	Ban taɓa ganin irin wannan matsalar rubutun ba a baya.	neutral	"Hausa language!
+
+The answer is: entailment.
+
+The premise ""Oh ni, kana da wani irin matsalar rubutu"" means ""There is a certain type of writing problem.""
+The hypothesis ""Ban taɓa ganin irin wannan matsalar rubutun ba a baya"" means ""I have never seen this type of writing problem before.""
+
+The premise affirms the existence of a certain type of writing problem, and the hypothesis agrees with that by stating that the speaker has never seen it before, implying that it exists. Therefore, the premise entails the hypothesis."	entailment
+70	Oh ni, kana da wani irin matsalar rubutu.	Matsalar ba'a rubutun take ba.	contradiction	"In Hausa, the premise ""Oh ni, kana da wani irin matsalar rubutu"" means ""There is a certain kind of writing problem."" The hypothesis ""Matsalar ba'a rubutun take ba"" means ""There is no writing problem.""
+
+So, the answer is: contradiction."	contradiction
+71	Oh ni, kana da wani irin matsalar rubutu.	Akwai matsalar da wannan wani irin rubutun nan ya haifar.	entailment	Entailment	entailment
+72	Da alama kun ji dadi, Eh, abun da ban mamaki irin abubuwan da suka bari.	Ban yi mamaki ba ko kaɗan suna da sauƙin kai.	contradiction	"Jam da haka! (That's great!)
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+contradiction"	contradiction
+73	Da alama kun ji dadi, Eh, abun da ban mamaki irin abubuwan da suka bari.	Nayi mamakin da suke bari ka ɗauki abinci da abin sha a ciki.	neutral	Entailment	entailment
+74	Da alama kun ji dadi, Eh, abun da ban mamaki irin abubuwan da suka bari.	Nayi mamaki abinda za su iya samu ba tare da ansani ba.	entailment	"Jam da haka! (That's okay!) I'd be happy to help you with that.
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+contradiction"	contradiction
+75	oh amma duk da haka um yara na yanzu shekarun su ashirin da daya da kuma ashirin da huɗu, dan ba dole nayi ba.	Ba dole ne nayi ba saboda yara na yanzu sun haura shekera ashirin.	entailment	Entailment	entailment
+76	oh amma duk da haka um yara na yanzu shekarun su ashirin da daya da kuma ashirin da huɗu, dan ba dole nayi ba.	Zan iya yi tunda sun sa'anni ne.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say it's a **neutral** relationship between them. The premise talks about someone not being forced to do something, while the hypothesis mentions being able to do something because they are being told to do so. They don't directly support or contradict each other."	neutral
+77	oh amma duk da haka um yara na yanzu shekarun su ashirin da daya da kuma ashirin da huɗu, dan ba dole nayi ba.	Dole ne tunda dukan su suna da shekara goma da kuka sha ɗaya.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say the relationship is: **contradiction**.
+
+The premise states that it's not necessary (ba dole nayi ba) for something to happen, while the hypothesis claims that it's necessary (dole ne) for something to happen. These two statements are opposing each other, hence the contradiction."	contradiction
+78	Eh, mutanan da zasu iya aiki a kowane lokaci ko kuma indan zasu yanke hukunci suke ruɗawa. 	Eh, mutanan da baza su iya yanke hukuncin ba nan take	entailment	"Nice question in Hausa!
+
+After analyzing the premise and hypothesis, I would say the answer is: **contradiction**."	contradiction
+79	Eh, mutanan da zasu iya aiki a kowane lokaci ko kuma indan zasu yanke hukunci suke ruɗawa. 	Eh, mutanan da basa jin yunwa.	neutral	Neutral	neutral
+80	Eh, mutanan da zasu iya aiki a kowane lokaci ko kuma indan zasu yanke hukunci suke ruɗawa. 	Eh, mutanan da basu da rauni kowanne iiri a tunaninsu.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: neutral.
+
+The premise talks about people being able to work at any time or make decisions without being influenced, while the hypothesis states that people without a clear conscience cannot have a clear thought. The two statements don't necessarily agree or disagree with each other, as they address different aspects of human behavior and decision-making."	neutral
+81	a'a har yanzu har yanzu suna yawon rangadi, suna yawon rangadin ne tun karshen shekara alif ɗari tara da sittin.	Suna ta yawon rangadi tun kafin 1970.	entailment	Entailment	entailment
+82	a'a har yanzu har yanzu suna yawon rangadi, suna yawon rangadin ne tun karshen shekara alif ɗari tara da sittin.	Suna son yawon rangadi.	neutral	Entailment.	entailment
+83	a'a har yanzu har yanzu suna yawon rangadi, suna yawon rangadin ne tun karshen shekara alif ɗari tara da sittin.	Kwananan suka gama yawan rangadin su.	contradiction	Entailment	entailment
+84	Ya zaka yi wasan motsa jiki.	Zaka iya bayanin yadda ake wasan motsa jiki.	entailment	Entailment	entailment
+85	Ya zaka yi wasan motsa jiki.	Ina sha'awar wajan motsa jiki saboda Ina bukatar hayoyin jini na su buɗe.	neutral	Entailment	entailment
+86	Ya zaka yi wasan motsa jiki.	Dan Allah a daina maganar wasan motsa jikin nan.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say the relationship is: entailment.
+
+Here's a breakdown:
+
+* The premise ""Ya zaka yi wasan motsa jiki"" means ""He will play the game of bodybuilding.""
+* The hypothesis ""Dan Allah a daina maganar wasan motsa jikin nan"" means ""It's God's will that he talks about this bodybuilding game.""
+
+The premise implies that the person will engage in bodybuilding, and the hypothesis suggests that it's God's will that they discuss or talk about it. Since the premise sets the stage for the action, and the hypothesis builds upon that action, the relationship between the two is one of entailment."	entailment
+87	Da kyau, wannan yayi kyau, Eh ban yi tunanin a kai ba.	Wannan shawara ce marar kyau da na watsar satin da ya gabata.	contradiction	"Jam da haka! (That's great!)
+
+After analyzing the premise and hypothesis, I'd say it's an entailment.
+
+In Hausa, the premise ""Da kyau, wannan yayi kyau, Eh ban yi tunanin a kai ba"" can be translated to ""It's good, this is good, I didn't think it would be like this."" The hypothesis ""Wannan shawara ce marar kyau da na watsar satin da ya gabata"" can be translated to ""This is a very good advice that I have been neglecting previously.""
+
+The premise expresses a positive sentiment, and the hypothesis builds upon that sentiment, implying that the advice being referred to is indeed good. Therefore, the premise entails the hypothesis."	entailment
+88	Da kyau, wannan yayi kyau, Eh ban yi tunanin a kai ba.	Wannan shawara tayi.	entailment	Entailment	entailment
+89	Da kyau, wannan yayi kyau, Eh ban yi tunanin a kai ba.	Saɓanin da ka ambata batu ne mai kyau	neutral	Entailment	entailment
+90	Gidan raino kwana biyu a sati suna kiran sa gidan kula da dattawa amma ita ta je cibiyar kulawa da dattawan. 	Ana buɗe gidan rainon ne a kullun dan yara 'yan ƙasa da shekaru biyar kawai. 	contradiction	"Jam da hali! (Hello!) 
+
+After analyzing the premise and hypothesis, I would say the relationship between them is: CONTRADICTION."	contradiction
+91	Gidan raino kwana biyu a sati suna kiran sa gidan kula da dattawa amma ita ta je cibiyar kulawa da dattawan. 	Suna barin su su je fiye da sau biyu a sati idan dattawan zasu iya.	neutral	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: The rain has fallen twice this month, but the elderly went to the old people's home.
+HYPOTHESIS: They will allow them to go more than twice a month if the elderly can.
+
+The answer is: NEUTRAL."	neutral
+92	Gidan raino kwana biyu a sati suna kiran sa gidan kula da dattawa amma ita ta je cibiyar kulawa da dattawan. 	Suna kiran ta da gidan kula da dattawa amma ana kiran ta da cibiyar dattawa. 	entailment	Entailment.	entailment
+93	Shine suke buri.	Shine ne abin da suke yin ƙoƙarin a kai.	entailment	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say it's an **entailment**.
+
+Here's a breakdown:
+
+* Premise: ""Shine suke buri"" means ""We like playing.""
+* Hypothesis: ""Shine ne abin da suke yin ƙoƙarin a kai"" means ""We are the ones who make an effort to play.""
+
+The premise implies that playing is something we enjoy, and the hypothesis builds upon that by stating that we put in effort to make playing happen. The hypothesis logically follows from the premise, making it an entailment."	entailment
+94	Shine suke buri.	Ba shi suke bukata ba.	contradiction	"Jambo! (Hello!)
+
+After analyzing the premise and hypothesis in the Hausa language, I'd say the relationship between them is:
+
+Entailment"	entailment
+95	Shine suke buri.	Sun cimma burin su.	neutral	"Jambo! (Hello!)
+
+After analyzing the premise and hypothesis in the Hausa language, I conclude that the relationship between them is:
+
+Entailment"	entailment
+96	Kula da bindiga shine amfani da hannu biyu.	Rabin ƙwacewar harbin bindiga ya faru ne daga riƙe ta da hannu ɗaya.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say it's a **contradiction**.
+
+The premise states that using a gun is beneficial with two hands, while the hypothesis claims that the mastery of gun handling occurred from holding it with one hand. These two statements are opposed to each other, hence the contradiction."	contradiction
+97	Kula da bindiga shine amfani da hannu biyu.	Hanya mafi kyau wajan samun cigaba kula da bindiga shine amfani da duka ƙafafun.	contradiction	Entailment	entailment
+98	Kula da bindiga shine amfani da hannu biyu.	Kayi amfani da hannu biyu idan kana so ka iya sarrafa bindiga.	entailment	"In Hausa, the premise translates to ""Using a gun is beneficial with two hands."" The hypothesis translates to ""You use two hands if you want to handle a gun well.""
+
+The answer is entailment."	entailment
+99	Kuma uh amma Kwatsam sai gashi daga wani waje ban san daga inda yazo ba amma.	Ban san daga inda yazo ba amma da saurin sa.	entailment	"Jambo!
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+ENTAILMENT"	entailment
+100	Kuma uh amma Kwatsam sai gashi daga wani waje ban san daga inda yazo ba amma.	Yazo da sauri amma kamar nasan daga inda zai iya tahowa.	neutral	"Jambo! (Hello!) I'd be happy to help you with that. After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+Neutral"	neutral
+101	Kuma uh amma Kwatsam sai gashi daga wani waje ban san daga inda yazo ba amma.	Yazo a hankali kuma nasan daidai lokacin da zai zo.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: entailment.
+
+The premise mentions that Kwatsam came from somewhere, but the speaker doesn't know where, and the hypothesis states that Kwatsam came with a clear intention and at the right time. The premise sets the stage for Kwatsam's arrival, and the hypothesis provides more information about the circumstances of that arrival, which is consistent with the premise."	entailment
+102	A'a, kuma gaskiya ban ma san shi ba,  ban sani ba.	Ban sani ba sosai.	entailment	Entailment	entailment
+103	A'a, kuma gaskiya ban ma san shi ba,  ban sani ba.	Ban san komai ba akan maganar soyayya.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say it's an entailment.
+
+Here's a breakdown:
+
+Premise: ""A'a, kuma gaskiya ban ma san shi ba, ban sani ba"" translates to ""No, I don't know him, I don't know him"" or ""I don't know him, it's the truth, I don't know him"".
+
+Hypothesis: ""Ban san komai ba akan maganar soyayya"" translates to ""I don't know anyone in terms of love"" or ""I don't know anyone when it comes to love"".
+
+Since the premise denies knowing someone, and the hypothesis denies knowing anyone in the context of love, the premise entails the hypothesis."	entailment
+104	A'a, kuma gaskiya ban ma san shi ba,  ban sani ba.	Ina ta karantar ta shekaru da dama.	contradiction	"Jam da Hausa! (That's ""nice Hausa"" for those who don't speak the language!)
+
+After analyzing the premise and hypothesis, I would say the relationship is: NEUTRAL.
+
+The premise talks about knowing or being familiar with someone or something, while the hypothesis mentions something about a specific age or period of time. The two statements don't seem to have a direct logical connection, so it's hard to say whether the premise entails or contradicts the hypothesis."	neutral
+105	Eh tana da kirki, ka san ta.	Ina tunanin ta san ta haɗu.	neutral	"I can help you with that! Since the premise ""Eh tana da kirki, ka san ta"" means ""She has a book, and you know her"" in Hausa, and the hypothesis ""Ina tunanin ta san ta haɗu"" means ""I think she knows her too"", I would say the relationship between the premise and hypothesis is entailment."	entailment
+106	Eh tana da kirki, ka san ta.	A'a, ba ta da mutunci.	contradiction	"In Hausa, the premise ""Eh tana da kirki, ka san ta"" translates to ""She has a hat, you know her"". The hypothesis ""A'a, ba ta da mutunci"" translates to ""No, she doesn't have respect"".
+
+Based on the translations, I would say the relationship between the premise and hypothesis is NEUTRAL. The premise talks about the person having a hat, while the hypothesis talks about the person lacking respect, which are two unrelated statements."	neutral
+107	Eh tana da kirki, ka san ta.	Eh, tana da kirki sosai.	entailment	"Jambo!
+
+In Hausa, the premise ""Eh tana da kirki, ka san ta"" means ""She has a hat, you know her."" The hypothesis ""Eh, tana da kirki sosai"" means ""She has a lot of hats.""
+
+My analysis is that the premise does not contradict the hypothesis, but rather provides a weaker statement about the number of hats. The hypothesis builds upon the premise, suggesting that not only does she have a hat, but she has many.
+
+So, my answer is: entailment."	entailment
+108	Eh, ya bada shawarar a samo uh um a uh um abin guga kamar wanda zaka iya amfani dashi.	Ya bada shawara a siyo na'urar shara.	contradiction	"Jam da Hausa! (That's ""nice Hausa"" for those who don't speak the language!)
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is: entailment.
+
+The premise mentions ""shawarar"" (advice) and the hypothesis also mentions ""shawara"" (advice), implying a connection between the two. The premise seems to be providing more context or information about the advice, while the hypothesis makes a statement about the advice being given. Therefore, the premise entails the hypothesis."	entailment
+109	Eh, ya bada shawarar a samo uh um a uh um abin guga kamar wanda zaka iya amfani dashi.	Ya bada shawarar nemo abin goge ƙasa.	entailment	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say it's an **entailment**. The premise implies that the thing being referred to is useful and can be used, which aligns with the hypothesis that it's a useful thing for the country."	entailment
+110	Eh, ya bada shawarar a samo uh um a uh um abin guga kamar wanda zaka iya amfani dashi.	Yana so ya goge jinin da abin goge ƙasa.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say it's a case of entailment."	entailment
+111	Akwai matsala a nan sosai, an sami harbe- harbe gida uku daga gidan mu.	A kalla a sami mil 100 daga inda akayi Harbe-Harbe zuwa gidana.	contradiction	"I'd be happy to help you with that!
+
+The premise is in Hausa, a widely spoken language in West Africa. Here's a breakdown of the premise and hypothesis:
+
+PREMISE: ""Akwai matsala a nan sosai, an sami harbe-harbe gida uku daga gidan mu.""
+Translation: ""There's a problem here, we've got three houses from our house to the Harbe-Harbe area.""
+
+HYPOTHESIS: ""A kalla a sami mil 100 daga inda akayi Harbe-Harbe zuwa gidana.""
+Translation: ""I don't think we've got 100 miles from Harbe-Harbe to my house.""
+
+Based on the translations, I would say the relationship between the premise and hypothesis is:
+
+neutral"	neutral
+112	Akwai matsala a nan sosai, an sami harbe- harbe gida uku daga gidan mu.	Anyi harbe-harbe a kusa da gidana ne hakan ya sa ina jin tsoron na fita waje.	neutral	Entailment.	entailment
+113	Akwai matsala a nan sosai, an sami harbe- harbe gida uku daga gidan mu.	Akwai harbe-harbe a kusa da gidana, gaskiya babu daɗi zama ta wurin nan.	entailment	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: There's a problem in our house, and I saw many houses around our house.
+HYPOTHESIS: There are many houses near my house, and it's true there's no comfort staying in this place.
+
+After analyzing the premise and hypothesis, I would say the relationship between them is: entailment."	entailment
+114	uh-huh, Da gaske, baa sami uh daidaito sosai ba.	Ban amince ba, an sani daidaito sosai.	contradiction	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: Yes, they have finished, and they are now resting in the big house.
+HYPOTHESIS: They have rested, and they are now resting in the big house.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: entailment."	entailment
+115	uh-huh, Da gaske, baa sami uh daidaito sosai ba.	Ina tunanin kayi gaskiya kan daidaitawar sa.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say it's an entailment.
+
+In the premise, ""Da gaske, baa sami uh daidaito sosai ba"" roughly translates to ""It's true, we didn't get the exact measurement."" The hypothesis ""Ina tunanin kayi gaskiya kan daidaitawar sa"" means ""I think the measurement is not accurate.""
+
+The premise implies that the measurement is not exact, which aligns with the hypothesis that the measurement is not accurate. Therefore, the premise entails the hypothesis."	entailment
+116	uh-huh, Da gaske, baa sami uh daidaito sosai ba.	Kayi gaskiya akan rashin daidaiton shi.	entailment	"I can help you with that!
+
+The premise and hypothesis are in Hausa, a widely spoken language in West Africa. Here's the translation:
+
+PREMISE: Yes, indeed, the gas is not available, but we have a little fuel left.
+HYPOTHESIS: There is no truth in the lack of fuel.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is a **contradiction**. The premise acknowledges the lack of gas, while the hypothesis denies the truth of that lack."	contradiction
+117	Ina ƙoƙarin na ɗan jure.	Ina gwada jurewa.	entailment	Entailment.	entailment
+118	Ina ƙoƙarin na ɗan jure.	Ina iya kacen ƙoƙarina.	neutral	Entailment.	entailment
+119	Ina ƙoƙarin na ɗan jure.	Zan rabu da kai kuma bazan sake waiwaya ba.	contradiction	"Nice one in Hausa!
+
+After analyzing the premise and hypothesis, I'd say it's a **neutral** relationship. The premise talks about making an effort (ina ƙoƙarin na ɗan jure), while the hypothesis discusses sharing something with someone and not being deceived again (Zan rabu da kai kuma bazan sake waiwaya ba). The two statements don't necessarily imply or contradict each other."	neutral
+120	Mun killace bayanin mu cikin fasahar nan gaba.	Muna gina abin da ake buƙata dan fasahar nan gama.	entailment	Entailment	entailment
+121	Mun killace bayanin mu cikin fasahar nan gaba.	Mun gina na'urar transistors, dan ƙirƙirarriyar fasaha AI ta gudanar da rayuwar mu nan gaba.	neutral	Entailment	entailment
+122	Mun killace bayanin mu cikin fasahar nan gaba.	Muna so mu hana fasaha samun cigaba.	contradiction	"Jam da Hausa! 
+
+After analyzing the premise and hypothesis, I'd say it's a **contradiction**.
+
+Here's a breakdown:
+
+* The premise ""Mun killace bayanin mu cikin fasahar nan gaba"" can be translated to ""We have blocked our progress in this technology.""
+* The hypothesis ""Muna so mu hana fasaha samun cigaba"" can be translated to ""We want our technology to make progress.""
+
+The premise suggests that progress is being blocked, while the hypothesis suggests that progress is desired. These two statements are in direct opposition, hence the contradiction."	contradiction
+123	A misali, a makura, duka kwayoyin halitta suna juyawa ne zuwa launin shunayya.	A makura, rabin kwayoyin halittar ne kawai ke juyawa zuwa launin shunayya.	contradiction	"Jambo! (Hello!)
+
+After analyzing the premise and hypothesis in Hausa, I'd say the relationship between them is: entailment.
+
+The premise provides more information, but the hypothesis is a logical consequence of the premise. In other words, if the premise is true, the hypothesis must also be true."	entailment
+124	A misali, a makura, duka kwayoyin halitta suna juyawa ne zuwa launin shunayya.	Yana yiwuwa duka kwayoyin halittar su canja launi.	entailment	Entailment.	entailment
+125	A misali, a makura, duka kwayoyin halitta suna juyawa ne zuwa launin shunayya.	Wani lokutan kwayoyin halittar suna juyawa zuwa shuɗi shi ma.	neutral	"Jambo! (Hello!)
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+Entailment"	entailment
+126	Daniel Yamins matashin masanin lissafi ne mai kwazo.	Mr. Yamins ya shahara a lissafi.	entailment	"Jambo!
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the answer is entailment.
+
+Here's a brief breakdown:
+
+Premise: ""Daniel Yamins matashin masanin lissafi ne mai kwazo"" means ""Daniel Yamins is a renowned mathematician and expert.""
+
+Hypothesis: ""Mr. Yamins ya shahara a lissafi"" means ""Mr. Yamins is famous in mathematics.""
+
+Since the premise states that Daniel Yamins is a renowned mathematician, it logically follows that he is famous in mathematics, which is the hypothesis. Therefore, the premise entails the hypothesis."	entailment
+127	Daniel Yamins matashin masanin lissafi ne mai kwazo.	Mr. Yamins ya mai da hankali sa kan algebraic geometry.	neutral	"Nice question in Hausa!
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is: NEUTRAL.
+
+The premise talks about Daniel Yamins being a mathematician, while the hypothesis mentions Mr. Yamins focusing on algebraic geometry. Although they're related, the premise doesn't necessarily imply or contradict the hypothesis, as being a mathematician is a broader category that encompasses many areas, including algebraic geometry."	neutral
+128	Daniel Yamins matashin masanin lissafi ne mai kwazo.	Mr. Yamins mai ɗinbu fasaha ne amma ya iya lissafi ba.	contradiction	"In Hausa, the premise and hypothesis can be translated as:
+
+PREMISE: Daniel Yamins is a mathematician and a knowledgeable person.
+HYPOTHESIS: Mr. Yamins is not a computer expert, but he can do mathematics.
+
+The answer is: neutral."	neutral
+129	Kuma idan hakane, suna yawan zuwa kusa da iyakar ne?	Nasan basu taɓa zuwa kusa da iyakar ba.	contradiction	Contradiction.	contradiction
+130	Kuma idan hakane, suna yawan zuwa kusa da iyakar ne?	Ina son na sani, suna yawan zuwa Ingila ne?	neutral	Neutral.	neutral
+131	Kuma idan hakane, suna yawan zuwa kusa da iyakar ne?	Mai maganar yana so ƙarin bayani akan yawan zuwan su kusa da iyakar. 	entailment	Entailment	entailment
+132	Kuma a nan, ina tunanin,  akwai ƙaramar alama da ke nuni cewa sashin duniya na halittu masu rai yana cigaba da haɓaka kansa dan ya rayu.	Sashin duniya na halittu masu rai yana yawan canza wa.	entailment	Entailment	entailment
+133	Kuma a nan, ina tunanin,  akwai ƙaramar alama da ke nuni cewa sashin duniya na halittu masu rai yana cigaba da haɓaka kansa dan ya rayu.	Sashin duniya na halittu masu rai na canza wa ne da canza yanayi.	neutral	Entailment	entailment
+134	Kuma a nan, ina tunanin,  akwai ƙaramar alama da ke nuni cewa sashin duniya na halittu masu rai yana cigaba da haɓaka kansa dan ya rayu.	Sashin duniya na halittu masu rai baya canza wa.	contradiction	Contradiction	contradiction
+135	Da wannan tsallaken, kiristal ɗin yau da gobe baya ƙididdige bayanai.	Kiristal ɗin yau da gobe shine waje mai nauyin ajjiye bayanai.	contradiction	Entailment.	entailment
+136	Da wannan tsallaken, kiristal ɗin yau da gobe baya ƙididdige bayanai.	Kiristal ɗin yau da gobe bashi da amfani wajan ƙididdige bayanai.	entailment	Contradiction	contradiction
+137	Da wannan tsallaken, kiristal ɗin yau da gobe baya ƙididdige bayanai.	Akwai wasu nau’in gilashin da suke da matuƙar amfani wajan ƙididdige bayanan ƙasa dake amfani da hasken beams.	neutral	Neutral.	neutral
+138	Dan haka, manya ba sa bukatar koyawa yaran da basu isa shiga makaranta ba a fakaice, kamar yadda suke yi wasu lokutan a yayin taimaka musu wurin koyan wasan wasaƙwaƙwalwa ko makamantan su.	Yaran da basu isa shiga makaranta ba a ɗabi'ance sun fi iya wasan wasaƙwaƙwalwa akan yin wasan da ba shi ba.	contradiction	Entailment	entailment
+139	Dan haka, manya ba sa bukatar koyawa yaran da basu isa shiga makaranta ba a fakaice, kamar yadda suke yi wasu lokutan a yayin taimaka musu wurin koyan wasan wasaƙwaƙwalwa ko makamantan su.	Yara da ba su isa shiga makaranta ba ba sa bukatar taimako wurin koyan yadda zasu yi wasan cewa ni ne wane.	entailment	Entailment	entailment
+140	Dan haka, manya ba sa bukatar koyawa yaran da basu isa shiga makaranta ba a fakaice, kamar yadda suke yi wasu lokutan a yayin taimaka musu wurin koyan wasan wasaƙwaƙwalwa ko makamantan su.	Yaran da su isa shiga makaranta ba basu da wata basirar warware abu da zasu iya yi wasan wasaƙwaƙwalwa da kansu. 	neutral	"Jam da kai! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the premise **contradicts** the hypothesis.
+
+The premise suggests that some children who cannot attend school are able to learn and play games with the help of others, whereas the hypothesis claims that children who cannot attend school lack the ability to play games on their own.
+
+The two statements are in opposition to each other, hence the contradiction."	contradiction
+141	[Wannan al'ummar ta] an haifar da ita ne da 'yanci da kuma sadaukarwa da ra'ayin kan cewa duk mutane ɗaya suke.	Rubutun da dama akan wannan ra'ayin an ƙara su cikin wasu littafin masu yawa.	neutral	"Jam da haka! (That's good!)
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is... NEUTRAL.
+
+The premise talks about the concept of equality and freedom, while the hypothesis mentions writings about this concept being included in many books. There's no direct logical connection between the two, so they don't entail or contradict each other."	neutral
+142	[Wannan al'ummar ta] an haifar da ita ne da 'yanci da kuma sadaukarwa da ra'ayin kan cewa duk mutane ɗaya suke.	Wasu mutane sun yadda cewa duk mutane kan su ɗaya ne.	entailment	Entailment	entailment
+143	[Wannan al'ummar ta] an haifar da ita ne da 'yanci da kuma sadaukarwa da ra'ayin kan cewa duk mutane ɗaya suke.	Wannan al'ummar an gina ta ne da imanin cewa wasu mutane a zahiri sun fi wasu.	contradiction	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: This community was founded on the principle of equality and the belief that all humans are equal.
+HYPOTHESIS: This community was built on the belief that some people are inherently better than others.
+
+The answer is: contradiction"	contradiction
+144	Na cigaba da kara yaba masa?	Ina da tabbacin sai na duke shi saboda gazawar sa.	contradiction	"Jambo!
+
+After analyzing the premise and hypothesis in Hausa, I'd say the relationship between them is: NEUTRAL.
+
+The premise ""Na cigaba da kara yaba masa?"" is a question asking ""Shall I continue to add more to it?"" whereas the hypothesis ""Ina da tabbacin sai na duke shi saboda gazawar sa"" means ""I have evidence that I will take it because of his mistake."" They seem to be unrelated statements, so there's no direct entailment or contradiction between them."	contradiction
+145	Na cigaba da kara yaba masa?	Ina tunanin, ko yana bukatar karin yabawa a wajena.	entailment	The answer is: entailment	entailment
+146	Na cigaba da kara yaba masa?	Na dinga yabawa masa sosai a wasan fiyano ɗin sa?	neutral	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+147	Za a iya gina ƙa'idojin gamayyar Spin ta hanyoyi mabanbanta.	Za a iya amfani da wasu mahangu daban wurin gina gammayar ƙka'idojin spin. 	entailment	Entailment.	entailment
+148	Za a iya gina ƙa'idojin gamayyar Spin ta hanyoyi mabanbanta.	Hanyoyin sadarwar Spin suna da amfani sosai a wajan fasahar ajjiye bayanai.	neutral	Entailment.	entailment
+149	Za a iya gina ƙa'idojin gamayyar Spin ta hanyoyi mabanbanta.	Hanyoyin sadarwar Spin ba zai yiwu ta wata hanyar ba.	contradiction	"Jam da haka! (That's great!)
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+contradiction"	contradiction
+150	(Cikin tsananin damuwa) A'a, a'a bana so ka mutu.	Bana so ka mutu!	entailment	Entailment.	entailment
+151	(Cikin tsananin damuwa) A'a, a'a bana so ka mutu.	Ban damu ba idan ka mutu.	contradiction	"In Hausa, the premise ""Cikin tsananin damuwa) A'a, a'a bana so ka mutu"" can be translated to ""In the midst of great worry, no, no one wants to die"".
+
+The hypothesis ""Ban damu ba idan ka mutu"" can be translated to ""I don't worry if you die"".
+
+Based on the translations, I would say the relationship between the premise and the hypothesis is **contradiction**. The premise suggests that no one wants to die, implying that death is undesirable, while the hypothesis states that the speaker doesn't worry if someone dies, implying a level of indifference or acceptance of death."	contradiction
+152	(Cikin tsananin damuwa) A'a, a'a bana so ka mutu.	Zanyi takaici idan ka mutu.	neutral	"I can help you with that!
+
+The premise ""(Cikin tsananin damuwa) A'a, a'a bana so ka mutu"" is in Hausa, and it translates to ""In the midst of life, there is no birth without death.""
+
+The hypothesis ""Zanyi takaici idan ka mutu"" also in Hausa, translates to ""You will be punished if you die.""
+
+Based on the translations, I would say that the premise and hypothesis are NEUTRAL. The premise talks about the inevitability of death, while the hypothesis talks about punishment after death. They don't necessarily entail or contradict each other."	neutral
+153	An rataye shi a baynar jama'a a 19 ga watan Maris 1875 a San Jose, California.	California na gudanar da kisa ta hanyar rataya a bayyane har ƙarshen shekerar 1875.	entailment	Entailment	entailment
+154	An rataye shi a baynar jama'a a 19 ga watan Maris 1875 a San Jose, California.	An wanke shi daga duk wani laifi sannan aka sake shi.	contradiction	Neutral.	neutral
+155	An rataye shi a baynar jama'a a 19 ga watan Maris 1875 a San Jose, California.	An rataye shi saboda laifin tayar da fitina da kuma satar doki.	neutral	"The answer is: neutral.
+
+(Note: The language appears to be Hausa, a widely spoken language in West Africa.)"	neutral
+156	A lokacin ruɗani, A hankali tekun ke fitar da koren ƙyalƙyali.	Tekun tayi launin shuɗi tirarre da kuma santsi  kamar gilashi.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say it's NEUTRAL. The premise talks about the time of harvest and the ability to bring out the best of the farm, while the hypothesis describes the color and smoothness of something (likely a fruit or a crop). There's no direct connection or contradiction between the two statements."	contradiction
+157	A lokacin ruɗani, A hankali tekun ke fitar da koren ƙyalƙyali.	Tekun cike take da ƙananan kifi da suke suke bugar jikin jirgin ruwan.	neutral	"Sannu! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is... **neutral**.
+
+The premise talks about the time of sailing and the ability to remove dirt from the ship's body, while the hypothesis discusses the ship being full of small fish that help clean the ship's body. Although both statements are related to ships, they don't necessarily entail or contradict each other.
+
+Would you like me to help with anything else?"	neutral
+158	A lokacin ruɗani, A hankali tekun ke fitar da koren ƙyalƙyali.	Tekun tana da launin kore kuma kamar tana kumfa.	entailment	Entailment	entailment
+159	gaba ɗaya sabuwar dokar shari'ar na ƙoƙarin shafe hargitsi da a kai a 1860s.	A 1870s duk wata dokar shari'a bata aiki kuma ƙasar gaba ɗaya tana cikin rashin zaman lafya.	contradiction	The answer is: neutral.	neutral
+160	gaba ɗaya sabuwar dokar shari'ar na ƙoƙarin shafe hargitsi da a kai a 1860s.	1860 lokaci ne mai cike da hargitsi.	entailment	Entailment.	entailment
+161	gaba ɗaya sabuwar dokar shari'ar na ƙoƙarin shafe hargitsi da a kai a 1860s.	Sabuwar dokar shari'ar naso ta faɗaɗa yancin ma'aikata.	neutral	Neutral	neutral
+162	Duk wani irin wannan tunani, ya fito dashi, yana fara bayyana ne a lokacin hira tsakanin yara da mai wakiltar su a cikin al’adar sa ko ita lokacin da suke wani aiki tare.	Yara ba sa iya bayyana tunani mai zurfi.	contradiction	"In Hausa, I'd be happy to help!
+
+The answer is: contradiction."	contradiction
+163	Duk wani irin wannan tunani, ya fito dashi, yana fara bayyana ne a lokacin hira tsakanin yara da mai wakiltar su a cikin al’adar sa ko ita lokacin da suke wani aiki tare.	Kamun kifi  na ɗaya daga cikin shahararrin ayyuka da al'adu daban daban suka haɗu a kai.	neutral	Neutral.	neutral
+164	Duk wani irin wannan tunani, ya fito dashi, yana fara bayyana ne a lokacin hira tsakanin yara da mai wakiltar su a cikin al’adar sa ko ita lokacin da suke wani aiki tare.	Raba ayyuka gama-gari na taimakawa wani lokutan wajan kara zurfi tunani.	entailment	"Jam da kai! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise talks about the emergence of a particular thought process during interactions between children and their representatives, while the hypothesis discusses the division of tasks helping to deepen thought processes. There doesn't seem to be a direct logical connection between the two, so I wouldn't say they entail or contradict each other."	neutral
+165	A wasu unguwannin akwai rezadores ko rezadoras, limaman addinin waɗanda suke jagorancin addu'o'i jana'iza, bukukuwan addini, da kuma duk lokacin da limamin majami'ar baya nan.	Duk a cikin unguwanni babu limaman addini waɗanda ba limaman majami'o'i ba.	contradiction	Entailment	entailment
+166	A wasu unguwannin akwai rezadores ko rezadoras, limaman addinin waɗanda suke jagorancin addu'o'i jana'iza, bukukuwan addini, da kuma duk lokacin da limamin majami'ar baya nan.	Wasu a cikin unguwanni suna da limaman addinin da ba limaman majami'o'i ba.	entailment	Entailment	entailment
+167	A wasu unguwannin akwai rezadores ko rezadoras, limaman addinin waɗanda suke jagorancin addu'o'i jana'iza, bukukuwan addini, da kuma duk lokacin da limamin majami'ar baya nan.	Wasu daga cikin limaman addinin suna da baƙin gashi.	neutral	Entailment.	entailment
+168	A cikin wasan kwaikwayo na koyo, daman yin wasan da kuma daidaita yin abinda aka bada, zai iya taimakawa yara gane kamanceceniya da kuma bambamci tsakanin mutane a cikin abin da suke so, abin da suke sha'awa da kuma imanin su.	Yara suna iya koyar yadda mutane suka kama da kuma yadda suke bambanta.	entailment	Entailment	entailment
+169	A cikin wasan kwaikwayo na koyo, daman yin wasan da kuma daidaita yin abinda aka bada, zai iya taimakawa yara gane kamanceceniya da kuma bambamci tsakanin mutane a cikin abin da suke so, abin da suke sha'awa da kuma imanin su.	Yara suna iya gane yadda ƙabilu daban daban suka bambanta.	neutral	Entailment.	entailment
+170	A cikin wasan kwaikwayo na koyo, daman yin wasan da kuma daidaita yin abinda aka bada, zai iya taimakawa yara gane kamanceceniya da kuma bambamci tsakanin mutane a cikin abin da suke so, abin da suke sha'awa da kuma imanin su.	Yara basa iya gane komai.	contradiction	Contradiction.	contradiction
+171	Babban abin kirkin bayan yaƙi da tsarin mulki Jamus ya samu shine babban asarar da aka yi wa gwamnatin Nazi.	Gwamnatin Nazi ta yadda da hakan.	contradiction	Entailment	entailment
+172	Babban abin kirkin bayan yaƙi da tsarin mulki Jamus ya samu shine babban asarar da aka yi wa gwamnatin Nazi.	Gwamnatin Nazi ta kashe duk wanda ke da sa hannun a ciki.	neutral	Neutral	neutral
+173	Babban abin kirkin bayan yaƙi da tsarin mulki Jamus ya samu shine babban asarar da aka yi wa gwamnatin Nazi.	Gwamnatin Nazi ta hana hakan.	entailment	Contradiction	contradiction
+174	Yaron mai suna Sonja ya fara kwaikwayar irin borin da yarinyar ta take yi.	Babu wanda yake bori.	contradiction	"Jam da haka! (That's good!)
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+contradiction"	contradiction
+175	Yaron mai suna Sonja ya fara kwaikwayar irin borin da yarinyar ta take yi.	Sonja yaro ne.	entailment	Entailment	entailment
+176	Yaron mai suna Sonja ya fara kwaikwayar irin borin da yarinyar ta take yi.	Sonja yaji haushi.	neutral	Entailment.	entailment
+177	6 a cikin shekaru hamsin da biyar ya kai ga yin yaƙin basasa, Koto tayi amfani da kadan daga cikin ikon ta.	Lokaci zuwa lokaci koto tana amfani da ikon ta shekaru masu yawa ya ja ga yin yaƙin basasa.	entailment	Entailment.	entailment
+178	6 a cikin shekaru hamsin da biyar ya kai ga yin yaƙin basasa, Koto tayi amfani da kadan daga cikin ikon ta.	Kotu tayi amfani da wannan ikon ta har sau 4 a shekaru hamsin da biyar wanda ya ja zuwa ga yaƙin basasa.	neutral	Entailment	entailment
+179	6 a cikin shekaru hamsin da biyar ya kai ga yin yaƙin basasa, Koto tayi amfani da kadan daga cikin ikon ta.	Kotu tayi amfani da wannan ikon har sau miliyan 5 a shekaru hamsin da biyar wanda ya jawo yaƙin basasa.	contradiction	Entailment	entailment
+180	Ina tabbatar ma, Sir, Na samu cikakken bayani duka.	Ina faɗa ma, na sami fahimtar komai.	entailment	"In Hausa!
+
+After analyzing the premise and hypothesis, I'd say it's a **neutral** relationship between them. The premise talks about receiving complete information, while the hypothesis talks about understanding everything. They're related but not directly entailment or contradictory."	entailment
+181	Ina tabbatar ma, Sir, Na samu cikakken bayani duka.	Na sami bayani akan mutuwar jami'in bincike na sirri.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say the relationship is: entailment.
+
+Here's a brief breakdown:
+
+Premise: ""Ina tabbatar ma, Sir, Na samu cikakken bayani duka."" (I confirm to you, Sir, that I have gotten the full information.)
+
+Hypothesis: ""Na sami bayani akan mutuwar jami'in bincike na sirri."" (I got information about the death of a secret investigation officer.)
+
+The premise affirms that the speaker has received full information, and the hypothesis specifies what that information is about. The premise sets the stage for the hypothesis, making it a logical consequence. Therefore, the relationship is one of entailment."	entailment
+182	Ina tabbatar ma, Sir, Na samu cikakken bayani duka.	Akwai wasu ƙarin bayanai da aka boye min.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say it's an entailment.
+
+Here's a breakdown:
+
+Premise: ""Ina tabbatar ma, Sir, Na samu cikakken bayani duka."" (I confirm to you, Sir, I have received complete information.)
+
+Hypothesis: ""Akwai wasu ƙarin bayanai da aka boye min."" (There are some additional information that was hidden from me.)
+
+The premise implies that the speaker has received complete information, while the hypothesis suggests that there might be some additional information that was not disclosed. Since the premise claims completeness, it entails the possibility of there being more information that was not provided, which is what the hypothesis is suggesting."	entailment
+183	Karar sautin ya hana kaftin Blood yin tunani da yake cikin baƙin ciki.	Kaftin Blood ya samu damar yin tunani marar daɗi ba tare da a  katse shirin ba.	contradiction	Entailment.	entailment
+184	Karar sautin ya hana kaftin Blood yin tunani da yake cikin baƙin ciki.	Tunanin Kaftin Blood ya katse saboda wata hayaniya.	entailment	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say it's a case of **neutral**.
+
+The premise talks about the blood in the stomach not having a clot, while the hypothesis mentions the clotting of Kaftin Blood due to some poison. The two statements don't directly support or contradict each other, hence the neutral relationship."	neutral
+185	Karar sautin ya hana kaftin Blood yin tunani da yake cikin baƙin ciki.	Kukan dan-kwikwiyo ya firgita kaftin din daga tunanin sa.	neutral	Entailment	entailment
+186	Amma ba zan manta ba, lokacin ina bawa a Barbados gidan kawun ka, ka kyautata min.	Ka kyautata min lokacin da nake Barbados a matsayin bawa. 	entailment	Entailment	entailment
+187	Amma ba zan manta ba, lokacin ina bawa a Barbados gidan kawun ka, ka kyautata min.	Ka zaluntar ni kuma ka wulakanta ni fiye da datti.	contradiction	"I'd be happy to help!
+
+The premise and hypothesis are in Hausa, a widely spoken language in West Africa. Here's the translation:
+
+PREMISE: If I had money, when I was in Barbados, I would have bought a house.
+HYPOTHESIS: I didn't have enough money to buy a house.
+
+After analyzing the premise and hypothesis, I conclude that the relationship between them is:
+
+contradiction"	contradiction
+188	Amma ba zan manta ba, lokacin ina bawa a Barbados gidan kawun ka, ka kyautata min.	Kawun ka kullin sai ya dake ni sosai, lokacin da yake da ni.	neutral	"In Hausa, the premise and hypothesis can be translated as:
+
+PREMISE: If I have money, when I go to Barbados, I'll buy you a house.
+HYPOTHESIS: You'll get a house, when I have money.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: entailment."	entailment
+189	Kalli, bai kai tafiyar mil uku ba, akwai ƙasa--mai kurji-kurjin bangon dake ɗauke da koren launi mau haske wanda ya cika yammacin wajan.	Ana iya gano ƙasa mai ban sha'awa.	entailment	Entailment	entailment
+190	Kalli, bai kai tafiyar mil uku ba, akwai ƙasa--mai kurji-kurjin bangon dake ɗauke da koren launi mau haske wanda ya cika yammacin wajan.	Babu wanda yake zaune a tsibirin da muke dosa.	neutral	"The premise and hypothesis are in Hausa, a beautiful African language!
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: NEUTRAL.
+
+The premise describes a scenic landscape with a bright, colorful atmosphere, while the hypothesis makes a statement about there being no one sitting on a certain island. The two statements don't seem to be directly related, and one doesn't necessarily follow from the other."	neutral
+191	Kalli, bai kai tafiyar mil uku ba, akwai ƙasa--mai kurji-kurjin bangon dake ɗauke da koren launi mau haske wanda ya cika yammacin wajan.	A tsawon mil ba su iya ganin ƙasa ba, sai ruwa marar iyaka.	contradiction	"In Hausa, the premise describes a scenario where there is a land with a bright, shining light, while the hypothesis states that if you can't see the land, it's because of endless water.
+
+Based on the premise and hypothesis, I would say that the relationship between them is **contradiction**. The premise suggests the presence of land, while the hypothesis implies that if you can't see the land, it's because of the presence of endless water, which contradicts the idea of land being present."	contradiction
+192	Ni ne wakilin sarki a wannan banzan wajan kuma mai martaba Sunderland ɗan uwa ne kuma wakili na	Sarki yana da wakilai kuma ni ina ɗaya daga cikin su.	entailment	Entailment	entailment
+193	Ni ne wakilin sarki a wannan banzan wajan kuma mai martaba Sunderland ɗan uwa ne kuma wakili na	Sarki ya aiko ni nan kusan mako ɗaya da ya wuce.	neutral	"Jam da Hausa! 😊
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: NEUTRAL.
+
+The premise talks about the speaker being a representative of the king in a certain place, and their relationship with someone from Sunderland. The hypothesis, on the other hand, talks about the king sending the speaker somewhere about a week ago. There doesn't seem to be a direct logical connection between the two statements, so they don't entail or contradict each other."	neutral
+194	Ni ne wakilin sarki a wannan banzan wajan kuma mai martaba Sunderland ɗan uwa ne kuma wakili na	Ba na ɗaukan umarni daga Sarki.	contradiction	"I'd be happy to help you with that!
+
+The answer is: contradiction.
+
+In Hausa, the premise states that someone is a representative of the king in Sunderland, and the hypothesis states that they do not take orders from the king. These two statements are contradictory."	contradiction
+195	Kana bina bashin wannan-- Yace, na zaci kana bin nawa.	Bai taɓa tunanin kana bin shi wani abu ba	contradiction	"In Hausa, the premise and hypothesis can be translated as:
+
+PREMISE: If I had known this - I would have done something about it.
+HYPOTHESIS: He didn't think I would do something about it.
+
+After analyzing the premise and hypothesis, I would say the relationship is: **contradiction**."	contradiction
+196	Kana bina bashin wannan-- Yace, na zaci kana bin nawa.	Kana bin sa bashin taimakon da kayi masa lokacin yana bara bashi da ko sisi.	neutral	"Jam da haka! (That's okay!) I'd be happy to help you with that.
+
+After analyzing the premise and hypothesis in Hausa, I would say that the relationship between them is: entailment.
+
+Kana bina bashin wannan-- Yace, na zaci kana bin nawa. (The premise)
+Kana bin sa bashin taimakon da kayi masa lokacin yana bara bashi da ko sisi. (The hypothesis)
+
+The premise implies that if someone is not helping you, you should not help them either. The hypothesis states that if someone doesn't help you when you're in need, you shouldn't help them when they're in need either. The hypothesis is a logical consequence of the premise, making it an entailment."	entailment
+197	Kana bina bashin wannan-- Yace, na zaci kana bin nawa.	Ya zaci kana bin sa wani abu ne.	entailment	"In Hausa, the premise and hypothesis can be translated to English as:
+
+PREMISE: If I have this thing - okay, I will take it and give it to my mother.
+HYPOTHESIS: He will take this thing and give it to someone.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise talks about the speaker's action, while the hypothesis talks about someone else's action, so they don't directly entail or contradict each other."	neutral
+198	Nayi dana sanin zuwa na kusa da Jamaica da daddare.	Na je kusa da Jamaica bayan rana ta faɗi.	entailment	Entailment	entailment
+199	Nayi dana sanin zuwa na kusa da Jamaica da daddare.	Nayi tafiya zuwa Jamaica a jirgin ruwa mai girma. 	neutral	Entailment.	entailment
+200	Nayi dana sanin zuwa na kusa da Jamaica da daddare.	Ni da Matata mun isa Jamaica da tsakiyar rana.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say it's a **neutral** relationship between them.
+
+Here's a breakdown:
+
+Premise: ""Nayi dana sanin zuwa na kusa da Jamaica da daddare."" (We didn't know we were close to Jamaica in the evening.)
+
+Hypothesis: ""Ni da Matata mun isa Jamaica da tsakiyar rana."" (Matata and I arrived in Jamaica in the middle of the day.)
+
+The premise talks about not knowing they were close to Jamaica in the evening, while the hypothesis mentions arriving in Jamaica in the middle of the day. There's no direct connection or contradiction between the two statements, so the relationship is neutral."	neutral
+201	Tunanin Blood yana kan wannan da sauran wasu abubuwa a lokacin da yake kwance a nan kan gadon	Blood yayi barci ba tare da mafarki komai ba akan gadon sa.	contradiction	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: This blood has something else besides other things when it's on the floor.
+HYPOTHESIS: The blood slept without anything covering it on the floor.
+
+After analyzing the premise and hypothesis, I would say it's a **contradiction**. The premise suggests that the blood has something else with it, while the hypothesis claims it's alone with nothing covering it."	contradiction
+202	Tunanin Blood yana kan wannan da sauran wasu abubuwa a lokacin da yake kwance a nan kan gadon	Blood na cikin tsananin tunani lokacin da yake gishingiɗa. 	entailment	Entailment	entailment
+203	Tunanin Blood yana kan wannan da sauran wasu abubuwa a lokacin da yake kwance a nan kan gadon	Blood yana tunani sosai akan rabon sa da ganin mahaifiyar sa.	neutral	"Jambo! (Hello!)
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+Neutral"	neutral
+204	Tabbas, Dan haka, Zan gaya ma.	Shikenan, Zan gaya ma maganar.	entailment	"Jam da Hausa! (Hello in Hausa!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is: entailment.
+
+In Hausa, ""Tabbas"" means ""certainly"" or ""definitely"", ""Dan haka"" means ""that's why"", ""Zan gaya ma"" means ""I will tell you"". The premise is asserting that something will be told.
+
+The hypothesis ""Shikenan, Zan gaya ma maganar"" means ""That's it, I will tell you the story"". The hypothesis is building upon the premise, reiterating the idea that something will be told, and adding more information about what will be told (a story).
+
+So, the premise entails the hypothesis, as the hypothesis is a more specific version of what the premise is asserting."	entailment
+205	Tabbas, Dan haka, Zan gaya ma.	Ba zan faɗa ma komai ba.	contradiction	"I'd be happy to help!
+
+The answer is: contradiction.
+
+(Note: I assume the language is Hausa, a widely spoken language in West Africa. If I'm incorrect, please let me know the language, and I'll do my best to assist you.)"	contradiction
+206	Tabbas, Dan haka, Zan gaya ma.	Zan gaya ma saboda kayi alkawarin ba zaka sake maimaita hakan ba.	neutral	"Jam da Hausa! (I see Hausa!)
+
+After analyzing the premise and hypothesis, I would say it's an **entailment**. The premise ""Tabbas, Dan haka, Zan gaya ma"" (Certainly, I will tell you) implies that the speaker is willing to tell or reveal something, which aligns with the hypothesis ""Zan gaya ma saboda kayi alkawarin ba zaka sake maimaita hakan ba"" (I will tell you because I promised not to hide this thing from you)."	entailment
+207	Ah! Kuma ta wacce hanya kake nufi?	Wani yana tambayar ta wacce hanya zaa bi.	entailment	Entailment	entailment
+208	Ah! Kuma ta wacce hanya kake nufi?	Mai tambayar shi kaɗai ne kuma babu kowa kusa da zai tattauna dashi.	contradiction	Entailment.	entailment
+209	Ah! Kuma ta wacce hanya kake nufi?	Mai tambayar ya cikin hanzari kuma buƙatar sanin hanyar da zai bi da saurin.	neutral	Entailment	entailment
+210	Ba na ɗaukar umarnin sarki a hankali.	Bin umarnin sarki ya saɓe da ɗabi'a ta.	neutral	Entailment	entailment
+211	Ba na ɗaukar umarnin sarki a hankali.	Nayi tunani mai zurfi akan umarni sarki.	entailment	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say it's an **entailment**.
+
+Here's a breakdown:
+
+Premise: ""Ba na ɗaukar umarnin sarki a hankali"" means ""We didn't take the king's order seriously.""
+
+Hypothesis: ""Nayi tunani mai zurfi akan umarni sarki"" means ""We didn't have a deep thought about the king's order.""
+
+The premise implies that the king's order was not taken seriously, which in turn implies that it wasn't given deep thought. Therefore, the hypothesis is a logical consequence of the premise, making it an entailment."	entailment
+212	Ba na ɗaukar umarnin sarki a hankali.	Nasa hannu akan takardar umarnin sarkin ba tare da wani tunani ba.	contradiction	Entailment	entailment
+213	Ya gano cewa zai iya ja da baya cikin hanzari.	Ya gano cewa yana da duk ranar dan ya koma baya.	contradiction	"In Hausa, the premise and hypothesis can be translated to English as:
+
+PREMISE: He knows that he will go back home in the evening.
+HYPOTHESIS: He knows that he will return home every day.
+
+The relationship between the premise and hypothesis is entailment."	entailment
+214	Ya gano cewa zai iya ja da baya cikin hanzari.	Ya gano cewa sai yayi hanzari wajan matsawa.	entailment	Entailment.	entailment
+215	Ya gano cewa zai iya ja da baya cikin hanzari.	Idan ya tsaya waje ɗaya zaa gano shi.	neutral	Entailment.	entailment
+216	Tace kuma duk da haka, ya kasance yadda yake, kuma yayi abinda yake yi a cikin shekaru ukun da suka wuce,  amma ta fada ne cikin bacin rai yanzu ba kamar izgili da take dashi da  farko ba.	Ba ta ji dadin yadda ya kashe maza da yawa a shekaru uku da suka wuce.	neutral	Entailment	entailment
+217	Tace kuma duk da haka, ya kasance yadda yake, kuma yayi abinda yake yi a cikin shekaru ukun da suka wuce,  amma ta fada ne cikin bacin rai yanzu ba kamar izgili da take dashi da  farko ba.	Tayi magana cikin farin ciki game da jajircewa sa da kuma halayyar sa.	contradiction	Neutral	neutral
+218	Tace kuma duk da haka, ya kasance yadda yake, kuma yayi abinda yake yi a cikin shekaru ukun da suka wuce,  amma ta fada ne cikin bacin rai yanzu ba kamar izgili da take dashi da  farko ba.	Tayi magana cikin baƙin ciki.	entailment	Entailment.	entailment
+219	Ina ganin sai bayan salo irin naku.	Ina tsammani wannan ne abunda irin ka su ke yi.	entailment	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: neutral."	neutral
+220	Ina ganin sai bayan salo irin naku.	Na karanci abubuwan iri naku da kuma al’adar ku.	neutral	"Jam da haka! (That's good!)
+
+After analyzing the premise and hypothesis, I'd say it's an **entailment**."	entailment
+221	Ina ganin sai bayan salo irin naku.	Na fahimci wannan bai zama ruwan dare ba a wajen irin ku.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say it's a **neutral** relationship. The premise talks about something happening after a certain event (sai bayan salo), while the hypothesis discusses understanding something not becoming a problem at night (ba zama ruwan dare). The two statements don't directly support or contradict each other."	neutral
+222	Ta ɗaure fuska ta haɗe gira.	Murmushi ya haɗe fuskantar ta.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say the relationship is: entailment.
+
+In Hausa, ""ta ɗaure fuska ta haɗe gira"" means ""She tied her face to meet her friend"", and ""Murmushi ya haɗe fuskantar ta"" means ""The boy met her face to face"". The premise implies a meeting, and the hypothesis also implies a meeting, so the premise entails the hypothesis."	entailment
+223	Ta ɗaure fuska ta haɗe gira.	Taji cikin ta ya yamutse babu dadi.	neutral	"In Hausa, the premise ""Ta ɗaure fuska ta haɗe gira"" means ""She covered her face and went out"". The hypothesis ""Taji cikin ta ya yamutse babu dadi"" means ""Her going out without a smile is not good"".
+
+Based on the meaning of both the premise and the hypothesis, I would say that the relationship between them is NEUTRAL. The premise describes an action, while the hypothesis makes a value judgment about a related but distinct aspect of the situation."	neutral
+224	Ta ɗaure fuska ta haɗe gira.	Ta sha kunu a fuskar ta.	entailment	"In Hausa, the premise ""Ta ɗaure fuska ta haɗe gira"" means ""She covered her face with a veil"". The hypothesis ""Ta sha kunu a fuskar ta"" means ""She has a scar on her face"".
+
+My answer is: Neutral."	neutral
+225	Tana kula dashi da kyawawan idanun ta amma ganin bacin ran sa da kuma shan kunu da haɗewar gira tasa yanayi fuskarta ya canza.	Ta sauya yanayin fuskar ta bayan da ta kalli fuskar sa.	entailment	Entailment	entailment
+226	Tana kula dashi da kyawawan idanun ta amma ganin bacin ran sa da kuma shan kunu da haɗewar gira tasa yanayi fuskarta ya canza.	Ta saki Fuskar ta lokacin da taga ya sha kunu.	contradiction	"Jam da haka! (That's okay!)
+
+After analyzing the premise and hypothesis, I'd say it's an **entailment**.
+
+The premise mentions ""yanayi fuskarta ya canza"" which implies a change in her face, and the hypothesis states ""Ta saki Fuskar ta lokacin da taga ya sha kunu"" which means she changed her face when she drank the kunu. The premise provides supporting information that leads to the conclusion stated in the hypothesis."	entailment
+227	Tana kula dashi da kyawawan idanun ta amma ganin bacin ran sa da kuma shan kunu da haɗewar gira tasa yanayi fuskarta ya canza.	Bata sani ba ko da ita yake fushi.	neutral	"I can help you with that!
+
+The premise and hypothesis are in Hausa, a widely spoken language in West Africa. Here's the translation:
+
+PREMISE: If you eat a lot of food and drink a lot of kunu (a type of millet-based drink) with a mixture of gira (a type of spice) in a hot weather, your body temperature will change.
+
+HYPOTHESIS: You don't know if it's the food that's causing the anger.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise talks about the effect of eating certain food and drinks on body temperature, while the hypothesis mentions anger, which is not related to the premise. There's no logical connection between the two statements."	neutral
+228	Tafiya cikin ƙasaita, ya zagaye ginin katangar kuma ya shige ta manyan ƙofofin zuwa cikin farfajiyar.	Tunda manyan ƙofofin a kulle suke, ya haura katangar zuwa cikin farfajiyar	contradiction	Entailment	entailment
+229	Tafiya cikin ƙasaita, ya zagaye ginin katangar kuma ya shige ta manyan ƙofofin zuwa cikin farfajiyar.	Ta manyan ƙofofin kawai ake iya shiga cikin farfajiyar. 	neutral	Entailment.	entailment
+230	Tafiya cikin ƙasaita, ya zagaye ginin katangar kuma ya shige ta manyan ƙofofin zuwa cikin farfajiyar.	Akwai manyan Ƙofofin da suke kai wa zuwa cikin farfajiyar.	entailment	Entailment	entailment
+231	Zaku wuce da shi wurin abin rataye mutane, bana shakka, yana fada cikin rainin hankali.	Ya ɗauka wani zai je wurin abin rataye mutanen.	entailment	Entailment.	entailment
+232	Zaku wuce da shi wurin abin rataye mutane, bana shakka, yana fada cikin rainin hankali.	Jam'in tsaro ne shi wanda ya kama ɓarawo.	neutral	"I'd be happy to help!
+
+The answer is: NEUTRAL"	neutral
+233	Zaku wuce da shi wurin abin rataye mutane, bana shakka, yana fada cikin rainin hankali.	Ya samu hanyar fita daga kasar don kada a daure shi.	contradiction	Entailment	entailment
+234	A gaskiya taya zan iya kama su? Yana cikin yarjejeniyar.	Bani da Ƙwari gwiwar kama su.	entailment	"Jam da haka! (That's okay!)
+
+After analyzing the premise and hypothesis, I would say the relationship is: entailment.
+
+In Hausa, the premise ""A gaskiya taya zan iya kama su? Yana cikin yarjejeniyar"" can be translated to ""Is it true that they can catch them? It's in the agreement."" The hypothesis ""Bani da Ƙwari gwiwar kama su"" can be translated to ""I and Ƙwari have the power to catch them.""
+
+The premise implies that someone has the ability to catch them, and the hypothesis specifically states that the speaker and Ƙwari have that power. Therefore, the hypothesis is a more specific and direct affirmation of the premise, making it an entailment."	entailment
+235	A gaskiya taya zan iya kama su? Yana cikin yarjejeniyar.	Ina ganin su na kama su.	contradiction	"In Hausa, the premise and hypothesis can be translated as:
+
+PREMISE: Is it true that they will be able to catch them? They are in an agreement.
+HYPOTHESIS: I think they will catch them.
+
+The answer is: entailment"	entailment
+236	A gaskiya taya zan iya kama su? Yana cikin yarjejeniyar.	Da na kama su, da ba zan iya yafe wa kai na ba.	neutral	"Sannu! (Hello!) I'd be happy to help you with that.
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+Entailment"	entailment
+237	Na yi ta farautar sa shekaran nan da ta wuce.	Na kai shekara guda ina bibiyar sa bai sani ba.	neutral	"Sannu! (Hello!)
+
+After analyzing the premise and hypothesis in Hausa, I'd say the relationship between them is:
+
+neutral"	neutral
+238	Na yi ta farautar sa shekaran nan da ta wuce.	Ina bibiyar sa kusan sati guda kenan.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say the relationship is: entailment.
+
+Here's a breakdown:
+
+Premise: ""Na yi ta farautar sa shekaran nan da ta wuce"" means ""I have been searching for him for a whole year now and it's exceeded.""
+
+Hypothesis: ""Ina bibiyar sa kusan sati guda kenan"" means ""I almost caught him just a month ago.""
+
+The premise implies that the speaker has been searching for someone for over a year, and the hypothesis suggests that they almost caught the person a month ago. Since the hypothesis provides more specific information about the search, which aligns with the premise, I conclude that the premise entails the hypothesis."	entailment
+239	Na yi ta farautar sa shekaran nan da ta wuce.	Ina ta bin sawun sa a tsawon shekara da ta gabata.	entailment	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say it's a **contradiction**.
+
+Here's a brief breakdown:
+
+* The premise ""Na yi ta farautar sa shekaran nan da ta wuce"" can be translated to ""I have finished searching for him this year and it's over.""
+* The hypothesis ""Ina ta bin sawun sa a tsawon shekara da ta gabata"" can be translated to ""I will follow him throughout last year.""
+
+The premise indicates that the action of searching is complete, while the hypothesis suggests a continuous action that will take place in the past, which contradicts the premise."	contradiction
+240	Gidan ajjiyar kayan tarihin basu da ƙarfi wurin iya jera abubuwa ko saka alamu.	Gidan ajjiyar kayan tarihin basa son alamu.	neutral	"In Hausa, the premise and hypothesis can be translated to English as:
+
+PREMISE: A museum is a place where historical items are kept with strength to display things or put up signs.
+HYPOTHESIS: A museum does not like signs.
+
+The correct answer is: contradiction."	contradiction
+241	Gidan ajjiyar kayan tarihin basu da ƙarfi wurin iya jera abubuwa ko saka alamu.	Gidan ajjiyar kayan tarihin ba sa son yin littafin bayani.	entailment	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: The museum has the power to collect and preserve historical artifacts.
+HYPOTHESIS: The museum does not like writing explanatory notes.
+
+The answer is: NEUTRAL"	neutral
+242	Gidan ajjiyar kayan tarihin basu da ƙarfi wurin iya jera abubuwa ko saka alamu.	Ajjiye ƙatsida shine babban abinda gidan ajjiyar kayan tarihin suka ƙware a kai.	contradiction	Entailment	entailment
+243	Waɗannan buɗeɗɗin kasuwannin sune wurare mafi ban sha'awar yi ciniki a Beijing.	Beijing tana da buɗeɗɗin kasuwannin da suka ƙunshi shagon masu ban sha'awa.	entailment	Entailment	entailment
+244	Waɗannan buɗeɗɗin kasuwannin sune wurare mafi ban sha'awar yi ciniki a Beijing.	Buɗeɗɗin kasuwannin dake Beijing sune wurare masu ban sha'awa a duniya. 	neutral	Entailment.	entailment
+245	Waɗannan buɗeɗɗin kasuwannin sune wurare mafi ban sha'awar yi ciniki a Beijing.	Tsatstsaurar dokar Beijing ta hana buɗeɗɗin kasuwanni a cikin gari.	contradiction	"Hausa language!
+
+The answer is: contradiction"	contradiction
+246	Gaɓar tekun da tafi ko ina girma a yankin arewa maso yammacin tekun zai yi kyau da tasha, amma daga ruwan har bakin tekun su kan yi datti.	Da ruwa da bakin gaɓar teku suna da tsafta a ko da yaushe.	contradiction	Entailment	entailment
+247	Gaɓar tekun da tafi ko ina girma a yankin arewa maso yammacin tekun zai yi kyau da tasha, amma daga ruwan har bakin tekun su kan yi datti.	Ƙila da ruwan da bakin gaɓar teku na da datti.	entailment	Entailment	entailment
+248	Gaɓar tekun da tafi ko ina girma a yankin arewa maso yammacin tekun zai yi kyau da tasha, amma daga ruwan har bakin tekun su kan yi datti.	Ruwan yai datti saboda gurɓatar yanayi.	neutral	Entailment	entailment
+249	Waɗancan dogayen gine-gine bankuna ne, Kuma ana wa kan titi da suke laƙabi da  Milla de Ore, or Golden Mile.	Duka babu bankuna a cikin dogayen gine-gine da ke Golden Mile.	contradiction	Contradiction.	contradiction
+250	Waɗancan dogayen gine-gine bankuna ne, Kuma ana wa kan titi da suke laƙabi da  Milla de Ore, or Golden Mile.	Dogayen gine-gine da suke Golden Mile bankuna ne.	entailment	Entailment	entailment
+251	Waɗancan dogayen gine-gine bankuna ne, Kuma ana wa kan titi da suke laƙabi da  Milla de Ore, or Golden Mile.	Dogayen gine-gine da ke Golden Mile na kasuwanci ne iri daban-daban, har da bankuna. 	neutral	Entailment	entailment
+252	Asalin, da, wannan shigar yaƙin duniya na biyun ya faru ne da tsarin horaswa na jiragen saman Commonwealth na Birtaniya, da zatayi amfani da sararin samaniya na Kanada dake da tsaro wajan shirya matukan jiragen sama na yaƙi.	Kanada tana da sararin samaniya mai tsaro.	entailment	Entailment	entailment
+253	Asalin, da, wannan shigar yaƙin duniya na biyun ya faru ne da tsarin horaswa na jiragen saman Commonwealth na Birtaniya, da zatayi amfani da sararin samaniya na Kanada dake da tsaro wajan shirya matukan jiragen sama na yaƙi.	Sararin samaniyan Canada babu makamai masu linzami.	neutral	Entailment	entailment
+254	Asalin, da, wannan shigar yaƙin duniya na biyun ya faru ne da tsarin horaswa na jiragen saman Commonwealth na Birtaniya, da zatayi amfani da sararin samaniya na Kanada dake da tsaro wajan shirya matukan jiragen sama na yaƙi.	Sararin samaniyan Canada sun fi haɗari sosai.	contradiction	Neutral	neutral
+255	Sun kasance cikin juriya da kuma suna bada taimako,  duk da sun san duk kyawun bakin ruwan yanzu ba nasu bane ba.	Suna cikin ɓacin rai da kuma haushi kowa yanzu saboda yanzu bakin ruwan ya zama haɗaka da sauran mutane.	contradiction	Entailment.	entailment
+256	Sun kasance cikin juriya da kuma suna bada taimako,  duk da sun san duk kyawun bakin ruwan yanzu ba nasu bane ba.	Dole yanzu bakin ruwan ya zama haɗaka da sauran mutane.	entailment	Entailment	entailment
+257	Sun kasance cikin juriya da kuma suna bada taimako,  duk da sun san duk kyawun bakin ruwan yanzu ba nasu bane ba.	Da su suke da mil dari biyar na gaɓar bakin tekun.	neutral	Neutral	neutral
+258	Kublai Khan ya gina babban birnin sa a 1279 a gaɓar tafkin Beihai dake Beijing,  inda har yau ake iya ganin wasu daga cikin ma'adanan sa.	Kublai Khan ya gina babban birnin a Taiwan.	contradiction	Contradiction	contradiction
+259	Kublai Khan ya gina babban birnin sa a 1279 a gaɓar tafkin Beihai dake Beijing,  inda har yau ake iya ganin wasu daga cikin ma'adanan sa.	Kublai Khan na da dukiya a Beijing.	entailment	Entailment.	entailment
+260	Kublai Khan ya gina babban birnin sa a 1279 a gaɓar tafkin Beihai dake Beijing,  inda har yau ake iya ganin wasu daga cikin ma'adanan sa.	Ana girmama Kublai Khan sosai.	neutral	Entailment	entailment
+261	An sami haɗin kai cikin sauki daga jama'ar Anglo kawai inda makarantun masu zanga zanga ke ɗaukar yaran yahudawa na gabashin Turai sun kammala karatun su, su wuce zuwa makarantar masu kudi ta Westmount ko su ƙara yi Hijira zuwa Toronto.	Yahudawa gabashin Turai sun sami haɗin kai da kowa.	contradiction	Entailment.	entailment
+262	An sami haɗin kai cikin sauki daga jama'ar Anglo kawai inda makarantun masu zanga zanga ke ɗaukar yaran yahudawa na gabashin Turai sun kammala karatun su, su wuce zuwa makarantar masu kudi ta Westmount ko su ƙara yi Hijira zuwa Toronto.	Mutanen garin basa son Yahudawa.	neutral	Neutral	neutral
+263	An sami haɗin kai cikin sauki daga jama'ar Anglo kawai inda makarantun masu zanga zanga ke ɗaukar yaran yahudawa na gabashin Turai sun kammala karatun su, su wuce zuwa makarantar masu kudi ta Westmount ko su ƙara yi Hijira zuwa Toronto.	Yahudawa sun sami haɗin kai da jama'ar Anglo cikin sauƙi.	entailment	Entailment	entailment
+264	Idan zai yiwu, kayi ƙoƙarin gane jigon kafin a fara.	Ba sai ka fahimci jigon ba kafin a fara; zai ɓata jin dadin nan gaba.	contradiction	Contradiction	contradiction
+265	Idan zai yiwu, kayi ƙoƙarin gane jigon kafin a fara.	Idan zaka iya, kayi ƙoƙarin fahimtar jigon kafin a fara.	entailment	Entailment	entailment
+266	Idan zai yiwu, kayi ƙoƙarin gane jigon kafin a fara.	Ajin zai maka sauƙi idan ka gane jigon littafin.	neutral	Entailment	entailment
+267	Ginin kabarin sa, 27 m (88 ft) a cikin ƙasa, kuma anyi shi da dutse 1,200 sq m ( 13,000 sq ft).	An binne shi a can 20m cikin ƙasa.	entailment	"Jam da Hausa!
+
+The answer is: contradiction."	contradiction
+268	Ginin kabarin sa, 27 m (88 ft) a cikin ƙasa, kuma anyi shi da dutse 1,200 sq m ( 13,000 sq ft).	Babban mutum ne a idon duniya.	neutral	Neutral	neutral
+269	Ginin kabarin sa, 27 m (88 ft) a cikin ƙasa, kuma anyi shi da dutse 1,200 sq m ( 13,000 sq ft).	An gina gurin binne shi da katako.	contradiction	Neutral.	neutral
+270	Ka tuna ka boye duka ƙanana kayan ka daga birrai.	Boye kayan daka mallaka daga birrai.	entailment	"Jam da Hausa! 😊
+
+After analyzing the premise and hypothesis, I would say it's an **entailment**. The premise implies that the hypothesis is true."	entailment
+271	Ka tuna ka boye duka ƙanana kayan ka daga birrai.	Birrai na son abubuwa sosai, har da kayan da ka mallaka.	neutral	Entailment	entailment
+272	Ka tuna ka boye duka ƙanana kayan ka daga birrai.	Baka bukatar boye kayan ka daga birrai.	contradiction	Entailment	entailment
+273	Shekaru 1,400 kafin a gina fadar Estei, Milreu ma gini ne mai girma a wajan mutanen masu daraja.	Milreu tana mil 10 daga ko ina.	neutral	"I'll be happy to help!
+
+The premise and hypothesis are in Hausa, a widely spoken language in West Africa. Here's the breakdown:
+
+PREMISE: ""Shekaru 1,400 kafin a gina fadar Estei, Milreu ma gini ne mai girma a wajan mutanen masu daraja.""
+Translation: ""1,400 years before the construction of Estei's palace, Milreu was a great city respected by noble people.""
+
+HYPOTHESIS: ""Milreu tana mil 10 daga ko ina.""
+Translation: ""Milreu is 10 miles from here.""
+
+Based on the translations, I'd say the relationship between the premise and hypothesis is **neutral**. The premise talks about Milreu's history and significance, while the hypothesis provides a geographical fact about Milreu's location. There's no direct connection or conflict between the two statements."	neutral
+274	Shekaru 1,400 kafin a gina fadar Estei, Milreu ma gini ne mai girma a wajan mutanen masu daraja.	Milreu na wajen ƙasar.	entailment	Entailment.	entailment
+275	Shekaru 1,400 kafin a gina fadar Estei, Milreu ma gini ne mai girma a wajan mutanen masu daraja.	Milreu na nan tsakiyar cikin garin.	contradiction	Entailment.	entailment
+276	Yanayin ruwan teku ya bambanta daga 18e zuwa 24e C (64-75e F).	Yanayin ruwan teku yana yawan canza wa akai-akai,  amma basa ƙasa da yanayin ƙanƙara.	entailment	Entailment.	entailment
+277	Yanayin ruwan teku ya bambanta daga 18e zuwa 24e C (64-75e F).	Yanayin ruwan teku yana nan waje ɗaya baya motsawa har shekara ta zagayo. 	contradiction	Entailment.	entailment
+278	Yanayin ruwan teku ya bambanta daga 18e zuwa 24e C (64-75e F).	Yanayin ruwan teku yana hawa da rana, lokacin akwai dumi.	neutral	"Jambo!
+
+The answer is: neutral.
+
+The premise talks about the temperature range of seawater, while the hypothesis talks about the relationship between seawater temperature and the time of day/daylight. They don't directly support or contradict each other, so the relationship is neutral."	neutral
+279	Wajan shaƙatawa na ƙasa na Kinabalu na ɗaya daga cikin yankuna shida dake da kariyar jihar.	Gidan shaƙatawa na ƙasa na Kinabalu na da giwaye guda goma da kuma karkanda kuma guda shida.	neutral	Neutral	neutral
+280	Wajan shaƙatawa na ƙasa na Kinabalu na ɗaya daga cikin yankuna shida dake da kariyar jihar.	Jihar tana da yankuna da take bawa kariya, wanda ya haɗa da Gidan shaƙatawa na ƙasa na Kinabalu.	entailment	Entailment	entailment
+281	Wajan shaƙatawa na ƙasa na Kinabalu na ɗaya daga cikin yankuna shida dake da kariyar jihar.	Akwai yankuna guda uku da ƙasar ke bawa kariya.	contradiction	"In Hausa, the premise and hypothesis can be translated as:
+
+PREMISE: Kinabalu is one of the six regions that the state has protected.
+HYPOTHESIS: There are three regions that the state has protected.
+
+Based on the translations, the answer is: contradiction"	contradiction
+282	Zaka iya ganin bidiyoyin labarin Anne da kuma na Amsterdam lokacin mallaka tare da hotona da kayan tarihi na lokaci.	Baza ka ga hotuna ba.	contradiction	Entailment	entailment
+283	Zaka iya ganin bidiyoyin labarin Anne da kuma na Amsterdam lokacin mallaka tare da hotona da kayan tarihi na lokaci.	Zaka ga hotuna.	entailment	Entailment	entailment
+284	Zaka iya ganin bidiyoyin labarin Anne da kuma na Amsterdam lokacin mallaka tare da hotona da kayan tarihi na lokaci.	Zaka ga wasu daga cikin hotunan farko.	neutral	Entailment.	entailment
+285	Treasure Beach shine wajan shaƙatawa kadai da za'a iya magana a kan sa, mai ɗauke da otal-otal da suka watsu zuwa gaɓar tekun guda uku.	Babu wani zaɓi na otal-otal da yawa don ga mutanen da zasu ziyarci Treasure Beach. 	entailment	Entailment.	entailment
+286	Treasure Beach shine wajan shaƙatawa kadai da za'a iya magana a kan sa, mai ɗauke da otal-otal da suka watsu zuwa gaɓar tekun guda uku.	Akwai otal ɗaya mai tauraro hudu dan masu yawan buɗe ido waɗanda suka ziyarci Treasure Beach 	neutral	Entailment.	entailment
+287	Treasure Beach shine wajan shaƙatawa kadai da za'a iya magana a kan sa, mai ɗauke da otal-otal da suka watsu zuwa gaɓar tekun guda uku.	Treasure Beach na ɗaya daga cikin wajan shaƙatawa a wajan.	contradiction	Entailment	entailment
+288	Bazara tana kawo yanayi ɗumi (amma ba zafi ba) da kuma yanayin ɗumi a ruwan teku, yasan yayi daidai wanjan wankan ruwa, nutsu a cikin ruwa da sauran wasannin ruwa.	Kullin akwai digiri 100 na zafi  ko sama da haka a bazara. 	contradiction	Neutral	neutral
+289	Bazara tana kawo yanayi ɗumi (amma ba zafi ba) da kuma yanayin ɗumi a ruwan teku, yasan yayi daidai wanjan wankan ruwa, nutsu a cikin ruwa da sauran wasannin ruwa.	An fi samu 75 a lokacin bazara. 	neutral	Neutral	neutral
+290	Bazara tana kawo yanayi ɗumi (amma ba zafi ba) da kuma yanayin ɗumi a ruwan teku, yasan yayi daidai wanjan wankan ruwa, nutsu a cikin ruwa da sauran wasannin ruwa.	Akwai yanayin ɗumi a lokacin bazara.	entailment	Entailment	entailment
+291	A cikin tafkin akwai ɗaya wanda silailikan baƙi suka ciki da fatan wani zai kan kurkukun, zai bada tabbatacciyar hanyan samun nasara.	Mutane basa jefa kuɗi a ciki saboda yana janyo rashin sa'a.	contradiction	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: Inside the pool, there is one that the swimmers have entered with the hope of getting a certain victory, it will provide a guaranteed way of achieving success.
+HYPOTHESIS: People don't throw money into the pool because it causes trouble.
+
+The answer is: NEUTRAL."	neutral
+292	A cikin tafkin akwai ɗaya wanda silailikan baƙi suka ciki da fatan wani zai kan kurkukun, zai bada tabbatacciyar hanyan samun nasara.	Mutane na zuba silailikan a ruwa duk da akwai alama da ta ce kar ayi.	neutral	Neutral	neutral
+293	A cikin tafkin akwai ɗaya wanda silailikan baƙi suka ciki da fatan wani zai kan kurkukun, zai bada tabbatacciyar hanyan samun nasara.	Mutane sun zuba silailikan a ruwa.	entailment	Entailment	entailment
+294	Tashar jirgin ruwa na Nafplio yayi daidai da tushe wajan yawon buɗe ido a yankin ko watakila wajan cin abinci lokacin yawan buɗe ido. 	Nafplio guri ne mai kyaun gani.	neutral	Entailment	entailment
+295	Tashar jirgin ruwa na Nafplio yayi daidai da tushe wajan yawon buɗe ido a yankin ko watakila wajan cin abinci lokacin yawan buɗe ido. 	Nafplio wuri ne marar kyau.	contradiction	Neutral	neutral
+296	Tashar jirgin ruwa na Nafplio yayi daidai da tushe wajan yawon buɗe ido a yankin ko watakila wajan cin abinci lokacin yawan buɗe ido. 	Nafplio wuri ne mai cikakken kyau.	entailment	Entailment	entailment
+297	A Prinsengracht, Otto Frank da iyalin sa suka buya a ƙarƙashin wani gurin kasuwanci na tsawon shekara biyu kamin aka gano su.	a rana ta biyu aka kama Otto Frank.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say it's a case of entailment."	entailment
+298	A Prinsengracht, Otto Frank da iyalin sa suka buya a ƙarƙashin wani gurin kasuwanci na tsawon shekara biyu kamin aka gano su.	Otto Frank ya buya sama da watanni 25.	entailment	Entailment.	entailment
+299	A Prinsengracht, Otto Frank da iyalin sa suka buya a ƙarƙashin wani gurin kasuwanci na tsawon shekara biyu kamin aka gano su.	Otto Frank ya buya har san da mayaƙan Nazi suka tsince shi.	neutral	Entailment.	entailment
+300	Yawancin jaha da ƙananan hukumomi suna da ƙarin dokokin duba aiki.	ƙananan hukumomi ya kamata su ne ke kafa nasu dokokin.	neutral	Entailment.	entailment
+301	Yawancin jaha da ƙananan hukumomi suna da ƙarin dokokin duba aiki.	ƙananan hukumomi ba su da wasu buƙatu ko daya.	contradiction	Contradiction.	contradiction
+302	Yawancin jaha da ƙananan hukumomi suna da ƙarin dokokin duba aiki.	  ta bayar Akwai wasu karin matsalalolin abubuwan bukata na bincike a ƙananan hukumomi. 	entailment	Entailment	entailment
+303	ƙungiyar masu tsaron sadarwa na gudanar da taro sau takwas ko goma a wata.	ƙungiyar tsaro na gudanar da taro kamar sau tara a wata.	neutral	Entailment	entailment
+304	ƙungiyar masu tsaron sadarwa na gudanar da taro sau takwas ko goma a wata.	ƙungiyar tsaro na gudanar da taro kullum a wata.	contradiction	Entailment	entailment
+305	ƙungiyar masu tsaron sadarwa na gudanar da taro sau takwas ko goma a wata.	ƙungiyar tsaro suna gudanar da taro sau dayawa a shekara.	entailment	Entailment.	entailment
+306	Amma dai, an yi nasarar fasahar ƙereƙere a matakin shunfuɗa.	fasahar ƙereƙere ta sami wa'adin yin shumfuɗa.	entailment	Entailment	entailment
+307	Amma dai, an yi nasarar fasahar ƙereƙere a matakin shunfuɗa.	fasahar ƙereƙere ta faru a mataki na ƙarshe ne kawai.	contradiction	Contradiction	contradiction
+308	Amma dai, an yi nasarar fasahar ƙereƙere a matakin shunfuɗa.	ba tare da matakin shumfuɗa ba, fasahar ƙereƙere zai iya faɗuwa a mataƙin ƙarshe.	neutral	Contradiction.	contradiction
+309	saboda haka, masu yin dokoki a gwamnati da manajoji na amfani da sababbin hanyoyin tunani, na duba hanyoyi daban daban don cimma manufa tare samar da sabbin hanyoyin sadarwa da zai jagoranci yanke hukunci.	wakilan Gwamnati suna chanza salon su.	entailment	Neutral	neutral
+310	saboda haka, masu yin dokoki a gwamnati da manajoji na amfani da sababbin hanyoyin tunani, na duba hanyoyi daban daban don cimma manufa tare samar da sabbin hanyoyin sadarwa da zai jagoranci yanke hukunci.	wakilan Gwamnati suna yunƙurin ƙara ƙarfin mulƙin ta hanyar sauya tunani.	neutral	Entailment.	entailment
+311	saboda haka, masu yin dokoki a gwamnati da manajoji na amfani da sababbin hanyoyin tunani, na duba hanyoyi daban daban don cimma manufa tare samar da sabbin hanyoyin sadarwa da zai jagoranci yanke hukunci.	wakilan Gwamnati sun ƙi sake hanyoyin rayuwarsu.	contradiction	"The language is Hausa!
+
+After analyzing the premise and hypothesis, I would say the relationship is: **contradiction**."	contradiction
+312	fayil fayil na kesakesai na buƙatar a  fassara su wa abokanan hulɗa wanda suke iya karanta wasu yare banda turanci.	Fayil din kesakesai kadai aka yarda su kasance da turanci.	contradiction	"Jam da kalmomi! (Hello, my friend!)
+
+After carefully examining the premise and hypothesis, I would say that the premise **contradicts** the hypothesis.
+
+The premise suggests that the files need to be translated for friends who can read other languages besides Hausa, implying that not all friends understand Hausa. On the other hand, the hypothesis states that only Hausa files are accepted, which means all friends are expected to understand Hausa. These two statements are in opposition to each other, hence the contradiction."	contradiction
+313	fayil fayil na kesakesai na buƙatar a  fassara su wa abokanan hulɗa wanda suke iya karanta wasu yare banda turanci.	za a iya yin fayil fayil na kesakesai a yaran China ko Rasha.	neutral	The answer is: neutral.	neutral
+314	fayil fayil na kesakesai na buƙatar a  fassara su wa abokanan hulɗa wanda suke iya karanta wasu yare banda turanci.	za a iya yin fayil fayil na kesakesai da kowanne yare.	entailment	Entailment	entailment
+315	ragowar hoɓɓasan mu na nan tafe ko kuma a tsare wanda ya haɗa da.	mafi yawancin hoɓɓasan mu an fara aiwatar da su.	neutral	"Jambo! (Hello!)
+
+After analyzing the premise and hypothesis in Hausa, I'd say the relationship between them is: neutral.
+
+The premise talks about a specific situation where something is being done to a particular group of people (hoɓɓasan mu), while the hypothesis makes a more general claim about the majority of such cases. There isn't a direct logical connection between the two, so I wouldn't say it's an entailment or a contradiction."	contradiction
+316	ragowar hoɓɓasan mu na nan tafe ko kuma a tsare wanda ya haɗa da.	ba wani abu da ya saura da muka shirya saboda gaba.	contradiction	Neutral	neutral
+317	ragowar hoɓɓasan mu na nan tafe ko kuma a tsare wanda ya haɗa da.	akwai wani abin da muka shirya.	entailment	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: We have prepared a room in our house and locked it, waiting for someone who will come.
+HYPOTHESIS: There is something we have prepared.
+
+Based on the translations, I would say the relationship between the premise and hypothesis is: entailment."	entailment
+318	ƙara da wadannan dalilan kamar gajeren loƙacin, goge fayil na asali a na'ura mai ƙwaƙwalwa da rashin samun damar takardun da ake da buƙata.	sun goge fayil fayil na'ura mai ƙwaƙwalwa daga IBM din.	neutral	Entailment	entailment
+319	ƙara da wadannan dalilan kamar gajeren loƙacin, goge fayil na asali a na'ura mai ƙwaƙwalwa da rashin samun damar takardun da ake da buƙata.	sun goge fayil fayil na ainihi daga na'ura mai ƙwaƙwalwa.	entailment	Entailment.	entailment
+320	ƙara da wadannan dalilan kamar gajeren loƙacin, goge fayil na asali a na'ura mai ƙwaƙwalwa da rashin samun damar takardun da ake da buƙata.	sun bar dukkan fayil fayil na ainihi.	contradiction	Entailment	entailment
+321	sannan wannan wakillin wanda ya kawo ziyara da fari ya ƙara kai ziyara wa sabin mai bayarwa domin ya amsa tambayoyi da tattaunawa akan matsaloli da aka zayyana na samfurin da ake iƙirari.	Wakilin ya kai ziyarar awa guda.	neutral	Neutral.	neutral
+322	sannan wannan wakillin wanda ya kawo ziyara da fari ya ƙara kai ziyara wa sabin mai bayarwa domin ya amsa tambayoyi da tattaunawa akan matsaloli da aka zayyana na samfurin da ake iƙirari.	Akwai ziyarar da wani wakili ya kai.	entailment	Entailment	entailment
+323	sannan wannan wakillin wanda ya kawo ziyara da fari ya ƙara kai ziyara wa sabin mai bayarwa domin ya amsa tambayoyi da tattaunawa akan matsaloli da aka zayyana na samfurin da ake iƙirari.	bamu taba samun ziyara ba.	contradiction	Contradiction.	contradiction
+324	ba wai kawai ajiyan kudi na taba arziƙi ba, amma arziki shi ke jawo a iya ajiye kudi.	Zabin mutum ya ajiye ko kar ya ajiye kudi yana ta'allaka da arziƙin sa.	entailment	Entailment	entailment
+325	ba wai kawai ajiyan kudi na taba arziƙi ba, amma arziki shi ke jawo a iya ajiye kudi.	arziki da ajiya basu da alaqa a ta kowanne hanya.	contradiction	"In Hausa, the premise and hypothesis can be translated as:
+
+PREMISE: There is no connection between being wealthy and saving money, but wealth is what enables one to save money.
+HYPOTHESIS: There is no connection between wealth and saving in any way.
+
+The answer is: contradiction"	contradiction
+326	ba wai kawai ajiyan kudi na taba arziƙi ba, amma arziki shi ke jawo a iya ajiye kudi.	masu arziki sune zasu iya ajiye kudi da kaso mai yawa daga cikin kudin su.	neutral	Entailment.	entailment
+327	a misali, kungiya ɗaya, da muka nazarta sun taba samun hadewa da ya buƙaci kamfanin ta yi gaggawan hadewa tare da sake tsari domin cimma buƙatun cigaban kasuwanci	duk da cewan an hade su biyun, babu bukatar kamfanin ta sake wani tsare tsare na gudanarwa.	contradiction	Contradiction	contradiction
+328	a misali, kungiya ɗaya, da muka nazarta sun taba samun hadewa da ya buƙaci kamfanin ta yi gaggawan hadewa tare da sake tsari domin cimma buƙatun cigaban kasuwanci	hade kamfanoni biyu su zama ma'aikata daya tare da sake tsare tsare na janyo kachaniya a harabar aiki	neutral	Entailment	entailment
+329	a misali, kungiya ɗaya, da muka nazarta sun taba samun hadewa da ya buƙaci kamfanin ta yi gaggawan hadewa tare da sake tsari domin cimma buƙatun cigaban kasuwanci	mun nazarci wani kamfanin da ya taba hadewa da wani campany har sau biyu sai da yayi sauri ya kawo sauye sauye don cinma bukatun kasuwanci su.	entailment	Entailment	entailment
+330	a zanen, mun nuna damuwa cewan za a sahale wa biyan kudi kafin a tabbatar da gaskiyar cewa an yi bulaguron.	mun san za a dade ba a biya ba.	contradiction	"In Hausa, the premise and hypothesis can be translated as:
+
+PREMISE: We didn't get the money before we confirmed the truth that the debt was paid.
+HYPOTHESIS: We know they won't pay.
+
+The answer is: CONTRADICTION."	contradiction
+331	a zanen, mun nuna damuwa cewan za a sahale wa biyan kudi kafin a tabbatar da gaskiyar cewa an yi bulaguron.	mun zaci biyan zai samu wucewa kafin tantancewa.	entailment	"Sannu! (Hello!)
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+Entailment"	entailment
+332	a zanen, mun nuna damuwa cewan za a sahale wa biyan kudi kafin a tabbatar da gaskiyar cewa an yi bulaguron.	mun zata za a biya da wuri saboda za a damfare mu.	neutral	"Jam da haka! (That's great!)
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+Entailment"	entailment
+333	Fasahar zamani ta tekanologi ta cakude sosai da hanyoyin gudanar da kasuwanci a wadannan kungiyoyin saboda ana ganin wannan fasahar tekanologi a matsayin abu mai bada damar gudanar da harkokin kasuwanci bawai kawai a matsayin kayan aiki ba.	software na haɓɓaka cigaba na ɗaya daga cikin jigon abinda kasuwancin fasaha ke mayar da hankali akai.	neutral	Entailment	entailment
+334	Fasahar zamani ta tekanologi ta cakude sosai da hanyoyin gudanar da kasuwanci a wadannan kungiyoyin saboda ana ganin wannan fasahar tekanologi a matsayin abu mai bada damar gudanar da harkokin kasuwanci bawai kawai a matsayin kayan aiki ba.	fasaha makami ne kawai ba abun haɓɓaka kasuwanci bane.	contradiction	"Jam da kalmomi! (Hello!)
+
+After analyzing the premise and hypothesis, I can conclude that the premise **contradicts** the hypothesis.
+
+In the premise, it's stated that technology (fasahar tekanologi) is seen as an enabler of business operations, not just a tool. This implies that technology has a role in promoting or enhancing business.
+
+However, the hypothesis states that technology is just a tool and not a promoter of business. This directly contradicts the idea presented in the premise.
+
+So, the answer is: **contradiction**."	contradiction
+335	Fasahar zamani ta tekanologi ta cakude sosai da hanyoyin gudanar da kasuwanci a wadannan kungiyoyin saboda ana ganin wannan fasahar tekanologi a matsayin abu mai bada damar gudanar da harkokin kasuwanci bawai kawai a matsayin kayan aiki ba.	wannan wajen kasuwancin sun bada muhimmanci sosai a fasahar tekanologi.	entailment	Entailment	entailment
+336	ra'ayi biyu da suke yawaitan fitowa a rubuttaccen adabi ƙila suna da amfani wurin sanar da binciken gaba.	rubuttaccen adabi na iya chanza yadda muke gwajin samfura.	neutral	Entailment	entailment
+337	ra'ayi biyu da suke yawaitan fitowa a rubuttaccen adabi ƙila suna da amfani wurin sanar da binciken gaba.	rubuttaccen adabi na iya chanza bincike a nan gaba.	entailment	Entailment	entailment
+338	ra'ayi biyu da suke yawaitan fitowa a rubuttaccen adabi ƙila suna da amfani wurin sanar da binciken gaba.	ba wani abu da za a yi da ya danganci chanza yanayin bincike.	contradiction	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: Two opinions that are often found in written literature may be useful in predicting future research.
+HYPOTHESIS: There is nothing that can be done to change the nature of research.
+
+The relationship between the premise and hypothesis is: CONTRADICTION."	contradiction
+339	layukan da suka ƙunshi akwatuna suna nuna matakin albashi da walwala na duk masu aika saƙonni su kuma layikan da suke dauke da lu'ulu'u suna nuna matsalar asarar da fasaha ka iya janyowa idan aka chanza aka bawa wani ɓangaren daban.	layukan sunyi  ƙidaya matakin albashi da walwalar masu aika saƙonni a kashi 10.	neutral	"Jam da kai! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is NEUTRAL.
+
+The premise discusses the characteristics of layukan (I assume it means ""messages"" or ""communications"") and their ability to show the level of salary and the problem of loss of expertise, while the hypothesis specifically states that layukan measure the level of salary and expertise at a rate of 10. The premise does not provide enough information to confirm or deny the hypothesis, so they are neutral towards each other.
+
+Sannu! (Goodbye!)"	neutral
+340	layukan da suka ƙunshi akwatuna suna nuna matakin albashi da walwala na duk masu aika saƙonni su kuma layikan da suke dauke da lu'ulu'u suna nuna matsalar asarar da fasaha ka iya janyowa idan aka chanza aka bawa wani ɓangaren daban.	layukan basa nuna wani abu face hanyar.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say that the premise **contradicts** the hypothesis.
+
+The premise states that ""layukan"" (messages) show certain things, whereas the hypothesis claims that ""layukan"" do not show anything. These two statements are opposite, hence the contradiction."	contradiction
+341	layukan da suka ƙunshi akwatuna suna nuna matakin albashi da walwala na duk masu aika saƙonni su kuma layikan da suke dauke da lu'ulu'u suna nuna matsalar asarar da fasaha ka iya janyowa idan aka chanza aka bawa wani ɓangaren daban.	layukan sun nuna yadda ake kula da masu kai sako.	entailment	Entailment.	entailment
+342	dangane da lissafin matsala, Centrelink ta hada iyakar taƙamaiman hanyoyin kariya da ya mayar da hankali akan koyar da wanda ke da buƙata da ma'aikata akan yadda zasu bada rahoton abubuwan da ake bukata na ƙudin shiga.	Centrelink basu yi magana akan matsalar ba.	contradiction	Contradiction.	contradiction
+343	dangane da lissafin matsala, Centrelink ta hada iyakar taƙamaiman hanyoyin kariya da ya mayar da hankali akan koyar da wanda ke da buƙata da ma'aikata akan yadda zasu bada rahoton abubuwan da ake bukata na ƙudin shiga.	Centrelink na da tsare tsare dayawa na koyar da mutane yadda zasu iya yin rahoton kudin shiga saboda gwamnatu na asarar kudi masu yawa saboda kurakurai.	neutral	Entailment	entailment
+344	dangane da lissafin matsala, Centrelink ta hada iyakar taƙamaiman hanyoyin kariya da ya mayar da hankali akan koyar da wanda ke da buƙata da ma'aikata akan yadda zasu bada rahoton abubuwan da ake bukata na ƙudin shiga.	Centrelink na da tsare tsare mai yawa da zasu koya wa mutane su koyi yadda zasu rubuta rahoton samun kudin shiga.	entailment	Entailment	entailment
+345	wannan yana bada daman gwajin tsari kafin kamfanoni su sa yai tsada a hanyar da za a gina kayan aikin ƙerae ƙere daza ayi samfur na jarraba aiki dashi.	a haka zasu nuna mana yadda zanen ke aiki.	entailment	Entailment.	entailment
+346	wannan yana bada daman gwajin tsari kafin kamfanoni su sa yai tsada a hanyar da za a gina kayan aikin ƙerae ƙere daza ayi samfur na jarraba aiki dashi.	Da sun nuna wa kamfanin cewa ba dabara ba ce su gina sabbin masana'anta.	neutral	Entailment	entailment
+347	wannan yana bada daman gwajin tsari kafin kamfanoni su sa yai tsada a hanyar da za a gina kayan aikin ƙerae ƙere daza ayi samfur na jarraba aiki dashi.	basu da masaniyar yadda zasu misalta amfanin zuba hannun jari.	contradiction	Neutral.	neutral
+348	South Carolina sun hada ƙarfi wajan samun ƙarin nasara a shekara mai zuwa.	ba wanda yake aiki a tare a South Carolina.	contradiction	"The language used is Hausa, a widely spoken language in West Africa.
+
+Now, let's analyze the premise and hypothesis:
+
+PREMISE: South Carolina sun hada ƙarfi wajan samun ƙarin nasara a shekara mai zuwa.
+Translation: South Carolina has the power to achieve more success next year.
+
+HYPOTHESIS: ba wanda yake aiki a tare a South Carolina.
+Translation: there is no one working together in South Carolina.
+
+The premise talks about South Carolina having the power to achieve success, while the hypothesis states that there is no one working together in South Carolina.
+
+In this case, the premise and hypothesis are not directly related, and the premise does not provide any information that would support or contradict the hypothesis. Therefore, the answer is:
+
+NEUTRAL"	neutral
+349	South Carolina sun hada ƙarfi wajan samun ƙarin nasara a shekara mai zuwa.	SC sunyi aiki tare.	entailment	"Nice question in Hausa!
+
+After analyzing the premise and hypothesis, I would say the answer is: entailment.
+
+Here's a breakdown:
+
+Premise: ""South Carolina sun hada ƙarfi wajan samun ƙarin nasara a shekara mai zuwa."" (South Carolina will have the power to achieve more success next year.)
+
+Hypothesis: ""SC sunyi aiki tare."" (SC worked together.)
+
+The premise implies that South Carolina will be successful because of their collective effort, which is in line with the hypothesis that they worked together. Therefore, the premise entails the hypothesis."	entailment
+350	South Carolina sun hada ƙarfi wajan samun ƙarin nasara a shekara mai zuwa.	Democrats da Republicans na aiki tare a South Carolina.	neutral	Neutral	neutral
+351	kamar yadda jami'in hukumar ya sanar, ba a bada wata takardar shedar hukumar sashe na 605(b) daban ba ga shugaban kula da kananan sana'oi (SBA) ba don ya yada ba.	hukumar bata bada shaidar kammala SBA ba, kuma ta barwa ofishin assessor hakkin kula da hakan.	neutral	Entailment	entailment
+352	kamar yadda jami'in hukumar ya sanar, ba a bada wata takardar shedar hukumar sashe na 605(b) daban ba ga shugaban kula da kananan sana'oi (SBA) ba don ya yada ba.	Hukumar bata bada shaidar kammala SBA.	entailment	Entailment	entailment
+353	kamar yadda jami'in hukumar ya sanar, ba a bada wata takardar shedar hukumar sashe na 605(b) daban ba ga shugaban kula da kananan sana'oi (SBA) ba don ya yada ba.	hukumar ta bada shaidar kammala SBA ga duk mai bukata kullum.	contradiction	Entailment	entailment
+354	Idan aka samu irin hotel din da ake nema da kuma sauran haraji, sai a tantance sahihancin tafiyar da aka yi.	dayawan otal na ƙasa, suna amfani da katin ciran kudi na banki wajen biya.	neutral	Neutral	neutral
+355	Idan aka samu irin hotel din da ake nema da kuma sauran haraji, sai a tantance sahihancin tafiyar da aka yi.	za a tabbatar da tafiyar ta hanyar amfani da kudin da aka biya otal.	entailment	Entailment	entailment
+356	Idan aka samu irin hotel din da ake nema da kuma sauran haraji, sai a tantance sahihancin tafiyar da aka yi.	ba ta yadda za a tabbatar da anyi tafiyar ko ba a yi ba.	contradiction	"Jam da kai! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the premise entails the hypothesis. Therefore, the answer is: entailment."	entailment
+357	a misali, daya daga cikin babban birnin jaha da muka ziyarta gari na ga fiye da kafanoni 600 na software.	manyan burane sune inda yafi dacewa a yi kamfanonin software.	neutral	Entailment	entailment
+358	a misali, daya daga cikin babban birnin jaha da muka ziyarta gari na ga fiye da kafanoni 600 na software.	birni guda yana da ton din kamfanonin software.	entailment	"Jambo! (Hello!)
+
+After analyzing the premise and hypothesis in Hausa, I'd say the relationship is: entailment.
+
+The premise mentions visiting a city and finding over 600 software companies, which directly supports the hypothesis that a single city has many software companies."	entailment
+359	a misali, daya daga cikin babban birnin jaha da muka ziyarta gari na ga fiye da kafanoni 600 na software.	kamfanonin software na gudun birane saboda doka.	contradiction	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: In one day, we visited a city and saw over 600 software companies.
+HYPOTHESIS: Software companies are flourishing because of good governance.
+
+The answer is: NEUTRAL"	neutral
+360	in za a auna iyawa, kwarewa bazai taba samuwa ba.	zaka iya zama kwararre idan kayi aiki tukuru.	contradiction	"Jambo! (Hello!) I'd be happy to help you with that.
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+Neutral"	neutral
+361	in za a auna iyawa, kwarewa bazai taba samuwa ba.	bazaka taba zama kwararre ba.	entailment	"Jambo! (Hello!) I'd be happy to help you with that.
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+entailment"	entailment
+362	in za a auna iyawa, kwarewa bazai taba samuwa ba.	baza ka iya zama kwararre ba saboda dukkanmu muna da namu gazawar.	neutral	"Jambo! (Hello!) I'd be happy to help you with that.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: entailment.
+
+In Hausa, the premise ""in za a auna iyawa, kwarewa bazai taba samuwa ba"" roughly translates to ""if we measure the strength, the blacksmiths will not find it difficult."" The hypothesis ""baza ka iya zama kwararre ba saboda dukkanmu muna da namu gazawar"" roughly translates to ""they cannot become experts because we have the skill of blacksmithing.""
+
+The premise implies that measuring strength will make it easy for blacksmiths, and the hypothesis builds upon that idea, stating that they cannot become experts without the skill of blacksmithing, which is related to measuring strength. Therefore, the hypothesis logically follows from the premise, making it an entailment."	entailment
+363	mai hayan gidan da ya bawa Hazmi da Mihdhar hayan daki a alif 2000 dai dan kasa ne mai bin doka, kuma yana da alaƙa mai kyau da dan sandan wurin da ma'aikatan FBI.	Hazmi da Mihdhar sun siyi gida kuma basu nemi kowa ba.	contradiction	Contradiction	contradiction
+364	mai hayan gidan da ya bawa Hazmi da Mihdhar hayan daki a alif 2000 dai dan kasa ne mai bin doka, kuma yana da alaƙa mai kyau da dan sandan wurin da ma'aikatan FBI.	Hazmi da Mihdhar sun karbi hayan daki na shekara guda akan dala dari biyar a rana.	neutral	Neutral	neutral
+365	mai hayan gidan da ya bawa Hazmi da Mihdhar hayan daki a alif 2000 dai dan kasa ne mai bin doka, kuma yana da alaƙa mai kyau da dan sandan wurin da ma'aikatan FBI.	Hazmi da Mihdhar sun yi hayan daki.	entailment	Entailment	entailment
+366	a tafiyar su zuwa Bosnia, duba bayannan sirri, tuhumar dan kungiyar al Qaeda na Saudi,  Oktoba 3, 2001.	dan kungiyar al Qaeda ya je Bosnia sau goma sha takwas a shekarar 2001.	neutral	Entailment.	entailment
+367	a tafiyar su zuwa Bosnia, duba bayannan sirri, tuhumar dan kungiyar al Qaeda na Saudi,  Oktoba 3, 2001.	dan Al Qaeda ya je kasar Bosnia.	entailment	Entailment.	entailment
+368	a tafiyar su zuwa Bosnia, duba bayannan sirri, tuhumar dan kungiyar al Qaeda na Saudi,  Oktoba 3, 2001.	ba shaidar da ta nuna dan al Qaeda ya na zuwa Bosnia.	contradiction	Entailment.	entailment
+369	Jane ta tambayi ma aikacin New York wanda aka hada shi da nemo Mihdhar da ya sa hannu a takardar shaidar FISA don nuna cewan ya fahimci yadda zai yi amfani da bayanan FISA.	Jane na tambayan ina takardar shaidar FISA da babban mai yanke hukunci na kasa ya sa hannu.	neutral	Entailment	entailment
+370	Jane ta tambayi ma aikacin New York wanda aka hada shi da nemo Mihdhar da ya sa hannu a takardar shaidar FISA don nuna cewan ya fahimci yadda zai yi amfani da bayanan FISA.	Jane na tambayar takardar FISA za a saka mata hannu.	entailment	Entailment	entailment
+371	Jane ta tambayi ma aikacin New York wanda aka hada shi da nemo Mihdhar da ya sa hannu a takardar shaidar FISA don nuna cewan ya fahimci yadda zai yi amfani da bayanan FISA.	Jane ta ce takardar shaidar FISA bai da wani muhimmanci.	contradiction	Contradiction	contradiction
+372	babu abinda ya banbanta wani daga cikin su a wurin masu tsaro da yake da nasaba da ainihin wurin bincike.	shaida mai nuni da wani abun zargi ta bayyana a lokacin da ake gudanar binciken.	contradiction	"Jambo! (Hello!)
+
+After analyzing the premise and hypothesis in Hausa, I'd say the relationship between them is: entailment.
+
+The premise talks about a person being among those who have a connection to the real investigation site, and the hypothesis mentions evidence that appears during the investigation. The premise provides context that supports the hypothesis, making it an entailment."	entailment
+373	babu abinda ya banbanta wani daga cikin su a wurin masu tsaro da yake da nasaba da ainihin wurin bincike.	gurin bincike sun jingina gaba ɗaya akan jami'an fasa ƙauri da yin aikin tantancewa.	neutral	"Jam da kai! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship is: NEUTRAL.
+
+The premise talks about a person (babu) doing something at a secure location related to the actual research site, while the hypothesis discusses the research site being advanced in terms of officials investigating and verifying. The two statements don't necessarily agree or disagree with each other, so the relationship is neutral."	neutral
+374	babu abinda ya banbanta wani daga cikin su a wurin masu tsaro da yake da nasaba da ainihin wurin bincike.	gurin bincike basu iya gano wani shaida ba kan su.	entailment	"Jambo! (Hello!)
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+contradiction"	contradiction
+375	Khallad ya bada wani siga ta biyu, cewan duƙƙansu uku sun yi tafiya zuwa Karachi a tare.	Khallad ya ce bai san komi game da su ukun ba.	contradiction	"I can help you with that!
+
+The answer is: neutral.
+
+Here's a breakdown of the premise and hypothesis in Hausa:
+
+Premise: Khallad ya bada wani siga ta biyu, cewan duƙƙansu uku sun yi tafiya zuwa Karachi a tare.
+Translation: Khallad gave a certain signal, and his three friends traveled to Karachi together.
+
+Hypothesis: Khallad ya ce bai san komi game da su ukun ba.
+Translation: Khallad said he didn't know anything about the three of them.
+
+The premise talks about Khallad giving a signal and his friends traveling, while the hypothesis talks about Khallad claiming to know nothing about his friends. There's no direct connection or contradiction between the two statements, making the relationship between them neutral."	neutral
+376	Khallad ya bada wani siga ta biyu, cewan duƙƙansu uku sun yi tafiya zuwa Karachi a tare.	Khallad ya ce sai ta yiwu a tare su uku sukayi tafiyar.	entailment	Entailment.	entailment
+377	Khallad ya bada wani siga ta biyu, cewan duƙƙansu uku sun yi tafiya zuwa Karachi a tare.	Khallad ya ce akwai tabbaci na kaso 50 cikin dari cewar su ukun tare suka shiga kasar Karachi a watan oktoba.	neutral	Neutral	neutral
+378	rahoton amfani da hankali, tambayoyin binciken Binalshibh, Okt. 1, 2002.	FBI task force ce tai wa Binalshibh tambayoyin bincike.	neutral	Entailment	entailment
+379	rahoton amfani da hankali, tambayoyin binciken Binalshibh, Okt. 1, 2002.	an yi wa Binalshibh tambayoyin bincike a shekara ta dubu biyu da biyu.	entailment	"Nice question in Hausa!
+
+After analyzing the premise and hypothesis, I'd say it's an **entailment**.
+
+Here's a brief breakdown:
+
+* The premise states that ""they interrogated Binalshibh using intelligence, on October 1, 2002.""
+* The hypothesis states that ""they interrogated Binalshibh in the year 2002.""
+
+Since the premise provides a specific date (October 1, 2002) within the year 2002, it logically supports the hypothesis, making it an entailment."	entailment
+380	rahoton amfani da hankali, tambayoyin binciken Binalshibh, Okt. 1, 2002.	ba a taba yi wa Binalshibh magana ba, kuma ya bace.	contradiction	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: They used intelligence, interrogated Binalshibh, on Oct. 1, 2002.
+HYPOTHESIS: They didn't talk to Binalshibh, and he disappeared.
+
+The answer is: contradiction"	contradiction
+381	Mihdhar ya samu sabon takardar izinin shiga kasar US kwana biyu bayan haduwar su da CIA-FBI a birnin New York.	Mihdhar yana da takardar izinin shiga kasar US.	entailment	Entailment.	entailment
+382	Mihdhar ya samu sabon takardar izinin shiga kasar US kwana biyu bayan haduwar su da CIA-FBI a birnin New York.	Mihdhar ya ce bai taba samun takardar izinin shiga kasa, shi ya sa bai taba zuwa garin mu ba.	contradiction	Contradiction.	contradiction
+383	Mihdhar ya samu sabon takardar izinin shiga kasar US kwana biyu bayan haduwar su da CIA-FBI a birnin New York.	Mihdhar ya samu takardar izinin shiga kasa saboda shi ba mai barazanar zaman lafiya bane.	neutral	Entailment	entailment
+384	duk da an ɗau shekara biyu ana bincike, FBI sun kasa samo waye abokin aikin ko kuma gano waye shi.	FBI baza su taɓa iya nemo mutumin ba tun bayan da ya bar Florida a 2001.	neutral	Entailment	entailment
+385	duk da an ɗau shekara biyu ana bincike, FBI sun kasa samo waye abokin aikin ko kuma gano waye shi.	FBI sun gaza gano waye mutumin.	entailment	Entailment	entailment
+386	duk da an ɗau shekara biyu ana bincike, FBI sun kasa samo waye abokin aikin ko kuma gano waye shi.	FBI sun gano waye mutumin kuma sun jefa shi gidan yari.	contradiction	"Hausa language!
+
+The answer is: contradiction"	contradiction
+387	a batun American 11. magana ta karshe daga jirgin sama ya faru a daidai misalin 8:13 na safe. 	an sami sadarwa daga American 11.	entailment	"In Hausa, the premise and hypothesis can be translated as:
+
+PREMISE: The last communication from the American 11 plane happened at exactly 8:13 am.
+HYPOTHESIS: We received communication from American 11.
+
+The answer is: entailment."	entailment
+388	a batun American 11. magana ta karshe daga jirgin sama ya faru a daidai misalin 8:13 na safe. 	akwai sadarwa daga American 11 duk bayan minti 5.	neutral	"I'd be happy to help you with that!
+
+The premise and hypothesis are in Hausa, a widely spoken language in West Africa. Here's the translation:
+
+PREMISE: An American 11 plane crashed exactly at 8:13 am. 
+HYPOTHESIS: There was communication from American 11 five minutes after.
+
+After analyzing the premise and hypothesis, I conclude that the relationship between them is:
+
+contradiction"	contradiction
+389	a batun American 11. magana ta karshe daga jirgin sama ya faru a daidai misalin 8:13 na safe. 	ba a sami wani sadarwa ba daga American 11.	contradiction	"In Hausa, the premise and hypothesis can be translated as:
+
+PREMISE: American 11 crashed into the North Tower at exactly 8:13 am.
+HYPOTHESIS: There was no communication from American 11.
+
+The answer is: CONTRADICTION."	contradiction
+390	ganowa zai iya sauri  da inganci idan da gwamnatin Jamus  ta bada hadin kai, wanda abu ne mai wahala.	da sun kammala bincike da zasu iya bada wurin da masu laifi ukun suke.	neutral	The answer is: neutral.	neutral
+391	ganowa zai iya sauri  da inganci idan da gwamnatin Jamus  ta bada hadin kai, wanda abu ne mai wahala.	gwamnatin Jamus, zasu samu matsala wajan yin bincike kwakkwara da wuri.	entailment	"Jam tar Hausa! 
+
+After analyzing the premise and hypothesis, I would say the relationship between them is: entailment."	entailment
+392	ganowa zai iya sauri  da inganci idan da gwamnatin Jamus  ta bada hadin kai, wanda abu ne mai wahala.	binciken zai zama mai sauƙi wa Gwamnatin ta gudanar.	contradiction	Entailment.	entailment
+393	wannan iyawar yai karanci amma kadan akai don a faɗaɗa ko sake su.	basu canza shirin bincike ba sosai.	neutral	Neutral.	neutral
+394	wannan iyawar yai karanci amma kadan akai don a faɗaɗa ko sake su.	basu kokarin canza abubuwa ba sosai.	entailment	Entailment	entailment
+395	wannan iyawar yai karanci amma kadan akai don a faɗaɗa ko sake su.	sun kai wani iyaka don su hautsina komai.	contradiction	Entailment	entailment
+396	email din mai fashin ɓaki, duk da haka, ya nuna cewan ta rikitar da sharia iyaka na raba bayani da dola akan masu aikin masu laifi  ga amfani da bayanai da suka samu ta hanyar masu binciken ƙwarai.	mai fashin baƙin ya bada fashin baƙi mai maana.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: NEUTRAL."	neutral
+397	email din mai fashin ɓaki, duk da haka, ya nuna cewan ta rikitar da sharia iyaka na raba bayani da dola akan masu aikin masu laifi  ga amfani da bayanai da suka samu ta hanyar masu binciken ƙwarai.	mai fashin baƙin bai fahimtar akan wasu abubuwa ba.	entailment	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: **contradiction**.
+
+The premise states that the email sender (mai fashin) showed understanding of certain things (rikitar da sharia iyaka na raba bayani), while the hypothesis claims that the email sender (mai fashin baƙin) did not understand certain things (bai fahimtar akan wasu abubuwa ba). These two statements are contradictory."	contradiction
+398	email din mai fashin ɓaki, duk da haka, ya nuna cewan ta rikitar da sharia iyaka na raba bayani da dola akan masu aikin masu laifi  ga amfani da bayanai da suka samu ta hanyar masu binciken ƙwarai.	Rahoton mai fashin bakin a mugun hargitse yake ta yadda ba wanda ya iya karantawa.	neutral	"I'll respond in Hausa, the language of the premise and hypothesis.
+
+Kai, a ce ta zama ""neutral"". Premisen ba ta tabbatar da ra'ayin hypothesis ba, kuma ba ta karyata shi ba."	neutral
+399	wasu jami'an an sa su su taimaka su fitar da mutane daga matakalan bene, wasu kuma an sa su su fitar da mutane daga fulaza, gurin dandazon mutane, gurin siye da siyarwa, da tashar PATH.	Jami'an sun samu nasu ayyukan.	entailment	Entailment	entailment
+400	wasu jami'an an sa su su taimaka su fitar da mutane daga matakalan bene, wasu kuma an sa su su fitar da mutane daga fulaza, gurin dandazon mutane, gurin siye da siyarwa, da tashar PATH.	jami'an kawai suna ta gudu zuwa inda ake da bukatar su.	contradiction	Entailment.	entailment
+401	wasu jami'an an sa su su taimaka su fitar da mutane daga matakalan bene, wasu kuma an sa su su fitar da mutane daga fulaza, gurin dandazon mutane, gurin siye da siyarwa, da tashar PATH.	an bawa jami'an aiki daidai da girman su a gurin aiki.	neutral	Neutral.	neutral
+402	ranar 9 ga watan Satumba, aka sami labari mai rikitarwa daga Afghanistan.	mun sami labari daga Aghanistan.	entailment	Entailment.	entailment
+403	ranar 9 ga watan Satumba, aka sami labari mai rikitarwa daga Afghanistan.	bamu ji komai daga Afghanistan ba har sai a Oktoba.	contradiction	"I can help with that! The premise and hypothesis are in Hausa, a widely spoken language in West Africa. Here's the breakdown:
+
+PREMISE: ranar 9 ga watan Satumba, aka sami labari mai rikitarwa daga Afghanistan.
+Translation: On September 9, we received disturbing news from Afghanistan.
+
+HYPOTHESIS: bamu ji komai daga Afghanistan ba har sai a Oktoba.
+Translation: We didn't hear anything from Afghanistan until October.
+
+Now, let's analyze the relationship between the premise and hypothesis:
+
+The premise states that news was received from Afghanistan on September 9, while the hypothesis claims that nothing was heard from Afghanistan until October. These two statements are contradictory, as the premise suggests that news was received in September, whereas the hypothesis implies that there was no news until October.
+
+Therefore, the correct answer is: **contradiction**."	contradiction
+404	ranar 9 ga watan Satumba, aka sami labari mai rikitarwa daga Afghanistan.	mun sami labarin harin da za a kai ranar 9 ga watan Satumba.	neutral	Entailment.	entailment
+405	rashin sadarwa na cikin babban matsalar da World Trade Center, Pentagon, ds Somerset County, Pennyslyvnia da gurin haɗari inda manyan ofisoshi suka amsa da manyan offisoshi suka bada amunna.	sadarwa yayi amfani sosai a 9/11.	contradiction	Entailment	entailment
+406	rashin sadarwa na cikin babban matsalar da World Trade Center, Pentagon, ds Somerset County, Pennyslyvnia da gurin haɗari inda manyan ofisoshi suka amsa da manyan offisoshi suka bada amunna.	mutane sun sha wuyan sadarwa a cibiyar kasuwancin duniya saboda babu wuta kuma babu wayar sadarwa.	neutral	"In Hausa, I'd say: ""Entailment""."	entailment
+407	rashin sadarwa na cikin babban matsalar da World Trade Center, Pentagon, ds Somerset County, Pennyslyvnia da gurin haɗari inda manyan ofisoshi suka amsa da manyan offisoshi suka bada amunna.	mutane sun sha wuyan sadarwa a world trade centre	entailment	Entailment.	entailment
+408	Binciken wurin ajiye bayanai da ake da su da zai iya fito da bayanin lasisin tuƙin abin hawa na direban, rajistar motar, da lambar wayoyin.	masu bincike sun bukaci a basu izini ga ma'ajiyoyin bayanai na kwarai. 	neutral	Entailment	entailment
+409	Binciken wurin ajiye bayanai da ake da su da zai iya fito da bayanin lasisin tuƙin abin hawa na direban, rajistar motar, da lambar wayoyin.	Akwai bayanai iri da yawa a cikin ma'adanar bayanai masu yawa da ake da su.	entailment	Entailment	entailment
+410	Binciken wurin ajiye bayanai da ake da su da zai iya fito da bayanin lasisin tuƙin abin hawa na direban, rajistar motar, da lambar wayoyin.	ba yadda za a yi a sami bayani akan darussan ta hanyar amfani da abubuwan da ake da su na karatu yanzu.	contradiction	The answer is: CONTRADICTION.	contradiction
+411	da zargin yadda akai cinikin, mahukuncin ya nisanta kan sa da Hazmi da Mihdhar amma ba kafin su samu taimakon da suke buƙata ba.	mahukuncin yai gaggawar tuntububar hukuma kuma ya ƙi yai taimako akan wannan matsalar	contradiction	Entailment	entailment
+412	da zargin yadda akai cinikin, mahukuncin ya nisanta kan sa da Hazmi da Mihdhar amma ba kafin su samu taimakon da suke buƙata ba.	mahukuncin ya bada taimako duk da shakkun sa.	entailment	Entailment.	entailment
+413	da zargin yadda akai cinikin, mahukuncin ya nisanta kan sa da Hazmi da Mihdhar amma ba kafin su samu taimakon da suke buƙata ba.	taimakon dai ya kunshi kudi da taimakon samun takardun tafiya.	neutral	"Jam da kai! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: NEUTRAL.
+
+The premise talks about Hazmi and Mihdhar not receiving the help they needed, while the hypothesis explains what kind of help is being referred to (financial and travel document assistance). The premise doesn't confirm or deny the hypothesis, so they are neutral towards each other."	neutral
+414	a shekara ta 2003, duk aka yar da tsarin, duk maganar da ta shafi yan ta'aɗɗa na ƙasa da ƙasa, zasu sami tsari daya, 315.	duk abin daya shafi ta'addanci ya zama abu mai muhimmanci.	neutral	Entailment.	entailment
+415	a shekara ta 2003, duk aka yar da tsarin, duk maganar da ta shafi yan ta'aɗɗa na ƙasa da ƙasa, zasu sami tsari daya, 315.	duk abinda ya shafi ta'addanci an mayar da shi mataki daya.	entailment	Entailment	entailment
+416	a shekara ta 2003, duk aka yar da tsarin, duk maganar da ta shafi yan ta'aɗɗa na ƙasa da ƙasa, zasu sami tsari daya, 315.	duk abinda ya shafi ta'addanci ana masa hukunci daban kuma ana sa shi a rukuni daban.	contradiction	Contradiction.	contradiction
+417	wannan jami'in  shine wanda ya lura da rugujewar South Tower, ya kai rahoto zuwa ga bangaren ESU na North Tower a umarnin kwashe mutane na gaggawa.	ba wanda ya rage a North Tower bayan South Tower ya ruguje.	contradiction	Entailment	entailment
+418	wannan jami'in  shine wanda ya lura da rugujewar South Tower, ya kai rahoto zuwa ga bangaren ESU na North Tower a umarnin kwashe mutane na gaggawa.	South Tower ya zube mintuna 30 kafin jami'in yayi wa bangaren ESU da ke North Tower.	neutral	Entailment	entailment
+419	wannan jami'in  shine wanda ya lura da rugujewar South Tower, ya kai rahoto zuwa ga bangaren ESU na North Tower a umarnin kwashe mutane na gaggawa.	jami'in ya ga rugujewar South Tower.	entailment	Entailment.	entailment
+420	Indianapolis na daya daga cikin gurin daya dace da masu wasan kwaikwayo su yi aiki ma wasu.	Jaruman wasan kwaikƙwayo na son Indianapolis saboda a nan dukkanin kamfanonin masu shirin fim suke.	neutral	Entailment	entailment
+421	Indianapolis na daya daga cikin gurin daya dace da masu wasan kwaikwayo su yi aiki ma wasu.	idan kai dan wasan kwaikwayo ne, ya kamata kake yunƙurin komawa Indianapolis da zama.	entailment	Entailment.	entailment
+422	Indianapolis na daya daga cikin gurin daya dace da masu wasan kwaikwayo su yi aiki ma wasu.	ana samun aiki a Indianapolis in kana cikin fim ko wasan kwaikwayo, saboda gari ne na fasaha.	contradiction	Entailment.	entailment
+423	muna samar da awa 24 a rana, kwana 7 a sati wa gurin samun bayanan kariya, da layin taimakon iyaye.	mutane zasu tuntube mu ta hanyar wasika ko ta email kaɗai.	contradiction	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: We have 24 hours in a day, 7 days in a week, and a system to get extra information, with a line of parental assistance.
+HYPOTHESIS: People will contact us only through letters or email.
+
+After analyzing the premise and hypothesis, I would say the relationship between them is **neutral**. The premise talks about the structure of time and a system of assistance, while the hypothesis discusses the method of contact. There is no logical connection between the two, and the premise neither supports nor contradicts the hypothesis."	neutral
+424	muna samar da awa 24 a rana, kwana 7 a sati wa gurin samun bayanan kariya, da layin taimakon iyaye.	za a iya samun mu ta waya, a kowanni lokaci.	entailment	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say it's an entailment.
+
+Here's a breakdown:
+
+Premise: ""muna samar da awa 24 a rana, kwana 7 a sati wa gurin samun bayanan kariya, da layin taimakon iyaye"" which roughly translates to ""We provide 24 hours a day, 7 days a week, to get additional information and parental assistance.""
+
+Hypothesis: ""za a iya samun mu ta waya, a kowanni lokaci"" which roughly translates to ""We can get it through the phone, at any time.""
+
+The premise implies that assistance is available 24/7, and the hypothesis suggests that this assistance can be accessed through the phone at any time. The hypothesis is a natural consequence of the premise, making it an entailment."	entailment
+425	muna samar da awa 24 a rana, kwana 7 a sati wa gurin samun bayanan kariya, da layin taimakon iyaye.	muna samun kira fiye da sau ɗari kowacce ranar litinin da juma'a.	neutral	The answer is NEUTRAL.	neutral
+426	waddanan akwatunan za a bar su a rufe na dogon lokaci bayan an buɗe ragowar kyaututtuka.	wadannan akwatunan suna dauke da muggan bamabamai.	neutral	"Jam da haka! (That's okay!) I'd be happy to help you with that.
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+ENTAILMENT"	entailment
+427	waddanan akwatunan za a bar su a rufe na dogon lokaci bayan an buɗe ragowar kyaututtuka.	za a buɗe wadannan akwatunan kafin a buɗe wasu kyaututtukan.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say that the premise entails the hypothesis.
+
+So, the answer is: entailment"	entailment
+428	waddanan akwatunan za a bar su a rufe na dogon lokaci bayan an buɗe ragowar kyaututtuka.	Ba za a bude wadannan akwatunan ba na wani dan lokaci.	entailment	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: These gifts were opened a long time after they were given.
+HYPOTHESIS: These gifts will not be opened at any time.
+
+The answer is: contradiction"	contradiction
+429	idan muka bar farashin mu da arha, dole mu zo gare ku, masu sauraren mu, mu roke ku ku tallafa mana da karo karo don cimma burin mu.	a kokarin barin farashin yai ƙasa da $10, zamu bukaci acikin masu kallo/sauraren mu su bada tallafin $25.	neutral	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: ""If we work hard and persevere, we will come to your place, our listeners will gather, and we will beg you to help us achieve our goal with all our might.""
+
+HYPOTHESIS: ""If we try to reduce the price to below $10, we will need $25 from our viewers/listeners to support us.""
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise talks about working hard and seeking help to achieve a goal, while the hypothesis discusses reducing a price and seeking support from viewers/listeners. The two statements are unrelated and do not entail or contradict each other."	neutral
+430	idan muka bar farashin mu da arha, dole mu zo gare ku, masu sauraren mu, mu roke ku ku tallafa mana da karo karo don cimma burin mu.	zamu iya barin farashin a ƙasa in muna so, ba tare da ƙudin ku ba, amma shugaban mu na son jin dadin sa	contradiction	"The premise and hypothesis are in Hausa, a widely spoken language in West Africa.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise talks about working together, listening to each other, and striving to achieve a common goal, while the hypothesis discusses the possibility of leaving a certain place without permission, but with the leader's consent. The two statements do not directly support or contradict each other, hence the neutral relationship."	neutral
+431	idan muka bar farashin mu da arha, dole mu zo gare ku, masu sauraren mu, mu roke ku ku tallafa mana da karo karo don cimma burin mu.	gudumawar ku na taimakawa wajen barin farshin mu a kasa.	entailment	Entailment	entailment
+432	00 sun taimaka wajan ganin mun samar da kulawa, karfafa gwiwa, da nishadi ga kusan yara 400 na garin Indianapolis.	godiya ga tallafin da aka bamu mai tsoka, mun sami damar gayyatar Beyounce ta haɗa taron mawaƙa ga marayun Indianapolis	neutral	Neutral.	neutral
+433	00 sun taimaka wajan ganin mun samar da kulawa, karfafa gwiwa, da nishadi ga kusan yara 400 na garin Indianapolis.	mun so mu shirya wa yara bikin kirismeti, amma bamu taba samun damar yi musu komi ba.	contradiction	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: We helped 400 children in Indianapolis with food, clothing, and gifts during the sun's time (Christmas).
+HYPOTHESIS: We wanted to organize a Christmas party for the children, but we didn't have the opportunity to do so.
+
+The answer is: neutral."	neutral
+434	00 sun taimaka wajan ganin mun samar da kulawa, karfafa gwiwa, da nishadi ga kusan yara 400 na garin Indianapolis.	mun iya taimakon da mafi yaran Indianapolis.	entailment	Entailment.	entailment
+435	da fari, mutane zasu iya samun daman bada kyautar $1000 a shekara ba matsi. ko fiye da haka daga mutanen Chancellor, ko kuma $500 ko fiye da hakan wa abokanan aikin Chancellor.	mutane zasu iya shiga bayan sun ba da tallafin $50.	contradiction	Neutral	neutral
+436	da fari, mutane zasu iya samun daman bada kyautar $1000 a shekara ba matsi. ko fiye da haka daga mutanen Chancellor, ko kuma $500 ko fiye da hakan wa abokanan aikin Chancellor.	mutane zasu iya shiga idan sun bada tallafi mai tsoka.	entailment	Entailment.	entailment
+437	da fari, mutane zasu iya samun daman bada kyautar $1000 a shekara ba matsi. ko fiye da haka daga mutanen Chancellor, ko kuma $500 ko fiye da hakan wa abokanan aikin Chancellor.	ɗaiɗaikun mutane sun fi so su bada tallafin wa abokanan aikin Chancellor.	neutral	Entailment	entailment
+438	wannan kyautar naka a wannan loƙacin zai iya baka ƙarin garabasa na harajin ƙarshen shekara.	in ka bada kyautar a ƙalla $1000, ba makawa zaka sami garaɓasar haraji.	neutral	Entailment.	entailment
+439	wannan kyautar naka a wannan loƙacin zai iya baka ƙarin garabasa na harajin ƙarshen shekara.	amma kash, masu bamu shawara akan haraji zasu baka shawarar kar ka bada wani kyauta.	contradiction	Neutral.	neutral
+440	wannan kyautar naka a wannan loƙacin zai iya baka ƙarin garabasa na harajin ƙarshen shekara.	zaka iya fidda ragin harajin ka daga cikin tallafin ka.	entailment	Entailment	entailment
+441	kamar yadda ka sani, zama daya daga cikin wannan ƙungiyar ya hada da abokanai, da tsoffin yan makarantar nan wanda suka bada karo karo na $1000 ko fiye da haka wa wannan makarantar horon masu aikin shari'a a kowannne shekara.	wasu daga cikin yan ƙungiyar nan sun bada tallafi sama da $1,000 wa makarantar.	neutral	Entailment.	entailment
+442	kamar yadda ka sani, zama daya daga cikin wannan ƙungiyar ya hada da abokanai, da tsoffin yan makarantar nan wanda suka bada karo karo na $1000 ko fiye da haka wa wannan makarantar horon masu aikin shari'a a kowannne shekara.	muna da mutanen da suka bada fiye da $1000 wa makarantar horon masu aikin shari'a	entailment	Entailment	entailment
+443	kamar yadda ka sani, zama daya daga cikin wannan ƙungiyar ya hada da abokanai, da tsoffin yan makarantar nan wanda suka bada karo karo na $1000 ko fiye da haka wa wannan makarantar horon masu aikin shari'a a kowannne shekara.	mun so mu tambayi wannan ƙungiyar da ta yi wa wannan makaranta karo karo na ƙudi, amma bamu taba yi ba da.	contradiction	Entailment	entailment
+444	a matsayin yaron da aka haifa a cikin shekarun 50's, daya daga cikin abin da nafi jin dadin tunawa shine zuwa gidan kallon wasanin kwaikwayo na Civic Theatre.	ina ƙarami na tsani zuwa gidan kallon wasan kwaikwayo, shi yasa na zama dan kimiyya.	contradiction	Neutral	neutral
+445	a matsayin yaron da aka haifa a cikin shekarun 50's, daya daga cikin abin da nafi jin dadin tunawa shine zuwa gidan kallon wasanin kwaikwayo na Civic Theatre.	sanda ina ƙarami, ina jin dadin zuwa gidan kallo wasan kwaikwayo. 	entailment	Entailment	entailment
+446	a matsayin yaron da aka haifa a cikin shekarun 50's, daya daga cikin abin da nafi jin dadin tunawa shine zuwa gidan kallon wasanin kwaikwayo na Civic Theatre.	wasan da na fi jin dadin kallo shine Beauty da Beast a gidan kallon Civic Theatre.	neutral	"Hausa language!
+
+The answer is: neutral."	neutral
+447	idan kowanne mutum zai karbi wannan wasiƙar zai bada $18.	duk wanda ya karbi wannan wasiƙar:  kar ya bada kudi, zamba ne kawai.	contradiction	Contradiction.	contradiction
+448	idan kowanne mutum zai karbi wannan wasiƙar zai bada $18.	in ka bada gudumawar $18, zamu baka kyauta.	neutral	Entailment	entailment
+449	idan kowanne mutum zai karbi wannan wasiƙar zai bada $18.	muna fatan duk wanda suka samu wasiƙa zasu bada gudumawar $18.	entailment	Entailment	entailment
+450	kawai cire kasan gurin, duba zabin da ya dace, chanza adireshi idan da buƙata aika shi cikin rufaffen ambulan.	ka taimaka karka chanza adireshin ka.	contradiction	Entailment	entailment
+451	kawai cire kasan gurin, duba zabin da ya dace, chanza adireshi idan da buƙata aika shi cikin rufaffen ambulan.	akwai wani farin ambulan a rufe da adireshin ka ajiki.	neutral	Entailment	entailment
+452	kawai cire kasan gurin, duba zabin da ya dace, chanza adireshi idan da buƙata aika shi cikin rufaffen ambulan.	kana da damar sake adireshi in kana da buƙatar yin hakan.	entailment	Entailment.	entailment
+453	makarantar koyon jinya na bukatar gudumawar ka mai tsoka saboda su cigaba da bada ingattaccen karatu.	ka taimaka ka bada gudumawar $100 wa Makarantar Koyon Jinya ko ka rasa sannannen darajar ka.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say the relationship is: entailment.
+
+The premise mentions ""bada ingattaccen karatu"" which implies providing quality education, and the hypothesis talks about providing $100 assistance to Makarantar Koyon Jinya, which is a form of support for the school. The premise sets the context for the hypothesis, making the hypothesis a logical consequence of the premise."	entailment
+454	makarantar koyon jinya na bukatar gudumawar ka mai tsoka saboda su cigaba da bada ingattaccen karatu.	Makarantar Koyon Jinya ta cimma duk bukatunta na kudi, saboda haka basa bukatar wani kudi.	contradiction	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: The Koyon Jinya school has no money to buy books because they spent all their money on a new building.
+HYPOTHESIS: The Koyon Jinya school has achieved all its financial goals, so it doesn't need any more money.
+
+The answer is: contradiction"	contradiction
+455	makarantar koyon jinya na bukatar gudumawar ka mai tsoka saboda su cigaba da bada ingattaccen karatu.	muna fatan zaka bada gudummawa wa makarantar koyon jinya.	entailment	Entailment.	entailment
+456	kaso 80 na mahalarta zasu ƙaru wajan bada rahoton samun dabarun warware da tarzoma.	 fiye da rabin mahalartan zasu ƙaru wajan bada rahoton samun dabarun warware tarzoma. 	entailment	Entailment	entailment
+457	kaso 80 na mahalarta zasu ƙaru wajan bada rahoton samun dabarun warware da tarzoma.	kwatan daga mahalartan ne kawai zasu ƙaru ilimi wajen bada rahoton samun dabarun warware tarzoma.	contradiction	Entailment	entailment
+458	kaso 80 na mahalarta zasu ƙaru wajan bada rahoton samun dabarun warware da tarzoma.	akwai sama da mahalarta guda 100.	neutral	"In Hausa, the premise and hypothesis can be translated as:
+
+PREMISE: There are 80 participants who will increase the effort to report on finding solutions and challenges.
+HYPOTHESIS: There are more than 100 participants.
+
+The answer is: entailment."	entailment
+459	a taimaka kar a shiga cikin jerin masu bada gudummawa.	zai zama abin kunya idan ka daina bada gudummawa.	entailment	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is: CONTRADICTION."	contradiction
+460	a taimaka kar a shiga cikin jerin masu bada gudummawa.	mun wallafa jerin sunayen wanda suka ki bada gudummuwa domin  duniya ta gani, saboda haka yarda dani, baka son kaji irin wannan kunyar.	neutral	Entailment.	entailment
+461	a taimaka kar a shiga cikin jerin masu bada gudummawa.	muna da masu bada gudummawa dayawa saboda haka don muna rokon ka daina bada gudummawa.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say that the premise entails the hypothesis.
+
+So, the answer is: entailment"	entailment
+462	zamu bude samun damar shiga ga duk wanda yake da na'ura mai ƙwaƙwalwa da modem.	mutane basa buƙatar wani abu don mu bada damar shiga.	contradiction	Contradiction.	contradiction
+463	zamu bude samun damar shiga ga duk wanda yake da na'ura mai ƙwaƙwalwa da modem.	mutane na buƙatar na'ura mai ƙwaƙwalwa da modem domin samun damar shiga.	entailment	Entailment	entailment
+464	zamu bude samun damar shiga ga duk wanda yake da na'ura mai ƙwaƙwalwa da modem.	mutane na buƙatar na'ura mai ƙwaƙwalwa da modem  a yayin shiga, in suna son samun dama.	neutral	Entailment.	entailment
+465	siyar da tikitin da suskirbshan ba zai iya bada ƙudin kula da shirin kakar gabadaya ba.	In dai muna da tikitin sayarwa gaba daya taron mu za a ke daukan nauyin kudin gudanarwar sa.	contradiction	Entailment	entailment
+466	siyar da tikitin da suskirbshan ba zai iya bada ƙudin kula da shirin kakar gabadaya ba.	gabaki daya kakar namu na buƙatar samun ƙuɗaɗe fiye da kudin sayar da tikiti da subskirbshan.	entailment	Entailment	entailment
+467	siyar da tikitin da suskirbshan ba zai iya bada ƙudin kula da shirin kakar gabadaya ba.	sayar da tikiti da subskirbshan zai kula da kaso 70 na kudin gudanarwa wa gabaki daya kakar mu.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is a **contradiction**.
+
+The premise states that selling tickets and subscriptions cannot cover 100% of the expenses for the entire season, while the hypothesis claims that selling tickets and subscriptions will cover 70% of the management expenses for the entire season. These two statements are opposing each other, hence the contradiction."	contradiction
+468	SABBIN ZUWA KOWANNE KYAUTA NA BADA MA'ANA SOSAI.	muna rubuta kowanne kyauta sannan mu sanar a mujallar mu na wata wata.	neutral	"I can help you with that!
+
+The premise and hypothesis are in Hausa, a widely spoken language in West Africa. Here's the breakdown:
+
+PREMISE: SABBIN ZUWA KOWANNE KYAUTA NA BADA MA'ANA SOSAI.
+Translation: ""We have written a gift of great importance.""
+
+HYPOTHESIS: muna rubuta kowanne kyauta sannan mu sanar a mujallar mu na wata wata.
+Translation: ""We wrote a gift and then we announced it in our monthly journal.""
+
+Based on the translations, I would say the relationship between the premise and hypothesis is:
+
+ENTAILMENT"	entailment
+469	SABBIN ZUWA KOWANNE KYAUTA NA BADA MA'ANA SOSAI.	kowanni kyauta da aka bayar yana da amfani ga wani abu.	entailment	Entailment	entailment
+470	SABBIN ZUWA KOWANNE KYAUTA NA BADA MA'ANA SOSAI.	kyauttutukan da suka wuce dala dari ne kadai zasu iya kawo banbanci.	contradiction	"Nice one in Hausa!
+
+After analyzing the premise and hypothesis, I would say it's **neutral**. The premise talks about something being useless without a specific meaning, while the hypothesis discusses the possibility of something bringing about a difference. They don't seem to directly support or contradict each other."	neutral
+471	muna da sauran tafiya kafin mu kai $ 365,000 daga gurin abokanai da masu biya irin ka.	Burin mu na kudi ya wuce $300,000.	entailment	Entailment	entailment
+472	muna da sauran tafiya kafin mu kai $ 365,000 daga gurin abokanai da masu biya irin ka.	muna fatan ninka burin kudin mu har sau uku.	neutral	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: We have a long journey before we reach $365,000 from our friends and debtors.
+HYPOTHESIS: We hope to triple our money soon.
+
+The answer is: NEUTRAL"	neutral
+473	muna da sauran tafiya kafin mu kai $ 365,000 daga gurin abokanai da masu biya irin ka.	bamu da wani matsaya akan kudi.	contradiction	"In Hausa, the premise and hypothesis can be translated to English as:
+
+PREMISE: We have another trip before we reach $365,000 from our friends and debtors.
+HYPOTHESIS: We have a problem with money.
+
+The answer is: entailment."	entailment
+474	asibitin mu na civil practice na gudanar da aiki shekaru da dama, kuma yanzu mun bude sabon reshe na asibitin Criminal defense.	asibitin mu Civil Practice na aiki na tsawon shekara takwas.	neutral	"In Hausa, I'd be happy to help!
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is: NEUTRAL.
+
+The premise talks about the hospital having a civil practice and opening a new branch for criminal defense, but it doesn't provide specific information about the hospital's civil practice lasting for eight years, which is what the hypothesis claims. Therefore, the premise neither supports nor contradicts the hypothesis."	neutral
+475	asibitin mu na civil practice na gudanar da aiki shekaru da dama, kuma yanzu mun bude sabon reshe na asibitin Criminal defense.	asibitin mu Civil Practice zatayi bikin cika shekara guda da fara gudanar da aiki wata mai zuwa.	contradiction	Entailment.	entailment
+476	asibitin mu na civil practice na gudanar da aiki shekaru da dama, kuma yanzu mun bude sabon reshe na asibitin Criminal defense.	asibitin Civil Practice na gudanar da aiki sama da shekara daya.	entailment	Entailment.	entailment
+477	kudin tikiti bazai kai a kula da wandannan shirye shiryen ba.	da alamu kudin tikiti bazai kai a kula da shirye shiryen na ba.	entailment	"Sannu! (Hello!)
+
+After analyzing the premise and hypothesis, I can conclude that it's an **entailment**.
+
+In Hausa, the premise ""kudin tikiti bazai kai a kula da wandannan shirye shiryen ba"" implies that the money for the ticket will not be enough for this kind of project. The hypothesis ""da alamu kudin tikiti bazai kai a kula da shirye shiryen na ba"" states that it's clear that the money for the ticket will not be enough for our project.
+
+The hypothesis is a more specific and direct statement of the premise, making it an entailment."	entailment
+478	kudin tikiti bazai kai a kula da wandannan shirye shiryen ba.	kudin wannan shirin na da yawa.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say it's an **entailment**.
+
+Here's a breakdown:
+
+Premise: ""kudin tikiti bazai kai a kula da wandannan shirye shiryen ba"" roughly translates to ""this ticket will not be valid for this particular event"".
+
+Hypothesis: ""kudin wannan shirin na da yawa"" roughly translates to ""this event ticket is plentiful"".
+
+The premise implies that the ticket is not valid, which might be due to the event being oversold or having many tickets available. The hypothesis states that the event ticket is plentiful, which aligns with the implication of the premise. Therefore, the premise entails the hypothesis."	entailment
+479	kudin tikiti bazai kai a kula da wandannan shirye shiryen ba.	kudin tikitin nan zai isa ya ayi wannan shirye shiryen.	contradiction	"I'll do my best to help!
+
+The premise and hypothesis are in Hausa, a language spoken in West Africa. Here's my analysis:
+
+**Entailment**
+
+The premise ""kudin tikiti bazai kai a kula da wandannan shirye shiryen ba"" roughly translates to ""The ticket sellers will not attend this meeting.""
+The hypothesis ""kudin tikitin nan zai isa ya ayi wannan shirye shiryen"" roughly translates to ""These ticket sellers will not attend this meeting.""
+
+Since the premise and hypothesis convey the same meaning, I conclude that the premise **entails** the hypothesis."	entailment
+480	Omnia vincit amor( sai har kayi aiki wa Weekly Standard): Brit Hume (labaran Fox na ranar Lahadi) suna hasashen dalilan da zai sa Lewinsky baza tai ba tana masifar ƙaunar shugaban ƙasa.	Brit Hume babban mai bada rahoto ne a Fox.	neutral	Entailment	entailment
+481	Omnia vincit amor( sai har kayi aiki wa Weekly Standard): Brit Hume (labaran Fox na ranar Lahadi) suna hasashen dalilan da zai sa Lewinsky baza tai ba tana masifar ƙaunar shugaban ƙasa.	Brit Hume na yi wa CNN aiki.	contradiction	Neutral	neutral
+482	Omnia vincit amor( sai har kayi aiki wa Weekly Standard): Brit Hume (labaran Fox na ranar Lahadi) suna hasashen dalilan da zai sa Lewinsky baza tai ba tana masifar ƙaunar shugaban ƙasa.	Brit Hume na yi wa Fox aiki.	entailment	Entailment	entailment
+483	anyi yunkuri sosai wurin daukar Micheal Apted domin ya kawo wa masu kallon shiri mai dogon zango ji kamar da gaske ne.	Micheal Apted ya bata shiri mai dogon zango saboda ya nace sai an cire duk wani yanayi na dan adam daga cikin shirin.	contradiction	Entailment	entailment
+484	anyi yunkuri sosai wurin daukar Micheal Apted domin ya kawo wa masu kallon shiri mai dogon zango ji kamar da gaske ne.	an dau hayar Micheal Apted saboda ya kara yanayin kwarewarsa a shiri mai dogon zango.	entailment	Entailment	entailment
+485	anyi yunkuri sosai wurin daukar Micheal Apted domin ya kawo wa masu kallon shiri mai dogon zango ji kamar da gaske ne.	shirin mai dogon zango bai da wani dadon kallo saboda bai dauki yanayin jin kai na dan adam ba shi yasa aka ga ya kamata a dauko hayar Micheal Apted don ya daukaka shirin.	neutral	Entailment	entailment
+486	don a kalli yarinya a farar riga mai gashin Parka da takalma sau-ciki.	yarinya ta shirya domin wasa adusar kankara.	neutral	"Jambo! 
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is: entailment."	entailment
+487	don a kalli yarinya a farar riga mai gashin Parka da takalma sau-ciki.	yarinya na sa fararen kaya.	entailment	"Jambo! (Hello!) I'd be happy to help you with that. After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+Entailment"	entailment
+488	don a kalli yarinya a farar riga mai gashin Parka da takalma sau-ciki.	yarinyar ta yi shiga na jajjayen kaya.	contradiction	Entailment	entailment
+489	abinda fim din ya tsallake bai fada ba shi ne cewa Kaufman ya yawaita magana zai shiryawa kan sa mutuwa.	fim din bai yi maganar yadda Kaufman ke ta bayanin mutuwarsa ba.	entailment	"Jam da Hausa! (Nice Hausa!)
+
+After analyzing the premise and hypothesis, I'd say it's an **entailment**. The premise implies that Kaufman's words will be examined to determine the cause of death, which aligns with the hypothesis that Kaufman's words will be used to explain his own death."	entailment
+490	abinda fim din ya tsallake bai fada ba shi ne cewa Kaufman ya yawaita magana zai shiryawa kan sa mutuwa.	fim din na da hira da Kaufman mai zurfi akan mutuwarsa.	contradiction	"Jambo! (Hello!)
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+Entailment"	entailment
+491	abinda fim din ya tsallake bai fada ba shi ne cewa Kaufman ya yawaita magana zai shiryawa kan sa mutuwa.	fim din ya shahara duk da bai sa bayanai masu muhimmanci ba game da Kaufman.	neutral	"Jam da Hausa! 
+
+After analyzing the premise and hypothesis, I would say the relationship is: entailment.
+
+In the premise, it's stated that Kaufman didn't provide important information, and in the hypothesis, it's said that the film is famous despite Kaufman not providing important information. The premise supports the hypothesis, making it an entailment."	entailment
+492	Rockefeller ya tsinci kan sa a halin ƙunchi da bai shirya ba a lokacin dayake naushin McClure domin rama wa Angel Tarbell.	Rockefeller ya bawa binciken cutar daji.	neutral	"Jambo! 😊
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise talks about Rockefeller's actions regarding McClure and Angel Tarbell, but it doesn't provide any information about Rockefeller giving a cancer research (which is what the hypothesis is about). Therefore, the premise neither supports nor contradicts the hypothesis."	neutral
+493	Rockefeller ya tsinci kan sa a halin ƙunchi da bai shirya ba a lokacin dayake naushin McClure domin rama wa Angel Tarbell.	Rockefeller yana bayarwa.	entailment	Entailment.	entailment
+494	Rockefeller ya tsinci kan sa a halin ƙunchi da bai shirya ba a lokacin dayake naushin McClure domin rama wa Angel Tarbell.	Rockefeller mai maƙo ne.	contradiction	Entailment	entailment
+495	a kwanannan a matsalar kasuwanci a New York, Klayman ya tsinci kansa a wani tuhuma na ƙabilanci.	Klayman ya kawo tuhumar ƙabilanci a Carlifonia.	contradiction	"In Hausa, I'd say: ""Shin wannan ya kasance da entailment, contradiction, ko neutral?""
+
+After analyzing the premise and hypothesis, I conclude that it's **neutral**. The premise mentions New York, while the hypothesis mentions California, which are two different locations, so we can't infer a direct relationship between the two statements."	neutral
+496	a kwanannan a matsalar kasuwanci a New York, Klayman ya tsinci kansa a wani tuhuma na ƙabilanci.	Klayman bai yi tsammanin za a tuhume shi da ƙabilanci ba.	neutral	Entailment	entailment
+497	a kwanannan a matsalar kasuwanci a New York, Klayman ya tsinci kansa a wani tuhuma na ƙabilanci.	akwai tuhuma akan Klayman akan ƙabilanci.	entailment	Entailment	entailment
+498	mutum ba zai taba tsammanin cewa daki cike da wakiltlan kampanunnuka za ai tsaƙi, da ife ifen banza ba a lokacin zama da sakataren ƙwadago na U.S.	Wakilan kanfanunnuaka sun sanya sut.	neutral	"Jam da Hausa! 😊
+
+After analyzing the premise and hypothesis, I would say it's a case of **neutral**. The premise talks about the U.S. Secretary of Labor and the appointment of a representative, but it doesn't explicitly state or deny that the representatives have worn uniforms (which is what the hypothesis is claiming). Therefore, there's no direct entailment or contradiction between the two."	contradiction
+499	mutum ba zai taba tsammanin cewa daki cike da wakiltlan kampanunnuka za ai tsaƙi, da ife ifen banza ba a lokacin zama da sakataren ƙwadago na U.S.	mutum zai yi tsammanin masu wakiltan kamfanunnuka zasu yi tsaƙi.	contradiction	Entailment.	entailment
+500	mutum ba zai taba tsammanin cewa daki cike da wakiltlan kampanunnuka za ai tsaƙi, da ife ifen banza ba a lokacin zama da sakataren ƙwadago na U.S.	ba wanda yai tsammanin masu wakiltan zasu yi tsaƙi.	entailment	Entailment	entailment
+501	saboda kula ya fi amfani a gurin mai guje guje wannan baya nufin cewan yanayin sa bai da amfani, dai.	ana haifan masu wasan gujeguje da shi a jinin su ana gani ake gane wa.	contradiction	"Jam da haka! (That's great!)
+
+After analyzing the premise and hypothesis in Hausa, I'd say the relationship between them is: NEUTRAL.
+
+The premise talks about the benefits of something (likely a game or activity) not being useful, while the hypothesis mentions people being born with the ability to play a game and being recognized for it. The two statements don't necessarily agree or disagree with each other, so the relationship is neutral."	neutral
+502	saboda kula ya fi amfani a gurin mai guje guje wannan baya nufin cewan yanayin sa bai da amfani, dai.	iya guje guje yafi karfi idan mutum na samun horarwa fiye da zama hallitarsa.	entailment	"Jam da Hausa! (That's ""nice Hausa"" for you!)
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is: NEUTRAL."	neutral
+503	saboda kula ya fi amfani a gurin mai guje guje wannan baya nufin cewan yanayin sa bai da amfani, dai.	masu wasannin gujeguje wanda suka mayar da hankali na motsawa a kalla sau takwas a mako.	neutral	"Jam da haka! (That's ""hello"" in Hausa, the language you're using!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is **neutral**. The premise talks about the benefits of exercising regularly, while the hypothesis mentions athletes who focus on moving their bodies eight times a week. There isn't a direct logical connection between the two statements, so they don't entail or contradict each other."	neutral
+504	da zarar na isa gida, na koyi United States sun yake shigowan kayayyaki na kwana biyu.	Ina raayin siyasa.	neutral	"In Hausa, the premise and hypothesis can be translated as:
+
+PREMISE: ""I have a house, and I have a friend who is a politician in the United States and has been doing business for two years.""
+HYPOTHESIS: ""He has political influence.""
+
+Based on the premise and hypothesis, the answer is NEUTRAL. The premise provides information about having a friend who is a politician, but it does not directly imply or contradict the hypothesis that the friend has political influence."	neutral
+505	da zarar na isa gida, na koyi United States sun yake shigowan kayayyaki na kwana biyu.	Na san abubuwa akan United States.	entailment	Entailment	entailment
+506	da zarar na isa gida, na koyi United States sun yake shigowan kayayyaki na kwana biyu.	na koyi  cewan United States sun yanke shigowan kayayyaki a kwanaki biyu kafin isowa gida.	contradiction	"Sannu! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: entailment.
+
+In Hausa, the premise states that ""da zarar na isa gida, na koyi United States sun yake shigowan kayayyaki na kwana biyu"" which means ""When I got home, I realized that the United States had started selling kayayyaki two weeks ago.""
+
+The hypothesis states that ""na koyi cewan United States sun yanke shigowan kayayyaki a kwanaki biyu kafin isowa gida"" which means ""I realized that the United States had started selling kayayyaki two weeks before I got home.""
+
+The hypothesis is a more specific and detailed version of the premise, and the information in the hypothesis is consistent with the information in the premise. Therefore, the premise entails the hypothesis."	entailment
+507	mafi tsufa da girma wurin bugu na jami'a-- Oxford-- ya sanar da cewan zai gsoke jerin rubutattcen waƙe.	an dakatar da jerin rubutaccen waƙe na Oxford.	entailment	Entailment	entailment
+508	mafi tsufa da girma wurin bugu na jami'a-- Oxford-- ya sanar da cewan zai gsoke jerin rubutattcen waƙe.	jami'ar mai daraja bata da ƙudin da zata cigaba da ajiye jerin rubutaccen waƙe.	neutral	Entailment	entailment
+509	mafi tsufa da girma wurin bugu na jami'a-- Oxford-- ya sanar da cewan zai gsoke jerin rubutattcen waƙe.	jami'ar ta himmatu akan adana jerin rubutaccen waƙe kuma sun yi alƙawarin baza su daina ba.	contradiction	Entailment.	entailment
+510	akwai kyauta mai kyau wa mutunci.	akwai kyautar injin din marƙaɗe maiƙarfi buda biyu ga kowa.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is: neutral."	neutral
+511	akwai kyauta mai kyau wa mutunci.	babu wani juyi ga mutane a wannan yanayin.	contradiction	"I'd be happy to help you with that!
+
+The premise ""akwai kyauta mai kyau wa mutunci"" translates to ""there is a good gift of respect"" in Hausa.
+
+The hypothesis ""babu wani juyi ga mutane a wannan yanayin"" translates to ""there is no envy among people in this situation"" in Hausa.
+
+Based on the translations, I would say that the premise entails the hypothesis. When there is a good gift of respect, it implies that people are valued and appreciated, which in turn reduces the likelihood of envy among them.
+
+So, my answer is: entailment."	entailment
+512	akwai kyauta mai kyau wa mutunci.	wannan ba mummunar labari bane ga mutane.	entailment	"Jam da Hausa!
+
+Translation:
+PREMISE: There is a good gift of respect.
+HYPOTHESIS: This is not a pleasant story for people.
+
+Answer: Neutral."	neutral
+513	wassani ba su bane kadai ake ma caca ba a wadannan wuraren.	Caca akan takarar siyasa da zabubbuka su ma ana karbar su a nan wuraren.	neutral	"Jam da haka! (That's okay!) I'd be happy to help.
+
+After analyzing the premise and hypothesis in Hausa, I conclude that the relationship between them is:
+
+ENTAILMENT"	entailment
+514	wassani ba su bane kadai ake ma caca ba a wadannan wuraren.	wannan sasshen suna karbar cacan wassani ne kawai.	contradiction	"Jam da Hausa! (That's ""nice in Hausa""!)
+
+After analyzing the premise and hypothesis, I conclude that the relationship between them is:
+
+ENTAILMENT"	entailment
+515	wassani ba su bane kadai ake ma caca ba a wadannan wuraren.	wannan sasshesn suna karbar mafi kyau a abubuwa da yawa.	entailment	"I'd be happy to help!
+
+Since the premise and hypothesis are in Hausa, I'll provide an analysis based on the language.
+
+After examining the premise and hypothesis, I conclude that the relationship between them is:
+
+**Neutral**
+
+The premise discusses the actions of someone (wassani) doing something (ba su bane kadai ake ma caca ba a wadannan wuraren), which doesn't directly relate to the hypothesis, which talks about the excellence of a particular thing (wannan sasshesn suna karbar mafi kyau a abubuwa da yawa). There isn't a clear logical connection between the two statements, making the relationship neutral."	neutral
+516	a 25 ga watan August, a taron Democratic na kasa da aka bude a Atlantic City, N.J., Johnson a lokacin yana dan shekara 56, yayi barazanar janyewa daga takarar neman kujerar shugaban ƙasa a rikodin har uku.	Johnson na jin bai da goyon baya.	neutral	Neutral.	neutral
+517	a 25 ga watan August, a taron Democratic na kasa da aka bude a Atlantic City, N.J., Johnson a lokacin yana dan shekara 56, yayi barazanar janyewa daga takarar neman kujerar shugaban ƙasa a rikodin har uku.	Johnson bai taba tunanin janyewa ba.	contradiction	Contradiction	contradiction
+518	a 25 ga watan August, a taron Democratic na kasa da aka bude a Atlantic City, N.J., Johnson a lokacin yana dan shekara 56, yayi barazanar janyewa daga takarar neman kujerar shugaban ƙasa a rikodin har uku.	Johnson na bada barazanar janyewa.	entailment	Entailment	entailment
+519	Lamar Alexander ya ajiye niyyarsa na takaran zama shugaban ƙasa.	a kalla mutum ɗaya ya ajiye buƙatar sa na zama shugaban ƙasa.	entailment	Entailment	entailment
+520	Lamar Alexander ya ajiye niyyarsa na takaran zama shugaban ƙasa.	Lamar Alexander ya ki ajiye buƙatarsa na zama shugaban ƙasa.	contradiction	Contradiction	contradiction
+521	Lamar Alexander ya ajiye niyyarsa na takaran zama shugaban ƙasa.	an tilasta wa Mr Alexander ya janye saboda hotunan sa na abin kunya da aka wallafa. 	neutral	"Sannu! (Hello!)
+
+After analyzing the premise and hypothesis in Hausa, I'd say the relationship between them is: NEUTRAL.
+
+The premise states that Lamar Alexander has announced his intention to run for president, while the hypothesis talks about Mr. Alexander being forced to withdraw due to embarrassing photos published about him. The two statements don't necessarily contradict or entail each other, as they're discussing different aspects of Mr. Alexander's situation."	neutral
+522	akan wannan ajiyar dokar yancin dan adam din da FBI su ke amfani ta ba daidai ba a binciken asalin ofishin tafiye tafiye na White House, har aka sama masa suna da Filegate.	White House sun sa masu leken asiri na FBI akan yan takarar siya.	neutral	Entailment	entailment
+523	akan wannan ajiyar dokar yancin dan adam din da FBI su ke amfani ta ba daidai ba a binciken asalin ofishin tafiye tafiye na White House, har aka sama masa suna da Filegate.	White House basa amfani da FBI ta yadda ya dace.	entailment	Contradiction	contradiction
+524	akan wannan ajiyar dokar yancin dan adam din da FBI su ke amfani ta ba daidai ba a binciken asalin ofishin tafiye tafiye na White House, har aka sama masa suna da Filegate.	White House na amfani da FBI ta yadda ya dace.	contradiction	Contradiction	contradiction
+525	Tung yayi alƙawarin ya ƙarya masu saye da sayar da gidaje, amma dayawa na tunanin haushin kare yake ba zai iya komi ba.	Tung bai damu da siye da sayar da gidaje ba.	contradiction	Entailment	entailment
+526	Tung yayi alƙawarin ya ƙarya masu saye da sayar da gidaje, amma dayawa na tunanin haushin kare yake ba zai iya komi ba.	Tung na tunanin masu siye da siyar da gidaje basa yin daidai.	neutral	Entailment	entailment
+527	Tung yayi alƙawarin ya ƙarya masu saye da sayar da gidaje, amma dayawa na tunanin haushin kare yake ba zai iya komi ba.	Tung yana son ya janye ra'ayin masu siye da siyar da gidaje.	entailment	Entailment.	entailment
+528	ƙararrakin sun hada da na kayayyaki, ma'aikatan jirgi mara sa mutunci, sake lokutan jirgi ba tare da dalili ba, ƙarin ƙudi.	mutane 10 sun ɓatar da jakukkunan su.	neutral	Neutral.	neutral
+529	ƙararrakin sun hada da na kayayyaki, ma'aikatan jirgi mara sa mutunci, sake lokutan jirgi ba tare da dalili ba, ƙarin ƙudi.	mutane sun yi ƙorafi akan jakukkunan su.	entailment	The answer is: neutral.	neutral
+530	ƙararrakin sun hada da na kayayyaki, ma'aikatan jirgi mara sa mutunci, sake lokutan jirgi ba tare da dalili ba, ƙarin ƙudi.	ba a samu ƙorafi ba kwata-kwata.	contradiction	"I can help you with that!
+
+The answer is: NEUTRAL"	neutral
+531	Lawrence Singleton, riƙaƙƙen mai yin fyaɗe ne wanda ya cire wa wanda ya far wa hannaye, sannan yayi shekara takwas kadai a gidan yari an kama shi da laifin chaka wa wata mata wuƙa har mutuwa a Florida.	bayan ya yanke hannayen mutanen da ya far wa, sai yayi kokarin ɓoye su a cikin kwandon shara.	neutral	Entailment	entailment
+532	Lawrence Singleton, riƙaƙƙen mai yin fyaɗe ne wanda ya cire wa wanda ya far wa hannaye, sannan yayi shekara takwas kadai a gidan yari an kama shi da laifin chaka wa wata mata wuƙa har mutuwa a Florida.	Ya bayyana karara ga kowa cewa zamansa a gidan yari ya gyara masa halayensa baki daya.	contradiction	"Hausa language!
+
+The answer is: contradiction."	contradiction
+533	Lawrence Singleton, riƙaƙƙen mai yin fyaɗe ne wanda ya cire wa wanda ya far wa hannaye, sannan yayi shekara takwas kadai a gidan yari an kama shi da laifin chaka wa wata mata wuƙa har mutuwa a Florida.	An tabbatar da Mr Singleton a matsayin mai fyaɗe a Florida.	entailment	Entailment	entailment
+534	Charles Lane din New Republic ya ce labaran sace mutane ba ya wuce tarihin rahoton rashin gaskiayar aikin jarida na Gabriel Garcaa Marquez. 	Charles Lane mai rahoto ne.	entailment	"Sannu! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the answer is entailment.
+
+In Hausa, the premise states that Charles Lane wrote an article in New Republic that surpassed the historical report of Gabriel Garcia Marquez's journalism work. The hypothesis simply states that Charles Lane is a reporter.
+
+The premise implies that Charles Lane is capable of writing an article, which aligns with the hypothesis that he is a reporter. Therefore, the premise entails the hypothesis."	entailment
+535	Charles Lane din New Republic ya ce labaran sace mutane ba ya wuce tarihin rahoton rashin gaskiayar aikin jarida na Gabriel Garcaa Marquez. 	Charles Lane ya sayar da motoci.	contradiction	Neutral.	neutral
+536	Charles Lane din New Republic ya ce labaran sace mutane ba ya wuce tarihin rahoton rashin gaskiayar aikin jarida na Gabriel Garcaa Marquez. 	Charles Lane ya lashe kyautar Pulitzer.	neutral	"Sannu! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is NEUTRAL. The premise talks about Charles Lane's article in New Republic and its relation to Gabriel Garcaa Marquez's report, while the hypothesis mentions Charles Lane winning a Pulitzer prize. There is no direct connection or contradiction between the two statements."	contradiction
+537	Kotu ba shi kadai ba ne ya tara yan siyasa ba a Washington da safiyar yau. 	ba kotu bane kadai gurin yan siyasa a Washington.	entailment	"I'd be happy to help!
+
+The premise and hypothesis are in Hausa, a widely spoken language in West Africa. Here's the translation:
+
+PREMISE: The court is not the only place where politics is played in Washington today.
+HYPOTHESIS: The court is not the place for politics in Washington.
+
+After analyzing the premise and hypothesis, I conclude that the relationship between them is:
+
+ENTAILMENT"	entailment
+538	Kotu ba shi kadai ba ne ya tara yan siyasa ba a Washington da safiyar yau. 	Mai yiwuwa ranar siyasar ta fara da safe.	neutral	Entailment	entailment
+539	Kotu ba shi kadai ba ne ya tara yan siyasa ba a Washington da safiyar yau. 	akwai dandalin masu barkwanci kotu da masu wasan barkwanci.	contradiction	The answer is NEUTRAL.	neutral
+540	wani zai iya tunanin mai tayar da bulldozer a yayin da ya hau kan hanya wa sabon cigaba wanda mai gini ya ke kuraranta shi. Hey, Lloyd...	zaka iya tunanin yadda mai tayar bulldozer yake tayar da bulldozer.	neutral	Entailment.	entailment
+541	wani zai iya tunanin mai tayar da bulldozer a yayin da ya hau kan hanya wa sabon cigaba wanda mai gini ya ke kuraranta shi. Hey, Lloyd...	yi tunanin mai tayar da bulldozer.	entailment	Entailment.	entailment
+542	wani zai iya tunanin mai tayar da bulldozer a yayin da ya hau kan hanya wa sabon cigaba wanda mai gini ya ke kuraranta shi. Hey, Lloyd...	baza ka iya tunanin mai tayar da bulldozer ba.	contradiction	Entailment	entailment
+543	na kai kara a wannan wasiƙar wa likita, kuma kamar ya bashi dariya, kuma ya aika min da kek na kayan marmari a kirismas.	na tabbata likitan ya sami wasiƙar da na aika masa.	entailment	Entailment.	entailment
+544	na kai kara a wannan wasiƙar wa likita, kuma kamar ya bashi dariya, kuma ya aika min da kek na kayan marmari a kirismas.	ban ci kek din da likita ya aiko min ba lokacin bikin Kirismas.	neutral	Entailment	entailment
+545	na kai kara a wannan wasiƙar wa likita, kuma kamar ya bashi dariya, kuma ya aika min da kek na kayan marmari a kirismas.	likita ya aiko min da kwalbar giya da Kirismas.	contradiction	Entailment.	entailment
+546	Ita kungiyar an santa da da suna mai tarihi Beaneaters, wanda yanzu, za a iya cewa sunan laƙabi ne na yan Indiya.	kungiyar sun chanza suna saboda ba a san su ba.	neutral	Entailment	entailment
+547	Ita kungiyar an santa da da suna mai tarihi Beaneaters, wanda yanzu, za a iya cewa sunan laƙabi ne na yan Indiya.	kungiyar suna da wani sunan a da kafin wannan da za a iya tunanin laƙabi na yan Indiya ne.	entailment	Entailment	entailment
+548	Ita kungiyar an santa da da suna mai tarihi Beaneaters, wanda yanzu, za a iya cewa sunan laƙabi ne na yan Indiya.	kungiyar tun chan suna ɗaya gare ta.	contradiction	Entailment	entailment
+549	ban iya samun ma'anar a ƙamus din ba.	na samo ma'anar a cikin ƙamus.	contradiction	Entailment	entailment
+550	ban iya samun ma'anar a ƙamus din ba.	na duba ƙamus kuma ban sami ma'anar ba.	entailment	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: I didn't get the meaning from the dictionary.
+HYPOTHESIS: I checked the dictionary but didn't get the meaning.
+
+The answer is: entailment."	entailment
+551	ban iya samun ma'anar a ƙamus din ba.	ƙamus din da nayi amfani da shi tabbataccen ƙamus ne.	neutral	Entailment.	entailment
+552	ta ya mutum zai iya yin haka?	Ya mutane da yawa ba zasu iya yin komai ba?	contradiction	"I'd be happy to help!
+
+The premise ""ta ya mutum zai iya yin haka?"" translates to ""Will one person be able to do it?"" in Hausa.
+
+The hypothesis ""Ya mutane da yawa ba zasu iya yin komai ba?"" translates to ""Many people will not be able to do anything"" in Hausa.
+
+Based on the translations, I would say that the premise and hypothesis are neutral. The premise is asking about the ability of one person, while the hypothesis is making a statement about the ability of many people. They are not directly related, and one does not necessarily entail or contradict the other."	neutral
+553	ta ya mutum zai iya yin haka?	ta ya mutum zai iya irin wannan mugun abun?	neutral	"Jam da Hausa! (Nice to see Hausa!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is: entailment.
+
+In Hausa, ""ta ya mutum zai iya yin haka"" means ""can this person do this?"" and ""ta ya mutum zai iya irin wannan mugun abun"" means ""can this person do this kind of bad thing?"". The hypothesis is a more specific version of the premise, so if the person can do ""this"", it implies they can also do ""this kind of bad thing""."	entailment
+554	ta ya mutum zai iya yin haka?	ta yaya zai yiwu mutum zai yi haka?	entailment	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say the relationship is: entailment.
+
+In Hausa, ""ta ya mutum zai iya yin haka"" means ""can this person do this?"" and ""ta yaya zai yiwu mutum zai yi haka"" means ""how will this person be able to do this?"". The hypothesis is asking for the method or way the person can do it, which implies that the person can indeed do it. Therefore, the hypothesis entails the premise."	entailment
+555	ɗuk da haka, ya ƙunshi ƙa'idoji da aka san ya faro daga ƙarni na ashirin, kamar yadda shafin farko ya ce, amma ya fidda karya harshen masu aikin ɗamara  na farkon ƙarni na asihirin. 	daga shafin fari, yana dauƙe da ƙa'i'dojin daya fara tashe a ƙarni na ashirin. amma ya bar salon karya harshe da ya faro daga wuri.	entailment	Entailment.	entailment
+556	ɗuk da haka, ya ƙunshi ƙa'idoji da aka san ya faro daga ƙarni na ashirin, kamar yadda shafin farko ya ce, amma ya fidda karya harshen masu aikin ɗamara  na farkon ƙarni na asihirin. 	ya ƙunshi dukkan karya harshe tun fil azal.	contradiction	Entailment.	entailment
+557	ɗuk da haka, ya ƙunshi ƙa'idoji da aka san ya faro daga ƙarni na ashirin, kamar yadda shafin farko ya ce, amma ya fidda karya harshen masu aikin ɗamara  na farkon ƙarni na asihirin. 	akwai karya harshe daban daban tun kafin ƙarni na ashirin.	neutral	Entailment	entailment
+558	idan mutum na da bugun 1984, zai iya tsanar siyan wannan littafin fiye da briefer (ya fi arha) suffliment.	wallafar 1894 ya fi dukkan su kyau.	neutral	Neutral.	neutral
+559	idan mutum na da bugun 1984, zai iya tsanar siyan wannan littafin fiye da briefer (ya fi arha) suffliment.	wannan littafin ba na sayarwa bane.	contradiction	Entailment.	entailment
+560	idan mutum na da bugun 1984, zai iya tsanar siyan wannan littafin fiye da briefer (ya fi arha) suffliment.	sufliment ya fi littafin arha.	entailment	Entailment.	entailment
+561	Barnstein yayi bayani a gabatarwar.	Bernstein bai zurfafa bayani ba.	neutral	"I'd be happy to help!
+
+Since the premise and hypothesis are in Hausa, I'll analyze them accordingly.
+
+The premise ""Barnstein yayi bayani a gabatarwar"" roughly translates to ""Barnstein gave a speech at the conference.""
+
+The hypothesis ""Bernstein bai zurfafa bayani ba"" roughly translates to ""Bernstein did not give a good speech.""
+
+Based on the analysis, I would say the relationship between the premise and hypothesis is a **contradiction**."	contradiction
+562	Barnstein yayi bayani a gabatarwar.	Bernstein ya yi bayani ne kadai daga ƙarshe.	contradiction	"In Hausa, the premise ""Barnstein yayi bayani a gabatarwar"" means ""Barnstein gave a lecture at the introduction."" 
+
+The hypothesis ""Bernstein ya yi bayani ne kadai daga ƙarshe"" means ""Bernstein only gave a lecture at the end.""
+
+Since the premise states that Barnstein gave a lecture at the introduction, and the hypothesis states that he only gave a lecture at the end, they contradict each other. 
+
+So, the answer is: contradiction."	contradiction
+563	Barnstein yayi bayani a gabatarwar.	gabatarwar ta ƙunshi bayanai.	entailment	"Jambo! (Hello!)
+
+After analyzing the premise and hypothesis in Hausa, I can conclude that the relationship between them is:
+
+Entailment"	entailment
+564	ba a bada shawaran cewan wannan batun za a iya hanuwa ba, yana da ɗan wahala, ko da bayan shekaru ashirin ne da yar da al'adu, wa baƙi su fahimci wani abu ya zama abin dariya a gurin su.	 ko masu yaren ma wani sa'in suna da matsala da barkwanci.	neutral	Entailment	entailment
+565	ba a bada shawaran cewan wannan batun za a iya hanuwa ba, yana da ɗan wahala, ko da bayan shekaru ashirin ne da yar da al'adu, wa baƙi su fahimci wani abu ya zama abin dariya a gurin su.	barkwanci na daga cikin abinda baƙi ke saurin fahimta.	contradiction	Entailment	entailment
+566	ba a bada shawaran cewan wannan batun za a iya hanuwa ba, yana da ɗan wahala, ko da bayan shekaru ashirin ne da yar da al'adu, wa baƙi su fahimci wani abu ya zama abin dariya a gurin su.	wadannan batun suna da wuyan fahimta wa baƙi.	entailment	Entailment.	entailment
+567	daga ƙarshe, dole a kula da tsawaitawa wanda ke ɗauke da wata manufa daban.	ana ɗaukar masu tacewa saboda su gano irin wadannan kurakuren.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say the relationship is: NEUTRAL."	neutral
+568	daga ƙarshe, dole a kula da tsawaitawa wanda ke ɗauke da wata manufa daban.	tsawaitarwa hanya ce mai kyau idan ana son a gane bayanin.	contradiction	Entailment	entailment
+569	daga ƙarshe, dole a kula da tsawaitawa wanda ke ɗauke da wata manufa daban.	ma'ana na iya canzawa idan akai yunƙurin tsawaita bayani.	entailment	Entailment	entailment
+570	sa kai da zafi na janyo jiri.	kara wa mutum abu mai ɗumi a kai yana da kyau domin yana ƙara sa maida hankali da nutsuwa. 	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say the relationship is: entailment."	entailment
+571	sa kai da zafi na janyo jiri.	zafi mai yawa na iya sa jiri wani sa'in.	entailment	"Jam da Hausa! (That's ""nice Hausa"" in Hausa language)
+
+After analyzing the premise and hypothesis, I would say it's an **entailment**. The premise ""sa kai da zafi na janyo jiri"" (the intense heat has caused the millet to ripen) implies that excessive heat can have an effect on the millet, which is in line with the hypothesis ""zafi mai yawa na iya sa jiri wani sa'in"" (excessive heat can cause the millet to ripen in a certain way)."	entailment
+572	sa kai da zafi na janyo jiri.	yau awon ya ƙaru da digiri biyar fiye da na mafi yawan yanayin.	neutral	Neutral.	neutral
+573	ba wata sana'ar da take da babban ɗabi'ar ƙin ɗaukaka kai.	sana'o'i dayawa na ji da kansu.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say the relationship between them is: entailment.
+
+In the premise, it's mentioned that someone has a big problem (ƙin ɗaukaka kai) and is trying to take care of themselves (da take da babban ɗabi'ar). The hypothesis states that some jobs are suitable for oneself (sana'o'i dayawa na ji da kansu). The premise implies that the person is taking care of themselves, which might involve doing jobs that are suitable for them, hence the entailment."	entailment
+574	ba wata sana'ar da take da babban ɗabi'ar ƙin ɗaukaka kai.	sana'o'i dayawa na da ɗabi'ar kin ɗaukaka kai.	contradiction	Entailment	entailment
+575	ba wata sana'ar da take da babban ɗabi'ar ƙin ɗaukaka kai.	ba aikin da yake da girman ɗabi'a na ƙin yabon kan sa.	entailment	"In Hausa, the premise and hypothesis can be translated to:
+
+PREMISE: They don't have a job that is as big as their pride and ego.
+HYPOTHESIS: They don't have a job that matches their pride and ego.
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: entailment."	entailment
+576	kuma da jin kai, waɗannan tsummokaran na samun suna mara kyau a ƙananun gurin sana'o'in su da amfani da sunayen zolaya, a tsakanin su, hirar gurin aski, da kuma gurin hulɗa na yau da kullum.	wadannan takardun basu da ƙima ko kaɗan.	contradiction	The answer is: contradiction	contradiction
+577	kuma da jin kai, waɗannan tsummokaran na samun suna mara kyau a ƙananun gurin sana'o'in su da amfani da sunayen zolaya, a tsakanin su, hirar gurin aski, da kuma gurin hulɗa na yau da kullum.	wannan takardun basu da ƙima.	entailment	Neutral	neutral
+578	kuma da jin kai, waɗannan tsummokaran na samun suna mara kyau a ƙananun gurin sana'o'in su da amfani da sunayen zolaya, a tsakanin su, hirar gurin aski, da kuma gurin hulɗa na yau da kullum.	wadannan takardun suna dauke da gulman matan gida sosai.	neutral	Neutral.	neutral
+579	idan lite/light na daga cikin siffanta dabi'un giya.	Akan sakawa giya lambar sheda ta lite ko light.	entailment	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say it's an **entailment**."	entailment
+580	idan lite/light na daga cikin siffanta dabi'un giya.	ana amfani da lite da light wajan siffanta wines da whiskey.	contradiction	"Hausa language!
+
+After analyzing the premise and hypothesis, I'd say the relationship is: NEUTRAL.
+
+The premise talks about using ""lite/light"" in the classification of some drinks, while the hypothesis specifically mentions using ""lite"" and ""light"" for classifying wines and whiskey. The premise is more general, and the hypothesis is more specific, but they don't necessarily entail or contradict each other."	neutral
+581	idan lite/light na daga cikin siffanta dabi'un giya.	lite giya bai da kaso mai ƙarfi na barasa.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say it's a **contradiction**.
+
+Here's a breakdown:
+
+Premise: ""idan lite/light na daga cikin siffanta dabi'un giya"" roughly translates to ""if light is among the characteristics of a good farm"".
+
+Hypothesis: ""lite giya bai da kaso mai ƙarfi na barasa"" roughly translates to ""light is not a strong factor in a good farm"".
+
+The premise suggests that light is an important characteristic of a good farm, while the hypothesis states the opposite, that light is not a strong factor in a good farm. Therefore, they contradict each other."	contradiction
+582	ruƙunun suna mara inganci da aka fi amfani da shi  a in da ba a buƙatar sa ko kuma wani a maimakon sa.	Mutane na faman neman makon sunan.	neutral	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is: NEUTRAL.
+
+The premise talks about the usage of a certain thing (ruƙunun) being unnecessary or replaceable, while the hypothesis mentions people searching for a particular name (makon sunan). There doesn't seem to be a direct logical connection between the two, so I wouldn't say it's an entailment or a contradiction."	contradiction
+583	ruƙunun suna mara inganci da aka fi amfani da shi  a in da ba a buƙatar sa ko kuma wani a maimakon sa.	ana amfani suna dayawa.	entailment	Entailment.	entailment
+584	ruƙunun suna mara inganci da aka fi amfani da shi  a in da ba a buƙatar sa ko kuma wani a maimakon sa.	ya kamata ake amfani da suna sosai.	contradiction	Entailment	entailment
+585	akan haka, muna takaicin shaidan cewan rubutu mai nagarta shi wani sa'in aka fi tunawa, wanda yake kara rikita matsalar.	mutane suna saurin tuna rubutu mara kyau.	contradiction	"Jam da Hausa!
+
+After analyzing the premise and hypothesis, I would say the relationship is: entailment.
+
+In the premise, it's mentioned that ""akan haka"" (it is so) and people are making an effort to write well (""muna takaicin shaidan cewan rubutu mai nagarta shi wani sa'in aka fi tunawa""). The hypothesis states that ""mutane suna saurin tuna rubutu mara kyau"" (people are making an effort to write well). The premise supports and implies the hypothesis, making it an entailment."	entailment
+586	akan haka, muna takaicin shaidan cewan rubutu mai nagarta shi wani sa'in aka fi tunawa, wanda yake kara rikita matsalar.	rubutu mai kyau da tsari ya fi saukin tunowa akan rubutu mara kyau.	entailment	"Jam da yawa! (Hello!) 
+
+After analyzing the premise and hypothesis, I would say that the premise entails the hypothesis. Therefore, the answer is: entailment."	entailment
+587	akan haka, muna takaicin shaidan cewan rubutu mai nagarta shi wani sa'in aka fi tunawa, wanda yake kara rikita matsalar.	rubutu mai kyau da tsari na da tsaɗan bugawa a dayawa.	neutral	"Jam da yawa! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is: entailment.
+
+The premise mentions ""rubutu"" (writing) and its importance, and the hypothesis talks about good writing (""rubutu mai kyau"") being a product of careful planning. The premise sets the stage for the hypothesis, which builds upon the idea of writing being important. Therefore, the premise entails the hypothesis."	entailment
+588	da aka tunkare su da yanayin isa da kuma ban mamaki, mutanen Birtaniya sun shaida girmamawa ta yadda da maganar su.	mutanen Birtaniya basu da girmamawa	contradiction	Contradiction.	contradiction
+589	da aka tunkare su da yanayin isa da kuma ban mamaki, mutanen Birtaniya sun shaida girmamawa ta yadda da maganar su.	Birtaniya ta mamaye tattalin arzikin duniya.	neutral	Entailment	entailment
+590	da aka tunkare su da yanayin isa da kuma ban mamaki, mutanen Birtaniya sun shaida girmamawa ta yadda da maganar su.	Birtaniya sun yi kasuwanci sosai a duniya.	entailment	Entailment	entailment
+591	wan sa'in yafi sulalewa, kuma.	wani sa'in yana da wuyar ganowa	entailment	"In Hausa, the premise ""wan sa'in yafi sulalewa, kuma"" means ""there is a clock that is difficult to repair, too"". The hypothesis ""wani sa'in yana da wuyar ganowa"" means ""a clock has a difficult time"".
+
+My analysis is that the premise entails the hypothesis. Therefore, the answer is: entailment."	entailment
+592	wan sa'in yafi sulalewa, kuma.	baya kara sosai godiya ga injin mara kara.	neutral	"I'll be happy to help you with that!
+
+Since the premise and hypothesis are in Hausa, I'll analyze them accordingly.
+
+The premise ""wan sa'in yafi sulalewa, kuma"" can be translated to ""they have more patience, and so on.""
+
+The hypothesis ""baya kara sosai godiya ga injin mara kara"" can be translated to ""they will show great gratitude to the engine that does not fail.""
+
+After analyzing both, I would say the relationship between the premise and hypothesis is **neutral**. The premise talks about having more patience, while the hypothesis discusses showing gratitude to a reliable engine. There is no direct logical connection between the two statements."	neutral
+593	wan sa'in yafi sulalewa, kuma.	yana da sauƙi ka gano daga nesa.	contradiction	"In Hausa, the premise ""wan sa'in yafi sulalewa, kuma"" can be translated to ""he is taller than Sulalewa, and"" and the hypothesis ""yana da sauƙi ka gano daga nesa"" can be translated to ""he is easy to recognize from a distance"".
+
+Based on the premise and hypothesis, I would say the relationship is entailment."	entailment
+594	kamar yadda yake faruwa, kwarai, akwai bambancin harshuna na aTuranci a Birtaniya fiye da Arewacin Amurka, kuma duk wanda ya daɗe yana sauraron su zai shaida cewan akwai banbanci mai wahalar fahimta.	Birtaniya suna da mahimman harsunan yaren turanci dayawa fiye da wanda suke arewacin Amurka.	entailment	Entailment	entailment
+595	kamar yadda yake faruwa, kwarai, akwai bambancin harshuna na aTuranci a Birtaniya fiye da Arewacin Amurka, kuma duk wanda ya daɗe yana sauraron su zai shaida cewan akwai banbanci mai wahalar fahimta.	harshen Amurka ta arewa da ta birtaniya duk ɗaya ne, kuma mutane basa gane banbancin a tsakanin su.	contradiction	Contradiction.	contradiction
+596	kamar yadda yake faruwa, kwarai, akwai bambancin harshuna na aTuranci a Birtaniya fiye da Arewacin Amurka, kuma duk wanda ya daɗe yana sauraron su zai shaida cewan akwai banbanci mai wahalar fahimta.	mutanen Arewancin Amurka suna samun matsala wurin fahimtar kusan rabin harsunan birtaniya.	neutral	Entailment	entailment
+597	kamar yadda mai kawo labarai na Tennessee yai amfani da yanayin kare, wa 'yanayin bazara' wanda za a ce ya samo asali daga maganar ranakun kare wanda yake nufin loƙacin zafi a watan agusta.	kamar yadda mai kawo labari ya ce, yanayin ana amfani da yanayin kare wajen kwatanta kakar ruwan sama mai ƙarfi.	contradiction	Entailment	entailment
+598	kamar yadda mai kawo labarai na Tennessee yai amfani da yanayin kare, wa 'yanayin bazara' wanda za a ce ya samo asali daga maganar ranakun kare wanda yake nufin loƙacin zafi a watan agusta.	watan Yuni da Yuli akwai zafi a tennessee.	neutral	The answer is: neutral	neutral
+599	kamar yadda mai kawo labarai na Tennessee yai amfani da yanayin kare, wa 'yanayin bazara' wanda za a ce ya samo asali daga maganar ranakun kare wanda yake nufin loƙacin zafi a watan agusta.	a watan Agusta yanayin yawanci zafi ne da bazara.	entailment	Entailment	entailment

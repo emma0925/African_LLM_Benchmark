@@ -1,0 +1,601 @@
+	premise	hypothesis	label	llm
+0	Well, I didn't even think about it, but I was upset, so I went back and talked to him again.	I haven't spoken to him since.	contradiction	<pad> contradiction</s>
+1	Well, I didn't even think about it, but I was upset, so I went back and talked to him again.	He was so angry that I started talking to him again.	entailment	<pad> entailment</s>
+2	Well, I didn't even think about it, but I was upset, so I went back and talked to him again.	We had a good conversation.	neutral	<pad> entailment</s>
+3	I was told that, uh, a man would be called in later to meet me.	I had not been told that I would meet someone.	contradiction	<pad> contradiction</s>
+4	I was told that, uh, a man would be called in later to meet me.	I was told that a man would be called in to meet me.	entailment	<pad> entailment</s>
+5	I was told that, uh, a man would be called in later to meet me.	The man waited a long time.	neutral	<pad> contradiction</s>
+6	There are so many things you could say about him that I would just ignore that.	I want to tell you everything I know about it!	contradiction	<pad> entailment</s>
+7	There are so many things you could say about him that I would just ignore that.	I'm not going to talk about that, although there are a lot of things we want to see.	entailment	<pad> entailment</s>
+8	There are so many things you could say about him that I would just ignore that.	I won't talk about the history of the city because we have a lot to talk about.	neutral	<pad> entailment</s>
+9	So I don't know why.	I am convinced of the reason.	contradiction	<pad> entailment</s>
+10	So I don't know why.	I don't know why she changed schools.	neutral	<pad> entailment</s>
+11	So I don't know why.	I don't know why that happened.	entailment	<pad> entailment</s>
+12	I'm the only one who's, uh, been using the controls for, uh, surveillance in the cockpit of a small airplane.	I don't want to be the only one using the controller for the test.	neutral	<pad> entailment</s>
+13	I'm the only one who's, uh, been using the controls for, uh, surveillance in the cockpit of a small airplane.	An inspection was carried out on the flight deck of the small airport.	entailment	<pad> entailment</s>
+14	I'm the only one who's, uh, been using the controls for, uh, surveillance in the cockpit of a small airplane.	There are a few of us who use the scanner for testing.	contradiction	<pad> entailment</s>
+15	I'm the, uh, retired Senior Chief of Saints, as Rick said.	I still work to this day.	contradiction	<pad> contradiction</s>
+16	I'm the, uh, retired Senior Chief of Saints, as Rick said.	I retired in 2002.	neutral	<pad> entailment</s>
+17	I'm the, uh, retired Senior Chief of Saints, as Rick said.	Rick told you that I had retired.	entailment	<pad> entailment</s>
+18	There are some earnings forecasts on my desk, um, uh, and it's for Cutty Seed and Cutty Seed, that's the client's name.	A customer named Cutty earns $10,000 a month.	neutral	<pad> entailment</s>
+19	There are some earnings forecasts on my desk, um, uh, and it's for Cutty Seed and Cutty Seed, that's the client's name.	There was a customer named Cutty.	entailment	<pad> entailment</s>
+20	There are some earnings forecasts on my desk, um, uh, and it's for Cutty Seed and Cutty Seed, that's the client's name.	We don't have any customers named Cutty.	contradiction	<pad> contradiction</s>
+21	The girl who can help me is on the other side of town.	The girl I need help from lives far away from here.	entailment	<pad> entailment</s>
+22	The girl who can help me is on the other side of town.	The girl who will help me is 5 miles away.	neutral	<pad> entailment</s>
+23	The girl who can help me is on the other side of town.	No one could help me.	contradiction	<pad> entailment</s>
+24	But their knowledge differed as to who was the farm worker and who was the householder, it was just like...	They all agreed to work together in the field.	contradiction	<pad> entailment</s>
+25	But their knowledge differed as to who was the farm worker and who was the householder, it was just like...	They could not agree on who was the farm worker and who had the right to be in the house.	entailment	<pad> entailment</s>
+26	But their knowledge differed as to who was the farm worker and who was the householder, it was just like...	They could not agree on who should work in the cotton fields and who should sweep the floor.	neutral	<pad> entailment</s>
+27	I said they just had, like, five kids, one of whom died.	All their children survived.	contradiction	<pad> contradiction</s>
+28	I said they just had, like, five kids, one of whom died.	One of the children died.	entailment	<pad> entailment</s>
+29	I said they just had, like, five kids, one of whom died.	The dead child was born blind.	neutral	<pad> entailment</s>
+30	She said she had tears in her eyes and said that Joe had climbed out the front door.	She had tears in her eyes as she told him to climb up on the front porch.	entailment	<pad> entailment</s>
+31	She said she had tears in her eyes and said that Joe had climbed out the front door.	She quickly wiped away her tears after sending Joe away from the front of the house.	contradiction	<pad> entailment</s>
+32	She said she had tears in her eyes and said that Joe had climbed out the front door.	She was so happy to see Joe that she burst into tears.	neutral	<pad> entailment</s>
+33	Even if the plane were to crash, why would it, uh, crash and take out a piece of metal for the waves to collect outside?	The fence prevented it during the same fire incident.	neutral	<pad> entailment</s>
+34	Even if the plane were to crash, why would it, uh, crash and take out a piece of metal for the waves to collect outside?	The debris would accumulate on the outside from scrap metal after the plane burns.	entailment	<pad> contradiction</s>
+35	Even if the plane were to crash, why would it, uh, crash and take out a piece of metal for the waves to collect outside?	The fence will be exposed during a fire.	contradiction	<pad> entailment</s>
+36	He is the great-great-great-great-great-great-great-great-grandson of Clem Francis, a retired U.S. Air Force officer.	The General is a retired U.S. Air Force officer.	entailment	<pad> entailment</s>
+37	He is the great-great-great-great-great-great-great-great-grandson of Clem Francis, a retired U.S. Air Force officer.	The CEO recently retired a few weeks ago.	neutral	<pad> entailment</s>
+38	He is the great-great-great-great-great-great-great-great-grandson of Clem Francis, a retired U.S. Air Force officer.	The Chief of Staff of the U.S. Air Force just started his new assignment this week.	contradiction	<pad> entailment</s>
+39	It was so good that two or three planes came in a week and I didn't know where they were going.	More than one flight arrives every week.	entailment	<pad> entailment</s>
+40	It was so good that two or three planes came in a week and I didn't know where they were going.	The rest of the flight was stressful.	neutral	<pad> entailment</s>
+41	It was so good that two or three planes came in a week and I didn't know where they were going.	There are no flights coming in.	contradiction	<pad> contradiction</s>
+42	They have a full-length suit inside and it took me a little while to put on a full-length suit.	It takes up to three months to complete a full-length canvas print using full-length canvas.	neutral	<pad> entailment</s>
+43	They have a full-length suit inside and it took me a little while to put on a full-length suit.	Getting used to wearing a full-length suit takes time.	entailment	<pad> entailment</s>
+44	They have a full-length suit inside and it took me a little while to put on a full-length suit.	We can teach you how to use a full diaphragm when it gets dark.	contradiction	<pad> entailment</s>
+45	I would say that it's safe to go in with the bomb because it won't explode, no matter how hard it hits.	The pilot had dropped the missile.	neutral	<pad> entailment</s>
+46	I would say that it's safe to go in with the bomb because it won't explode, no matter how hard it hits.	The atomic bomb is unlikely to explode.	entailment	<pad> entailment</s>
+47	I would say that it's safe to go in with the bomb because it won't explode, no matter how hard it hits.	The danger of a nuclear explosion is immense.	contradiction	<pad> contradiction</s>
+48	If so, that's exactly what I'm trying to do.	I don't know why this is so important to you.	contradiction	<pad> entailment</s>
+49	If so, that's exactly what I'm trying to do.	I'm trying to do this, but I can't.	entailment	<pad> entailment</s>
+50	If so, that's exactly what I'm trying to do.	I am trying to finish my special assignment next week.	neutral	<pad> entailment</s>
+51	However, the animals are constantly on the move, especially the goats.	The goats escape from the enclosure every day.	neutral	<pad> entailment</s>
+52	However, the animals are constantly on the move, especially the goats.	The goats are always running away.	entailment	<pad> entailment</s>
+53	However, the animals are constantly on the move, especially the goats.	The goats were safely hidden.	contradiction	<pad> contradiction</s>
+54	The doors were locked when we entered.	All the doors were wide open.	contradiction	<pad> contradiction</s>
+55	The doors were locked when we entered.	The computer is with us.	neutral	<pad> contradiction</s>
+56	The doors were locked when we entered.	We entered even though the doors were locked.	entailment	<pad> entailment</s>
+57	So I just had to open it up and try to think about it that way.	I'm sure I'll need all of them to find a solution to this.	neutral	<pad> entailment</s>
+58	So I just had to open it up and try to think about it that way.	I don't know what to do with all of it so please give me a report to find a solution to this.	contradiction	<pad> entailment</s>
+59	So I just had to open it up and try to think about it that way.	I'll calculate it with the sum of all of it.	entailment	<pad> entailment</s>
+60	And that's too much because the mothers are using drugs.	The mothers were poisoned.	neutral	<pad> entailment</s>
+61	And that's too much because the mothers are using drugs.	The mothers had no prescription or medication.	contradiction	<pad> contradiction</s>
+62	And that's too much because the mothers are using drugs.	The mothers also use drugs.	entailment	<pad> entailment</s>
+63	yes it is good is it raining	I don't care if it rains.	neutral	<pad> entailment</s>
+64	yes it is good is it raining	It's nice and raining.	entailment	<pad> entailment</s>
+65	yes it is good is it raining	It's very bad with begging all the way to the neck.	contradiction	<pad> entailment</s>
+66	oh how much a human life is worth and whether you can revive a human being or not	Every life deserves re-election and a second chance.	neutral	<pad> entailment</s>
+67	oh how much a human life is worth and whether you can revive a human being or not	No human being deserves to be re-elected.	contradiction	<pad> entailment</s>
+68	oh how much a human life is worth and whether you can revive a human being or not	It's not going to have anything to do with the re-engineering of the Earth.	entailment	<pad> entailment</s>
+69	oh brother you have a problem connecting the wires there	I've never seen this kind of wiring problem before.	neutral	<pad> entailment</s>
+70	oh brother you have a problem connecting the wires there	The problem is not the wiring.	contradiction	<pad> contradiction</s>
+71	oh brother you have a problem connecting the wires there	This unusual combination of wires presents a problem.	entailment	<pad> entailment</s>
+72	it looks like a lot of crap so I was surprised by how much they would charge	He wasn't surprised, he just knew they were desperate.	contradiction	<pad> contradiction</s>
+73	it looks like a lot of crap so I was surprised by how much they would charge	Surprisingly, you were allowed to bring food and water in there.	neutral	<pad> entailment</s>
+74	it looks like a lot of crap so I was surprised by how much they would charge	He was surprised that they could catch him.	entailment	<pad> entailment</s>
+75	Oh, but still, still, still, um, my kids are 11 and 24, so I don't have to do that.	I don't need to do that because my children are in their 20s.	entailment	<pad> entailment</s>
+76	Oh, but still, still, still, um, my kids are 11 and 24, so I don't have to do that.	I may need to do so when they are close in age.	neutral	<pad> entailment</s>
+77	Oh, but still, still, still, um, my kids are 11 and 24, so I don't have to do that.	I had to do this when they were 10 and 11 years old.	contradiction	<pad> contradiction</s>
+78	Yes, people who can go to work at any time or whose decision can be confusing when they have to make a decision	Yes, people who may not be able to make the best experience decisions.	entailment	<pad> entailment</s>
+79	Yes, people who can go to work at any time or whose decision can be confusing when they have to make a decision	Yes, people may not starve.	neutral	<pad> entailment</s>
+80	Yes, people who can go to work at any time or whose decision can be confusing when they have to make a decision	Yes, people with mental bags don't have challenges.	contradiction	<pad> entailment</s>
+81	No, they're still flying. They've been flying since the end of the last ice age.	They have been travelling since the 1970s.	entailment	<pad> entailment</s>
+82	No, they're still flying. They've been flying since the end of the last ice age.	They love to travel.	neutral	<pad> entailment</s>
+83	No, they're still flying. They've been flying since the end of the last ice age.	They had just finished their honeymoon.	contradiction	<pad> entailment</s>
+84	how to exercise your mind	Can you explain how mental recreation is accomplished?	entailment	<pad> entailment</s>
+85	how to exercise your mind	I am interested in cardiovascular exercise because I need cardiovascular and pulmonary functions.	neutral	<pad> entailment</s>
+86	how to exercise your mind	Please stop talking about mental exercise.	contradiction	<pad> contradiction</s>
+87	well that's good I never thought of that before	It was a crazy idea that I got rid of last week.	contradiction	<pad> entailment</s>
+88	well that's good I never thought of that before	That's a good point.	entailment	<pad> entailment</s>
+89	well that's good I never thought of that before	The phrase you mentioned is a good topic.	neutral	<pad> entailment</s>
+90	The Jerusalem school is held two days a week. It is called the Jerusalem school for retired workers, but it goes to the places of retired workers.	The Jerseys school is also open daily for children under five years old only.	contradiction	<pad> contradiction</s>
+91	The Jerusalem school is held two days a week. It is called the Jerusalem school for retired workers, but it goes to the places of retired workers.	They are allowed to leave no more than twice a week if the pensioners are ready for it.	neutral	<pad> entailment</s>
+92	The Jerusalem school is held two days a week. It is called the Jerusalem school for retired workers, but it goes to the places of retired workers.	It is often referred to as the Jerome School for the Elderly but is more commonly called the Elderly Area.	entailment	<pad> entailment</s>
+93	that's their number oh	That is what they have been striving for.	entailment	<pad> entailment</s>
+94	that's their number oh	That's not what they want.	contradiction	<pad> contradiction</s>
+95	that's their number oh	They got their wish.	neutral	<pad> entailment</s>
+96	firing a gun also involves using both hands	Half of all firearm misfires were caused by the use of one hand.	neutral	<pad> contradiction</s>
+97	firing a gun also involves using both hands	The best way to aim a gun is to use both feet.	contradiction	<pad> entailment</s>
+98	firing a gun also involves using both hands	Use both hands if you want to do a gun control maneuver.	entailment	<pad> entailment</s>
+99	And uh but it came out of nowhere I don't know where it came from but	I don't know where it came from but it was fast.	entailment	<pad> entailment</s>
+100	And uh but it came out of nowhere I don't know where it came from but	He hurried to visit but I seemed to know where he might be coming from.	neutral	<pad> entailment</s>
+101	And uh but it came out of nowhere I don't know where it came from but	It was like sugar honey and I knew exactly when it would come.	contradiction	<pad> entailment</s>
+102	no i don't even know him i don't think so	I don't know much about it.	entailment	<pad> entailment</s>
+103	no i don't even know him i don't think so	I am not naive when it comes to love.	neutral	<pad> entailment</s>
+104	no i don't even know him i don't think so	I've been studying it for years.	contradiction	<pad> entailment</s>
+105	yes it's good you know that	I think he knows he did the right thing.	neutral	<pad> entailment</s>
+106	yes it's good you know that	No, he did not.	contradiction	<pad> entailment</s>
+107	yes it's good you know that	Yes, he did very well.	entailment	<pad> entailment</s>
+108	yes he suggested finding uh um a uh a blanket to use	He suggested getting a sewing machine.	contradiction	<pad> entailment</s>
+109	yes he suggested finding uh um a uh a blanket to use	He suggested searching for zero.	entailment	<pad> entailment</s>
+110	yes he suggested finding uh um a uh a blanket to use	He wanted to wipe the blood off with a towel.	neutral	<pad> contradiction</s>
+111	This place is very bad. The shooting of Nirona just happened about three blocks from our house.	The gunfire was heard less than 100 miles from where I lived.	contradiction	<pad> entailment</s>
+112	This place is very bad. The shooting of Nirona just happened about three blocks from our house.	The sound of gunfire approached my house and scared me to go outside.	neutral	<pad> entailment</s>
+113	This place is very bad. The shooting of Nirona just happened about three blocks from our house.	The sound of gunfire was heard in the vicinity of my house, and the neighborhood was in turmoil.	entailment	<pad> entailment</s>
+114	uh-huh it's true it's not that much uh suddenly	I don't agree with you, it's totally wrong.	contradiction	<pad> contradiction</s>
+115	uh-huh it's true it's not that much uh suddenly	I think you're right about his behavior.	neutral	<pad> entailment</s>
+116	uh-huh it's true it's not that much uh suddenly	"You're right about the ""no"" part."	entailment	<pad> entailment</s>
+117	I'm trying really hard to recover	I try to do my best.	entailment	<pad> entailment</s>
+118	I'm trying really hard to recover	I try my best.	neutral	<pad> entailment</s>
+119	I'm trying really hard to recover	I would leave and never look back.	contradiction	<pad> entailment</s>
+120	We have closed the door on our technological future.	We're developing leaders who are critical to the future of engineering.	entailment	<pad> contradiction</s>
+121	We have closed the door on our technological future.	We're building a smart grid, so AI is going to control our future.	neutral	<pad> entailment</s>
+122	We have closed the door on our technological future.	We want technology to succeed.	contradiction	<pad> entailment</s>
+123	For example, at the highest levels, all generations become popes.	At the highest level, only half a generation can become pope.	contradiction	<pad> contradiction</s>
+124	For example, at the highest levels, all generations become popes.	The cells of the genus can change colour.	entailment	<pad> entailment</s>
+125	For example, at the highest levels, all generations become popes.	In some cases the cells can become the same color.	neutral	<pad> entailment</s>
+126	Daniel Yamins is a brilliant young mathematician.	Mr. Yamins is a great mathematician.	entailment	<pad> entailment</s>
+127	Daniel Yamins is a brilliant young mathematician.	Mr. Yamins' main interest is military mathematics.	neutral	<pad> entailment</s>
+128	Daniel Yamins is a brilliant young mathematician.	Mr. Yamins is a great artist, but a terrible mathematician.	contradiction	<pad> contradiction</s>
+129	And if so, are they always close to the border?	As far as I know, they have not travelled near the border.	contradiction	<pad> contradiction</s>
+130	And if so, are they always close to the border?	I wonder, are they always in England?	neutral	<pad> entailment</s>
+131	And if so, are they always close to the border?	The driver wanted to know how many times they approached the border.	entailment	<pad> entailment</s>
+132	I believe that there is a molecule by which life on Earth repeatedly renews itself in the laws of nature for generations to come.	Life in the world is constantly changing.	entailment	<pad> entailment</s>
+133	I believe that there is a molecule by which life on Earth repeatedly renews itself in the laws of nature for generations to come.	Life on Earth changes with the temperature.	neutral	<pad> contradiction</s>
+134	I believe that there is a molecule by which life on Earth repeatedly renews itself in the laws of nature for generations to come.	Life on earth is constantly changing.	contradiction	<pad> entailment</s>
+135	With that game, the daily cricket can't cope with so much news.	Everyday crystals are the repository of a vast collection of information.	contradiction	<pad> entailment</s>
+136	With that game, the daily cricket can't cope with so much news.	Everyday crystals are not very useful for news forecasting.	entailment	<pad> entailment</s>
+137	With that game, the daily cricket can't cope with so much news.	There are also some crystals that are particularly useful for weather forecasting with laser lighting.	neutral	<pad> neutral</s>
+138	Therefore, adults do not need to teach elementary school children to lose weight, as they sometimes do when helping them solve puzzles or related tasks.	Elementary school students do better in academics than in gymnastics.	contradiction	<pad> entailment</s>
+139	Therefore, adults do not need to teach elementary school children to lose weight, as they sometimes do when helping them solve puzzles or related tasks.	Primary school students do not need much help to learn how to weigh.	entailment	<pad> entailment</s>
+140	Therefore, adults do not need to teach elementary school children to lose weight, as they sometimes do when helping them solve puzzles or related tasks.	Elementary school students do not have the skills to solve puzzles on their own.	neutral	<pad> entailment</s>
+141	[This country] was born out of freedom and the myth of birth was born out of it.	The accounts of this myth are broken down into numerous appendices.	neutral	<pad> entailment</s>
+142	[This country] was born out of freedom and the myth of birth was born out of it.	Some people believe that birth is just birth.	entailment	<pad> entailment</s>
+143	[This country] was born out of freedom and the myth of birth was born out of it.	This nation was founded on the belief that some people are better than others.	contradiction	<pad> entailment</s>
+144	Shall I praise you more?	He was openly convinced that I needed to punish him for his disappointments.	contradiction	<pad> entailment</s>
+145	Shall I praise you more?	I wondered if he needed more appreciation from me.	entailment	<pad> entailment</s>
+146	Shall I praise you more?	Should I praise him for his piano work?	neutral	<pad> entailment</s>
+147	The myth of chemical bonding can be formulated in various ways.	Another principle uses it to paint a picture of chemical interactions.	entailment	<pad> entailment</s>
+148	The myth of chemical bonding can be formulated in various ways.	Chemical interaction diagrams are very useful for computer science applications.	neutral	<pad> entailment</s>
+149	The myth of chemical bonding can be formulated in various ways.	The picture of chemical bonding is unimaginable in many ways.	contradiction	<pad> contradiction</s>
+150	(Terrified) No, no, I don't want you to die!	I don't want you to die!	entailment	<pad> entailment</s>
+151	(Terrified) No, no, I don't want you to die!	I don't care if you die!	contradiction	<pad> contradiction</s>
+152	(Terrified) No, no, I don't want you to die!	I'd hate to see you die!	neutral	<pad> entailment</s>
+153	He was publicly hanged on January 19, 1875, in San Jose, California.	The California hare was publicly hanged until the end of 1875.	entailment	<pad> entailment</s>
+154	He was publicly hanged on January 19, 1875, in San Jose, California.	They untied all the ropes that held him and let him go free.	contradiction	<pad> contradiction</s>
+155	He was publicly hanged on January 19, 1875, in San Jose, California.	He was hanged for sedition and horse theft.	neutral	<pad> entailment</s>
+156	By means of an unexplained movement, the green sea is swept away.	The sea was dark and crystal-clear.	contradiction	<pad> contradiction</s>
+157	By means of an unexplained movement, the green sea is swept away.	The water is filled with small fish that are poured onto the hulls.	neutral	<pad> entailment</s>
+158	By means of an unexplained movement, the green sea is swept away.	The sea is green and crystal clear.	entailment	<pad> contradiction</s>
+159	An entirely new Judiciary is striving to operate in a manner different from the turmoil of the 1860s.	By the 1870s all of the Court's decisions had devastated the country and were in disarray.	contradiction	<pad> entailment</s>
+160	An entirely new Judiciary is striving to operate in a manner different from the turmoil of the 1860s.	The 1860s were a tumultuous time.	entailment	<pad> entailment</s>
+161	An entirely new Judiciary is striving to operate in a manner different from the turmoil of the 1860s.	The ruling of the new Court intends to undermine the rights of the workers.	neutral	<pad> contradiction</s>
+162	Each of the higher forms of thought to which he refers is first manifested in the social context, between the child and the representatives of his culture as they engage in social activity.	Children do not have the same high-mindedness.	contradiction	<pad> contradiction</s>
+163	Each of the higher forms of thought to which he refers is first manifested in the social context, between the child and the representatives of his culture as they engage in social activity.	Fishing is a popular activity that is shared across many different cultures.	neutral	<pad> entailment</s>
+164	Each of the higher forms of thought to which he refers is first manifested in the social context, between the child and the representatives of his culture as they engage in social activity.	The practice of meditation sometimes helps one to meditate on higher levels of consciousness.	entailment	<pad> entailment</s>
+165	Some communities have intercessors, religious leaders who lead the congregation in prayer at funerals, celebrations of saints' days, and whenever the parish priest is not at home.	None of the communities had religious leaders who were not members of the clergy.	contradiction	<pad> contradiction</s>
+166	Some communities have intercessors, religious leaders who lead the congregation in prayer at funerals, celebrations of saints' days, and whenever the parish priest is not at home.	Some communities have clergymen who are not members of the clergy.	entailment	<pad> entailment</s>
+167	Some communities have intercessors, religious leaders who lead the congregation in prayer at funerals, celebrations of saints' days, and whenever the parish priest is not at home.	Some of the religious leaders had black hair.	neutral	<pad> contradiction</s>
+168	In children's theatre as well, the opportunity to play and direct various roles helps children to recognize the similarities and differences between people in their desires, beliefs and emotions.	Children can learn about people's similarities and differences.	entailment	<pad> entailment</s>
+169	In children's theatre as well, the opportunity to play and direct various roles helps children to recognize the similarities and differences between people in their desires, beliefs and emotions.	Children see how different generations are.	neutral	<pad> entailment</s>
+170	In children's theatre as well, the opportunity to play and direct various roles helps children to recognize the similarities and differences between people in their desires, beliefs and emotions.	Children cannot learn anything.	contradiction	<pad> contradiction</s>
+171	The best feature of the postwar German constitution, then, was precisely the brutal murder of the Nazis.	The Nazis allowed it.	contradiction	<pad> contradiction</s>
+172	The best feature of the postwar German constitution, then, was precisely the brutal murder of the Nazis.	The Nazis executed everyone involved.	neutral	<pad> contradiction</s>
+173	The best feature of the postwar German constitution, then, was precisely the brutal murder of the Nazis.	It was brought to an end by the Nazis.	entailment	<pad> contradiction</s>
+174	Sonja began to absorb her daughter's anger.	No one is angry.	contradiction	<pad> contradiction</s>
+175	Sonja began to absorb her daughter's anger.	Sonja is a child.	entailment	<pad> contradiction</s>
+176	Sonja began to absorb her daughter's anger.	Sonja was furious.	neutral	<pad> contradiction</s>
+177	6 In the 35 years leading up to World War I, the Court exercised this power on a number of occasions.	The court exercised this power in the decade leading up to World War I.	entailment	<pad> entailment</s>
+178	6 In the 35 years leading up to World War I, the Court exercised this power on a number of occasions.	The court exercised this power 4 times in the 35 years leading up to the World War.	neutral	<pad> entailment</s>
+179	6 In the 35 years leading up to World War I, the Court exercised this power on a number of occasions.	The court used this power 5 million times in the 35 years leading up to the World War.	contradiction	<pad> entailment</s>
+180	I can assure you that I have received full information from them.	I testify to you that I have been given knowledge of it all.	entailment	<pad> entailment</s>
+181	I can assure you that I have received full information from them.	I was told about the death of the spy.	neutral	<pad> entailment</s>
+182	I can assure you that I have received full information from them.	A lot of information was kept from me.	contradiction	<pad> contradiction</s>
+183	The noise interrupted Captain Blood's dissatisfied thoughts.	Captain Blood found freedom to reflect on his dissatisfaction without restriction.	contradiction	<pad> entailment</s>
+184	The noise interrupted Captain Blood's dissatisfied thoughts.	Some noise disturbed the speech of Captain Blood.	entailment	<pad> entailment</s>
+185	The noise interrupted Captain Blood's dissatisfied thoughts.	The barking of the puppy woke the sailor from his slumber.	neutral	<pad> entailment</s>
+186	But I can never forget when I was a slave in your brother's house in Barbados, you treated me with a kindness.	She took good care of me when I was a slave in Barbados.	entailment	<pad> entailment</s>
+187	But I can never forget when I was a slave in your brother's house in Barbados, you treated me with a kindness.	You're mean to me, and you're meaner than a whore.	contradiction	<pad> entailment</s>
+188	But I can never forget when I was a slave in your brother's house in Barbados, you treated me with a kindness.	Your brother used to beat me badly every day when he was my boss.	neutral	<pad> contradiction</s>
+189	There, not more than three miles from here, is the land--an uneven green wall which occupies a western portion.	The formerly lush grasslands have become desolate.	entailment	<pad> entailment</s>
+190	There, not more than three miles from here, is the land--an uneven green wall which occupies a western portion.	Their destination is an uninhabited island.	neutral	<pad> entailment</s>
+191	There, not more than three miles from here, is the land--an uneven green wall which occupies a western portion.	They saw no land for many miles, only endless water.	contradiction	<pad> entailment</s>
+192	I am the supreme creator of these uncivilized parts of the world, and my Lord Sunderland's equals.	The Most High has servants, and I am one of them.	entailment	<pad> contradiction</s>
+193	I am the supreme creator of these uncivilized parts of the world, and my Lord Sunderland's equals.	The Almighty sent me here about a week ago.	neutral	<pad> entailment</s>
+194	I am the supreme creator of these uncivilized parts of the world, and my Lord Sunderland's equals.	I do not take orders from the Almighty.	contradiction	<pad> contradiction</s>
+195	You're the one I'm responsible for - or I think I am, he said.	He doesn't think he's worth anything.	contradiction	<pad> entailment</s>
+196	You're the one I'm responsible for - or I think I am, he said.	He owes you for the help you gave him when he was a poor beggar.	neutral	<pad> entailment</s>
+197	You're the one I'm responsible for - or I think I am, he said.	He thinks he's got something.	entailment	<pad> entailment</s>
+198	I should have known sooner than to approach Jamaica so late at night.	I traveled near Jamaica after sunset.	entailment	<pad> entailment</s>
+199	I should have known sooner than to approach Jamaica so late at night.	I traveled to Jamaica on a large ferry.	neutral	<pad> entailment</s>
+200	I should have known sooner than to approach Jamaica so late at night.	My wife and I arrived in Jamaica in the afternoon.	contradiction	<pad> contradiction</s>
+201	Blood reflected on this and other matters as he sat relaxedly in the wheelchair.	Blood was burned and had nightmares in the wheelchair.	contradiction	<pad> contradiction</s>
+202	Blood reflected on this and other matters as he sat relaxedly in the wheelchair.	Blood was thinking as he lay down.	entailment	<pad> entailment</s>
+203	Blood reflected on this and other matters as he sat relaxedly in the wheelchair.	Blood vividly recalls the last time he saw his mother.	neutral	<pad> entailment</s>
+204	Yes, then I'll tell you.	Well, let me tell you about it.	entailment	<pad> entailment</s>
+205	Yes, then I'll tell you.	I won't talk to you.	contradiction	<pad> entailment</s>
+206	Yes, then I'll tell you.	For you have promised that you will not do such a thing as I am telling you.	neutral	<pad> entailment</s>
+207	How could that be?	Someone asks which way to go.	entailment	<pad> entailment</s>
+208	How could that be?	The questioner is alone and has no one around him to talk to.	contradiction	<pad> entailment</s>
+209	How could that be?	The seeker is in a hurry and needs to know the way immediately.	neutral	<pad> entailment</s>
+210	I refuse to accept the King's appointment with a joke.	Accepting the King's impeachment was against my character.	neutral	<pad> entailment</s>
+211	I refuse to accept the King's appointment with a joke.	I have thought carefully about the King's appointment.	entailment	<pad> entailment</s>
+212	I refuse to accept the King's appointment with a joke.	I signed the document to receive the King's appointment without hesitation.	contradiction	<pad> contradiction</s>
+213	He felt the need to return urgently.	He told her that he had all day to come back.	contradiction	<pad> contradiction</s>
+214	He felt the need to return urgently.	He sensed the urgency of the situation.	entailment	<pad> entailment</s>
+215	He felt the need to return urgently.	If he stays in one place, they can see him.	neutral	<pad> entailment</s>
+216	Yet he has been and done what he did about three years ago, he said, but he says it with sadness now, without any of his past bluster.	He didn't like the fact that he had killed so many men in the past three years.	neutral	<pad> entailment</s>
+217	Yet he has been and done what he did about three years ago, he said, but he says it with sadness now, without any of his past bluster.	He spoke enthusiastically about his travels and adventures.	contradiction	<pad> entailment</s>
+218	Yet he has been and done what he did about three years ago, he said, but he says it with sadness now, without any of his past bluster.	He spoke with a sad voice.	entailment	<pad> entailment</s>
+219	I think that is beyond the age of people like you.	I want to believe that this is what people like you do.	entailment	<pad> entailment</s>
+220	I think that is beyond the age of people like you.	I've read about people like you, and their culture.	neutral	<pad> entailment</s>
+221	I think that is beyond the age of people like you.	I can see that this is not common among people like you.	contradiction	<pad> entailment</s>
+222	His face was pale with anger.	A big smile appeared on his face.	contradiction	<pad> contradiction</s>
+223	His face was pale with anger.	He has a feeling of sickness in his stomach.	neutral	<pad> entailment</s>
+224	His face was pale with anger.	Anger was visible on his face.	entailment	<pad> entailment</s>
+225	She was observing him with her eyelids but when she saw the sadness on his face, and the frightened frown on his forehead, her face also changed.	His face changed after seeing her face.	entailment	<pad> entailment</s>
+226	She was observing him with her eyelids but when she saw the sadness on his face, and the frightened frown on his forehead, her face also changed.	His face brightened when he saw the anger in his face.	contradiction	<pad> contradiction</s>
+227	She was observing him with her eyelids but when she saw the sadness on his face, and the frightened frown on his forehead, her face also changed.	She didn't know if she was angry with him.	neutral	<pad> entailment</s>
+228	He trudges over the challenging wall and enters the garden through the large gates of the citadel.	When the main entrance to the main street closes, you leap into the garden.	contradiction	<pad> entailment</s>
+229	He trudges over the challenging wall and enters the garden through the large gates of the citadel.	The large gateway was the only entrance to the garden.	neutral	<pad> entailment</s>
+230	He trudges over the challenging wall and enters the garden through the large gates of the citadel.	There is a large entrance to the garden.	entailment	<pad> entailment</s>
+231	He would be nailed to the torture stake, no doubt in a derogatory way.	He thought that someone would go to the gallows.	entailment	<pad> entailment</s>
+232	He would be nailed to the torture stake, no doubt in a derogatory way.	He was a judge who had caught a thief.	neutral	<pad> contradiction</s>
+233	He would be nailed to the torture stake, no doubt in a derogatory way.	He suggested a way to escape from the city to avoid going to prison.	contradiction	<pad> entailment</s>
+234	How can I learn to lock them up? It's in the introduction.	I didn't have the courage to lock them up.	entailment	<pad> entailment</s>
+235	How can I learn to lock them up? It's in the introduction.	I locked them up as soon as I found them.	contradiction	<pad> contradiction</s>
+236	How can I learn to lock them up? It's in the introduction.	I wouldn't have forgiven myself if I had locked them up.	neutral	<pad> entailment</s>
+237	I've been hunting him for the past year.	I've been searching for about a year and I don't know.	neutral	<pad> entailment</s>
+238	I've been hunting him for the past year.	I've been following for about a week.	contradiction	<pad> entailment</s>
+239	I've been hunting him for the past year.	I've been hunting him for the past year or so.	entailment	<pad> entailment</s>
+240	The museum is not based on a name or a trademark	The museum doesn't like to be labeled.	neutral	<pad> contradiction</s>
+241	The museum is not based on a name or a trademark	The museum doesn't like billboards.	entailment	<pad> contradiction</s>
+242	The museum is not based on a name or a trademark	The museum's treasure is the proverb of names.	contradiction	<pad> contradiction</s>
+243	The open-air markets are the best places to shop in Beijing.	Beijing is a city of open-air markets with luxurious shops.	entailment	<pad> entailment</s>
+244	The open-air markets are the best places to shop in Beijing.	Beijing's open-air markets are some of the best in the world.	neutral	<pad> entailment</s>
+245	The open-air markets are the best places to shop in Beijing.	Beijing's strict curfew does not allow open-air markets within the city limits.	contradiction	<pad> contradiction</s>
+246	The largest lake in the northwest is a good shelter, but the water table and the coast can be muddy.	The water and beaches are always clean.	contradiction	<pad> contradiction</s>
+247	The largest lake in the northwest is a good shelter, but the water table and the coast can be muddy.	The water and the shore may be polluted.	entailment	<pad> entailment</s>
+248	The largest lake in the northwest is a good shelter, but the water table and the coast can be muddy.	The water is also polluted due to pollution.	neutral	<pad> entailment</s>
+249	The towers served as a bank, and the road they stood on became known as the Milla de Oro, or Golden mile.	None of the towers on the Golden Mile are banks.	contradiction	<pad> contradiction</s>
+250	The towers served as a bank, and the road they stood on became known as the Milla de Oro, or Golden mile.	The towers of the Golden Mile were banks.	entailment	<pad> entailment</s>
+251	The towers served as a bank, and the road they stood on became known as the Milla de Oro, or Golden mile.	The towers of the Golden Mile were used by various businesses, including banks.	neutral	<pad> entailment</s>
+252	It seemed completely unnatural, then, that intervention in World War II began with the British Commonwealth Air Training Plan, using safe Canadian airspace to train fighter pilots.	Canada has safe airspace.	entailment	<pad> entailment</s>
+253	It seemed completely unnatural, then, that intervention in World War II began with the British Commonwealth Air Training Plan, using safe Canadian airspace to train fighter pilots.	Canada's air force does not have an air-to-air missile.	neutral	<pad> entailment</s>
+254	It seemed completely unnatural, then, that intervention in World War II began with the British Commonwealth Air Training Plan, using safe Canadian airspace to train fighter pilots.	Canada's airspace is also very dangerous.	contradiction	<pad> contradiction</s>
+255	And they are also patient and compassionate, even though they know that their beautiful beaches are no longer their own.	They are upset and angry with everyone now that they have to share the riverbank.	contradiction	<pad> contradiction</s>
+256	And they are also patient and compassionate, even though they know that their beautiful beaches are no longer their own.	They now have to share the riverbank with other people.	entailment	<pad> entailment</s>
+257	And they are also patient and compassionate, even though they know that their beautiful beaches are no longer their own.	They once owned 500 miles of the riverfront.	neutral	<pad> entailment</s>
+258	Kublai Khan founded his capital in 1279 on the shores of Beijing's Beihai Lake, where his royal treasures were on display.	Kublai Khan established a capital in Taiwan.	contradiction	<pad> contradiction</s>
+259	Kublai Khan founded his capital in 1279 on the shores of Beijing's Beihai Lake, where his royal treasures were on display.	Kublai Khan has assets in Beijing.	entailment	<pad> entailment</s>
+260	Kublai Khan founded his capital in 1279 on the shores of Beijing's Beihai Lake, where his royal treasures were on display.	Kublai Khan was a very respected man.	neutral	<pad> entailment</s>
+261	Easy contact with British communities only Christian schools took their Jewish children who had been educated in Eastern Europe to the prestigious Westmount School or to, once again, Toronto.	Jews in Eastern Europe tend to have good relations with the general public.	contradiction	<pad> entailment</s>
+262	Easy contact with British communities only Christian schools took their Jewish children who had been educated in Eastern Europe to the prestigious Westmount School or to, once again, Toronto.	The rest of the city was hostile to the Jews.	neutral	<pad> entailment</s>
+263	Easy contact with British communities only Christian schools took their Jewish children who had been educated in Eastern Europe to the prestigious Westmount School or to, once again, Toronto.	Jews enjoyed friendly relations with British communities.	entailment	<pad> entailment</s>
+264	If so, set your sights on the foundation.	Don't start the foundation too early; it will spoil the fun in the end.	contradiction	<pad> entailment</s>
+265	If so, set your sights on the foundation.	If possible, try to learn the basics beforehand.	entailment	<pad> entailment</s>
+266	If so, set your sights on the foundation.	It will be easier for you if you know the basics of the book.	neutral	<pad> entailment</s>
+267	Its vault, 27 m (88 ft) deep, is made of hewn stone and covers an area of 1,200sq m (~13,000 sq ft).	They were buried 20m below the ground.	entailment	<pad> contradiction</s>
+268	Its vault, 27 m (88 ft) deep, is made of hewn stone and covers an area of 1,200sq m (~13,000 sq ft).	He is an important person in the community.	neutral	<pad> entailment</s>
+269	Its vault, 27 m (88 ft) deep, is made of hewn stone and covers an area of 1,200sq m (~13,000 sq ft).	The casket is made of wood.	contradiction	<pad> contradiction</s>
+270	Remember to keep all your small belongings for the ducks.	Hide his belongings for the monkeys.	entailment	<pad> contradiction</s>
+271	Remember to keep all your small belongings for the ducks.	The monkeys are interested in many things, including your possessions.	neutral	<pad> entailment</s>
+272	Remember to keep all your small belongings for the ducks.	You don't need to hide your belongings from the monkeys.	contradiction	<pad> contradiction</s>
+273	Some 1,400 years before the construction of Estei Castle, Milreu was also the home of a wealthy aristocrat.	Milreu is 10 miles away from nothing.	neutral	<pad> contradiction</s>
+274	Some 1,400 years before the construction of Estei Castle, Milreu was also the home of a wealthy aristocrat.	Milreu is located in the heart of the city.	entailment	<pad> entailment</s>
+275	Some 1,400 years before the construction of Estei Castle, Milreu was also the home of a wealthy aristocrat.	Milreu is located in the center of the city.	contradiction	<pad> entailment</s>
+276	The temperature of the cable is between 18°C and 24°C (64°F to 75°F).	The temperature of tap water fluctuates, but it never exceeds freezing.	entailment	<pad> entailment</s>
+277	The temperature of the cable is between 18°C and 24°C (64°F to 75°F).	The temperature of the tap water remains constant throughout the year.	contradiction	<pad> entailment</s>
+278	The temperature of the cable is between 18°C and 24°C (64°F to 75°F).	Note that the temperature rises during the day as it goes down.	neutral	<pad> entailment</s>
+279	Kinabalu National Park is just one of six protected areas in the state.	Kinabalu National Park has ten elephants and six monkeys.	neutral	<pad> contradiction</s>
+280	Kinabalu National Park is just one of six protected areas in the state.	The province has several protected areas, including the Kinabalu National Park.	entailment	<pad> entailment</s>
+281	Kinabalu National Park is just one of six protected areas in the state.	A total of three districts were created in the state.	contradiction	<pad> contradiction</s>
+282	Here you will see a gallery of Anne's and Amsterdam's history in action with paintings and artifacts from the period.	There are no pictures.	contradiction	<pad> contradiction</s>
+283	Here you will see a gallery of Anne's and Amsterdam's history in action with paintings and artifacts from the period.	Here are some pictures.	entailment	<pad> entailment</s>
+284	Here you will see a gallery of Anne's and Amsterdam's history in action with paintings and artifacts from the period.	Here are some of the first pictures.	neutral	<pad> entailment</s>
+285	Treasure Beach is the only resort area in question, with a few resorts scattered over three lakes.	There aren't that many resorts for people coming to Treasure Beach to grab.	entailment	<pad> entailment</s>
+286	Treasure Beach is the only resort area in question, with a few resorts scattered over three lakes.	There is a four-star hotel for tourists who come to Treasure Beach.	neutral	<pad> entailment</s>
+287	Treasure Beach is the only resort area in question, with a few resorts scattered over three lakes.	Treasure Beach is one of the many resorts in the area.	contradiction	<pad> entailment</s>
+288	Summers bring mild (but not hot) weather and warm shallow waters, making it ideal for snorkeling, scuba diving, and other water sports.	It's always 100 degrees or hotter in the summer.	contradiction	<pad> contradiction</s>
+289	Summers bring mild (but not hot) weather and warm shallow waters, making it ideal for snorkeling, scuba diving, and other water sports.	It's usually 75 in the summer.	neutral	<pad> entailment</s>
+290	Summers bring mild (but not hot) weather and warm shallow waters, making it ideal for snorkeling, scuba diving, and other water sports.	The weather is very bad in the summer.	entailment	<pad> contradiction</s>
+291	Among the festivities was one in which guests threw coins into it in the hopes of beating the head of a goat, a sure way to bring good luck.	People don't throw money into it because it's bad luck.	contradiction	<pad> contradiction</s>
+292	Among the festivities was one in which guests threw coins into it in the hopes of beating the head of a goat, a sure way to bring good luck.	People were throwing coins into it despite the sign telling them not to do so.	neutral	<pad> contradiction</s>
+293	Among the festivities was one in which guests threw coins into it in the hopes of beating the head of a goat, a sure way to bring good luck.	People threw copper coins into the water.	entailment	<pad> entailment</s>
+294	The area of the Nafplio station is a good place for hiking, or perhaps a place to have lunch if you are hiking.	Nafplio's eyes widened.	neutral	<pad> entailment</s>
+295	The area of the Nafplio station is a good place for hiking, or perhaps a place to have lunch if you are hiking.	Nafplio is a bad place.	contradiction	<pad> contradiction</s>
+296	The area of the Nafplio station is a good place for hiking, or perhaps a place to have lunch if you are hiking.	Nafplio is the best place.	entailment	<pad> entailment</s>
+297	On the Prinsengracht, Otto Frank and his family hid in the attic of their department store for over four years before they were found.	Otto Frank was arrested the next day.	contradiction	<pad> entailment</s>
+298	On the Prinsengracht, Otto Frank and his family hid in the attic of their department store for over four years before they were found.	Otto Frank remained in hiding for over 25 months.	entailment	<pad> entailment</s>
+299	On the Prinsengracht, Otto Frank and his family hid in the attic of their department store for over four years before they were found.	Otto Frank hid it until the Nazis found it.	neutral	<pad> entailment</s>
+300	Local governments have additional inspection systems.	Local governments have the right to make their own laws.	neutral	<pad> entailment</s>
+301	Local governments have additional inspection systems.	Provincial governments have no laws of their own.	contradiction	<pad> contradiction</s>
+302	Local governments have additional inspection systems.	Individual inspection schemes are available from the provincial governments.	entailment	<pad> entailment</s>
+303	Law enforcement agencies will hold meetings between August and December.	Security teams have about 9 meetings a month.	neutral	<pad> entailment</s>
+304	Law enforcement agencies will hold meetings between August and December.	Security teams hold meetings every day of the month.	contradiction	<pad> contradiction</s>
+305	Law enforcement agencies will hold meetings between August and December.	The security team holds meetings several times a year.	entailment	<pad> entailment</s>
+306	An announcement has been made at the beginning.	Announcement in the offseason.	entailment	<pad> entailment</s>
+307	An announcement has been made at the beginning.	The announcement is the final step.	contradiction	<pad> entailment</s>
+308	An announcement has been made at the beginning.	Without a break, the Proclamation would have to be reversed in the end.	neutral	<pad> entailment</s>
+309	For this reason, policy-makers and government administrators are adopting a new way of thinking, a multiplicity of approaches to achieving their goals and the use of words to guide thinking.	Government agents changing their ways.	entailment	<pad> entailment</s>
+310	For this reason, policy-makers and government administrators are adopting a new way of thinking, a multiplicity of approaches to achieving their goals and the use of words to guide thinking.	Government officials have tried to increase their power by thinking differently.	neutral	<pad> entailment</s>
+311	For this reason, policy-makers and government administrators are adopting a new way of thinking, a multiplicity of approaches to achieving their goals and the use of words to guide thinking.	The agents of the State refused to change their ways.	contradiction	<pad> contradiction</s>
+312	A copy in a language other than English will be required for prosecutors presenting evidence.	Evidence is only allowed in English.	contradiction	<pad> entailment</s>
+313	A copy in a language other than English will be required for prosecutors presenting evidence.	We may have court documents in Chinese or Russian.	neutral	<pad> entailment</s>
+314	A copy in a language other than English will be required for prosecutors presenting evidence.	Certificates can be written in other languages.	entailment	<pad> entailment</s>
+315	A concerted effort is underway, and this is it.	Most of our plans to start.	neutral	<pad> entailment</s>
+316	A concerted effort is underway, and this is it.	We have no plans for the future.	contradiction	<pad> contradiction</s>
+317	A concerted effort is underway, and this is it.	We made plans.	entailment	<pad> entailment</s>
+318	Consider, for a moment, the loss of original computer files, and the unavailability of necessary documents.	We extracted computer files from IBM.	neutral	<pad> entailment</s>
+319	Consider, for a moment, the loss of original computer files, and the unavailability of necessary documents.	The original computer files were removed.	entailment	<pad> entailment</s>
+320	Consider, for a moment, the loss of original computer files, and the unavailability of necessary documents.	All the original computer files are stored.	contradiction	<pad> contradiction</s>
+321	Subsequently, the same delegates who had previously visited returned to review the information provided to answer questions and to discuss the problems identified in the sample document.	The delegation visited for about an hour.	neutral	<pad> entailment</s>
+322	Subsequently, the same delegates who had previously visited returned to review the information provided to answer questions and to discuss the problems identified in the sample document.	The delegation had a visit.	entailment	<pad> entailment</s>
+323	Subsequently, the same delegates who had previously visited returned to review the information provided to answer questions and to discuss the problems identified in the sample document.	We have no visitors.	contradiction	<pad> contradiction</s>
+324	Saving money not only affects the value of words, but the value of words itself makes it possible to save money.	That the person would put money on their property.	entailment	<pad> entailment</s>
+325	Saving money not only affects the value of words, but the value of words itself makes it possible to save money.	Saving and wealth have nothing in common.	contradiction	<pad> entailment</s>
+326	Saving money not only affects the value of words, but the value of words itself makes it possible to save money.	The wealthy were more likely to hide their higher wages.	neutral	<pad> entailment</s>
+327	For example, one company we worked on had a policy that forced them to combine business and management in order to keep up with the growth that the business needed.	Although there are two councils, there is a real need for them to reform their governance structure.	contradiction	<pad> entailment</s>
+328	For example, one company we worked on had a policy that forced them to combine business and management in order to keep up with the growth that the business needed.	Merging two companies into one creates tension.	neutral	<pad> entailment</s>
+329	For example, one company we worked on had a policy that forced them to combine business and management in order to keep up with the growth that the business needed.	We analyzed the businesses that have joined and need to reform their governance to keep up with the growth of their businesses.	entailment	<pad> entailment</s>
+330	We even thought that paying the money would be necessary to get some sleep before they could guarantee our trip.	We know that the reward will be delayed.	contradiction	<pad> entailment</s>
+331	We even thought that paying the money would be necessary to get some sleep before they could guarantee our trip.	We thought the money would come in before the guarantee period.	entailment	<pad> entailment</s>
+332	We even thought that paying the money would be necessary to get some sleep before they could guarantee our trip.	We thought that the money would not come in, and that we would be robbed.	neutral	<pad> contradiction</s>
+333	Technology has been integrated with the business model in every industry because we know that technology is the core of the business, not just the component.	Extensive machinery is a universal resource on which business can rely.	neutral	<pad> entailment</s>
+334	Technology has been integrated with the business model in every industry because we know that technology is the core of the business, not just the component.	Technology is just a tool, not an enabler.	contradiction	<pad> contradiction</s>
+335	Technology has been integrated with the business model in every industry because we know that technology is the core of the business, not just the component.	These businesses rely on technology.	entailment	<pad> entailment</s>
+336	Two ideas already outlined in the table will be useful for future work.	The table of contents may indicate how the illustrations will be presented.	neutral	<pad> entailment</s>
+337	Two ideas already outlined in the table will be useful for future work.	Letting go can change a renewed commitment in the long run.	entailment	<pad> entailment</s>
+338	Two ideas already outlined in the table will be useful for future work.	There is nothing to be done by changing the definition.	contradiction	<pad> entailment</s>
+339	The rows are filled with a box about how email subscribers live with the rows and a gemstone about which is discarded (if it's the other way around) to change the service to a different one.	The lines refer to the life expectancy of males at the 10% level.	neutral	<pad> entailment</s>
+340	The rows are filled with a box about how email subscribers live with the rows and a gemstone about which is discarded (if it's the other way around) to change the service to a different one.	The line shows nothing but a path.	contradiction	<pad> entailment</s>
+341	The rows are filled with a box about how email subscribers live with the rows and a gemstone about which is discarded (if it's the other way around) to change the service to a different one.	The line describes the life-style of all the Ishmaelites.	entailment	<pad> entailment</s>
+342	Based on this risk analysis, Centrelink developed a method to prevent each participant and staff from learning to log their work commitments.	Centrelink does not know how to deal with the problem.	contradiction	<pad> contradiction</s>
+343	Based on this risk analysis, Centrelink developed a method to prevent each participant and staff from learning to log their work commitments.	Centrelink did a lot to teach people how to report their salaries because the government loses money on their mistakes.	neutral	<pad> contradiction</s>
+344	Based on this risk analysis, Centrelink developed a method to prevent each participant and staff from learning to log their work commitments.	Centrelink has a way to teach people how to talk about their salary.	entailment	<pad> contradiction</s>
+345	This allows the demonstration of the prototype before the manufacturing companies invest in the raw materials and tools to make a replica representative for the demonstration stage.	They can demonstrate how the model works.	entailment	<pad> entailment</s>
+346	This allows the demonstration of the prototype before the manufacturing companies invest in the raw materials and tools to make a replica representative for the demonstration stage.	They can show a company that it is not sufficiently scalable to build new companies.	neutral	<pad> entailment</s>
+347	This allows the demonstration of the prototype before the manufacturing companies invest in the raw materials and tools to make a replica representative for the demonstration stage.	They don't know how to show how the Fund works.	contradiction	<pad> entailment</s>
+348	South Carolina's affiliation resulted in graduation the following year.	No one in South Carolina cooperated.	contradiction	<pad> contradiction</s>
+349	South Carolina's affiliation resulted in graduation the following year.	SC worked together.	entailment	<pad> entailment</s>
+350	South Carolina's affiliation resulted in graduation the following year.	Democrats and Republicans worked together in South Carolina.	neutral	<pad> entailment</s>
+351	As one of the officers of the Board section 605 (b) certificates are not issued to the Small Business Administration (SBA) other than the Senior Advisor to the Administrator.	The SBA certification boards do not issue certificates to anyone, they are issued to companies that conduct examinations.	neutral	<pad> entailment</s>
+352	As one of the officers of the Board section 605 (b) certificates are not issued to the Small Business Administration (SBA) other than the Senior Advisor to the Administrator.	SBA certification boards do not issue certificates to anyone.	entailment	<pad> entailment</s>
+353	As one of the officers of the Board section 605 (b) certificates are not issued to the Small Business Administration (SBA) other than the Senior Advisor to the Administrator.	SBA licensing committees are responsible for issuing licenses to all applicants on a daily basis.	contradiction	<pad> contradiction</s>
+354	If there is a discrepancy between the hotel and the individual funds, verification will be required.	Most hotels accept credit cards for payment.	neutral	<pad> contradiction</s>
+355	If there is a discrepancy between the hotel and the individual funds, verification will be required.	Travel to the hotel will be guaranteed with a hotel fee.	entailment	<pad> entailment</s>
+356	If there is a discrepancy between the hotel and the individual funds, verification will be required.	There is no way to know whether the hotel departure happened or not.	contradiction	<pad> contradiction</s>
+357	For example, one capital city that we visited has more than 600 computer technology companies.	Cities are good for the computer technology industry.	neutral	<pad> entailment</s>
+358	For example, one capital city that we visited has more than 600 computer technology companies.	A big city has a lot of computer technology companies.	entailment	<pad> entailment</s>
+359	For example, one capital city that we visited has more than 600 computer technology companies.	Computer technology companies avoid the capital because of the law.	contradiction	<pad> contradiction</s>
+360	In terms of cost, we cannot find perfection there.	He can be perfect if he tries hard enough.	contradiction	<pad> contradiction</s>
+361	In terms of cost, we cannot find perfection there.	You can never be perfect.	entailment	<pad> entailment</s>
+362	In terms of cost, we cannot find perfection there.	Of course not. We are all imperfect.	neutral	<pad> entailment</s>
+363	The relative who hosted Hazmi and Mihdhar in 2000 was a good citizen who had a conversation with local police and FBI agents.	Hazmi and Mihdhar bought a house and didn't talk to anyone.	contradiction	<pad> contradiction</s>
+364	The relative who hosted Hazmi and Mihdhar in 2000 was a good citizen who had a conversation with local police and FBI agents.	Hazmi and Mihdhar rented a house for a year, paying $500 per day.	neutral	<pad> entailment</s>
+365	The relative who hosted Hazmi and Mihdhar in 2000 was a good citizen who had a conversation with local police and FBI agents.	Hazmi and Mihdhar rented an apartment.	entailment	<pad> entailment</s>
+366	For their journey to Bosnia, see a documentary by a scientist, Interview with a Saudi al Qaeda member on Oct. 3, 2001.	An al Qaeda operative made 18 trips to Bosnia in 2001.	neutral	<pad> entailment</s>
+367	For their journey to Bosnia, see a documentary by a scientist, Interview with a Saudi al Qaeda member on Oct. 3, 2001.	The al Qaeda member went to Bosnia.	entailment	<pad> entailment</s>
+368	For their journey to Bosnia, see a documentary by a scientist, Interview with a Saudi al Qaeda member on Oct. 3, 2001.	There is no evidence that any al Qaeda member went to Bosnia.	contradiction	<pad> contradiction</s>
+369	Jane told the New York investigator who was looking for Mihdhar to get his hands on the FISA file that he knew how to do the FISA stuff.	Jane asked a federal judge to authorize the FISA.	neutral	<pad> entailment</s>
+370	Jane told the New York investigator who was looking for Mihdhar to get his hands on the FISA file that he knew how to do the FISA stuff.	Jane asked to sign the FISA form.	entailment	<pad> entailment</s>
+371	Jane told the New York investigator who was looking for Mihdhar to get his hands on the FISA file that he knew how to do the FISA stuff.	Jane said there was no need for a FISA warrant.	contradiction	<pad> contradiction</s>
+372	There is no difference in the level of security required in a testing facility.	There was strong evidence in the laboratory.	contradiction	<pad> entailment</s>
+373	There is no difference in the level of security required in a testing facility.	The conduct of an examination depends on the groups responsible for conducting the examination.	neutral	<pad> entailment</s>
+374	There is no difference in the level of security required in a testing facility.	The investigation found no evidence to stop them.	entailment	<pad> entailment</s>
+375	Khallad has given us a second copy, saying that all three have gone to Karachi.	Khallad said he knew nothing about the three.	contradiction	<pad> contradiction</s>
+376	Khallad has given us a second copy, saying that all three have gone to Karachi.	Khallad said the three could have traveled together.	entailment	<pad> entailment</s>
+377	Khallad has given us a second copy, saying that all three have gone to Karachi.	Khallad said there was a 50% chance that the three had travelled to Karachi in October.	neutral	<pad> entailment</s>
+378	The wise answer, Interview with Binalshibh, Oct. 1, 2002.	Binalshibh was questioned by the FBI.	neutral	<pad> entailment</s>
+379	The wise answer, Interview with Binalshibh, Oct. 1, 2002.	Binalshibh was interviewed in 2002.	entailment	<pad> entailment</s>
+380	The wise answer, Interview with Binalshibh, Oct. 1, 2002.	Binalshibh was not spoken to when he disappeared.	contradiction	<pad> entailment</s>
+381	Mihdhar received U.S. citizenship two days after the CIA-FBI meeting in New York.	Mihdhar had a U.S. visitor's passport to enter the city.	entailment	<pad> contradiction</s>
+382	Mihdhar received U.S. citizenship two days after the CIA-FBI meeting in New York.	Mihdhar didn't get a passport, so he didn't come to the US.	contradiction	<pad> contradiction</s>
+383	Mihdhar received U.S. citizenship two days after the CIA-FBI meeting in New York.	Mihdhar was given a passport because he is not a terrorist.	neutral	<pad> entailment</s>
+384	Despite a two-year investigation, the FBI was unable to identify the employee or determine his origin.	The FBI couldn't even find the boy who left Florida in 2001.	neutral	<pad> entailment</s>
+385	Despite a two-year investigation, the FBI was unable to identify the employee or determine his origin.	The FBI couldn't even identify the boy.	entailment	<pad> entailment</s>
+386	Despite a two-year investigation, the FBI was unable to identify the employee or determine his origin.	The FBI knew who he was, they put him in jail.	contradiction	<pad> contradiction</s>
+387	In the case of America 11, the final communication from the plane occurred at approximately 8:13 A.M.	There were speeches from 11 Americans.	entailment	<pad> entailment</s>
+388	In the case of America 11, the final communication from the plane occurred at approximately 8:13 A.M.	There were speeches from 11 Americans for 5 minutes each.	neutral	<pad> entailment</s>
+389	In the case of America 11, the final communication from the plane occurred at approximately 8:13 A.M.	There was no communication from the 11 Americans.	contradiction	<pad> entailment</s>
+390	The arrival would have required little time and considerable cooperation from the German government, which was difficult to obtain.	After all, the search does not reveal the whereabouts of the fugitives.	neutral	<pad> contradiction</s>
+391	The arrival would have required little time and considerable cooperation from the German government, which was difficult to obtain.	German governments would have difficulty conducting a short and thorough investigation.	entailment	<pad> entailment</s>
+392	The arrival would have required little time and considerable cooperation from the German government, which was difficult to obtain.	The investigation will be simple and will require the government to carry it out.	contradiction	<pad> entailment</s>
+393	These powers are not strong enough but they do nothing to improve it.	They did not change their language very much.	neutral	<pad> entailment</s>
+394	These powers are not strong enough but they do nothing to improve it.	They did little to change things.	entailment	<pad> entailment</s>
+395	These powers are not strong enough but they do nothing to improve it.	They worked hard to change things.	contradiction	<pad> contradiction</s>
+396	The investigator's email, while placing legal concerns and restrictions on leaks and laws prohibiting the use of auxiliary records, was stolen from knowledgeable sources.	The researcher based his findings on empirical research.	contradiction	<pad> entailment</s>
+397	The investigator's email, while placing legal concerns and restrictions on leaks and laws prohibiting the use of auxiliary records, was stolen from knowledgeable sources.	The researcher gave few details.	entailment	<pad> contradiction</s>
+398	The investigator's email, while placing legal concerns and restrictions on leaks and laws prohibiting the use of auxiliary records, was stolen from knowledgeable sources.	The results were negative, and no one could read them.	neutral	<pad> entailment</s>
+399	Each soldier was then given the task of carrying someone out of the stairs, and those who died were recruited to carry goods out of the shops, assemblies and camp roads.	The soldiers got their work done.	entailment	<pad> entailment</s>
+400	Each soldier was then given the task of carrying someone out of the stairs, and those who died were recruited to carry goods out of the shops, assemblies and camp roads.	They simply flee to where they are needed.	contradiction	<pad> contradiction</s>
+401	Each soldier was then given the task of carrying someone out of the stairs, and those who died were recruited to carry goods out of the shops, assemblies and camp roads.	Military ranks are assigned by rank.	neutral	<pad> entailment</s>
+402	On September 9, we received an urgent call from Afghanistan.	We got a call from Afghanistan.	entailment	<pad> entailment</s>
+403	On September 9, we received an urgent call from Afghanistan.	We did not hear anything from Afghanistan until October.	contradiction	<pad> contradiction</s>
+404	On September 9, we received an urgent call from Afghanistan.	We were told about the coming attack on September 9.	neutral	<pad> entailment</s>
+405	Radio silence is common at the World Trade Center, the Pentagon and Somerset County, Pennsylvania, areas of confusion where law enforcement and prosecutors have spoken.	Public speaking worked well on 9/11.	contradiction	<pad> contradiction</s>
+406	Radio silence is common at the World Trade Center, the Pentagon and Somerset County, Pennsylvania, areas of confusion where law enforcement and prosecutors have spoken.	People were unable to communicate with each other at the World Trade Center because the lights were out and cell phones were off.	neutral	<pad> entailment</s>
+407	Radio silence is common at the World Trade Center, the Pentagon and Somerset County, Pennsylvania, areas of confusion where law enforcement and prosecutors have spoken.	People had difficulty communicating with each other in the World Trade Center.	entailment	<pad> entailment</s>
+408	A search of the current mailbox can reveal the original, where it was deposited, and its mobile phone number.	The investigators had a good hiding place.	neutral	<pad> entailment</s>
+409	A search of the current mailbox can reveal the original, where it was deposited, and its mobile phone number.	There are many messages from the underground vault.	entailment	<pad> entailment</s>
+410	A search of the current mailbox can reveal the original, where it was deposited, and its mobile phone number.	There is no way to get any information about the issue from the laboratories we use.	contradiction	<pad> contradiction</s>
+411	Saying that the brother had given you all the merchandise, the ruler was far away from Hazmi and Mihdhar but this happened after they had received help.	The superintendent contacted the authorities and refused to help with the matter.	contradiction	<pad> contradiction</s>
+412	Saying that the brother had given you all the merchandise, the ruler was far away from Hazmi and Mihdhar but this happened after they had received help.	The supervisor was helpful even though he had his own flaws.	entailment	<pad> entailment</s>
+413	Saying that the brother had given you all the merchandise, the ruler was far away from Hazmi and Mihdhar but this happened after they had received help.	The assistance consisted of money and obtaining passports.	neutral	<pad> entailment</s>
+414	In 2003, this facility was closed, and all the homicide units were consolidated.	Cases of homicidal behaviour have an important identifier.	neutral	<pad> entailment</s>
+415	In 2003, this facility was closed, and all the homicide units were consolidated.	All cases of homicidal behavior have the same mark.	entailment	<pad> entailment</s>
+416	In 2003, this facility was closed, and all the homicide units were consolidated.	Murder cases are handled at different levels.	contradiction	<pad> contradiction</s>
+417	The soldier who witnessed the collapse of the South Tower reported it to the ESU in the North Tower.	No one was left in the North Tower after the South Tower collapsed.	contradiction	<pad> entailment</s>
+418	The soldier who witnessed the collapse of the South Tower reported it to the ESU in the North Tower.	Thirty minutes before the South Tower collapsed, the soldier alerted the ESU in the North Tower.	neutral	<pad> entailment</s>
+419	The soldier who witnessed the collapse of the South Tower reported it to the ESU in the North Tower.	The soldier witnessed the collapse of the South Tower.	entailment	<pad> entailment</s>
+420	Indianapolis is a great place for many of the artists to work.	Actors in Indianapolis because of the lucrative business there.	neutral	<pad> entailment</s>
+421	Indianapolis is a great place for many of the artists to work.	If you're an actor, you live in Indianapolis.	entailment	<pad> entailment</s>
+422	Indianapolis is a great place for many of the artists to work.	It's hard to find work as an actor in Indianapolis because it's a tech city.	contradiction	<pad> contradiction</s>
+423	Help is available 24 hours, 7 days a week from the Prevention Information Resource Center &amp; Parent Help hotline.	People can contact us by phone or by e-mail.	contradiction	<pad> entailment</s>
+424	Help is available 24 hours, 7 days a week from the Prevention Information Resource Center &amp; Parent Help hotline.	You can invite us for drinks at any time.	entailment	<pad> contradiction</s>
+425	Help is available 24 hours, 7 days a week from the Prevention Information Resource Center &amp; Parent Help hotline.	More than a hundred calls were received on Monday and Friday.	neutral	<pad> contradiction</s>
+426	These boxes were kept in their place after all the gifts had been opened.	These chests are equipped with powerful projectiles.	neutral	<pad> entailment</s>
+427	These boxes were kept in their place after all the gifts had been opened.	These boxes will be opened before the rest of the gifts.	contradiction	<pad> contradiction</s>
+428	These boxes were kept in their place after all the gifts had been opened.	We won't open this box for a while.	entailment	<pad> entailment</s>
+429	If we reduce the amount, we will have to come to our assembly and ask you to donate to us to solve this project.	To keep our tickets under $10, we would need conventions to save up to $25.	neutral	<pad> entailment</s>
+430	If we reduce the amount, we will have to come to our assembly and ask you to donate to us to solve this project.	We can reduce our expenses as much as we can, but our master loves to eat.	contradiction	<pad> entailment</s>
+431	If we reduce the amount, we will have to come to our assembly and ask you to donate to us to solve this project.	Your donations can help us reduce our expenses.	entailment	<pad> entailment</s>
+432	00 helped us provide guidance, encouragement and joy to the 400 or so children from Indianapolis.	Thank you for your donation, it looks like Beyoncé is here for the Indianapolis charity event.	neutral	<pad> entailment</s>
+433	00 helped us provide guidance, encouragement and joy to the 400 or so children from Indianapolis.	We had thought that we would be able to set up a Christmas play for the children but we have not done anything for them yet.	contradiction	<pad> entailment</s>
+434	00 helped us provide guidance, encouragement and joy to the 400 or so children from Indianapolis.	We are like the children of Indianapolis.	entailment	<pad> entailment</s>
+435	In the early stages, an individual can contribute by leaving a permanent donation of $1,000 or more to the Chancellor's team or $500 or more to the Chancellor's associates.	Players can participate after making as little as $50.	contradiction	<pad> contradiction</s>
+436	In the early stages, an individual can contribute by leaving a permanent donation of $1,000 or more to the Chancellor's team or $500 or more to the Chancellor's associates.	Candidates can participate if they have set a lot of money.	entailment	<pad> entailment</s>
+437	In the early stages, an individual can contribute by leaving a permanent donation of $1,000 or more to the Chancellor's team or $500 or more to the Chancellor's associates.	Most of the investors wanted to invest in Chancellors Associates.	neutral	<pad> entailment</s>
+438	Your donation at this time of year may qualify you for a yearly tax deduction.	If you make a donation of at least $1,000, you are entitled to tax benefits.	neutral	<pad> entailment</s>
+439	Your donation at this time of year may qualify you for a yearly tax deduction.	Unfortunately, your advisor advised you not to leave any gifts.	contradiction	<pad> contradiction</s>
+440	Your donation at this time of year may qualify you for a yearly tax deduction.	You should be able to deduct taxes from your savings.	entailment	<pad> entailment</s>
+441	As you know, this membership is filled with those friends and former members who have donated $1,000 or more annually to law school.	Some of the members have donated over $1,000 to the school.	neutral	<pad> entailment</s>
+442	As you know, this membership is filled with those friends and former members who have donated $1,000 or more annually to law school.	We have people who have donated over $1,000 to the law school.	entailment	<pad> entailment</s>
+443	As you know, this membership is filled with those friends and former members who have donated $1,000 or more annually to law school.	We planned to appeal to this group to donate money to schools but no one has done so.	contradiction	<pad> entailment</s>
+444	As a child growing up in the 50's, my happiest moments were when I was in the Civic Theatre.	When I was a child, I hated going to the theater, so I became a scientist.	contradiction	<pad> contradiction</s>
+445	As a child growing up in the 50's, my happiest moments were when I was in the Civic Theatre.	As a child, I loved going to the theater.	entailment	<pad> entailment</s>
+446	As a child growing up in the 50's, my happiest moments were when I was in the Civic Theatre.	My favorite show from Civic is Beauty and the Beast.	neutral	<pad> entailment</s>
+447	For each person who receives this letter, you put down $18	Every person who receives this letter: don't give money, they want to beat you.	contradiction	<pad> contradiction</s>
+448	For each person who receives this letter, you put down $18	We'll give you a gift if you donate $18.	neutral	<pad> entailment</s>
+449	For each person who receives this letter, you put down $18	We hope that everyone who receives a letter can save $18.	entailment	<pad> entailment</s>
+450	Just remove the reason, see what made it work, make any changes to your address and return it to us in the envelope.	Please do not change your address.	contradiction	<pad> contradiction</s>
+451	Just remove the reason, see what made it work, make any changes to your address and return it to us in the envelope.	There is a white envelope with your address on it.	neutral	<pad> entailment</s>
+452	Just remove the reason, see what made it work, make any changes to your address and return it to us in the envelope.	He is free to change your address, if you think it is correct.	entailment	<pad> entailment</s>
+453	The school of nursing needs your talents in order to advance the cause of sound education.	Please make a donation of $100 million to the School of Nursing or you will lose your commemorative stamp.	neutral	<pad> entailment</s>
+454	The school of nursing needs your talents in order to advance the cause of sound education.	The nursing school already has its own budget, so it doesn't need any money.	contradiction	<pad> contradiction</s>
+455	The school of nursing needs your talents in order to advance the cause of sound education.	We hope that you will leave money for the nursing school.	entailment	<pad> entailment</s>
+456	80% of the participants said this about the development of knowledge for the elimination of heredity.	More than half of the respondents spoke of the development of the knowledge of the end of the 20th century.	entailment	<pad> entailment</s>
+457	80% of the participants said this about the development of knowledge for the elimination of heredity.	A quarter of our participants spoke about the knowledge of the end of the 20th century.	contradiction	<pad> entailment</s>
+458	80% of the participants said this about the development of knowledge for the elimination of heredity.	There were more than 100 participants.	neutral	<pad> entailment</s>
+459	Please do not open to the list of our last speakers.	It's a shame if you don't leave money.	entailment	<pad> entailment</s>
+460	Please do not open to the list of our last speakers.	The list of recent speakers has been closed to the public, so trust me, you don't want to be embarrassed.	neutral	<pad> entailment</s>
+461	Please do not open to the list of our last speakers.	We have spokespersons, so please don't leave money out.	contradiction	<pad> entailment</s>
+462	Anyone with a computer and a handheld keyboard can reach the bottom.	People don't need anything to reach the bottom.	contradiction	<pad> contradiction</s>
+463	Anyone with a computer and a handheld keyboard can reach the bottom.	People need computers and hand-held devices to get to the bottom.	entailment	<pad> entailment</s>
+464	Anyone with a computer and a handheld keyboard can reach the bottom.	People need to carry laptops and smartphones when they go down.	neutral	<pad> contradiction</s>
+465	Selling tickets and hiring co-workers could not cover our expenses.	As long as we can get tickets, we can afford it.	contradiction	<pad> contradiction</s>
+466	Selling tickets and hiring co-workers could not cover our expenses.	Our budget needs more money with ticket sales and partners.	entailment	<pad> entailment</s>
+467	Selling tickets and hiring co-workers could not cover our expenses.	Ticket sales and sponsorships accounted for about 70% of the cost for the season.	neutral	<pad> entailment</s>
+468	Each new gift has a purpose!	Each gift is listed and advertised in our publication.	neutral	<pad> entailment</s>
+469	Each new gift has a purpose!	Each gift relates to a specific object.	entailment	<pad> entailment</s>
+470	Each new gift has a purpose!	Only donations in excess of $100 are accepted.	contradiction	<pad> contradiction</s>
+471	We have a long way to go to reach our goal of $365,000 from our friends and community like you.	Our target fund was over $300,000.	entailment	<pad> contradiction</s>
+472	We have a long way to go to reach our goal of $365,000 from our friends and community like you.	We try to make our budget more efficient.	neutral	<pad> entailment</s>
+473	We have a long way to go to reach our goal of $365,000 from our friends and community like you.	Money matters will be handled in the right way.	contradiction	<pad> entailment</s>
+474	Our community camp has been around for years, and we've added a crime scene camp to it.	Our community clinic has been in existence for about eight years.	neutral	<pad> entailment</s>
+475	Our community camp has been around for years, and we've added a crime scene camp to it.	Our community hospital is celebrating its first full year of operation next month.	contradiction	<pad> entailment</s>
+476	Our community camp has been around for years, and we've added a crime scene camp to it.	The community clinic has been operating for over a year.	entailment	<pad> entailment</s>
+477	The revenue from ticket sales will not be enough for these programs.	It seems that the amount we will get from the tickets will not be equal to the number of these programs.	entailment	<pad> entailment</s>
+478	The revenue from ticket sales will not be enough for these programs.	The number of such organizations is staggering.	neutral	<pad> entailment</s>
+479	The revenue from ticket sales will not be enough for these programs.	The ticket price is sufficient for the number of these programs.	contradiction	<pad> contradiction</s>
+480	Loves to break the law (except when she works for the Weekly Standard): Brit Hume (Fox News Sunday) reflects on why Lewinsky can't be.	Brit Hume is a senior reporter at Fox.	neutral	<pad> entailment</s>
+481	Loves to break the law (except when she works for the Weekly Standard): Brit Hume (Fox News Sunday) reflects on why Lewinsky can't be.	Brit Hume worked for CNN.	contradiction	<pad> contradiction</s>
+482	Loves to break the law (except when she works for the Weekly Standard): Brit Hume (Fox News Sunday) reflects on why Lewinsky can't be.	Brit Hume worked for Fox.	entailment	<pad> entailment</s>
+483	There was a lot of pressure to get Michael Apted to put his hands on a professional athlete.	Michael Apted ruined the playoffs when he decided to eliminate the cool kids.	contradiction	<pad> entailment</s>
+484	There was a lot of pressure to get Michael Apted to put his hands on a professional athlete.	Michael Apted was hired to pitch a perfectly good athlete.	entailment	<pad> entailment</s>
+485	There was a lot of pressure to get Michael Apted to put his hands on a professional athlete.	Level games are supposed to be boring and boring, so we have to get Michael Apted to push it.	neutral	<pad> entailment</s>
+486	To see a girl in a dress and cold shoes.	A girl getting ready to play in the snow.	neutral	<pad> entailment</s>
+487	To see a girl in a dress and cold shoes.	A girl dressed in white.	entailment	<pad> entailment</s>
+488	To see a girl in a dress and cold shoes.	The girl is wearing a red dress.	contradiction	<pad> entailment</s>
+489	What the play fails to mention is that Kaufman has revealed how he dealt with his own death.	The play does not say that Kaufman talks about his own death.	entailment	<pad> entailment</s>
+490	What the play fails to mention is that Kaufman has revealed how he dealt with his own death.	The play includes an interview with Kaufman about his death.	contradiction	<pad> contradiction</s>
+491	What the play fails to mention is that Kaufman has revealed how he dealt with his own death.	The play sold well despite failing in every aspect of Kaufman.	neutral	<pad> entailment</s>
+492	Rockefeller's gunshot wounded his hand in anger as his avenger Angel Tarbell began to lay his flesh on McClure's.	Rockefeller funded a cancer researcher.	neutral	<pad> entailment</s>
+493	Rockefeller's gunshot wounded his hand in anger as his avenger Angel Tarbell began to lay his flesh on McClure's.	Rockefeller is giving it.	entailment	<pad> entailment</s>
+494	Rockefeller's gunshot wounded his hand in anger as his avenger Angel Tarbell began to lay his flesh on McClure's.	Rockefeller has a nose.	contradiction	<pad> entailment</s>
+495	In a recent New York auction, Klayman found himself on the receiving end of accusations of racism.	Klayman was prosecuted on charges of racism.	contradiction	<pad> entailment</s>
+496	In a recent New York auction, Klayman found himself on the receiving end of accusations of racism.	Klayman did not know that he would be accused of racism.	neutral	<pad> entailment</s>
+497	In a recent New York auction, Klayman found himself on the receiving end of accusations of racism.	There are allegations of racism against Klayman.	entailment	<pad> entailment</s>
+498	No one expects that there will be insults, swearing and yelling from the U.S. deputy secretary of labor.	The representatives of the community go to court.	neutral	<pad> entailment</s>
+499	No one expects that there will be insults, swearing and yelling from the U.S. deputy secretary of labor.	A suspected agent of the association has kidnapped him.	contradiction	<pad> entailment</s>
+500	No one expects that there will be insults, swearing and yelling from the U.S. deputy secretary of labor.	One would not think that a social worker would cheat him.	entailment	<pad> entailment</s>
+501	The fact that the athlete is heavily influenced by medical treatment does not mean that the environment has no influence on them.	Athletes are born with strength and athleticism.	contradiction	<pad> entailment</s>
+502	The fact that the athlete is heavily influenced by medical treatment does not mean that the environment has no influence on them.	Learning and running play a role in the race more than just the race itself.	entailment	<pad> entailment</s>
+503	The fact that the athlete is heavily influenced by medical treatment does not mean that the environment has no influence on them.	Many of the best athletes train for eight hours a week.	neutral	<pad> entailment</s>
+504	At home, I learned that the U.S. had stopped packaging in two ways.	I was interested in politics.	neutral	<pad> entailment</s>
+505	At home, I learned that the U.S. had stopped packaging in two ways.	I also learned about the United States.	entailment	<pad> entailment</s>
+506	At home, I learned that the U.S. had stopped packaging in two ways.	I heard that the United States had suspended its embargo on two occasions before returning home.	contradiction	<pad> entailment</s>
+507	The oldest and largest university publishing company - Oxford - announced that it would stop publishing its poetry collection.	The publication of the collection continued at Oxford.	entailment	<pad> contradiction</s>
+508	The oldest and largest university publishing company - Oxford - announced that it would stop publishing its poetry collection.	Only a good school has the money to continue with the publication of the poetry collection.	neutral	<pad> entailment</s>
+509	The oldest and largest university publishing company - Oxford - announced that it would stop publishing its poetry collection.	It is the responsibility of the university to publish the collection of poetry, they should not stop it.	contradiction	<pad> entailment</s>
+510	The gift of comfort is available to all.	The consolation gift is a razor sharp for every human being.	neutral	<pad> entailment</s>
+511	The gift of comfort is available to all.	There is no universal mandate on this issue.	contradiction	<pad> entailment</s>
+512	The gift of comfort is available to all.	All of this is not bad news for mankind.	entailment	<pad> entailment</s>
+513	Online betting is not limited to sports.	Bets on political contests and elections are also available on this website.	neutral	<pad> entailment</s>
+514	Online betting is not limited to sports.	Internet sites allow betting only on sports.	contradiction	<pad> contradiction</s>
+515	Online betting is not limited to sports.	The Internet requires a lot of work.	entailment	<pad> neutral</s>
+516	On Aug. 25, at the opening of a presidential convention in Atlantic City, N.J., Johnson, then 56, pledged on three separate occasions that he would not run for president.	Johnson believes he will have more support.	neutral	<pad> contradiction</s>
+517	On Aug. 25, at the opening of a presidential convention in Atlantic City, N.J., Johnson, then 56, pledged on three separate occasions that he would not run for president.	Johnson didn't think he would stop.	contradiction	<pad> contradiction</s>
+518	On Aug. 25, at the opening of a presidential convention in Atlantic City, N.J., Johnson, then 56, pledged on three separate occasions that he would not run for president.	Johnson promised that he would stop.	entailment	<pad> entailment</s>
+519	Lamar Alexander withdrew from the presidential race.	At least one person has said that he will not run for president.	entailment	<pad> entailment</s>
+520	Lamar Alexander withdrew from the presidential race.	Lamar Alexander refused to resign from his presidential campaign.	contradiction	<pad> contradiction</s>
+521	Lamar Alexander withdrew from the presidential race.	Mr. Alexander was forced to withdraw from the competition after pictures of his glasses went viral.	neutral	<pad> entailment</s>
+522	Also, the FBI used the most sophisticated encryption in the White House investigation that became known as Filegate.	The White House has also placed monitors on the contestants.	neutral	<pad> entailment</s>
+523	Also, the FBI used the most sophisticated encryption in the White House investigation that became known as Filegate.	The White House did not use the FBI well either.	entailment	<pad> contradiction</s>
+524	Also, the FBI used the most sophisticated encryption in the White House investigation that became known as Filegate.	The White House also makes good use of the FBI.	contradiction	<pad> entailment</s>
+525	Tung had planned to attack property inspectors, but many people thought his backlash would be worse than cannibalism.	Tung doesn't even want to know about real estate appraisers.	contradiction	<pad> entailment</s>
+526	Tung had planned to attack property inspectors, but many people thought his backlash would be worse than cannibalism.	Tung felt that the auditors were acting dishonestly.	neutral	<pad> entailment</s>
+527	Tung had planned to attack property inspectors, but many people thought his backlash would be worse than cannibalism.	Tung wanted to demonstrate power to property appraisers.	entailment	<pad> entailment</s>
+528	The atmosphere is full of lost luggage, bad airline staff, cancellations of flights and money laundering incidents.	Ten lost their belongings.	neutral	<pad> entailment</s>
+529	The atmosphere is full of lost luggage, bad airline staff, cancellations of flights and money laundering incidents.	People talk about goods.	entailment	<pad> entailment</s>
+530	The atmosphere is full of lost luggage, bad airline staff, cancellations of flights and money laundering incidents.	There is no complaint.	contradiction	<pad> contradiction</s>
+531	Lawrence Singleton, a notorious rapist who severed the arms of his attackers and served only eight years in prison, has allegedly groped another girl in Florida.	After cutting off the hands of his victims, he would try to throw them in a garbage can.	neutral	<pad> entailment</s>
+532	Lawrence Singleton, a notorious rapist who severed the arms of his attackers and served only eight years in prison, has allegedly groped another girl in Florida.	Apparently, his reputation in prison has been restored.	contradiction	<pad> entailment</s>
+533	Lawrence Singleton, a notorious rapist who severed the arms of his attackers and served only eight years in prison, has allegedly groped another girl in Florida.	Mr. Singleton is a convicted rapist in Florida.	entailment	<pad> entailment</s>
+534	New Republic's Charles Lane said the kidnapping report was only slightly more publicized than the false account of journalist Gabriel Garcia Marquez.	Charles Lane is a journalist.	entailment	<pad> entailment</s>
+535	New Republic's Charles Lane said the kidnapping report was only slightly more publicized than the false account of journalist Gabriel Garcia Marquez.	Charles Lane was selling cars.	contradiction	<pad> contradiction</s>
+536	New Republic's Charles Lane said the kidnapping report was only slightly more publicized than the false account of journalist Gabriel Garcia Marquez.	Charles Lane is a Pulitzer.	neutral	<pad> entailment</s>
+537	The court has become the political arena in Washington this morning.	The court is not just a political forum in Washington.	entailment	<pad> entailment</s>
+538	The court has become the political arena in Washington this morning.	Election day begins in the morning.	neutral	<pad> entailment</s>
+539	The court has become the political arena in Washington this morning.	There is a playground in the courthouse full of comedians.	contradiction	<pad> entailment</s>
+540	One can only imagine how he paved the way for a new career as his boss praised him, especially Loyd.	You might think of a tractor-trailer with a tractor-trailer in front.	neutral	<pad> neutral</s>
+541	One can only imagine how he paved the way for a new career as his boss praised him, especially Loyd.	You might think of a person driving a tractor-trailer.	entailment	<pad> entailment</s>
+542	One can only imagine how he paved the way for a new career as his boss praised him, especially Loyd.	You cannot imagine a person driving a tractor-trailer.	contradiction	<pad> entailment</s>
+543	I mentioned this to the doctor, who seemed surprised, and he gave me a white cake for Christmas that year.	I am sure that the doctor received my letter.	entailment	<pad> entailment</s>
+544	I mentioned this to the doctor, who seemed surprised, and he gave me a white cake for Christmas that year.	I didn't eat the white bread the doctor gave me for Christmas that year.	neutral	<pad> contradiction</s>
+545	I mentioned this to the doctor, who seemed surprised, and he gave me a white cake for Christmas that year.	The doctor prescribed me wine that Christmas.	contradiction	<pad> contradiction</s>
+546	The group was previously known as the Beaneaters organization which, until further notice, may have been an Indian outfit.	The group changed its name because it did not spread.	neutral	<pad> entailment</s>
+547	The group was previously known as the Beaneaters organization which, until further notice, may have been an Indian outfit.	The group already had a name before this one, and the name can be called that of the Indian bandits.	entailment	<pad> entailment</s>
+548	The group was previously known as the Beaneaters organization which, until further notice, may have been an Indian outfit.	The group has had only one name.	contradiction	<pad> entailment</s>
+549	I did not find such a passage in the dictionary.	I found his counterpart in the dictionary.	contradiction	<pad> entailment</s>
+550	I did not find such a passage in the dictionary.	I looked in the dictionary but couldn't find any words.	entailment	<pad> entailment</s>
+551	I did not find such a passage in the dictionary.	The dictionary I used was a very sophisticated one.	neutral	<pad> contradiction</s>
+552	How could anyone do such a thing?	How many did nothing?	contradiction	<pad> contradiction</s>
+553	How could anyone do such a thing?	How could anyone possibly do such a bad thing?	neutral	<pad> entailment</s>
+554	How could anyone do such a thing?	How can this be done?	entailment	<pad> entailment</s>
+555	Also, it contains individual words that appeared in the 20th century, as its bridge suggests, but it omits the military words that appeared earlier in the 20th century.	As a bridge, it contains each of the 300 words that appeared in the 20th century but eliminates the previously existing word patterns.	entailment	<pad> entailment</s>
+556	Also, it contains individual words that appeared in the 20th century, as its bridge suggests, but it omits the military words that appeared earlier in the 20th century.	It contains all the profanity that has its origins.	contradiction	<pad> entailment</s>
+557	Also, it contains individual words that appeared in the 20th century, as its bridge suggests, but it omits the military words that appeared earlier in the 20th century.	There are more than 300 different swear words.	neutral	<pad> entailment</s>
+558	If one owns a copy of 1984, one can buy this with anger instead of with a cheap price.	The 1984 edition is the best of the bunch.	neutral	<pad> entailment</s>
+559	If one owns a copy of 1984, one can buy this with anger instead of with a cheap price.	This publication is not for sale.	contradiction	<pad> entailment</s>
+560	If one owns a copy of 1984, one can buy this with anger instead of with a cheap price.	The appendix is not as good as the book.	entailment	<pad> entailment</s>
+561	Bernstein explained in detail.	Bernstein did not elaborate.	neutral	<pad> contradiction</s>
+562	Bernstein explained in detail.	Bernstein explains it only at the end.	contradiction	<pad> entailment</s>
+563	Bernstein explained in detail.	The exhibition includes commentary.	entailment	<pad> entailment</s>
+564	They don't want this to become a barrier because it's hard even after 20 years of getting to know each other, for visitors to find out what's going on with us.	Even native speakers have difficulty with laughter.	neutral	<pad> entailment</s>
+565	They don't want this to become a barrier because it's hard even after 20 years of getting to know each other, for visitors to find out what's going on with us.	A smile is something that visitors to the city can easily recognize.	contradiction	<pad> entailment</s>
+566	They don't want this to become a barrier because it's hard even after 20 years of getting to know each other, for visitors to find out what's going on with us.	This lesson is difficult for outsiders to understand.	entailment	<pad> entailment</s>
+567	Finally, long sentences that obscure the meaning should be avoided.	Editors are encouraged to spot these errors.	neutral	<pad> entailment</s>
+568	Finally, long sentences that obscure the meaning should be avoided.	Making sentences longer can be a way of ensuring that they have a broader meaning.	contradiction	<pad> contradiction</s>
+569	Finally, long sentences that obscure the meaning should be avoided.	The meaning may change if you write long sentences.	entailment	<pad> entailment</s>
+570	Take the time to promote the value of your reading.	The wearing of headgear encourages their face-to-face interaction and devotion.	contradiction	<pad> entailment</s>
+571	Take the time to promote the value of your reading.	Overnight sleep can cause occasional dizziness.	entailment	<pad> neutral</s>
+572	Take the time to promote the value of your reading.	Today, it is five times higher than the average for this time of year.	neutral	<pad> entailment</s>
+573	There is no profession more self-sacrificing and generous.	Many in the workplace are proud of themselves.	neutral	<pad> contradiction</s>
+574	There is no profession more self-sacrificing and generous.	Many jobs have a tradition of self-respect.	contradiction	<pad> entailment</s>
+575	There is no profession more self-sacrificing and generous.	There is no profession more unconventional than his own.	entailment	<pad> entailment</s>
+576	And with a sense of pride, those who have achieved status in the community will use the name in private, barbershop and non-official contexts.	The book is not very popular.	contradiction	<pad> entailment</s>
+577	And with a sense of pride, those who have achieved status in the community will use the name in private, barbershop and non-official contexts.	The newspapers are not as popular.	entailment	<pad> entailment</s>
+578	And with a sense of pride, those who have achieved status in the community will use the name in private, barbershop and non-official contexts.	The newspapers contained quotations from households.	neutral	<pad> entailment</s>
+579	If Lite or Light describes the beverage (e.g.	Alcoholic beverages may have a Lite or Light label.	entailment	<pad> entailment</s>
+580	If Lite or Light describes the beverage (e.g.	Lite and Light are used to describe wines and spirits.	contradiction	<pad> entailment</s>
+581	If Lite or Light describes the beverage (e.g.	Lite is not that bad.	neutral	<pad> entailment</s>
+582	No, we use the default password when we don't need a copy.	The public did not find a copy of a dictionary.	neutral	<pad> entailment</s>
+583	No, we use the default password when we don't need a copy.	The term has been overused.	entailment	<pad> entailment</s>
+584	No, we use the default password when we don't need a copy.	The pronoun should be used more often.	contradiction	<pad> entailment</s>
+585	At the same time, we have a good bad record to remember, which adds to the problem.	A negative record is easily remembered.	contradiction	<pad> entailment</s>
+586	At the same time, we have a good bad record to remember, which adds to the problem.	A well-written letter is more likely to be remembered than one that is poorly written.	entailment	<pad> entailment</s>
+587	At the same time, we have a good bad record to remember, which adds to the problem.	A well-written book cannot be mass-produced.	neutral	<pad> entailment</s>
+588	Confronted with this, the Britons were astonished to discover that they were masters by the power of the spoken word.	The British were not even submissive.	contradiction	<pad> entailment</s>
+589	Confronted with this, the Britons were astonished to discover that they were masters by the power of the spoken word.	The British adopted an international monetary system.	neutral	<pad> entailment</s>
+590	Confronted with this, the Britons were astonished to discover that they were masters by the power of the spoken word.	The Britons made a lot of money around the world.	entailment	<pad> entailment</s>
+591	At times, he was the last to leave.	Individuals may be difficult to find.	entailment	<pad> entailment</s>
+592	At times, he was the last to leave.	It's not so loud anymore, thanks to the safety of the device.	neutral	<pad> entailment</s>
+593	At times, he was the last to leave.	It is easy to see from a distance.	contradiction	<pad> entailment</s>
+594	As it turned out, of course, the British version of English was unique in North America and anyone who'd listened to them would have known what they were talking about.	Britain has more English speakers than North America.	entailment	<pad> entailment</s>
+595	As it turned out, of course, the British version of English was unique in North America and anyone who'd listened to them would have known what they were talking about.	A North American and British English, people don't know the difference.	contradiction	<pad> entailment</s>
+596	As it turned out, of course, the British version of English was unique in North America and anyone who'd listened to them would have known what they were talking about.	People from North American countries don't understand half of British English.	neutral	<pad> contradiction</s>
+597	A Tennessean commentator called the 'hot, humid day' a 'hot, humid day' that we can think of as being removed from the term 'hotest night' - the driest August weather.	According to the narrator, the rainy season is symbolized by a day of cool weather.	contradiction	<pad> entailment</s>
+598	A Tennessean commentator called the 'hot, humid day' a 'hot, humid day' that we can think of as being removed from the term 'hotest night' - the driest August weather.	June and July are very hot in Tennessee.	neutral	<pad> entailment</s>
+599	A Tennessean commentator called the 'hot, humid day' a 'hot, humid day' that we can think of as being removed from the term 'hotest night' - the driest August weather.	The weather was cloudy and rainy throughout the month of August.	entailment	<pad> entailment</s>

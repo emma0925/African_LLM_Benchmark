@@ -1,0 +1,601 @@
+premise,hypothesis,label
+"C'est vrai, je n'y avais pas pensé avant, mais j'ai eu du mal à lui parler.",je ne lui ai plus parlé,contradiction
+"C'est vrai, je n'y avais pas pensé avant, mais j'ai eu du mal à lui parler.",J'étais surpris d'avoir fini de lui parler,entailment
+"C'est vrai, je n'y avais pas pensé avant, mais j'ai eu du mal à lui parler.",nous avons beaucoup parlé,neutral
+"On m'a dit: 'Dans ta prison, on va me conduire avec un homme pour que j'aille le voir.'",personne ne peut me dire que je rencontre quelqu'un,contradiction
+"On m'a dit: 'Dans ta prison, on va me conduire avec un homme pour que j'aille le voir.'",on m'a dit qu'on avait appelé un groupe pour que je puisse le rencontrer,entailment
+"On m'a dit: 'Dans ta prison, on va me conduire avec un homme pour que j'aille le voir.'",l'homme n'était pas arrivé à l'heure,neutral
+il y a tellement de choses que je ne peux pas vous dire à distance,je voulais vous dire tout ce que je savais à ce sujet,contradiction
+il y a tellement de choses que je ne peux pas vous dire à distance,Je ne dis pas cela parce qu'il y a beaucoup de gens qui m'accusent.,entailment
+il y a tellement de choses que je ne peux pas vous dire à distance,je ne parle pas de la communauté locale car il y a beaucoup à dire,neutral
+alors je ne sais pas vraiment ce que c'est,je sais ce qui l'a fait,contradiction
+alors je ne sais pas vraiment ce que c'est,je ne sais pas pourquoi il a changé d'école,neutral
+alors je ne sais pas vraiment ce que c'est,je ne sais pas pourquoi,entailment
+je n'ai pas pu m'assurer qu'on appliquerait la méthode de mesure dans les chambres inférieures,je ne voulais pas être le seul à utiliser l'appareil de mesure pour les sites,neutral
+je n'ai pas pu m'assurer qu'on appliquerait la méthode de mesure dans les chambres inférieures,les toilettes des chambres inférieures l'ont étouffé,entailment
+je n'ai pas pu m'assurer qu'on appliquerait la méthode de mesure dans les chambres inférieures,"Certains ont vu d'une part nos faons de faire et d'autre part notre façon d'agir. De cette faon, ils nous ont donn l'occasion de parler avec des gens qui ne connaissent pas Dieu.",contradiction
+"comme le dit Rick, j'étais un grand chef d'état-major",je travaille toute la journée,contradiction
+"comme le dit Rick, j'étais un grand chef d'état-major","En 2002, je suis devenue actrice.",neutral
+"comme le dit Rick, j'étais un grand chef d'état-major",Rick t'a-t-il dit à quel point je suis déprimé?,entailment
+"il y a des copies dans mon bureau, oui, c'est celle de ce client Cutty",le client Cutty gagne 10 000 $ par mois,neutral
+"il y a des copies dans mon bureau, oui, c'est celle de ce client Cutty",il a un client qui s'appelle Cutty,entailment
+"il y a des copies dans mon bureau, oui, c'est celle de ce client Cutty",nous n'avons pas de client nommé Cutty,contradiction
+la fille que je peux aider est à côté,la fille dont j'ai besoin est loin d'ici,entailment
+la fille que je peux aider est à côté,la fille que j'aide habite à environ mille kilomètres,neutral
+la fille que je peux aider est à côté,il n'y a personne pour m'aider,contradiction
+mais il y a eu des conflits entre les criminels et les membres de la famille,qu'ils travaillent tous ensemble dans les champs,contradiction
+mais il y a eu des conflits entre les criminels et les membres de la famille,Ils discutent entre eux pour savoir qui est le chef et qui est le propritaire de la maison.,entailment
+mais il y a eu des conflits entre les criminels et les membres de la famille,Ils ne parvinrent pas à trouver un accord entre ceux qui devaient occuper le siège et ceux qui devaient occuper les portes.,neutral
+"je veux dire que nous n'avons pas cinq enfants, l'un est mort",tous les enfants vivent,contradiction
+"je veux dire que nous n'avons pas cinq enfants, l'un est mort",un enfant sur cinq décède,entailment
+"je veux dire que nous n'avons pas cinq enfants, l'un est mort",l'enfant décédé est né avec la fièvre,neutral
+ses larmes se sont mises à couler quand il a dit que c'était Joe qui était arrivé au porche,"alors il parlait en montant le siège, ses yeux s'éclairaient",entailment
+ses larmes se sont mises à couler quand il a dit que c'était Joe qui était arrivé au porche,il s'est précipité dans ses larmes en sortant Joe du porche,contradiction
+ses larmes se sont mises à couler quand il a dit que c'était Joe qui était arrivé au porche,Elle est tellement contente de voir Joe qu'elle finit par pleurer.,neutral
+"si l'huile est toujours en ébullition, pourquoi est-ce qu'elle est en ébullition ou est-ce qu'elle est en ébullition dans un noyau de polymère pour échapper",l'appareil peut survivre à la combustion,neutral
+"si l'huile est toujours en ébullition, pourquoi est-ce qu'elle est en ébullition ou est-ce qu'elle est en ébullition dans un noyau de polymère pour échapper",l'appareil d'évacuation a échappé à la pollution causée par la chute du pétrole,entailment
+"si l'huile est toujours en ébullition, pourquoi est-ce qu'elle est en ébullition ou est-ce qu'elle est en ébullition dans un noyau de polymère pour échapper",l'outil d'interprétation ne peut pas survivre si la langue commence,contradiction
+"C'est Clem Francis, un officier de l'armée de l'air américaine.",Le chef de l'armée de l'air des États-Unis,entailment
+"C'est Clem Francis, un officier de l'armée de l'air américaine.",le chef n'a fait l'objet d'une enquête que ces dernières semaines,neutral
+"C'est Clem Francis, un officier de l'armée de l'air américaine.",le chef de l'armée américaine a récemment entamé son mandat,contradiction
+"oui, le moment est venu de savoir que nous sommes arrivés deux ou trois jours par semaine, je ne savais pas quand nous serions arrivés",moins d'un carburant arrivera la semaine suivante,entailment
+"oui, le moment est venu de savoir que nous sommes arrivés deux ou trois jours par semaine, je ne savais pas quand nous serions arrivés",la quantité d'huile est très faible,neutral
+"oui, le moment est venu de savoir que nous sommes arrivés deux ou trois jours par semaine, je ne savais pas quand nous serions arrivés",il n'y a pas de pétrole qui arrive,contradiction
+nous avons même eu une formation pour piloter l'appareil mais il a fallu un peu de temps,il faudra trois mois pour terminer l'apprentissage de l'utilisation de l'équipement aérien,neutral
+nous avons même eu une formation pour piloter l'appareil mais il a fallu un peu de temps,la période d'entraînement pour maîtriser l'utilisation de l'équipement d'ascension est longue,entailment
+nous avons même eu une formation pour piloter l'appareil mais il a fallu un peu de temps,"nous pouvons vous entraîner pour que vous puissiez utiliser, ici et la nuit, le vêtement pour monter dans le ciel",contradiction
+je veux dire qu'il n'y a rien de réel dans le fait d'être à l'intérieur de l'escalier car il n'est pas à l'intérieur et comment il peut être à l'intérieur du sol,le salaire est payé par le cavalier,neutral
+je veux dire qu'il n'y a rien de réel dans le fait d'être à l'intérieur de l'escalier car il n'est pas à l'intérieur et comment il peut être à l'intérieur du sol,la lampe n'était pas allumée,entailment
+je veux dire qu'il n'y a rien de réel dans le fait d'être à l'intérieur de l'escalier car il n'est pas à l'intérieur et comment il peut être à l'intérieur du sol,la bouteille était sur la bonne voie,contradiction
+comment ça ressemble à ce que j'essaie de faire,je ne sais pas ce que tu penses de moi,contradiction
+comment ça ressemble à ce que j'essaie de faire,c'est ce que j'essaie de faire,entailment
+comment ça ressemble à ce que j'essaie de faire,j'essaie de terminer mon projet pour la semaine prochaine,neutral
+"mais les animaux eux-mêmes échapperont aux attaques, en particulier les oiseaux",ils se sont battus pour la paix,neutral
+"mais les animaux eux-mêmes échapperont aux attaques, en particulier les oiseaux",les oiseaux faisaient des efforts pour survivre,entailment
+"mais les animaux eux-mêmes échapperont aux attaques, en particulier les oiseaux",les oiseaux ont été enterrés à l'extérieur,contradiction
+la porte est fermée à l'entrée,toutes les portes étaient fermées,contradiction
+la porte est fermée à l'entrée,nous avons envoyé des messages,neutral
+la porte est fermée à l'entrée,nous sommes entrés mais les portes étaient verrouillées,entailment
+"Donc, j'ai tout rassemblé et j'ai essayé de le faire en forme de statue",je suis convaincu que je n'ai pas besoin d'autre chose que d'une réunion pour pouvoir voter pour des candidats,neutral
+"Donc, j'ai tout rassemblé et j'ai essayé de le faire en forme de statue","je ne sais pas quoi faire des réunions, tu peux m'expliquer pour que ce soit plus clair",contradiction
+"Donc, j'ai tout rassemblé et j'ai essayé de le faire en forme de statue",je ne vais pas me reposer sur les racines,entailment
+et c'est principalement dû au fait que les mères utilisent le cinéma,les mères sont des cinéphiles,neutral
+et c'est principalement dû au fait que les mères utilisent le cinéma,"les mères de famille n'ont pas de règles, je ne parle pas d'arbres",contradiction
+et c'est principalement dû au fait que les mères utilisent le cinéma,les mères utilisent le cinéma,entailment
+Tu es d'accord avec ce qui est bon?,la pluie m'a fait mal,neutral
+Tu es d'accord avec ce qui est bon?,il est beau sous la pluie,entailment
+Tu es d'accord avec ce qui est bon?,avec du levain et du pain sans levain.,contradiction
+"quel est le sens de la vie humaine, si tu peux ressusciter quelqu'un ou pas",Tout le monde doit pouvoir se libérer du cinéma et s'orienter vers une nouvelle vie.,neutral
+"quel est le sens de la vie humaine, si tu peux ressusciter quelqu'un ou pas",il n'y a pas d'humain à nourrir,contradiction
+"quel est le sens de la vie humaine, si tu peux ressusciter quelqu'un ou pas","au-delà de la mort, la vie vaut le coup",entailment
+vous avez du mal à penser correctement,je n'arrive pas à trouver le rouleau du fichier aussi compliqué,neutral
+vous avez du mal à penser correctement,le rouleau du fichier n'est pas compliqué,contradiction
+vous avez du mal à penser correctement,il y a un problème causé par ce phénomène surprenant,entailment
+il ne ressemble à rien. oui. je trouve ça surprenant qu'il ait accepté que tout soit fait pour lui,comment il a appris à ne rien faire,contradiction
+il ne ressemble à rien. oui. je trouve ça surprenant qu'il ait accepté que tout soit fait pour lui,Je suis dégoûté de ce qu'il vous a laissés prendre ici au milieu de la nourriture et de la boisson.,neutral
+il ne ressemble à rien. oui. je trouve ça surprenant qu'il ait accepté que tout soit fait pour lui,expliquez-moi comment ils sont sortis,entailment
+"oh bonjour et tout, mes enfants ont 21 ans et 22 ans, maintenant je ne suis pas obligé",je n'en ai pas besoin parce que mes enfants ont plus de 20 ans,entailment
+"oh bonjour et tout, mes enfants ont 21 ans et 22 ans, maintenant je ne suis pas obligé",vous ne pouvez pas me voir parce que votre jugement est proche.,neutral
+"oh bonjour et tout, mes enfants ont 21 ans et 22 ans, maintenant je ne suis pas obligé",il faut faire la même chose qu'avec les douze et les onze,contradiction
+"oui, ce sont ces gens qui seraient à la tête de la loi quand ils seront là. Tu sais comment ils pourraient obscurcir leurs décisions s'ils l'avaient prise comme ils le devaient.","oui, il y a des gens que tu connais qui ne veulent peut-être pas prendre les meilleures décisions",entailment
+"oui, ce sont ces gens qui seraient à la tête de la loi quand ils seront là. Tu sais comment ils pourraient obscurcir leurs décisions s'ils l'avaient prise comme ils le devaient.","oui, les gens que tu connais ne peuvent pas avoir faim",neutral
+"oui, ce sont ces gens qui seraient à la tête de la loi quand ils seront là. Tu sais comment ils pourraient obscurcir leurs décisions s'ils l'avaient prise comme ils le devaient.","Oui, les gens dont tu connais l'esprit d'entreprise ne peuvent pas compter",contradiction
+"Ils n'étaient pas encore arrivés, ils étaient partis à la fin de l'an 1100.",ils se sont mariés lors d'un voyage à l'ouest dans les années 1970,entailment
+"Ils n'étaient pas encore arrivés, ils étaient partis à la fin de l'an 1100.",ils aiment les voyages d'affaires,neutral
+"Ils n'étaient pas encore arrivés, ils étaient partis à la fin de l'an 1100.",ils viennent de terminer leur voyage de noces,contradiction
+que pensez-vous de l'entraînement quand vous vous entraînez avec un muscle,vous pouvez facilement oublier ce que vous pensiez de l'exercice physique lorsque vous faites de l'exercice physique avec du muscle,entailment
+que pensez-vous de l'entraînement quand vous vous entraînez avec un muscle,l'entraînement des athlètes physiques me demande si je dois m'entraîner pour garder mon cœur,neutral
+que pensez-vous de l'entraînement quand vous vous entraînez avec un muscle,ne vous inquiétez pas de cette partie de l'entraînement.,contradiction
+"oui, si c'est une bonne femme, je n'ai pas pensé à ça, oui",c'est une mauvaise pensée qui dégoûte le jour,contradiction
+"oui, si c'est une bonne femme, je n'ai pas pensé à ça, oui",c'est une bonne note,entailment
+"oui, si c'est une bonne femme, je n'ai pas pensé à ça, oui",la critique de ce que tu appelles une bonne note,neutral
+Le service de garde d'animaux pour enfants organise deux séances hebdomadaires de garde d'animaux pour adultes dans le cadre du service réservé aux personnes âgées.,"la salle des gardes n'est pas surveillée quotidiennement, mais seulement par des gardiens.",contradiction
+Le service de garde d'animaux pour enfants organise deux séances hebdomadaires de garde d'animaux pour adultes dans le cadre du service réservé aux personnes âgées.,Il est préférable de les laisser sortir plus de deux fois par semaine en fonction de l'état de santé des adultes.,neutral
+Le service de garde d'animaux pour enfants organise deux séances hebdomadaires de garde d'animaux pour adultes dans le cadre du service réservé aux personnes âgées.,"C'est le grand temple du temple. Mais ce qu'on appelle ""le temple des anciens "", c'est le temple des anciens.",entailment
+c'est leur illa oh,c'est ce qu'ils ont essayé de faire,entailment
+c'est leur illa oh,ce n'était peut-être pas ce qu'ils voulaient,contradiction
+c'est leur illa oh,ils ont accompli leur vœu,neutral
+le nombre de fois où les deux personnes sont mortes,toute partie de la composition du foetus qui n'est pas due à la fabrication d'une seule main,neutral
+le nombre de fois où les deux personnes sont mortes,la meilleure façon d'être un artiste est d'être à deux pattes,contradiction
+le nombre de fois où les deux personnes sont mortes,Vous devez utiliser vos deux jambes si vous voulez qu'elles soient utilisées pour le traitement du foetus.,entailment
+"et même si c'est le cas, je ne sais pas ce que c'est","je ne sais pas d'où ça vient, c'est trop tôt",entailment
+"et même si c'est le cas, je ne sais pas ce que c'est",il est venu vite et je ne sais pas quand,neutral
+"et même si c'est le cas, je ne sais pas ce que c'est",il arrive comme prévu et on ne sait pas exactement quand il arrivera,contradiction
+"non, parce que je ne le connais pas, je ne le connais pas",Je ne sais pas ce que c'est,entailment
+"non, parce que je ne le connais pas, je ne le connais pas",mes connaissances ne sont pas complètes,neutral
+"non, parce que je ne le connais pas, je ne le connais pas",je l'étudie à plusieurs reprises,contradiction
+"oui, elle était une bonne femme",je pense qu'il savait qu'elle était une bonne femme,neutral
+"oui, elle était une bonne femme","non, c'était une femme méchante",contradiction
+"oui, elle était une bonne femme","oui, il était très intelligent",entailment
+"oui, il lui conseille de prendre un euphémisme, une pompe à chaleur qui fonctionne",il lui conseille d'acheter un appareil anti-tireurs,contradiction
+"oui, il lui conseille de prendre un euphémisme, une pompe à chaleur qui fonctionne",lui conseille d'acheter une pompe à bois,entailment
+"oui, il lui conseille de prendre un euphémisme, une pompe à chaleur qui fonctionne",il voulait pomper le doigt et le poignet,neutral
+"c'était très difficile, nous avons acheté des chaussures pour la cuisine de trois pieds de notre maison",le foyer de cet enfant est à une centaine de miles de chez moi,contradiction
+"c'était très difficile, nous avons acheté des chaussures pour la cuisine de trois pieds de notre maison",un chien de chasse est à côté de chez moi et il n'a pas peur de m'arrêter,neutral
+"c'était très difficile, nous avons acheté des chaussures pour la cuisine de trois pieds de notre maison","il y a toujours une chienne près de chez moi, le bruit n'est pas bon",entailment
+euh euh c'est vrai que c'est vrai que c'est vrai,"je ne suis pas avec toi, c'est très fort",contradiction
+euh euh c'est vrai que c'est vrai que c'est vrai,comment peut-on obtenir des renseignements sur l'importance,neutral
+euh euh c'est vrai que c'est vrai que c'est vrai,tu es sûr que tu l'as emporté,entailment
+j'essaie de faire la différence,j'essaie de rester simple,entailment
+j'essaie de faire la différence,je fais de la peinture pour mes dessins animés,neutral
+j'essaie de faire la différence,je modifie l'article sans passer à côté,contradiction
+nous donnons notre priorité à l'avenir des outils de transport,ils construisent les installations nécessaires pour les outils de construction,entailment
+nous donnons notre priorité à l'avenir des outils de transport,"nous construisons des outils pour la survie, notre avenir dépend de l'innovation",neutral
+nous donnons notre priorité à l'avenir des outils de transport,Il veut empêcher le matériel des circoncis d'être caché,contradiction
+"Par exemple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple.","la plupart du temps, seule la moitié de l'eau est étouffée",contradiction
+"Par exemple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple.",on peut changer de comportement,entailment
+"Par exemple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple, tout ce qui est simple.",les moments difficiles que nous pouvons considérer,neutral
+Daniel Yamins est un spécialiste de la fabrication de tentes,Le fils de Yamins a beaucoup souffert à la tente.,entailment
+Daniel Yamins est un spécialiste de la fabrication de tentes,Le serment de Yamins sur l'échelle des chiffres,neutral
+Daniel Yamins est un spécialiste de la fabrication de tentes,"Le prince Yamins est un grand guerrier, mais il ne sait pas cuisiner dans sa tente",contradiction
+Jsus parle ainsi parce que la promesse de Dieu est toute prs de lui.,je sais qu'ils n'oseront pas prendre le chemin du milieu,contradiction
+Jsus parle ainsi parce que la promesse de Dieu est toute prs de lui.,je veux savoir s'ils sont prêts à aller en Angleterre,neutral
+Jsus parle ainsi parce que la promesse de Dieu est toute prs de lui.,le conférencier voulait savoir combien de fois ils avaient des problèmes,entailment
+je pense qu'une des caractéristiques de la biosphère est que les espèces se dispersent,La biosphère est très changeante,entailment
+je pense qu'une des caractéristiques de la biosphère est que les espèces se dispersent,La biosphère change en fonction de la chaleur ou du froid,neutral
+je pense qu'une des caractéristiques de la biosphère est que les espèces se dispersent,La biosphère n'est pas prête à changer,contradiction
+"avec cela, un chrétien ne peut pas supporter beaucoup d'informations",les cristaux sont une source importante d'informations,contradiction
+"avec cela, un chrétien ne peut pas supporter beaucoup d'informations",les cristaux n'ont aucune utilité dans la production d'informations,entailment
+"avec cela, un chrétien ne peut pas supporter beaucoup d'informations",il existe d'autres types de cristaux utiles pour la transmission d'informations,neutral
+"Donc, les adultes n'ont pas besoin d'apprendre aux enfants adultes à entrer dans le monde de la petite enfance où ils apprennent à être eux-mêmes.",les enfants qui fréquentent les écoles primaires sont exclus des écoles secondaires,contradiction
+"Donc, les adultes n'ont pas besoin d'apprendre aux enfants adultes à entrer dans le monde de la petite enfance où ils apprennent à être eux-mêmes.",les enfants d'âge préscolaire qui n'ont pas besoin d'aide pour apprendre à penser,entailment
+"Donc, les adultes n'ont pas besoin d'apprendre aux enfants adultes à entrer dans le monde de la petite enfance où ils apprennent à être eux-mêmes.",les enfants d'âge préscolaire n'ont pas les connaissances nécessaires à l'apprentissage de la langue et n'ont même pas d'adultes pour les aider.,neutral
+"Ce pays a été construit par toi, tous les hommes sont égaux",le résultat de ce voyage a été conservé dans de nombreux livres,neutral
+"Ce pays a été construit par toi, tous les hommes sont égaux",certaines personnes pensent que tout le monde est égal,entailment
+"Ce pays a été construit par toi, tous les hommes sont égaux",Ce pays a été construit sur la croyance que certains sont supérieurs à d'autres,contradiction
+Dois-je l'épouser encore ?,il est presque clair pour moi que je dois le condamner pour ses actes,contradiction
+Dois-je l'épouser encore ?,je lui demande s'il veut que je lui donne plus d'attention,entailment
+Dois-je l'épouser encore ?,Dois-je l'admirer davantage pour le courage qu'il a montré dans le domaine du bruit ?,neutral
+les zones environnantes doivent être construites à l'aide de différentes tentatives,d'autres tentatives peuvent être utilisées pour partager des informations sur le spin,entailment
+les zones environnantes doivent être construites à l'aide de différentes tentatives,les rouleaux Spin sont utiles comme outil de stockage de rouleaux,neutral
+les zones environnantes doivent être construites à l'aide de différentes tentatives,n'arrive pas à imaginer la richesse de Spin dans ses différents essais,contradiction
+non non je ne veux pas que tu meurs,je ne veux pas que tu meurs,entailment
+non non je ne veux pas que tu meurs,je ne serai plus là si tu meurs,contradiction
+non non je ne veux pas que tu meurs,il sera en colère si tu meurs,neutral
+il est né le 19 mars 1875 en Californie,les californiens ont continué à élire des députés depuis 1875.,entailment
+il est né le 19 mars 1875 en Californie,Nous l'avons libéré de tout ce qu'ils lui reprochaient et nous l'avons libéré.,contradiction
+il est né le 19 mars 1875 en Californie,il a été condamné pour chasse à cheval et autres,neutral
+"lorsqu'ils se jettent, une mer secrète fait un ballon",la mer s'est effondrée et il a fallu un mois,contradiction
+"lorsqu'ils se jettent, une mer secrète fait un ballon",la mer revenait avec des petits poissons qui servaient de moustiques au grand bateau,neutral
+"lorsqu'ils se jettent, une mer secrète fait un ballon",la mer était calme et on entendait le bruit des vagues,entailment
+un nouveau projet de loi a tenté de remédier au chaos qui s'était produit dans les années 1860.,"Dans les années 1870, l'expansion du système judiciaire a provoqué une explosion de l'exportation.",contradiction
+un nouveau projet de loi a tenté de remédier au chaos qui s'était produit dans les années 1860.,les années 1860 ont été une période tumultueuse,entailment
+un nouveau projet de loi a tenté de remédier au chaos qui s'était produit dans les années 1860.,Le nouveau comité juridique souhaite faire avancer les progrès réalisés dans le domaine de la loi sur le changement de carrière.,neutral
+"si l'on s'oppose à lui-même, toutes les grandes idées du discours public disparaîtront dès lors que les différences entre les groupes et les représentants de la même communauté traditionnelle",les enfants ne peuvent pas se séparer d'idées anciennes,contradiction
+"si l'on s'oppose à lui-même, toutes les grandes idées du discours public disparaîtront dès lors que les différences entre les groupes et les représentants de la même communauté traditionnelle",le but de tout le travail est de partager avec des communautés différentes,neutral
+"si l'on s'oppose à lui-même, toutes les grandes idées du discours public disparaîtront dès lors que les différences entre les groupes et les représentants de la même communauté traditionnelle",participer à toutes sortes d'activités est un bon moyen de développer des idées nouvelles et élevées,entailment
+"Dans de nombreux pays, il existe des traditions historiques, des traditions qui régissent la religion et la société, des célébrations religieuses, des célébrations de saints et des cérémonies religieuses.",aucune société n'a eu de chefs historiques qui n'étaient pas des chefs religieux,contradiction
+"Dans de nombreux pays, il existe des traditions historiques, des traditions qui régissent la religion et la société, des célébrations religieuses, des célébrations de saints et des cérémonies religieuses.",Il y avait aussi des historiens qui dirigeaient l'enceinte religieuse.,entailment
+"Dans de nombreux pays, il existe des traditions historiques, des traditions qui régissent la religion et la société, des célébrations religieuses, des célébrations de saints et des cérémonies religieuses.",certains personnages historiques avaient les cheveux noirs,neutral
+"En outre, la promotion de l'éducation est une activité menée par l'association de l'éducation qui aide les enfants à comprendre la diversité et la diversité des personnes qu'ils aiment et qu'ils apprécient.",l'enfant peut apprendre ce qu'est l'équilibre et les différences,entailment
+"En outre, la promotion de l'éducation est une activité menée par l'association de l'éducation qui aide les enfants à comprendre la diversité et la diversité des personnes qu'ils aiment et qu'ils apprécient.",les enfants sont capables de discerner comment les différentes nationalités,neutral
+"En outre, la promotion de l'éducation est une activité menée par l'association de l'éducation qui aide les enfants à comprendre la diversité et la diversité des personnes qu'ils aiment et qu'ils apprécient.",ce sont les enfants qui n'ont rien appris,contradiction
+Le chef de file de l'industrie allemande après la Seconde Guerre mondiale est aujourd'hui le chef de file de l'opposition au régime nazi.,le régime nazi ne l'avait pas accepté,contradiction
+Le chef de file de l'industrie allemande après la Seconde Guerre mondiale est aujourd'hui le chef de file de l'opposition au régime nazi.,le régime nazi a exécuté tous les musulmans,neutral
+Le chef de file de l'industrie allemande après la Seconde Guerre mondiale est aujourd'hui le chef de file de l'opposition au régime nazi.,le régime nazi s'est arrêté,entailment
+un enfant souffre en écoutant le cri de sa fille,personne n'était là,contradiction
+un enfant souffre en écoutant le cri de sa fille,sonja est un enfant,entailment
+un enfant souffre en écoutant le cri de sa fille,sonja était une sorcière,neutral
+6 dans les dix provinces d'avant-guerre où les citoyens s'exprimaient mutuellement; la Cour suprême exerçait son autorité et sa compétence,"La Cour suprême a défendu certains droits civils pendant les décennies précédant la guerre, alors que les gens se disputaient mutuellement.",entailment
+6 dans les dix provinces d'avant-guerre où les citoyens s'exprimaient mutuellement; la Cour suprême exerçait son autorité et sa compétence,La Cour suprême a exercé le droit de recours judiciaire contre les victimes d'un conflit dans lequel les citoyens ont refusé leur liberté.,neutral
+6 dans les dix provinces d'avant-guerre où les citoyens s'exprimaient mutuellement; la Cour suprême exerçait son autorité et sa compétence,La Cour suprême a exécuté cinq juges parmi les cinq juges qui ont jugé la guerre civile.,contradiction
+"Voil aussi ce que je vais te dire, toi, trs cher Thophile: je connais tout ce qui se passe ici.",dis-nous comment j'ai tout compris,entailment
+"Voil aussi ce que je vais te dire, toi, trs cher Thophile: je connais tout ce qui se passe ici.",la mort de l'architecte m'a été annoncée,neutral
+"Voil aussi ce que je vais te dire, toi, trs cher Thophile: je connais tout ce qui se passe ici.",il y a beaucoup de choses que nous avons cachées,contradiction
+Les forces de l'ordre confondent le commandant Blood avec ses complices.,L'officier Blood était capable de réfléchir à des situations qui l'irritaient à chaque instant.,contradiction
+Les forces de l'ordre confondent le commandant Blood avec ses complices.,les pensées du commandant du Blood sont devenues obscures à cause de son travail,entailment
+Les forces de l'ordre confondent le commandant Blood avec ses complices.,La voix du couteau est celle du chef Blood si ses taureaux,neutral
+"Je n'oublierai jamais la vie d'esclave que j'ai vécue à la Barbade, où vous m'avez soigné avec bonté.",tu as pris soin de moi quand j'étais esclave à la Barbade,entailment
+"Je n'oublierai jamais la vie d'esclave que j'ai vécue à la Barbade, où vous m'avez soigné avec bonté.","c'était très drôle, et tu m'as pris pour le meilleur joueur de tennis",contradiction
+"Je n'oublierai jamais la vie d'esclave que j'ai vécue à la Barbade, où vous m'avez soigné avec bonté.",ta nuée m'a frappé à chaque fois qu'elle me regardait,neutral
+"Ici, à moins de trois miles plus à l'ouest, où se trouvait le sol, une paroi de végétation épaisse et épaisse remplissait le jardin avec de la poussière.",c'est une vue magnifique sur les fleurs,entailment
+"Ici, à moins de trois miles plus à l'ouest, où se trouvait le sol, une paroi de végétation épaisse et épaisse remplissait le jardin avec de la poussière.",la vie aux États-Unis était proche d'une ville,neutral
+"Ici, à moins de trois miles plus à l'ouest, où se trouvait le sol, une paroi de végétation épaisse et épaisse remplissait le jardin avec de la poussière.","On ne voyait pas la terre pour des kilomètres à l'entour, une mer sans eau.",contradiction
+"je suis le roi des villes méchantes, je suis aussi le frère du roi de Sunderland",Le roi a des gens qu'il aime et dont il fait partie,entailment
+"je suis le roi des villes méchantes, je suis aussi le frère du roi de Sunderland",Le roi est resté ici quelques jours.,neutral
+"je suis le roi des villes méchantes, je suis aussi le frère du roi de Sunderland",je n'obéirai pas aux ordres du roi,contradiction
+"ce que je devais faire et ce que je voulais faire, c'est exactement ce que j'espérais",ne pense pas que tu dois quelque chose,contradiction
+"ce que je devais faire et ce que je voulais faire, c'est exactement ce que j'espérais",tu l'as aidé quand il était pauvre alors qu'il n'avait rien,neutral
+"ce que je devais faire et ce que je voulais faire, c'est exactement ce que j'espérais",il s'attendait à te faire quelque chose,entailment
+il aurait pu comprendre comment il est arrivé ici près de la Jamaïque ce soir,j'ai voyagé près de la Jamaïque et j'ai fini la nuit dernière,entailment
+il aurait pu comprendre comment il est arrivé ici près de la Jamaïque ce soir,j'ai voyagé en Jamaïque avec un grand bateau,neutral
+il aurait pu comprendre comment il est arrivé ici près de la Jamaïque ce soir,ma femme et moi sommes partis pour la Jamaïque hier,contradiction
+L'idée de Blood est tout à fait similaire à celle des autres et ressemble à celle d'un homme qui se repose pendant la journée.,Blood a réalisé une scène importante sur la scène de la journée.,contradiction
+L'idée de Blood est tout à fait similaire à celle des autres et ressemble à celle d'un homme qui se repose pendant la journée.,Blood est allongé et réfléchit.,entailment
+L'idée de Blood est tout à fait similaire à celle des autres et ressemble à celle d'un homme qui se repose pendant la journée.,Blood réfléchissait à la dernière fois qu'il avait vu sa mère.,neutral
+il vous expliquera tout de suite ce qui est bien,"c'est vrai, je vais te le dire maintenant",entailment
+il vous expliquera tout de suite ce qui est bien,je suis complètement aveugle,contradiction
+il vous expliquera tout de suite ce qui est bien,pour la seule raison que vous m'avez dit que vous ne le feriez pas,neutral
+Ah! et alors ?,il y a quelqu'un qui demande comment passer,entailment
+Ah! et alors ?,l'interlocuteur est là sans personne à qui parler,contradiction
+Ah! et alors ?,l'interlocuteur est déconcerté et veut savoir quelle voie prendre maintenant,neutral
+je ne soupçonnerai aucun roi,la prochaine fois que je reconnaîtrai que le roi est à la hauteur de mes yeux,neutral
+je ne soupçonnerai aucun roi,il a bien réfléchi à la question du roi,entailment
+je ne soupçonnerai aucun roi,j'ai pris la décision de reconnaître un autre roi sans réfléchir,contradiction
+savoir comment faire face à la nécessité d'un calcul rapide,xamnani a eu toute la journée pour une seule chose,contradiction
+savoir comment faire face à la nécessité d'un calcul rapide,c'est maintenant qu'il sait qu'il a décidé d'agir rapidement,entailment
+savoir comment faire face à la nécessité d'un calcul rapide,"s'il était resté dans la même pièce, nous le verrions",neutral
+"Et maintenant qu'il veut devenir champion, et qu'il a fait l'exercice qu'il a fait il y a trois ans, c'est ce qu'il a dit, ce qu'il a dit avec tristesse et ce qu'il a dit avec tristesse.",et il n'avait pas envie d'être aussi grand que ceux qui l'ont été il y a trois ans,neutral
+"Et maintenant qu'il veut devenir champion, et qu'il a fait l'exercice qu'il a fait il y a trois ans, c'est ce qu'il a dit, ce qu'il a dit avec tristesse et ce qu'il a dit avec tristesse.",la femme raconte avec joie ses voyages et elle-même,contradiction
+"Et maintenant qu'il veut devenir champion, et qu'il a fait l'exercice qu'il a fait il y a trois ans, c'est ce qu'il a dit, ce qu'il a dit avec tristesse et ce qu'il a dit avec tristesse.",la femme qui parlait à un sourd malentendu,entailment
+"ce que tu veux, c'est ce que tu veux",qu'est ce qu'on va faire avec tes frères,entailment
+"ce que tu veux, c'est ce que tu veux",j'ai appris à quel point vos parents et vos traditions sont respectées,neutral
+"ce que tu veux, c'est ce que tu veux",J'espre que cela ne vous rendra pas jaloux comme le font les autres.,contradiction
+"la seule chose qui vous intéresse, c'est le travail",il a fait une brèche à l'épaisseur du visage,contradiction
+"la seule chose qui vous intéresse, c'est le travail",il s'est rendu compte de ce qui s'était passé autour de lui,neutral
+"la seule chose qui vous intéresse, c'est le travail",il était en train d'apprendre pour vous,entailment
+"elle le regardait avec des yeux brillants, sans voir le visage triste, et les yeux brillants de ses anciennes spécialités qui lui montraient le visage de l'amant",le visage a changé à la vue de son visage,entailment
+"elle le regardait avec des yeux brillants, sans voir le visage triste, et les yeux brillants de ses anciennes spécialités qui lui montraient le visage de l'amant",Son visage était rayonnant quand il a vu son frère,contradiction
+"elle le regardait avec des yeux brillants, sans voir le visage triste, et les yeux brillants de ses anciennes spécialités qui lui montraient le visage de l'amant",il ne savait pas ce que c'était,neutral
+Il se promène lentement autour du mur et passe par les portes de la cour.,"La porte de la prison est fermée, elle est fermée par les clés, et le voleur tombe.",contradiction
+Il se promène lentement autour du mur et passe par les portes de la cour.,les grandes portes qui servaient d'entrée au palais,neutral
+Il se promène lentement autour du mur et passe par les portes de la cour.,il y avait de grandes portes qui s'ouvraient dans la cour,entailment
+"si vous ne le jetez pas avec précaution, c'est de la vermine et de la cendre",qui a pensé que quelqu'un serait mort,entailment
+"si vous ne le jetez pas avec précaution, c'est de la vermine et de la cendre",il y a un shérif qui a attaqué un voleur,neutral
+"si vous ne le jetez pas avec précaution, c'est de la vermine et de la cendre",j'aimerais qu'une fois qu'ils aient pu s'échapper de la ville pour échapper à la prison,contradiction
+"Alors je leur ai dit: ""Vous n'avez pas fait d'erreur. Pourquoi est - ce que vous avez fait cela?",finalement je ne les ai pas enterrés,entailment
+"Alors je leur ai dit: ""Vous n'avez pas fait d'erreur. Pourquoi est - ce que vous avez fait cela?",je n'avais pas l'intention de vous voir,contradiction
+"Alors je leur ai dit: ""Vous n'avez pas fait d'erreur. Pourquoi est - ce que vous avez fait cela?",je ne peux pas me pardonner de ne pas les avoir arrêtés,neutral
+je les ai créés cette année,je le surveille attentivement depuis un an,neutral
+je les ai créés cette année,mamako n'a suivi que près d'un mois,contradiction
+je les ai créés cette année,"au cours de la dernière année, je n'ai pas réussi",entailment
+la mosaïque n'est pas composée de feuilles et d'arbres qui marquent le niveau de la mosaïque,la jeune femme ne voulait pas d'images,neutral
+la mosaïque n'est pas composée de feuilles et d'arbres qui marquent le niveau de la mosaïque,le tableau ne décrit pas les petites branches natales,entailment
+la mosaïque n'est pas composée de feuilles et d'arbres qui marquent le niveau de la mosaïque,la composition de la mosaïque est un ensemble de symboles,contradiction
+Les magasins extérieurs sont les endroits les plus achetés à Pékin.,il y a des boucles d'oreilles et des boucles d'oreilles que vous pouvez acheter,entailment
+Les magasins extérieurs sont les endroits les plus achetés à Pékin.,Les marchés extérieurs de Pékin sont les plus chers au monde,neutral
+Les magasins extérieurs sont les endroits les plus achetés à Pékin.,La loi de Pékin interdit les déplacements à l'extérieur du centre-ville,contradiction
+"Le plus grand défi de la loi de la mer est que les groupes d'oiseaux préfèrent les pauvres, où l'eau et la mer peuvent se séparer.",L'eau et les toilettes sont parfaites,contradiction
+"Le plus grand défi de la loi de la mer est que les groupes d'oiseaux préfèrent les pauvres, où l'eau et la mer peuvent se séparer.",Toute l'eau de la mer peut les couper,entailment
+"Le plus grand défi de la loi de la mer est que les groupes d'oiseaux préfèrent les pauvres, où l'eau et la mer peuvent se séparer.",L'eau est boueuse en raison de problèmes liés à l'eau.,neutral
+"Les grandes maisons sont proches du ciel, et la rue qui s'y trouve est appelée la Mille d'Or, ou la Mille d'Or.",l'une des grandes maisons près du ciel située sur le Golden Mile,contradiction
+"Les grandes maisons sont proches du ciel, et la rue qui s'y trouve est appelée la Mille d'Or, ou la Mille d'Or.",Les immeubles proches du ciel sur le Golden Mile sont en béton,entailment
+"Les grandes maisons sont proches du ciel, et la rue qui s'y trouve est appelée la Mille d'Or, ou la Mille d'Or.","Les immeubles proches du ciel sur la Golden Mile sont des bureaux d'établissement, ainsi que son siège.",neutral
+"Selon le rapport, après la Seconde Guerre mondiale, des tentatives de guerre ont été lancées contre l'armée de l'air britannique Common Wealth, qui s'est engagée dans des opérations aériennes au Canada afin de préparer les compagnies pétrolières.",Le Canada avait le ciel le plus frais,entailment
+"Selon le rapport, après la Seconde Guerre mondiale, des tentatives de guerre ont été lancées contre l'armée de l'air britannique Common Wealth, qui s'est engagée dans des opérations aériennes au Canada afin de préparer les compagnies pétrolières.",le ciel canadien n'est pas libre de gros sauterelles,neutral
+"Selon le rapport, après la Seconde Guerre mondiale, des tentatives de guerre ont été lancées contre l'armée de l'air britannique Common Wealth, qui s'est engagée dans des opérations aériennes au Canada afin de préparer les compagnies pétrolières.",les skis canadiens sont les plus effrayants,contradiction
+"Ce que nous voulons avant tout, c'est la nourriture, non la nourriture solide, mais la paix entre Dieu et les tres humains.",ils ont tous été très gentils et enthousiastes quand ils ont appris qu'ils devaient partager la côte,contradiction
+"Ce que nous voulons avant tout, c'est la nourriture, non la nourriture solide, mais la paix entre Dieu et les tres humains.",ils doivent partager le bord de la rivière avec d'autres personnes,entailment
+"Ce que nous voulons avant tout, c'est la nourriture, non la nourriture solide, mais la paix entre Dieu et les tres humains.",il y avait auparavant des centaines de milliers de boucles d'oreilles,neutral
+"Kublai Khan a construit en 1279 son propre chapel au bord du lac Beihai à Pékin, où certains des bateaux sont encore visibles.",Kubilai Khan est l'un des capitales de Taïwan,contradiction
+"Kublai Khan a construit en 1279 son propre chapel au bord du lac Beihai à Pékin, où certains des bateaux sont encore visibles.",Kubilai Khan a une tournée à Pékin,entailment
+"Kublai Khan a construit en 1279 son propre chapel au bord du lac Beihai à Pékin, où certains des bateaux sont encore visibles.",Kubilai Khan est un suspect,neutral
+"Rapidement intégré dans la communauté anglophone, le centre d'éducation accueille les enfants juifs des pays de l'Est qui souhaitent être diplômés à Westmount pour la vie ou encore être réintégrés à Toronto.",les juifs de l'est du pays sont considérés comme tous des esclaves,contradiction
+"Rapidement intégré dans la communauté anglophone, le centre d'éducation accueille les enfants juifs des pays de l'Est qui souhaitent être diplômés à Westmount pour la vie ou encore être réintégrés à Toronto.",les êtres humains ne sont pas des êtres humains,neutral
+"Rapidement intégré dans la communauté anglophone, le centre d'éducation accueille les enfants juifs des pays de l'Est qui souhaitent être diplômés à Westmount pour la vie ou encore être réintégrés à Toronto.",les langues anglophones sont les plus développées,entailment
+"si possible, essayez le parc, le soir, une partie du plan nasi","ne lisez pas la partie finale du plan à la tombée de la nuit, car cela affectera l'avenir de l'équipe",contradiction
+"si possible, essayez le parc, le soir, une partie du plan nasi",essayez d'aller le plus tôt possible,entailment
+"si possible, essayez le parc, le soir, une partie du plan nasi",vous pourrez en savoir plus si vous connaissez le début du livre,neutral
+"à une profondeur de 27 mètres (88 pieds) du sol, nous l'avons défini comme étant de 200 mètres carrés (13 000 pieds carrés)","Il est enterré dans la tombe, à une profondeur de 20 mètres.",entailment
+"à une profondeur de 27 mètres (88 pieds) du sol, nous l'avons défini comme étant de 200 mètres carrés (13 000 pieds carrés)",était une personnalité importante,neutral
+"à une profondeur de 27 mètres (88 pieds) du sol, nous l'avons défini comme étant de 200 mètres carrés (13 000 pieds carrés)",ses vêtements sont faits de bois,contradiction
+N'oubliez pas les secrets de vos affaires,cachez votre zèle s'il vous voit,entailment
+N'oubliez pas les secrets de vos affaires,"Il y a beaucoup de choses qu'on ne peut pas faire, et cela vient de la nature.",neutral
+N'oubliez pas les secrets de vos affaires,vous n'avez pas besoin de cacher vos affaires,contradiction
+"Il y a 14 000 ans, avec la construction de la tour d'Estei, Milreum était une grande maison d'une seule personne avec un jardin.",Milreu était 10 000 au total,neutral
+"Il y a 14 000 ans, avec la construction de la tour d'Estei, Milreum était une grande maison d'une seule personne avec un jardin.",Milreu était dans la campagne,entailment
+"Il y a 14 000 ans, avec la construction de la tour d'Estei, Milreum était une grande maison d'une seule personne avec un jardin.",Milreu était dans le centre de la forteresse,contradiction
+La température de l'eau est comprise entre 18 et 24°C (64-75°F).,La mesure de la largeur de la mer est en constante évolution mais ne descend jamais à son point le plus glacial.,entailment
+La température de l'eau est comprise entre 18 et 24°C (64-75°F).,le niveau de la mer est le même partout dans l'année,contradiction
+La température de l'eau est comprise entre 18 et 24°C (64-75°F).,la température de la journée est plus élevée lorsque le temps est plus froid,neutral
+Le parc Kinabalu fait partie des 11 zones les plus protégées par l'État.,Le parc national du Kinabalu abrite 16 espèces de cochons.,neutral
+Le parc Kinabalu fait partie des 11 zones les plus protégées par l'État.,Les zones protégées par le gouvernement font partie du parc national de Kinabalu.,entailment
+Le parc Kinabalu fait partie des 11 zones les plus protégées par l'État.,il y a trois zones protégées par l'État,contradiction
+vous trouverez des photos de l'église Anne et d'Amsterdam sur le site ainsi que des statues et des objets anciens.,tu ne verras pas les statues,contradiction
+vous trouverez des photos de l'église Anne et d'Amsterdam sur le site ainsi que des statues et des objets anciens.,Vous allez voir des choses nouvelles.,entailment
+vous trouverez des photos de l'église Anne et d'Amsterdam sur le site ainsi que des statues et des objets anciens.,et vous verrez quelques-uns des anciens prophètes,neutral
+"La plage du Trésor est, par exemple, un poste de garde au coin, parmi les autres postes de garde situés au début de la route.",de nombreux forfaits sont disponibles pour les visiteurs de Treasure Beach,entailment
+"La plage du Trésor est, par exemple, un poste de garde au coin, parmi les autres postes de garde situés au début de la route.",il y a un trou de sauvetage qui est ouvert car on peut le voir dans les marais autour de Treasure Beach,neutral
+"La plage du Trésor est, par exemple, un poste de garde au coin, parmi les autres postes de garde situés au début de la route.",Treasure Beach fait partie de l'un des bureaux de surveillance de la région.,contradiction
+"avec le saumon, le temps est agréable (mais il ne dit pas le mystère) et les caractéristiques de la mer le rendent agréable pour la plongée, la pêche et d'autres types d'activités liées à la mer",chaque fois qu'il fait plus de 100 degrés ou plus pendant la saison des pluies,contradiction
+"avec le saumon, le temps est agréable (mais il ne dit pas le mystère) et les caractéristiques de la mer le rendent agréable pour la plongée, la pêche et d'autres types d'activités liées à la mer",la moyenne était de 75 à l'époque de la crise,neutral
+"avec le saumon, le temps est agréable (mais il ne dit pas le mystère) et les caractéristiques de la mer le rendent agréable pour la plongée, la pêche et d'autres types d'activités liées à la mer",il fait chaud en hiver,entailment
+"Dans ces cas-là, certains observateurs ont exprimé l'espoir qu'ils seraient tombés d'accord, ce qui aurait été, pour eux, une occasion de se justifier.",les gens ne jettent jamais d'argent parce qu'il est chaud,contradiction
+"Dans ces cas-là, certains observateurs ont exprimé l'espoir qu'ils seraient tombés d'accord, ce qui aurait été, pour eux, une occasion de se justifier.",les gens jettent des pièces d'argent parce que même le registre les empêche de le faire,neutral
+"Dans ces cas-là, certains observateurs ont exprimé l'espoir qu'ils seraient tombés d'accord, ce qui aurait été, pour eux, une occasion de se justifier.",les gens jettent de l'argent dans l'eau,entailment
+"La ville portuaire de Nauplie est un lieu sûr pour les voyageurs qui peuvent se déplacer dans la région, mais aussi pour trouver de la nourriture dans la mer.",Nauplie est agréable à regarder.,neutral
+"La ville portuaire de Nauplie est un lieu sûr pour les voyageurs qui peuvent se déplacer dans la région, mais aussi pour trouver de la nourriture dans la mer.",Nafplio est un mauvais endroit,contradiction
+"La ville portuaire de Nauplie est un lieu sûr pour les voyageurs qui peuvent se déplacer dans la région, mais aussi pour trouver de la nourriture dans la mer.",Nafplio est un bon endroit,entailment
+"à Prinsengracht, Otto Frank et sa famille s'y sont réfugiés pour leurs activités commerciales pendant deux ans avant leur apparition.",Otto Frank est arrêté le deuxième jour.,contradiction
+"à Prinsengracht, Otto Frank et sa famille s'y sont réfugiés pour leurs activités commerciales pendant deux ans avant leur apparition.",Otto Frank a vécu en exil pendant 25 mois,entailment
+"à Prinsengracht, Otto Frank et sa famille s'y sont réfugiés pour leurs activités commerciales pendant deux ans avant leur apparition.",Otto Frank s'est caché jusqu'à ce que les autorités internationales le voient.,neutral
+de nombreux pays et gouvernements régionaux se sont réunis dans le cadre d'un projet,les gouvernements locaux ne peuvent pas imposer leurs propres règles,neutral
+de nombreux pays et gouvernements régionaux se sont réunis dans le cadre d'un projet,les autorités locales n'ont rien à voir,contradiction
+de nombreux pays et gouvernements régionaux se sont réunis dans le cadre d'un projet,avoir accès à d'autres sites de médias fournis par les gouvernements locaux,entailment
+une série d'échanges d'informations réalisés entre 8 et 12 points de discussion,"l'église de la couronne a, dans une tente, 9 points de discussion qui",neutral
+une série d'échanges d'informations réalisés entre 8 et 12 points de discussion,l'assemblée générale tient un discours le jour suivant:,contradiction
+une série d'échanges d'informations réalisés entre 8 et 12 points de discussion,le conseil d'administration organise des réunions de discussion plusieurs fois par an.,entailment
+"Le dimanche matin, trs tt, Jsus se fait circoncire par l'ange de Dieu.",la cérémonie a lieu le dimanche,entailment
+"Le dimanche matin, trs tt, Jsus se fait circoncire par l'ange de Dieu.",La cérémonie de remise des diplômes a eu lieu uniquement,contradiction
+"Le dimanche matin, trs tt, Jsus se fait circoncire par l'ange de Dieu.","S'il n'y a pas de diffrence entre les deux parties, on peut conclure que la décision de la communaut est fausse.",neutral
+"le résultat, c'est que les décideurs politiques et les dirigeants au sein de l'État ont un autre point de vue, nous avons divisé les méthodes pour compléter leurs corrections et ensuite utiliser d'autres données pour mesurer leurs décisions.",les représentants du gouvernement ont changé de comportement,entailment
+"le résultat, c'est que les décideurs politiques et les dirigeants au sein de l'État ont un autre point de vue, nous avons divisé les méthodes pour compléter leurs corrections et ensuite utiliser d'autres données pour mesurer leurs décisions.",les représentants de l'État nous essayons de renforcer leur influence sur les différents points de vue,neutral
+"le résultat, c'est que les décideurs politiques et les dirigeants au sein de l'État ont un autre point de vue, nous avons divisé les méthodes pour compléter leurs corrections et ensuite utiliser d'autres données pour mesurer leurs décisions.",ceux qui empêchent le gouvernement de changer leur mode de vie,contradiction
+je peux être capable d'interpréter les mots pour les gens qui entendent une autre langue que l'anglais,seule l'interprétation de la situation en anglais est acceptable,contradiction
+je peux être capable d'interpréter les mots pour les gens qui entendent une autre langue que l'anglais,Nous pouvons écrire des lettres en chinois et en russe,neutral
+je peux être capable d'interpréter les mots pour les gens qui entendent une autre langue que l'anglais,les mots peuvent être écrits dans d'autres langues,entailment
+d'autres projets sont en cours ou en préparation,la plupart de nos supporters sont en train de bouger,neutral
+d'autres projets sont en cours ou en préparation,nous n'avons rien à préparer pour l'avenir,contradiction
+d'autres projets sont en cours ou en préparation,nous avons quelque chose à préparer,entailment
+"l'introduction d'objets de consommation tels que des pièces de rechange courtes, des pièces de rechange mécaniques et l'absence de fournitures dans des environnements inépuisables",nous avons effacé certaines choses stockées sur des machines IBM,neutral
+"l'introduction d'objets de consommation tels que des pièces de rechange courtes, des pièces de rechange mécaniques et l'absence de fournitures dans des environnements inépuisables",nous avons décomposé les composants de la machine,entailment
+"l'introduction d'objets de consommation tels que des pièces de rechange courtes, des pièces de rechange mécaniques et l'absence de fournitures dans des environnements inépuisables",nous avons gardé tous les accessoires de la machine,contradiction
+"En outre, le responsable de la vérification du groupe lui-même a rencontré le nouveau responsable pour répondre aux questions et apporter des éclaircissements sur les problèmes examinés dans le cadre de l'enquête.",l'administrateur a effectué une vérification d'une heure,neutral
+"En outre, le responsable de la vérification du groupe lui-même a rencontré le nouveau responsable pour répondre aux questions et apporter des éclaircissements sur les problèmes examinés dans le cadre de l'enquête.",il y a le témoignage d'un représentant,entailment
+"En outre, le responsable de la vérification du groupe lui-même a rencontré le nouveau responsable pour répondre aux questions et apporter des éclaircissements sur les problèmes examinés dans le cadre de l'enquête.",ils n'ont pas pu obtenir de crédit,contradiction
+"non seulement l'acquisition affecte la part du bien, mais le bien lui-même affecte le choix de l'acquisition",la sélection de la bande dessinée,entailment
+"non seulement l'acquisition affecte la part du bien, mais le bien lui-même affecte le choix de l'acquisition",les biens et services publics ne sont pas liés,contradiction
+"non seulement l'acquisition affecte la part du bien, mais le bien lui-même affecte le choix de l'acquisition",les gens qui ont de l'argent sont plus enclins à conserver une partie de leur économie,neutral
+"par exemple, un groupe de nos clients a effectué deux analyses qui avaient déjà été effectuées par le bureau de l'installation des nouveaux locaux, puis les a refaites pour répondre aux préoccupations des clients.","étant donné qu'il y a eu deux conférences, le bureau n'a pas réussi à changer de directeur",contradiction
+"par exemple, un groupe de nos clients a effectué deux analyses qui avaient déjà été effectuées par le bureau de l'installation des nouveaux locaux, puis les a refaites pour répondre aux préoccupations des clients.",rassembler les deux groupes en un seul groupe et le reproduire peut être une mauvaise chose,neutral
+"par exemple, un groupe de nos clients a effectué deux analyses qui avaient déjà été effectuées par le bureau de l'installation des nouveaux locaux, puis les a refaites pour répondre aux préoccupations des clients.",nous avons construit un bureau à deux étages qui a été rapidement réaménagé pour répondre aux exigences de la situation,entailment
+"à son avis, notre résolution était que nous l'ayons accepté avant de vérifier si le conflit avait eu lieu",nous savions que le voyage allait prendre beaucoup de temps,contradiction
+"à son avis, notre résolution était que nous l'ayons accepté avant de vérifier si le conflit avait eu lieu",nous espérions que j'aurais pu précéder la cérémonie,entailment
+"à son avis, notre résolution était que nous l'ayons accepté avant de vérifier si le conflit avait eu lieu","nous espérions que nous aurions pu le faire tôt, nous aurions pu le faire à temps",neutral
+Les nouveaux outils font partie de l'histoire de ces groupes car ils sont considérés comme un outil de gestion de l'espace de travail et non seulement comme un outil.,un outil de préparation de la cérémonie est l'un des nouveaux outils fournis par le bureau des bureaux,neutral
+Les nouveaux outils font partie de l'histoire de ces groupes car ils sont considérés comme un outil de gestion de l'espace de travail et non seulement comme un outil.,il s'agit d'un simple outil de communication et non d'un facilitateur,contradiction
+Les nouveaux outils font partie de l'histoire de ces groupes car ils sont considérés comme un outil de gestion de l'espace de travail et non seulement comme un outil.,ces bureaux accordent une grande importance aux nouveaux équipements de transport,entailment
+les deux points de vue en matière de littérature traditionnelle peuvent parfois être divisés en deux catégories:,l'écriture traditionnelle peut changer notre vision des nations,neutral
+les deux points de vue en matière de littérature traditionnelle peuvent parfois être divisés en deux catégories:,l'écriture traditionnelle peut modifier les croyances futures,entailment
+les deux points de vue en matière de littérature traditionnelle peuvent parfois être divisés en deux catégories:,il n'y a rien que nous puissions faire pour atténuer les conflits,contradiction
+"Les chiffres indiquant que les chambres sont situées à l'intérieur de l'établissement représentent la situation de l'entreprise, mais aussi les chiffres indiquant les défaillances de l'établissement (le cas échéant) dans le transfert de l'entreprise d'une partie à l'autre.",Ces mesures limitent la survie de 10% des victimes.,neutral
+"Les chiffres indiquant que les chambres sont situées à l'intérieur de l'établissement représentent la situation de l'entreprise, mais aussi les chiffres indiquant les défaillances de l'établissement (le cas échéant) dans le transfert de l'entreprise d'une partie à l'autre.",les chiffres indiquent qu'il n'y a rien d'autre que le corps,contradiction
+"Les chiffres indiquant que les chambres sont situées à l'intérieur de l'établissement représentent la situation de l'entreprise, mais aussi les chiffres indiquant les défaillances de l'établissement (le cas échéant) dans le transfert de l'entreprise d'une partie à l'autre.",les chiffres indiquent la valeur de la survie de l'ensemble de l'établissement,entailment
+"En se concentrant sur le terrain de la réalité, Centerlink a découvert des hypothèses erronées en matière de formation du personnel et des inconvénients liés à l'introduction de la sécurité.",Centerlink ne savait pas comment résoudre le problème,contradiction
+"En se concentrant sur le terrain de la réalité, Centerlink a découvert des hypothèses erronées en matière de formation du personnel et des inconvénients liés à l'introduction de la sécurité.","Centerlink a développé de nombreux programmes pour apprendre aux gens à faire connaître leurs valeurs, car la corruption a conduit le gouvernement à des problèmes de copropriété.",neutral
+"En se concentrant sur le terrain de la réalité, Centerlink a découvert des hypothèses erronées en matière de formation du personnel et des inconvénients liés à l'introduction de la sécurité.",Centerlink propose plusieurs programmes pour apprendre aux enfants à faire connaître leurs valeurs.,entailment
+"Cela faciliterait les opérations mais tout en épargnant le bureau de l'agence, dans le secteur de la chaudière, qui fait de nombreux copeaux à la recherche d'outils et surtout d'outils techniques pour la fabrication de fruits et légumes.","de plus, ils seront en mesure de vous montrer comment la situation devrait se dérouler",entailment
+"Cela faciliterait les opérations mais tout en épargnant le bureau de l'agence, dans le secteur de la chaudière, qui fait de nombreux copeaux à la recherche d'outils et surtout d'outils techniques pour la fabrication de fruits et légumes.",ils auraient pu informer le bureau de la commission qu'il n'était pas préférable de construire de nouveaux bureaux,neutral
+"Cela faciliterait les opérations mais tout en épargnant le bureau de l'agence, dans le secteur de la chaudière, qui fait de nombreux copeaux à la recherche d'outils et surtout d'outils techniques pour la fabrication de fruits et légumes.",ils n'avaient aucune information pour prouver la validité de l'héritage des copares,contradiction
+Les efforts de communication de la Caroline du Sud ont été récompensés l'année suivante.,aucun des habitants de Caline du Sud n'est entré dans sa main,contradiction
+Les efforts de communication de la Caroline du Sud ont été récompensés l'année suivante.,SC a travaillé ensemble,entailment
+Les efforts de communication de la Caroline du Sud ont été récompensés l'année suivante.,ceux qui croient qu'il est légitime de soutenir la société de leur côté sont ceux qui disent la même chose et ceux qui savent qu'ils sont la partie de l'entreprise sont ceux qui accordent le plus d'attention aux pouvoirs de l'État et ceux qui sont en Caroline du Sud travaillent ensemble,neutral
+"si l'on s'appuie sur un représentant du comité, la disposition de l'article 605 (b) ne peut être portée à l'attention du ministre pour renforcer les fonctions des sous-comités.","le comité n'a pas donné d'avis au SBA, nous l'avons rejeté au bureau du responsable",neutral
+"si l'on s'appuie sur un représentant du comité, la disposition de l'article 605 (b) ne peut être portée à l'attention du ministre pour renforcer les fonctions des sous-comités.",le conseil d'administration n'a pas accordé de crédits à l'SBA,entailment
+"si l'on s'appuie sur un représentant du comité, la disposition de l'article 605 (b) ne peut être portée à l'attention du ministre pour renforcer les fonctions des sous-comités.",Le conseil d'administration propose une date de délivrance de la carte SBA à tous les demandeurs.,contradiction
+il est important d'être plus prudent en ce qui concerne la transition lorsque les voix des électeurs sont en accord avec les autres voix.,"à la majorité des élections municipales, nous avons accepté des récompenses et des cartes de table",neutral
+il est important d'être plus prudent en ce qui concerne la transition lorsque les voix des électeurs sont en accord avec les autres voix.,le mouvement lui-même passe par la réaction de l'aiguille,entailment
+il est important d'être plus prudent en ce qui concerne la transition lorsque les voix des électeurs sont en accord avec les autres voix.,il n'y a aucun moyen de savoir si nous respectons le rituel ou non,contradiction
+"par exemple, la capitale d'une ville que nous avons visitée est située à plus de 600 kilomètres",Les capitals sont des espaces plus sûrs pour les maisons d'affaires situées dans la zone urbaine.,neutral
+"par exemple, la capitale d'une ville que nous avons visitée est située à plus de 600 kilomètres",un comptable possède un bureau d'état-major,entailment
+"par exemple, la capitale d'une ville que nous avons visitée est située à plus de 600 kilomètres",Les sociétés de vente au détail évitent les capitaux pour des raisons juridiques.,contradiction
+"quand on mesure le poids d'un arbre, il n'y a pas de défaut",tu peux être irréprochable si tu fais tout pour cela,contradiction
+"quand on mesure le poids d'un arbre, il n'y a pas de défaut",tu n'es pas sans défaut,entailment
+"quand on mesure le poids d'un arbre, il n'y a pas de défaut",on ne peut pas les condamner parce qu'ils sont tous des êtres humains qui savent qu'ils sont très imparfaits,neutral
+qui s'est réfugié dans la chambre de Hazmi et Mihdhar en 2000 est connu pour être un homme d'affaires très doué pour jouer à des jeux qui ont été très pacifiques depuis le début de l'affaire avec le FBI.,Hazmi et Mihdhar achètent une maison pour éviter les contacts avec les autres,contradiction
+qui s'est réfugié dans la chambre de Hazmi et Mihdhar en 2000 est connu pour être un homme d'affaires très doué pour jouer à des jeux qui ont été très pacifiques depuis le début de l'affaire avec le FBI.,"Hazmi et Mihdar louent une chambre pour toute l'année, ils paient 500€ par jour",neutral
+qui s'est réfugié dans la chambre de Hazmi et Mihdhar en 2000 est connu pour être un homme d'affaires très doué pour jouer à des jeux qui ont été très pacifiques depuis le début de l'affaire avec le FBI.,Hazmi et Mihdar partagent une chambre,entailment
+"Pour plus d'informations sur leur voyage en Bosnie, voir les résultats de l'opération de chasse menée par un membre saoudien d'Al-Qaïda le 3 octobre 2001.",Un membre d'Al-Qaïda s'est rendu en Bosnie 18 fois en 2001,neutral
+"Pour plus d'informations sur leur voyage en Bosnie, voir les résultats de l'opération de chasse menée par un membre saoudien d'Al-Qaïda le 3 octobre 2001.",Un membre d'Al-Qaïda est parti en Bosnie,entailment
+"Pour plus d'informations sur leur voyage en Bosnie, voir les résultats de l'opération de chasse menée par un membre saoudien d'Al-Qaïda le 3 octobre 2001.",Il n'y avait aucune preuve qu'un membre d'Al-Qaïda soit allé en Bosnie.,contradiction
+Jane a interrogé le couple à New York et a cherché autour de Mihdhar un moyen de prouver que le couple savait qu'il suivait les informations de la FISA.,Jane a demandé à un tribunal local de déposer une preuve FISA.,neutral
+Jane a interrogé le couple à New York et a cherché autour de Mihdhar un moyen de prouver que le couple savait qu'il suivait les informations de la FISA.,Jane a demandé la copie d'une pièce de preuve de l'obtention de la FISA.,entailment
+Jane a interrogé le couple à New York et a cherché autour de Mihdhar un moyen de prouver que le couple savait qu'il suivait les informations de la FISA.,Jane a déclaré que la seule preuve que la FISA l'avait reçue avait été sa capture.,contradiction
+"il n'y a rien de complètement négligeable à leur point de vue, en ce qui concerne l'une des caractéristiques de la scène du mariage",des signes étonnants arrivent à ceux qui les écoutent dans leur bureau,contradiction
+"il n'y a rien de complètement négligeable à leur point de vue, en ce qui concerne l'une des caractéristiques de la scène du mariage",La chaleur de l'espace à la fin des mariages n'est augmentée que par la chaleur.,neutral
+"il n'y a rien de complètement négligeable à leur point de vue, en ce qui concerne l'une des caractéristiques de la scène du mariage",le bureau de la justice n'a pas déposé toutes les preuves possibles contre vous,entailment
+"Khallad a dit quelque chose d'autre, c'est-à-dire que tout le monde devrait se déplacer à Karachi",Khallad a dit qu'il ne savait rien des trois,contradiction
+"Khallad a dit quelque chose d'autre, c'est-à-dire que tout le monde devrait se déplacer à Karachi",Khallad a déclaré que les trois hommes semblaient être en train de se battre.,entailment
+"Khallad a dit quelque chose d'autre, c'est-à-dire que tout le monde devrait se déplacer à Karachi","Khallad a déclaré que les trois hommes auraient été ensemble à Karachi en octobre, à environ 50%",neutral
+"Rédacteur en chef, Laji Binalshibh, le 1er octobre 2002",Binalshibh a été écouté par un agent du FBI.,neutral
+"Rédacteur en chef, Laji Binalshibh, le 1er octobre 2002",Binalshibh est à l'écoute depuis 2002,entailment
+"Rédacteur en chef, Laji Binalshibh, le 1er octobre 2002","personne n'a osé parler à Binalshibh, il est triste",contradiction
+Mihdhar a reçu un visa américain deux jours avant les entretiens CIA-FBI à CA New-York.,Mihdhar avait un passeport américain pour entrer dans le pays,entailment
+Mihdhar a reçu un visa américain deux jours avant les entretiens CIA-FBI à CA New-York.,"Mihdhar n'a pas de preuve de déplacement, donc il ne peut pas venir avec nous",contradiction
+Mihdhar a reçu un visa américain deux jours avant les entretiens CIA-FBI à CA New-York.,Mihdhar a reçu un certificat de voyage parce qu'il n'y avait rien de vrai à son sujet.,neutral
+"Le FBI n'a pas pu trouver l'auteur ou même savoir qui il était, et nous avons continué à le rechercher pendant deux ans.",Le FBI n'a pas pu retrouver le complice après son déménagement en Floride en 2001.,neutral
+"Le FBI n'a pas pu trouver l'auteur ou même savoir qui il était, et nous avons continué à le rechercher pendant deux ans.",Le FBI n'a pas vu qui c'était,entailment
+"Le FBI n'a pas pu trouver l'auteur ou même savoir qui il était, et nous avons continué à le rechercher pendant deux ans.",Le FBI savait qui il était et l'a emprisonné,contradiction
+"la mort de l'Américain est 11, le dernier chiffre de 8 heures fait 13 morts",il y a des liens avec les juges de l'American 11,entailment
+"la mort de l'Américain est 11, le dernier chiffre de 8 heures fait 13 morts",il y a eu des conjoints qui ont été condamnés à 11 ans d'emprisonnement américain.,neutral
+"la mort de l'Américain est 11, le dernier chiffre de 8 heures fait 13 morts",il n'y avait aucun lien avec American 11,contradiction
+"a conclu que son parti était en quête d'un rapprochement rapide et judicieux avec l'Empire allemand, ce qui serait difficile à réaliser.","si nous l'avions eu à l'occasion d'événements exceptionnels, cela indiquerait où se trouvent les fugitifs",neutral
+"a conclu que son parti était en quête d'un rapprochement rapide et judicieux avec l'Empire allemand, ce qui serait difficile à réaliser.",le gouvernement allemand a eu du mal à mettre en place une enquête rapide et étendue,entailment
+"a conclu que son parti était en quête d'un rapprochement rapide et judicieux avec l'Empire allemand, ce qui serait difficile à réaliser.",la couverture est devenue plus facile pour le gouvernement,contradiction
+"les possibilités sont insuffisantes, mais peu d'efforts sont faits pour les diffuser et les modifier",ils n'ont pas réussi à changer leur part de temps,neutral
+"les possibilités sont insuffisantes, mais peu d'efforts sont faits pour les diffuser et les modifier",ils n'ont presque rien fait pour changer la situation,entailment
+"les possibilités sont insuffisantes, mais peu d'efforts sont faits pour les diffuser et les modifier",ont fait des efforts pour changer la situation,contradiction
+La lettre de l'expert sur le meurtre indique qu'il a commis de nombreuses erreurs et violations de la loi dans la diffusion de l'information et dans l'utilisation de l'information pour les mariages.,l'interlocuteur a émis des idées claires,contradiction
+La lettre de l'expert sur le meurtre indique qu'il a commis de nombreuses erreurs et violations de la loi dans la diffusion de l'information et dans l'utilisation de l'information pour les mariages.,je voulais éclairer les gens sur beaucoup de choses,entailment
+La lettre de l'expert sur le meurtre indique qu'il a commis de nombreuses erreurs et violations de la loi dans la diffusion de l'information et dans l'utilisation de l'information pour les mariages.,l'histoire de l'intelligence telle qu'elle a été écrite est si mauvaise que personne ne peut la lire,neutral
+"Certains des officiers de l'armée ont été conduits par des escaliers; d'autres ont été obligés d'allumer la salle plus rapidement, depuis la porte jusqu'à la salle des gardes.",les chefs d'état-major ayant une autonomie dans leur domaine de compétence,entailment
+"Certains des officiers de l'armée ont été conduits par des escaliers; d'autres ont été obligés d'allumer la salle plus rapidement, depuis la porte jusqu'à la salle des gardes.",les hauts responsables de l'armée ne fuyaient que là où ils étaient nécessaires,contradiction
+"Certains des officiers de l'armée ont été conduits par des escaliers; d'autres ont été obligés d'allumer la salle plus rapidement, depuis la porte jusqu'à la salle des gardes.",Les hauts responsables de l'armée ont voté pour des changements dans leur fonctionnement en s'appuyant sur des précédents.,neutral
+"Le 9 septembre, une nouvelle catastrophe a frappé l'Afghanistan.",nous avons des informations sur l'Afghanistan,entailment
+"Le 9 septembre, une nouvelle catastrophe a frappé l'Afghanistan.",nous n'avons jamais entendu parler de l'Afghanistan depuis octobre,contradiction
+"Le 9 septembre, une nouvelle catastrophe a frappé l'Afghanistan.",nous avions prévu de célébrer le 9 septembre,neutral
+"L'inconséquence a été l'une des choses les plus étonnantes de la défaite du World Trade Center, car elle a touché le Pentagone, la commission Somerset, mais aussi la Pennsylvanie.",La liaison a été interrompue le 11 septembre.,contradiction
+"L'inconséquence a été l'une des choses les plus étonnantes de la défaite du World Trade Center, car elle a touché le Pentagone, la commission Somerset, mais aussi la Pennsylvanie.",les gens ont eu du mal à se connecter au World Trade Center parce que la tour et le réseau de télécommunications ont été coupés,neutral
+"L'inconséquence a été l'une des choses les plus étonnantes de la défaite du World Trade Center, car elle a touché le Pentagone, la commission Somerset, mais aussi la Pennsylvanie.",les gens avaient du mal à se connecter au World Trade Center,entailment
+"des informations de base d'informations intéressantes ont été fournies pour faciliter la collecte des données, l'identification du véhicule et l'enregistrement du véhicule.",les enquêteurs sont également chargés de l'administration de la base de données de l'État,neutral
+"des informations de base d'informations intéressantes ont été fournies pour faciliter la collecte des données, l'identification du véhicule et l'enregistrement du véhicule.",de nombreux types d'informations ont été stockés dans la base de données que nous avons déjà créée,entailment
+"des informations de base d'informations intéressantes ont été fournies pour faciliter la collecte des données, l'identification du véhicule et l'enregistrement du véhicule.",il n'existait pas de méthode permettant d'obtenir des informations sur les personnes qui se trouvaient dans les aéroports.,contradiction
+"Il a déclaré qu'il était conscient de toutes les responsabilités commerciales de l'entreprise, notamment Hazmi et Mihdhar, qui lui ont apporté l'aide dont il avait besoin.","le responsable de la communication a immédiatement communiqué avec les dirigeants, le partenaire a refusé de voter son avis sur la question.",contradiction
+"Il a déclaré qu'il était conscient de toutes les responsabilités commerciales de l'entreprise, notamment Hazmi et Mihdhar, qui lui ont apporté l'aide dont il avait besoin.",le responsable de l'application de la loi est responsable de l'application de la loi même s'il n'est pas honnête,entailment
+"Il a déclaré qu'il était conscient de toutes les responsabilités commerciales de l'entreprise, notamment Hazmi et Mihdhar, qui lui ont apporté l'aide dont il avait besoin.",l'aide a été fournie dans le domaine de la copropriété ainsi que dans le domaine du tourisme,neutral
+"En 2003, ces divisions ont été résolues; désormais, toutes les affaires relatives à la persécution des étrangers sont classées sous le nom de 315",tous les changements dans le domaine de la persécution doivent être pris en compte,neutral
+"En 2003, ces divisions ont été résolues; désormais, toutes les affaires relatives à la persécution des étrangers sont classées sous le nom de 315",Toutes les actions qui concernent la torture seront jugées de la même façon.,entailment
+"En 2003, ces divisions ont été résolues; désormais, toutes les affaires relatives à la persécution des étrangers sont classées sous le nom de 315",Toutes les affaires de ce genre ont leur place dans la loi.,contradiction
+le commandant de l'armée qui surveillait l'enceinte de l'aéroport quand il est tombé l'a amené à l'ESU pour surveiller l'enceinte de l'aéroport. Vous savez que nous avons demandé des juges là-bas.,il n'y a plus personne autour du monstre quand le monstre autour de l'océan s'est écrasé,contradiction
+le commandant de l'armée qui surveillait l'enceinte de l'aéroport quand il est tombé l'a amené à l'ESU pour surveiller l'enceinte de l'aéroport. Vous savez que nous avons demandé des juges là-bas.,Le siège de l'espace de trente minutes s'est effondré avant que le commandant de l'armée n'oblige l'ESU à encercler le monstre.,neutral
+le commandant de l'armée qui surveillait l'enceinte de l'aéroport quand il est tombé l'a amené à l'ESU pour surveiller l'enceinte de l'aéroport. Vous savez que nous avons demandé des juges là-bas.,le commandant de l'armée est à l'arrière du bâtiment qui s'est effondré,entailment
+Indianapolis est le meilleur endroit pour travailler dans l'industrie du cinéma,les cinéphiles aiment Indianapolis pour ses salles de cinéma,neutral
+Indianapolis est le meilleur endroit pour travailler dans l'industrie du cinéma,"pour qu'il soit dans l'industrie du cinéma, il faudrait qu'il aille à Indianapolis",entailment
+Indianapolis est le meilleur endroit pour travailler dans l'industrie du cinéma,"Il est difficile d'obtenir un emploi à Indianapolis quand on est dans l'industrie du cinéma et du théâtre, car c'est une banlieue.",contradiction
+"ils encouragent toute la journée par l'intermédiaire du mardi, toute la semaine par l'intermédiaire d'un centre d'information sur l'organisme et de l'assistance aux personnes dans le besoin.",les personnes ne peuvent être contactées que par courrier ou par courrier électronique,contradiction
+"ils encouragent toute la journée par l'intermédiaire du mardi, toute la semaine par l'intermédiaire d'un centre d'information sur l'organisme et de l'assistance aux personnes dans le besoin.","je peux être avec nous en toute tranquillité, à tout moment de la journée",entailment
+"ils encouragent toute la journée par l'intermédiaire du mardi, toute la semaine par l'intermédiaire d'un centre d'information sur l'organisme et de l'assistance aux personnes dans le besoin.",a reçu plus d'une centaine d'appels à l'élection et a obtenu un diplôme,neutral
+"parce qu'à leur retour dans leurs appartements, ils resteront longtemps jusqu'à ce que nous ouvrions tous les autres centres d'intérêt","une fois de plus, des coups effrayants te frappent",neutral
+"parce qu'à leur retour dans leurs appartements, ils resteront longtemps jusqu'à ce que nous ouvrions tous les autres centres d'intérêt",Ces paquets ont été ouverts pour d'autres intérêts.,contradiction
+"parce qu'à leur retour dans leurs appartements, ils resteront longtemps jusqu'à ce que nous ouvrions tous les autres centres d'intérêt","à nouveau, ils ont été détenus pendant un certain temps",entailment
+"si nous continuons à réduire notre chiffre d'affaires, nous devons nous adresser à vous pour que vous nous souteniez afin que nous puissions mieux faire notre travail","Afin de maintenir l'équilibre de notre audience au-delà de 10 §, il est nécessaire que tous les participants à l'audience donnent 25 §",neutral
+"si nous continuons à réduire notre chiffre d'affaires, nous devons nous adresser à vous pour que vous nous souteniez afin que nous puissions mieux faire notre travail","nous pourrons maintenir notre intégrité si nous avons besoin de la vérité, même si ce n'est pas de l'argent, mais si notre chef veut une modération",contradiction
+"si nous continuons à réduire notre chiffre d'affaires, nous devons nous adresser à vous pour que vous nous souteniez afin que nous puissions mieux faire notre travail",leurs encouragements nous aident à maintenir notre équilibre,entailment
+"Cela nous a permis d'offrir de la nourriture, des légumes et du café à environ 400 enfants de la région d'Indianapolis.",une entreprise de soutien fiable nous a amené à inviter Beyoncé à signer un accord d'amnistie pour Indianapolis,neutral
+"Cela nous a permis d'offrir de la nourriture, des légumes et du café à environ 400 enfants de la région d'Indianapolis.","nous avions l'intention de fêter Noël pour les enfants, mais finalement nous n'avons rien pu faire pour eux.",contradiction
+"Cela nous a permis d'offrir de la nourriture, des légumes et du café à environ 400 enfants de la région d'Indianapolis.",nous avons pu aider beaucoup d'enfants d'Indianapolis,entailment
+"Dans la première partie, les représentants peuvent participer en faisant un don volontaire d'au moins 1000 § pour le Cercle des Chancellors, ou d'au moins 500 § pour les Chancellors Associés.",les personnes indépendantes peuvent adhérer à la société si elles ont obtenu une indemnité minimale au titre du § 50,contradiction
+"Dans la première partie, les représentants peuvent participer en faisant un don volontaire d'au moins 1000 § pour le Cercle des Chancellors, ou d'au moins 500 § pour les Chancellors Associés.",les gens pourront y participer s'ils ont apporté des contributions significatives,entailment
+"Dans la première partie, les représentants peuvent participer en faisant un don volontaire d'au moins 1000 § pour le Cercle des Chancellors, ou d'au moins 500 § pour les Chancellors Associés.",la plupart des gens ont voté pour Chancellors Associates,neutral
+"de sorte que, à ce stade, vous pouvez obtenir d'autres avantages en termes de temps à la fin de l'année","si vous faites une demande en sachant que le minimum est de 1000 §, vous aurez plus de chances d'échapper à l'inflation",neutral
+"de sorte que, à ce stade, vous pouvez obtenir d'autres avantages en termes de temps à la fin de l'année","Madame la Présidente, nous vous conseillons, en tant qu'experts du monde de l'empowerment, de ne pas donner de compliments.",contradiction
+"de sorte que, à ce stade, vous pouvez obtenir d'autres avantages en termes de temps à la fin de l'année",vous pourriez avoir des réductions d'impôt sur les salaires,entailment
+"comme vous le savez, les membres du kippango sont des étudiants et des anciens qui ont reçu 1000 § ou plus d'études de droit.",certains membres du kippango ont donné plus de 100 000 § à l'école,neutral
+"comme vous le savez, les membres du kippango sont des étudiants et des anciens qui ont reçu 1000 § ou plus d'études de droit.",il y a quelques photos de ce qui a été offert à une distance de 100000f de l'espace où nous enseignons tout ce qui concerne le droit,entailment
+"comme vous le savez, les membres du kippango sont des étudiants et des anciens qui ont reçu 1000 § ou plus d'études de droit.",des réfugiés de la ville de Kippango ont offert leur contribution pour l'école mais n'ont pas pu le faire,contradiction
+en tant que jeune adulte dans les années 50; un de mes souvenirs préférés est d'aller explorer les pratiques traditionnelles de la société,j'ai refusé d'aller au bureau de la culture quand j'étais jeune donc je n'étais plus étudiant,contradiction
+en tant que jeune adulte dans les années 50; un de mes souvenirs préférés est d'aller explorer les pratiques traditionnelles de la société,je voulais aller dans ta chambre quand j'étais jeune,entailment
+en tant que jeune adulte dans les années 50; un de mes souvenirs préférés est d'aller explorer les pratiques traditionnelles de la société,"Ce qui est plus intéressant, c'est que les organisateurs du Caaday Civic se sont mis à parler de la belle femme et de l'animal.",neutral
+"s'il n'a pas répondu à la lettre, il a versé 18 F","Tous ceux qui acceptent cette lettre disent: ""Oui, il y a des erreurs dans le Seigneur.",contradiction
+"s'il n'a pas répondu à la lettre, il a versé 18 F",si je vous donne 18f vous aurez du plaisir,neutral
+"s'il n'a pas répondu à la lettre, il a versé 18 F",on s'attend à ce que tous ceux qui reçoivent la lettre apportent une aide au numéro 18f,entailment
+"Remplissez simplement le plan, complétez la partie visible, faites les ajustements nécessaires à votre logement et inscrivez-les dans le registre de l'immeuble.",je vous conseille de ne pas faire d'erreur dans votre bureau,contradiction
+"Remplissez simplement le plan, complétez la partie visible, faites les ajustements nécessaires à votre logement et inscrivez-les dans le registre de l'immeuble.",il est interdit d'utiliser un lave-vaisselle blanc,neutral
+"Remplissez simplement le plan, complétez la partie visible, faites les ajustements nécessaires à votre logement et inscrivez-les dans le registre de l'immeuble.",Il est important que vous remplissiez le formulaire de la lettre qui vous est adressée.,entailment
+l'école de médecine féminine a besoin de votre aide pour promouvoir et maintenir l'éducation,"ils vous demandent de donner 100 millions de dollars à une école qui enseigne tout ce qui est partiel à la page, sauf que vous renoncez à votre autorité pour donner de l'aide à ceux qui oublient",neutral
+l'école de médecine féminine a besoin de votre aide pour promouvoir et maintenir l'éducation,"l'école enseigne tout ce qu'il y a à apprendre sur le papier, en remplacement de tout ce qu'il y avait dans le papier, de sorte qu'elle n'a plus besoin d'argent",contradiction
+l'école de médecine féminine a besoin de votre aide pour promouvoir et maintenir l'éducation,certains d'entre vous s'attendent à ce que vous apportiez votre soutien à l'école qui enseigne tous les jours selon les règles.,entailment
+80% des participants à l'événement présenteront leurs connaissances en matière de résolution des conflits,plus de la moitié des personnes impliquées dans l'affaire défendront leurs droits devant les tribunaux militaires,entailment
+80% des participants à l'événement présenteront leurs connaissances en matière de résolution des conflits,un médiateur dont seuls les intervenants peuvent faire valoir leurs droits à l'égard d'un jugement martial.,contradiction
+80% des participants à l'événement présenteront leurs connaissances en matière de résolution des conflits,il y avait environ 100 membres,neutral
+Veillez à ne pas oublier les détails de la liste de tous les fournisseurs de soins,ce serait très dur si vous leur donniez des cadeaux,entailment
+Veillez à ne pas oublier les détails de la liste de tous les fournisseurs de soins,"En effet, nos lettres de recommandation sont ouvertes à tous les croyants pour que les autres croient en nous.",neutral
+Veillez à ne pas oublier les détails de la liste de tous les fournisseurs de soins,"il n'y a plus de cadeaux, maintenant vous pouvez enlever le cadeau",contradiction
+les locaux seront ouverts à toute personne disposant de l'équipement et du matériel nécessaires à la promotion de la communauté et à la diffusion,les personnes qui n'ont pas besoin d'aide pour accéder au site,contradiction
+les locaux seront ouverts à toute personne disposant de l'équipement et du matériel nécessaires à la promotion de la communauté et à la diffusion,Ces personnes ont besoin d'un abri et d'un dispositif de dispersion et de collectivité pour pouvoir entrer.,entailment
+les locaux seront ouverts à toute personne disposant de l'équipement et du matériel nécessaires à la promotion de la communauté et à la diffusion,les personnes déplacées ont besoin de leur lit et de l'équipement leur permettant de se débarrasser de la pollution et de la dispersion des intrus pour se déplacer.,neutral
+Les ventes de billets et de bourses ne suffisent pas à combler le problème actuel.,"ils vendent des billets, bientôt ils auront un coupon pour organiser l'événement",contradiction
+Les ventes de billets et de bourses ne suffisent pas à combler le problème actuel.,un appel d'offres a été lancé afin de rétablir le délai d'un appel d'offres antérieur qui a interrompu la vente du billet et l'offre de l'association.,entailment
+Les ventes de billets et de bourses ne suffisent pas à combler le problème actuel.,le prix du billet annuel est fixé à 70% de la somme versée par l'établissement pour l'ensemble de la période,neutral
+une nouvelle descente ! la joie de ne pas tomber est une menace pour son avenir,un certificat de dépôt qui sera remis au prédicateur du mois,neutral
+une nouvelle descente ! la joie de ne pas tomber est une menace pour son avenir,tous les plaisirs qu'on leur accorde sont utiles,entailment
+une nouvelle descente ! la joie de ne pas tomber est une menace pour son avenir,les grades supérieurs à 100F auront leur place,contradiction
+il n'y a pas encore de date précise pour les 365 000 personnes qui attendent nos amis et partenaires dans la même situation que vous,l'espérance de copropriété dépasse les 300 000,entailment
+il n'y a pas encore de date précise pour les 365 000 personnes qui attendent nos amis et partenaires dans la même situation que vous,je pense qu'on a trois fois plus que ce qu'on attendait du couple,neutral
+il n'y a pas encore de date précise pour les 365 000 personnes qui attendent nos amis et partenaires dans la même situation que vous,ils n'ont pas discuté d'argent,contradiction
+"notre bureau de l'action sociale n'a pas fait de critiques et il y a quelques années, ils ont développé un bureau de la délinquance",notre bureau des affaires publiques n'a pas approuvé les critiques et les a mis en place depuis trois ans,neutral
+"notre bureau de l'action sociale n'a pas fait de critiques et il y a quelques années, ils ont développé un bureau de la délinquance",notre bureau des affaires publiques célébrera le 1er anniversaire de son ouverture le mois prochain.,contradiction
+"notre bureau de l'action sociale n'a pas fait de critiques et il y a quelques années, ils ont développé un bureau de la délinquance",La loi constitutive a été adoptée il y a un an.,entailment
+le prix des billets ne correspond pas au prix des objets réservés,il s'agit d'un magasin de billets qui achète les billets pour les acheter et les acheter ensuite,entailment
+le prix des billets ne correspond pas au prix des objets réservés,la valeur de l'ensemble est très élevée,neutral
+le prix des billets ne correspond pas au prix des objets réservés,ce qu'ils ont gagné après avoir vendu les billets sera calculé en fonction de la durée de l'événement,contradiction
+"Omnia vincit amor (((seulement si vous êtes en train de légaliser le standard hebdomadaire): Brit Hume (((dans le programme Fox News Sunday) est une théorie sur les raisons pour lesquelles Lewinsky ne devrait pas être possible, il y a des difficultés à trouver un équilibre et il y a un retour en arrière",Brit Hume est le président de Fox.,neutral
+"Omnia vincit amor (((seulement si vous êtes en train de légaliser le standard hebdomadaire): Brit Hume (((dans le programme Fox News Sunday) est une théorie sur les raisons pour lesquelles Lewinsky ne devrait pas être possible, il y a des difficultés à trouver un équilibre et il y a un retour en arrière",Brit Hume travaille pour CNN,contradiction
+"Omnia vincit amor (((seulement si vous êtes en train de légaliser le standard hebdomadaire): Brit Hume (((dans le programme Fox News Sunday) est une théorie sur les raisons pour lesquelles Lewinsky ne devrait pas être possible, il y a des difficultés à trouver un équilibre et il y a un retour en arrière",Brit Hume travaille pour Fox,entailment
+des efforts ont été faits pour recruter Michael Apted afin d'améliorer la qualité de la musique canadienne.,Michael Apted a consacré une bonne partie de sa vie à résoudre des problèmes simples et simples.,contradiction
+des efforts ont été faits pour recruter Michael Apted afin d'améliorer la qualité de la musique canadienne.,Michael Apted s'efforce d'augmenter le nombre de joueurs et d'enregistrer la chaîne,entailment
+des efforts ont été faits pour recruter Michael Apted afin d'améliorer la qualité de la musique canadienne.,"Il était considéré comme un poivre chaud et salé; par conséquent, il a été très intéressant d'engager quelqu'un comme Michael Apted pour ajouter une saveur délicieuse à la quantité de poivre chaud, et il a ajouté ses propres ingrédients pour améliorer la qualité de nos produits.",neutral
+regarde la fille en robe blanche avec des chaussures blanches,la fille pleure pour que le verre s'éteigne dans le ciel,neutral
+regarde la fille en robe blanche avec des chaussures blanches,la fille est habillée en vêtements blancs,entailment
+regarde la fille en robe blanche avec des chaussures blanches,la fille qui porte tout en rouge,contradiction
+"le film ne parle pas de Kausfman, mais de sa famille et de ses amis.",Le film où Kaufman parle de l'amour,entailment
+"le film ne parle pas de Kausfman, mais de sa famille et de ses amis.",Le film a donné la parole à Kaufman pour qu'il s'exprime.,contradiction
+"le film ne parle pas de Kausfman, mais de sa famille et de ses amis.","Le film avait besoin d'un coproducteur pour être réalisé, les détails de Kaufman étant négligés.",neutral
+Rockefeller déclenche une vague d'horreur lorsque le Vengeur Tarbell commence à détruire le corps de McClure.,Rockefeller pour la lutte contre le cancer,neutral
+Rockefeller déclenche une vague d'horreur lorsque le Vengeur Tarbell commence à détruire le corps de McClure.,Rockefeller avait donné,entailment
+Rockefeller déclenche une vague d'horreur lorsque le Vengeur Tarbell commence à détruire le corps de McClure.,Rockefeller n'était pas,contradiction
+les seules accusations portées contre Klayman concernant le trafic de drogue à New York sont des poursuites judiciaires.,Klayman a commencé à prêcher en Californie.,contradiction
+les seules accusations portées contre Klayman concernant le trafic de drogue à New York sont des poursuites judiciaires.,Klayman n'a pas expliqué comment nous pourrions accuser d'avoir des idées fausses sur la prédication.,neutral
+les seules accusations portées contre Klayman concernant le trafic de drogue à New York sont des poursuites judiciaires.,il y a eu des plaintes au sujet du discours prononcé contre Klayman,entailment
+Personne ne s'attendait à ce que la foule soit pleine de gens qui représentent leur syndicat et crient au secrétaire général américain.,les représentants de l'association portent des manteaux,neutral
+Personne ne s'attendait à ce que la foule soit pleine de gens qui représentent leur syndicat et crient au secrétaire général américain.,ont été interprétés comme des représentants de l'association des travailleurs et des travailleurs,contradiction
+Personne ne s'attendait à ce que la foule soit pleine de gens qui représentent leur syndicat et crient au secrétaire général américain.,on ne sait pas comment les représentants du syndicat vont réagir,entailment
+ce n'est pas parce que la tradition est moins importante que le métier d'entraîneur que le chien dort,les enfants naissent avec leur plein potentiel,contradiction
+ce n'est pas parce que la tradition est moins importante que le métier d'entraîneur que le chien dort,le comportement de la formation de Kat dépend beaucoup plus de sa formation que de l'état de son peuple,entailment
+ce n'est pas parce que la tradition est moins importante que le métier d'entraîneur que le chien dort,c'est un entraînement très rapide et très efficace qui se déroule au moins trois heures par jour,neutral
+"J'ai appris qu'aux États-Unis, le vaccin était distribué sous deux formes.",j'ai rencontré ce politicien,neutral
+"J'ai appris qu'aux États-Unis, le vaccin était distribué sous deux formes.",a étudié les affaires des États-Unis,entailment
+"J'ai appris qu'aux États-Unis, le vaccin était distribué sous deux formes.",Les États-Unis vont réduire l'indemnité des réfugiés pour retourner chez eux,contradiction
+l'agence de presse de l'université la plus ancienne et la plus importante du monde - Oxford - a publié une base de données sur le nombre d'étudiants.,Le recensement de l'université d'Oxford est en cours,entailment
+l'agence de presse de l'université la plus ancienne et la plus importante du monde - Oxford - a publié une base de données sur le nombre d'étudiants.,le bâtiment de haute sécurité n'a pas suffisamment d'espace pour contrôler le nombre d'élèves lors du séisme,neutral
+l'agence de presse de l'université la plus ancienne et la plus importante du monde - Oxford - a publié une base de données sur le nombre d'étudiants.,Le haut-commissariat est chargé de l'enregistrement du nombre d'élèves et ne peut être remplacé par personne.,contradiction
+il y a une fête pour tout le monde maintenant,le système d'accélération est une machine à deux vitesses dédiée à tous,neutral
+il y a une fête pour tout le monde maintenant,il n'y a pas de ton pour les gens qui sont dans la ville,contradiction
+il y a une fête pour tout le monde maintenant,ce n'est pas une bonne nouvelle pour les pauvres,entailment
+le nombre de séances d'entraînement physique n'est pas limité aux événements que vous pouvez organiser dans le cadre de cette sélection.,Les élections des politiciens ne sont pas considérées comme un espace de négociation.,neutral
+le nombre de séances d'entraînement physique n'est pas limité aux événements que vous pouvez organiser dans le cadre de cette sélection.,l'espace de partage des choix liés à l'événement d'entraînement physique est limité,contradiction
+le nombre de séances d'entraînement physique n'est pas limité aux événements que vous pouvez organiser dans le cadre de cette sélection.,les bureaux de liaison mettent en œuvre les meilleures pratiques possibles,entailment
+"Le 25 août, lors de la cérémonie de remise des prix démocratiques à Atlantic City, N.J. Johnson, alors âgé de 65 ans, s'apprêtait à prononcer ses trois discours les plus célèbres pour marquer la fin du mariage.",Johnson a lancé un appel de soutien,neutral
+"Le 25 août, lors de la cérémonie de remise des prix démocratiques à Atlantic City, N.J. Johnson, alors âgé de 65 ans, s'apprêtait à prononcer ses trois discours les plus célèbres pour marquer la fin du mariage.",Johnson n'a pas envisagé de quitter le conseil,contradiction
+"Le 25 août, lors de la cérémonie de remise des prix démocratiques à Atlantic City, N.J. Johnson, alors âgé de 65 ans, s'apprêtait à prononcer ses trois discours les plus célèbres pour marquer la fin du mariage.",Johnson décrit comment il sort,entailment
+Lamar Alexander démissionne de son poste de gouverneur,au fur et à mesure que quelqu'un arrête d'essayer d'être un leader,entailment
+Lamar Alexander démissionne de son poste de gouverneur,Lamar Alexander a déclaré qu'il n'arrêterait pas de poursuivre la population pour être élu président.,contradiction
+Lamar Alexander démissionne de son poste de gouverneur,M. Alexander a été contraint d'arrêter l'exposition de ses statues déshonorantes.,neutral
+"Les actions précédentes ont été extrêmement malveillantes, y compris des actes plus violents que ceux du FBI et que la Maison-Blanche s'est rendue coupable de l'exploitation de l'emplacement des licences de voyage et de l'affaire que nous avons appelée Filegate.",La Maison-Blanche dénonce l'hypocrisie politique du FBI.,neutral
+"Les actions précédentes ont été extrêmement malveillantes, y compris des actes plus violents que ceux du FBI et que la Maison-Blanche s'est rendue coupable de l'exploitation de l'emplacement des licences de voyage et de l'affaire que nous avons appelée Filegate.",La Maison-Blanche n'a pas bien géré le FBI,entailment
+"Les actions précédentes ont été extrêmement malveillantes, y compris des actes plus violents que ceux du FBI et que la Maison-Blanche s'est rendue coupable de l'exploitation de l'emplacement des licences de voyage et de l'affaire que nous avons appelée Filegate.",La Maison-Blanche utilise le FBI avec beaucoup de sérieux.,contradiction
+"Tung a demandé que des condamnations soient prononcées contre tous les vendeurs de boules à l'intérieur du quartier, mais tout le monde espère qu'il ne fera pas de mal à personne.",Tung n'a même pas pris en compte les détaillants de tous les éléments de l'espace dans le cadre de l'installation des pièces détachées,contradiction
+"Tung a demandé que des condamnations soient prononcées contre tous les vendeurs de boules à l'intérieur du quartier, mais tout le monde espère qu'il ne fera pas de mal à personne.",Tung pense que les commerçants individuels qui vendent des espaces désignés agissent de manière égoïste et acceptable.,neutral
+"Tung a demandé que des condamnations soient prononcées contre tous les vendeurs de boules à l'intérieur du quartier, mais tout le monde espère qu'il ne fera pas de mal à personne.",Tung veut encourager les spécialistes du marketing à faire de la propriété un espace public.,entailment
+"Les journalistes qui parlent des accidents, les autorités pétrolières en colère, arrêtent le transport du pétrole pour des raisons inconnues, les dégâts sont terribles",10 personnes ont perdu leur domicile,neutral
+"Les journalistes qui parlent des accidents, les autorités pétrolières en colère, arrêtent le transport du pétrole pour des raisons inconnues, les dégâts sont terribles",les pauvres qui travaillent dur pour leur logement,entailment
+"Les journalistes qui parlent des accidents, les autorités pétrolières en colère, arrêtent le transport du pétrole pour des raisons inconnues, les dégâts sont terribles",ils ont enterré un enfant,contradiction
+"Lawrence Singleton, un joueur de tennis qui a coupé la jambe de son adversaire et qui a été condamné à trois ans de prison pour avoir violé une autre femme en Floride","Il fait souffrir ceux qu'il a tu sans le vouloir. En effet, il veut les sauver.",neutral
+"Lawrence Singleton, un joueur de tennis qui a coupé la jambe de son adversaire et qui a été condamné à trois ans de prison pour avoir violé une autre femme en Floride","quand il est revenu à la raison, il a expliqué comment sa vie en prison s'était bien passée",contradiction
+"Lawrence Singleton, un joueur de tennis qui a coupé la jambe de son adversaire et qui a été condamné à trois ans de prison pour avoir violé une autre femme en Floride",M. Singleton est un journaliste emprisonné en Floride.,entailment
+"du point de vue de Charles Lane, du New Republic, la diffusion d'informations sur le couvre-feu améliore la méthodologie de diffusion de l'information de Gabriel Garcia Márquez",Charles Lane est un homme d'affaires,entailment
+"du point de vue de Charles Lane, du New Republic, la diffusion d'informations sur le couvre-feu améliore la méthodologie de diffusion de l'information de Gabriel Garcia Márquez",Charles Lane a vendu ses dames,contradiction
+"du point de vue de Charles Lane, du New Republic, la diffusion d'informations sur le couvre-feu améliore la méthodologie de diffusion de l'information de Gabriel Garcia Márquez",Charles Lane remporte la médaille d'or de l'étudiant lauréat,neutral
+Le siège de la Cour suprême n'est pas le seul endroit où la politique se déroule à Washington.,la Cour suprême n'est pas le seul bâtiment politique à Washington,entailment
+Le siège de la Cour suprême n'est pas le seul endroit où la politique se déroule à Washington.,la journée politique pourrait commencer ce matin,neutral
+Le siège de la Cour suprême n'est pas le seul endroit où la politique se déroule à Washington.,Il y a une salle dans la salle de la Cour suprême avec des représentants des gouvernements et des coopératives.,contradiction
+"On peut imaginer un bulldozer en train de construire une route pour un nouveau développement, quand le développement est accepté Hey, Lloyd...",vous imaginez un seul pilote lancer un bulldozer,neutral
+"On peut imaginer un bulldozer en train de construire une route pour un nouveau développement, quand le développement est accepté Hey, Lloyd...",pouvez-vous imaginer une ligne de bulldozer,entailment
+"On peut imaginer un bulldozer en train de construire une route pour un nouveau développement, quand le développement est accepté Hey, Lloyd...",on ne pouvait pas imaginer une entreprise de bulldozers,contradiction
+"J'ai reçu une lettre d'un ami du Dr. qui avait l'air d'être un bon ami, et il m'a envoyé une petite boîte de fruits pour Noël.",il est clair que la carte a été remplacée par le message bimako,entailment
+"J'ai reçu une lettre d'un ami du Dr. qui avait l'air d'être un bon ami, et il m'a envoyé une petite boîte de fruits pour Noël.",je n'ai pas eu l'occasion de couper le gâteau le jour de Noël,neutral
+"J'ai reçu une lettre d'un ami du Dr. qui avait l'air d'être un bon ami, et il m'a envoyé une petite boîte de fruits pour Noël.",la carte qui nous offre une bouteille de vin le jour de Noël,contradiction
+"La communauté Farandoo est connue sous le nom de la cuisine oubliée, et la communauté Farandoo, secrètement, peut être considérée comme un nom indien.",ils ont changé le nom de l'association parce qu'elle n'était pas très active,neutral
+"La communauté Farandoo est connue sous le nom de la cuisine oubliée, et la communauté Farandoo, secrètement, peut être considérée comme un nom indien.",l'association qui possédait un nom antérieur peut être considérée comme une dénomination indienne,entailment
+"La communauté Farandoo est connue sous le nom de la cuisine oubliée, et la communauté Farandoo, secrètement, peut être considérée comme un nom indien.",le vote du parti ne peut avoir qu'un seul nom,contradiction
+je n'arrive pas à voir une lumière aussi claire qu'avec le dictionnaire de l'orthographe,j'ai vu la lumière dans le thésaurus,contradiction
+je n'arrive pas à voir une lumière aussi claire qu'avec le dictionnaire de l'orthographe,j'ai regardé dans le thesaurus et je n'ai pas vu la lumière des mots,entailment
+je n'arrive pas à voir une lumière aussi claire qu'avec le dictionnaire de l'orthographe,le thésaurus utilisé était celui du thésaurus de la mère,neutral
+comment peut-on faire ça,comment se fait-il que beaucoup ne puissent rien faire,contradiction
+comment peut-on faire ça,"""Comment est - ce que nous avons pu commettre ce mal?",neutral
+comment peut-on faire ça,comment a-t-il pu être capable de faire cela,entailment
+"a été ajouté comme, qui contient seulement les mots connus qui ont parlé du 20e siècle, de la fin du siècle, mais a formé le vocabulaire de la fin du 20e siècle.","La conception du livre, qui comprend des expressions issues du XXe siècle, n'a pas négligé le sens des expressions anciennes.",entailment
+"a été ajouté comme, qui contient seulement les mots connus qui ont parlé du 20e siècle, de la fin du siècle, mais a formé le vocabulaire de la fin du 20e siècle.",avoir tout ce que contiennent les mots jusqu'à la mort,contradiction
+"a été ajouté comme, qui contient seulement les mots connus qui ont parlé du 20e siècle, de la fin du siècle, mais a formé le vocabulaire de la fin du 20e siècle.",les langues les plus anciennes et les plus variées datent de la période antérieure au XXe siècle,neutral
+"si quelqu'un a un livre sorti en 1884, il peut avoir du mal à acheter un autre livre et ne pas acheter le mot-clé plus clair (et plus simple)",le recensement de 1984 est le meilleur,neutral
+"si quelqu'un a un livre sorti en 1884, il peut avoir du mal à acheter un autre livre et ne pas acheter le mot-clé plus clair (et plus simple)",le livre n'est pas à vendre,contradiction
+"si quelqu'un a un livre sorti en 1884, il peut avoir du mal à acheter un autre livre et ne pas acheter le mot-clé plus clair (et plus simple)",le thème du livre est le plus facile à trouver,entailment
+Bernstein éclaire l'ouverture du livre,Bernstein n'a pas éteint les lumières,neutral
+Bernstein éclaire l'ouverture du livre,Berstein a éclairci le résultat final,contradiction
+Bernstein éclaire l'ouverture du livre,l'ouverture avec des lumières,entailment
+"Nous n'avons jamais parlé à personne des choses que nous avons interdites, mais c'est difficile pour l'invité, même si c'est le cas pour deux personnes âgées, de comprendre la signification de leurs paroles.",même les enfants nés ici peuvent avoir des difficultés à s'épanouir,neutral
+"Nous n'avons jamais parlé à personne des choses que nous avons interdites, mais c'est difficile pour l'invité, même si c'est le cas pour deux personnes âgées, de comprendre la signification de leurs paroles.",La récréation est l'une des choses les plus faciles à faire.,contradiction
+"Nous n'avons jamais parlé à personne des choses que nous avons interdites, mais c'est difficile pour l'invité, même si c'est le cas pour deux personnes âgées, de comprendre la signification de leurs paroles.",le but de ces discussions est d'améliorer la situation de l'hôte,entailment
+"maintenant, nous devons faire attention à la chaise qui a une lumière différente",les cartes prédéfinies sont prises pour voir la liste des jumeaux,neutral
+"maintenant, nous devons faire attention à la chaise qui a une lumière différente",l'ancienneté des amplificateurs est un bon moyen de mettre en évidence la signification des sons blessés,contradiction
+"maintenant, nous devons faire attention à la chaise qui a une lumière différente",que les mots ont pu changer quand on a essayé de faire des mots plus longs,entailment
+laissez-les se détendre par la chaleur,L'huile de chauffage est un bon remède pour améliorer l'humeur et le corps,contradiction
+laissez-les se détendre par la chaleur,"avec plus de chaleur, je peux atteindre les objectifs suivants:",entailment
+laissez-les se détendre par la chaleur,il était à plusieurs degrés par rapport à l'époque,neutral
+un autre métier qui n'est pas agréable est celui de se maîtriser soi-même,de nombreux autres emplois ont connu une croissance similaire,neutral
+un autre métier qui n'est pas agréable est celui de se maîtriser soi-même,de nombreuses organisations se sont auto-destruites,contradiction
+un autre métier qui n'est pas agréable est celui de se maîtriser soi-même,il n'y a pas d'autre organisme qui pratique le bien qui se mesure strictement lui-même,entailment
+"et avec les dons de sag, les fumeurs et les célébrités de l'étranger utilisent le nom de l'appel dans les lettres intérieures des chambres, dans des propos futiles et des enregistrements qui ne passent pas par le travail de l'auteur et qui ne sont pas traités correctement.",les dossiers n'ont rien à expliquer,contradiction
+"et avec les dons de sag, les fumeurs et les célébrités de l'étranger utilisent le nom de l'appel dans les lettres intérieures des chambres, dans des propos futiles et des enregistrements qui ne passent pas par le travail de l'auteur et qui ne sont pas traités correctement.",les enregistrements n'ont pas de bonne chanson,entailment
+"et avec les dons de sag, les fumeurs et les célébrités de l'étranger utilisent le nom de l'appel dans les lettres intérieures des chambres, dans des propos futiles et des enregistrements qui ne passent pas par le travail de l'auteur et qui ne sont pas traités correctement.","dans les médias, on parle souvent de femmes sans emploi",neutral
+la modestie indique une diminution de l'équilibre (si une indication),les enregistrements placés sur la bouteille de l'armoire montrent sa modestie,entailment
+la modestie indique une diminution de l'équilibre (si une indication),on ne les utilise pas uniquement pour distinguer les vins et les whiskies,contradiction
+la modestie indique une diminution de l'équilibre (si une indication),une boisson alcoolisée sans alcool,neutral
+le nom modeste qui a été réutilisé n'a pas été utilisé là où vous le savez. ce n'est pas un autre projet qui a été créé.,ce n'est pas facile pour ceux qui ont trouvé un autre nom,neutral
+le nom modeste qui a été réutilisé n'a pas été utilisé là où vous le savez. ce n'est pas un autre projet qui a été créé.,le nom n'est pas utilisé couramment,entailment
+le nom modeste qui a été réutilisé n'a pas été utilisé là où vous le savez. ce n'est pas un autre projet qui a été créé.,le nom ne doit plus être utilisé,contradiction
+"En plus de tout cela, ils pensent qu'une écriture agréable est plus rapide à retenir de l'esprit; cela augmente les chances de réussite.",nous sommes les plus susceptibles d'oublier une mauvaise écriture,contradiction
+"En plus de tout cela, ils pensent qu'une écriture agréable est plus rapide à retenir de l'esprit; cela augmente les chances de réussite.",l'article écrit si bien est le plus facile à saisir l'article mal écrit,entailment
+"En plus de tout cela, ils pensent qu'une écriture agréable est plus rapide à retenir de l'esprit; cela augmente les chances de réussite.",c'est une chanson qui me plait beaucoup,neutral
+"Malgré la tempête et un peu de peur, les Britanniques ont cru leur créateur et ont exalté la parole.",Les Britanniques n'ont pas donné leur accord.,contradiction
+"Malgré la tempête et un peu de peur, les Britanniques ont cru leur créateur et ont exalté la parole.",Les Britanniques ont pris le contrôle de l'économie mondiale,neutral
+"Malgré la tempête et un peu de peur, les Britanniques ont cru leur créateur et ont exalté la parole.",Les Britanniques ont fait beaucoup pour maintenir la paix dans le monde entier.,entailment
+ton père est le plus grand menteur,ta mère a du mal à voir les heures,entailment
+ton père est le plus grand menteur,c'est probablement parce qu'il n'y a pas d'appareil de traitement qui a été conçu pour cela,neutral
+ton père est le plus grand menteur,il a dit qu'il pouvait voir et qu'il ne pouvait pas parler,contradiction
+"Il y a bien sûr des langues très différentes de l'anglais en Grande-Bretagne comme en Amérique du Nord, et tous ceux qui les entendront les diront comme s'ils s'entendaient les uns les autres.",La Grande-Bretagne compte plus de collèges anglophones que les États-Unis,entailment
+"Il y a bien sûr des langues très différentes de l'anglais en Grande-Bretagne comme en Amérique du Nord, et tous ceux qui les entendront les diront comme s'ils s'entendaient les uns les autres.","les petites branches de l'armée américaine se sont effondrées, et ceux qui ne pouvaient pas les distinguer les uns des autres",contradiction
+"Il y a bien sûr des langues très différentes de l'anglais en Grande-Bretagne comme en Amérique du Nord, et tous ceux qui les entendront les diront comme s'ils s'entendaient les uns les autres.",les gens qui vivent sous les armes en Amérique ne sont pas à l'aise avec ce que disent les Britanniques,neutral
+"un prédicateur du Tennessee utilise le mot "" chien "" pour décrire la chaleur et la sécheresse de la saison, ce qui peut être le cas si l'on compare la chaleur à la saison sèche d'août.","lorsque le prédicateur a été remplacé, le temps des chiens a été utilisé pour prévoir la pluie pendant la mousson",contradiction
+"un prédicateur du Tennessee utilise le mot "" chien "" pour décrire la chaleur et la sécheresse de la saison, ce qui peut être le cas si l'on compare la chaleur à la saison sèche d'août.",Juin et juillet sont également très chauds dans le Tennessee.,neutral
+"un prédicateur du Tennessee utilise le mot "" chien "" pour décrire la chaleur et la sécheresse de la saison, ce qui peut être le cas si l'on compare la chaleur à la saison sèche d'août.",le temps est chaud et pluvieux comme les jours d'août,entailment

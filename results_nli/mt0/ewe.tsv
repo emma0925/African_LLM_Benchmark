@@ -1,0 +1,601 @@
+Unnamed: 0	premise	hypothesis	label	llm	verbalized
+0	Enyo, nyemen,o esia ŋu bum hã o, evɔ nyemekpɔ ŋudzedze o, eye megava dze nuƒoƒo kplii.	Nyemegaƒo nu ake o.	contradiction	<pad> entailment</s>	entailment
+1	Enyo, nyemen,o esia ŋu bum hã o, evɔ nyemekpɔ ŋudzedze o, eye megava dze nuƒoƒo kplii.	Medo domedzui ale gbegbe be ɖeko megadze nuƒoƒo kpliie nye esia.	entailment	<pad> entailment</s>	entailment
+2	Enyo, nyemen,o esia ŋu bum hã o, evɔ nyemekpɔ ŋudzedze o, eye megava dze nuƒoƒo kplii.	Mǐhe nya vevie ŋutɔ.	neutral	<pad> entailment</s>	entailment
+3	Wogblɔ nam be le nuwuwu la, woakplɔ ame aɖe si mado go la vɛ nam.	Womegblɔ nam be mado go ame aɖeke kpɔ o.	contradiction	<pad> entailment</s>	entailment
+4	Wogblɔ nam be le nuwuwu la, woakplɔ ame aɖe si mado go la vɛ nam.	Wogblɔ nam be woyɔ ɖekakpui aɖe si ado go kplim.	entailment	<pad> entailment</s>	entailment
+5	Wogblɔ nam be le nuwuwu la, woakplɔ ame aɖe si mado go la vɛ nam.	Ɖekakpui la tsi megbe vie hafi va.	neutral	<pad> entailment</s>	entailment
+6	Nu sɔgbɔ li si ŋu nate ŋu ƒo nu le ale gbegbe be, ɖeko mabe esia nenɔ anyi boŋu.	Adzrom be magblɔ nu siwo katã menya ku ɖe eŋu la na wò.	contradiction	<pad> entailment</s>	entailment
+7	Nu sɔgbɔ li si ŋu nate ŋu ƒo nu le ale gbegbe be, ɖeko mabe esia nenɔ anyi boŋu.	Nyemele nya aɖeke gblɔ ge ku ɖe ŋu o, to egbɔ be nu sɔgbɔ lii si ŋu miake ɖo hafi.	entailment	<pad> entailment</s>	entailment
+8	Nu sɔgbɔ li si ŋu nate ŋu ƒo nu le ale gbegbe be, ɖeko mabe esia nenɔ anyi boŋu.	Nyemagblɔ dugãa ƒe ŋutinya o elabena nu sɔgbɔ lii woagblɔ ku ɖe eŋu.	neutral	<pad> entailment</s>	entailment
+9	Eya ta nyemenya nu si tae tututu o.	Menye nu si ta wòdzɔ ɖo.	contradiction	<pad> contradiction</s>	contradiction
+10	Eya ta nyemenya nu si tae tututu o.	Nyemenya nu si ta wòɖoli suku ɖo o.	neutral	<pad> entailment</s>	entailment
+11	Eya ta nyemenya nu si tae tututu o.	Nyemenya nu si ta wòɖoli suku ɖo o.	entailment	<pad> entailment</s>	entailment
+12	Nye ɖeka koe tea ŋu nana euh, nuɖɔɖomɔa zɔ̃na na, na xɔ fafɛ me dodokpɔa.	Medoa dzidzɔ nam be nye ɖeka koe tea ŋu zãna nuɖɔɖomɔa hena dodokpɔawo.	neutral	<pad> entailment</s>	entailment
+13	Nye ɖeka koe tea ŋu nana euh, nuɖɔɖomɔa zɔ̃na na, na xɔ fafɛ me dodokpɔa.	Wowɔa dodokpɔawo le xɔ fafɛ la me.	entailment	<pad> entailment</s>	entailment
+14	Nye ɖeka koe tea ŋu nana euh, nuɖɔɖomɔa zɔ̃na na, na xɔ fafɛ me dodokpɔa.	Mǐa dome ame aɖewo ʋu du tsɔ nuɖɔɖomɔawo vɛ na dodokpɔa.	contradiction	<pad> entailment</s>	entailment
+15	Menye euh, kpɔvitɔ ƒe amegã xɔgbɔ̃ɖeme abe ale si Rick gblɔe ene.	Megale dɔ wɔm va se ɖe egbe.	contradiction	<pad> entailment</s>	entailment
+16	Menye euh, kpɔvitɔ ƒe amegã xɔgbɔ̃ɖeme abe ale si Rick gblɔe ene.	Mexɔ gbɔɖeme le ƒè 2002 lia me.	neutral	<pad> entailment</s>	entailment
+17	Menye euh, kpɔvitɔ ƒe amegã xɔgbɔ̃ɖeme abe ale si Rick gblɔe ene.	Rick gblɔe na wò be mexɔ gbɔɖeme.	entailment	<pad> entailment</s>	entailment
+18	Gabuɖigbalẽwo le ɔfisi dzi nam eye, ɛ̃, enye Cutty machin-chose tɔ, nenema woyɔa asisinɔ lae.	Asisinɔ so woyɔa be Cutty la ƒe ɣletikukufe nye $ 10 000	neutral	<pad> entailment</s>	entailment
+19	Gabuɖigbalẽwo le ɔfisi dzi nam eye, ɛ̃, enye Cutty machin-chose tɔ, nenema woyɔa asisinɔ lae.	Asisinɔ aɖe lii si woyɔa be Cutty	entailment	<pad> entailment</s>	entailment
+20	Gabuɖigbalẽwo le ɔfisi dzi nam eye, ɛ̃, enye Cutty machin-chose tɔ, nenema woyɔa asisinɔ lae.	Míaƒe asisinɔ aɖeke metɔ Cutty o.	contradiction	<pad> entailment</s>	entailment
+21	Ɖetugbui si ate ŋu kpe ɖe ŋunye lale dua ƒe akpe kemɛ.	Ɖetugbui si ƒe kpekpeɖeŋu mehiã la gbɔ dzidzi le afi sia gbɔ.	entailment	<pad> entailment</s>	entailment
+22	Ɖetugbui si ate ŋu kpe ɖe ŋunye lale dua ƒe akpe kemɛ.	Ɖetugbui si akpe ɖe ŋunye la gbɔ le miles 5 tso afi sia.	neutral	<pad> entailment</s>	entailment
+23	Ɖetugbui si ate ŋu kpe ɖe ŋunye lale dua ƒe akpe kemɛ.	Ame aɖeke mate ŋu kpe ɖe ŋunye o.	contradiction	<pad> entailment</s>	entailment
+24	Womese wo nɔewo gɔme le ame siwo yia gbea dzi kple esiwo nye aƒemeviwo la nya me o, ke boŋu enye...	Woƒoe se be yewo katã yewoawɔ dɔ le agbleawo me.	contradiction	<pad> entailment</s>	entailment
+25	Womese wo nɔewo gɔme le ame siwo yia gbea dzi kple esiwo nye aƒemeviwo la nya me o, ke boŋu enye...	Womete ŋu nɔ wo nɔewo gɔme sem le ame si awɔ agbledɔ kple esi awɔ aƒemedɔ nya me o.	entailment	<pad> entailment</s>	entailment
+26	Womese wo nɔewo gɔme le ame siwo yia gbea dzi kple esiwo nye aƒemeviwo la nya me o, ke boŋu enye...	Womete ŋu nɔ wo nɔewo gɔme sem le ame si awɔ dɔ le ɖetigble me kple esi anɔ anyigba tutum nya la me o.	neutral	<pad> entailment</s>	entailment
+27	Medi be magblɔ be wodzi vi atɔ̃, wo dome ame ɖeka ku.	Wo viwo katã tsi agbe.	contradiction	<pad> contradiction</s>	contradiction
+28	Medi be magblɔ be wodzi vi atɔ̃, wo dome ame ɖeka ku.	Vi ɖeka le atɔ̃ dzi kuna.	entailment	<pad> entailment</s>	entailment
+29	Medi be magblɔ be wodzi vi atɔ̃, wo dome ame ɖeka ku.	Vi si ku la, wodzii dɔnɔvi.	neutral	<pad> entailment</s>	entailment
+30	Egblɔ be aɖatsiwo koe nɔ sasram tso ŋkuwo dzi nae eye wògblɔ be, eye wogblɔ be Joe va xɔxɔa nu.	Esi wònɔ gbɔgblɔm be woalia xɔxɔa nu la, aɖatsi nɔ ŋkuwo dzi nae.	entailment	<pad> entailment</s>	entailment
+31	Egblɔ be aɖatsiwo koe nɔ sasram tso ŋkuwo dzi nae eye wògblɔ be, eye wogblɔ be Joe va xɔxɔa nu.	Esi wòtutu Joe do le xɔxɔa nu la, etutu eƒe aɖatsiwo kaba.	contradiction	<pad> entailment</s>	entailment
+32	Egblɔ be aɖatsiwo koe nɔ sasram tso ŋkuwo dzi nae eye wògblɔ be, eye wogblɔ be Joe va xɔxɔa nu.	Joe kpɔkpɔ do dzidzɔ nae ale gbegbe be edze avi fafã	neutral	<pad> entailment</s>	entailment
+33	Nenye be yameʋua ganɔ dzo bim hã la, nu ka tae, ɖee euh, wòabi dzo eye subunu aɖe nasre eye be kekeliŋusẽ la nadoa. 	Woate ŋu alé afɔ na kekeliŋusẽ le dzobibi me.	neutral	<pad> entailment</s>	entailment
+34	Nenye be yameʋua ganɔ dzo bim hã la, nu ka tae, ɖee euh, wòabi dzo eye subunu aɖe nasre eye be kekeliŋusẽ la nadoa. 	Subunu aɖe mee kekeliŋusẽ la do le esime yameʋu la bi dzo.	entailment	<pad> entailment</s>	entailment
+35	Nenye be yameʋua ganɔ dzo bim hã la, nu ka tae, ɖee euh, wòabi dzo eye subunu aɖe nasre eye be kekeliŋusẽ la nadoa. 	Kekeliŋusẽ la manya do le dzobibi me o.	contradiction	<pad> entailment</s>	entailment
+36	Kpovitɔ ƒe amegã Clem Francis ye nye esi, ewɔ dɔ xɔ gbɔɖeme le US Air Force 	Amegã la nye US Air Force ƒe ame si xɔ gbɔɖeme	entailment	<pad> entailment</s>	entailment
+37	Kpovitɔ ƒe amegã Clem Francis ye nye esi, ewɔ dɔ xɔ gbɔɖeme le US Air Force 	Kɔsiɖa aɖewo koe nye esia esi Amegã la xɔ gbɔɖeme.	neutral	<pad> entailment</s>	entailment
+38	Kpovitɔ ƒe amegã Clem Francis ye nye esi, ewɔ dɔ xɔ gbɔɖeme le US Air Force 	Amerika ʋakɔ ƒe amegã la dze eƒe dɔa gɔme kɔsiɖa sia me.	contradiction	<pad> entailment</s>	entailment
+39	ɛ̃, edzɔ le afi si mɔ eve alo etɔ̃ va le le kɔsiɖa me eye womenya afi si wole dzodzom le yiyim o.	Yameʋu siwo vana kɔsiɖa ɖeka me la wu ɖeka.	entailment	<pad> entailment</s>	entailment
+40	ɛ̃, edzɔ le afi si mɔ eve alo etɔ̃ va le le kɔsiɖa me eye womenya afi si wole dzodzom le yiyim o.	Ale si yamemɔzɔzɔ le agbɔ sɔm la nye kuxi.	neutral	<pad> entailment</s>	entailment
+41	ɛ̃, edzɔ le afi si mɔ eve alo etɔ̃ va le le kɔsiɖa me eye womenya afi si wole dzodzom le yiyim o.	Yameʋu aɖeke mevana gbeɖe o.	contradiction	<pad> entailment</s>	entailment
+42	Wowɔ woƒe numetoto kuɖe awu siwo me woɖe ya le la ŋu eye wòxɔ ɣeyiɣi nam nenye be edo awu blibo si me woɖe ya le la.	Tutu hena ɣletimenudodowo zazã blibo la yia ɣleti etɔ̃ hafi wua enu	neutral	<pad> entailment</s>	entailment
+43	Wowɔ woƒe numetoto kuɖe awu siwo me woɖe ya le la ŋu eye wòxɔ ɣeyiɣi nam nenye be edo awu blibo si me woɖe ya le la.	Numetoto hena ɣletimenudodo siwo me ya mele o la zazã xɔa ɣeyiɣi geɖe.	entailment	<pad> entailment</s>	entailment
+44	Wowɔ woƒe numetoto kuɖe awu siwo me woɖe ya le la ŋu eye wòxɔ ɣeyiɣi nam nenye be edo awu blibo si me woɖe ya le la.	Míate ŋu tu wò ɖo hena awu siwo me ya mele o la zazã tso  fifi yi ɖe ƒèa nu wuwu	contradiction	<pad> entailment</s>	entailment
+45	Medi be magblɔ be afɔku aɖeke mele eme be woatsɔ nuwowo la ayi ɖe xɔ me o, elabena mete ŋu le wowo ge o, meka ŋusẽ si woatsɔ adze anyigba lae o.	Yameʋukula la tsi dzo na nuwowo la.	neutral	<pad> entailment</s>	entailment
+46	Medi be magblɔ be afɔku aɖeke mele eme be woatsɔ nuwowo la ayi ɖe xɔ me o, elabena mete ŋu le wowo ge o, meka ŋusẽ si woatsɔ adze anyigba lae o.	Ŋutete aɖeke melii na nuwowo la be wòawo o	entailment	<pad> entailment</s>	entailment
+47	Medi be magblɔ be afɔku aɖeke mele eme be woatsɔ nuwowo la ayi ɖe xɔ me o, elabena mete ŋu le wowo ge o, meka ŋusẽ si woatsɔ adze anyigba lae o.	Ŋutete gã aɖe lii be nuwowo la nawo.	contradiction	<pad> entailment</s>	entailment
+48	Eye, ale kee esia sɔ kple nu si wɔm mele lae mahã.	Nyemenya nu si wòɖi na wò o.	contradiction	<pad> entailment</s>	entailment
+49	Eye, ale kee esia sɔ kple nu si wɔm mele lae mahã.	Nye ŋutɔe dzro le ewɔm.	entailment	<pad> entailment</s>	entailment
+50	Eye, ale kee esia sɔ kple nu si wɔm mele lae mahã.	Mele agbagba dzem be mawu nye tameɖoɖo la nu kɔsiɖa si gbɔna me.	neutral	<pad> entailment</s>	entailment
+51	Gawu la, lãwo sina ɣe sia ɣi, vevitɔ, gbɔ̃wo.	Gbɔ̃wo sina dona le gbɔ̃kpo la me gbe sia gbe.	neutral	<pad> entailment</s>	entailment
+52	Gawu la, lãwo sina ɣe sia ɣi, vevitɔ, gbɔ̃wo.	Gbɔ̃wo sina dona edziedzi.	entailment	<pad> entailment</s>	entailment
+53	Gawu la, lãwo sina ɣe sia ɣi, vevitɔ, gbɔ̃wo.	Wona be gbɔ̃awo nɔ dedie le lãmesẽ me.	contradiction	<pad> entailment</s>	entailment
+54	Esi míeyi eme la, ʋɔtruawo nɔ tutu.	Ʋɔtruawo katã nɔ ʋuʋu.	contradiction	<pad> entailment</s>	entailment
+55	Esi míeyi eme la, ʋɔtruawo nɔ tutu.	Safuiawo le mía gbɔ.	neutral	<pad> contradiction</s>	contradiction
+56	Esi míeyi eme la, ʋɔtruawo nɔ tutu.	Míeyi ɖe eme to egbɔ be wotu ʋuawo katã kple safui.	entailment	<pad> entailment</s>	entailment
+57	Ekem, ɖe ko medze agbagba tsɔ nuƒuƒoƒoawo de flikpe me.	kakaɖedzi le asinye be ne mekpɔ nuƒuƒoƒoawo ko la, makpɔ ŋuɖoɖo na nua.	neutral	<pad> entailment</s>	entailment
+58	Ekem, ɖe ko medze agbagba tsɔ nuƒuƒoƒoawo de flikpe me.	Susu aɖeke mele asinye ku ɖe ale si woawɔ kple nuƒuƒoƒoawo o; meɖe kuku miɖe egɔme nam ale be mase nu dzinya sia me.	contradiction	<pad> entailment</s>	entailment
+59	Ekem, ɖe ko medze agbagba tsɔ nuƒuƒoƒoawo de flikpe me.	Mabui le ŋuɖoɖoawo nu.	entailment	<pad> entailment</s>	entailment
+60	Eye nu sia tso ale si vinɔawo noa aɖitama la gbɔ.	Vinɔawo nye aɖitamanolawo.	neutral	<pad> entailment</s>	entailment
+61	Eye nu sia tso ale si vinɔawo noa aɖitama la gbɔ.	Momeŋlɔ atike aɖeke alo tsɔ wo na vinɔawo o.	contradiction	<pad> entailment</s>	entailment
+62	Eye nu sia tso ale si vinɔawo noa aɖitama la gbɔ.	Vinɔawo noa aɖitama	entailment	<pad> entailment</s>	entailment
+63	ɛ̃, enyo vavã; Tsi dzaa?	Tsidzadza la mele fu ɖem nam o.	neutral	<pad> entailment</s>	entailment
+64	ɛ̃, enyo vavã; Tsi dzaa?	Xexea kɔ eye tsidzadza xã le eme.	entailment	<pad> entailment</s>	entailment
+65	ɛ̃, enyo vavã; Tsi dzaa?	Ɣe si le bibim madzudzɔ la nyra ŋutɔ.̀	contradiction	<pad> entailment</s>	entailment
+66	oh home kae le amegbetɔ ƒe agbe si eye ne ate ŋu gbugbɔ ame aɖe axɔ loo alo maxɔe oa.	Agbe ɖe sia ɖe le vevie bene woada aɖinod;;o le eŋu eye be woagana mɔnukpɔkpɔ yeyee.	neutral	<pad> entailment</s>	entailment
+67	oh home kae le amegbetɔ ƒe agbe si eye ne ate ŋu gbugbɔ ame aɖe axɔ loo alo maxɔe oa.	Amegbetɔ aɖeke medze be woagbugbɔ axɔe o.	contradiction	<pad> entailment</s>	entailment
+68	oh home kae le amegbetɔ ƒe agbe si eye ne ate ŋu gbugbɔ ame aɖe axɔ loo alo maxɔe oa.	To vovo na amexɔxɔ la, agbea le vevie.	entailment	<pad> entailment</s>	entailment
+69	Edo kuxi gã aɖe le wo susukpɔkplɔ me	Nyemekpɔ katsatsa ƒe kuxi sia ƒomevi kpɔ o.	neutral	<pad> entailment</s>	entailment
+70	Edo kuxi gã aɖe le wo susukpɔkplɔ me	Menye katsatsae nye kuxia o.	contradiction	<pad> entailment</s>	entailment
+71	Edo kuxi gã aɖe le wo susukpɔkplɔ me	Katsatsa manyatalenui sia he kuxi aɖe vɛ.	entailment	<pad> entailment</s>	entailment
+72	Nua dze abe nu wɔnuku ene, ɛ̃. Nyemeka ɖe edzi be wote ŋu ɖe mɔ le nu siawo wɔwɔ ŋu o.	Mewɔ nuku nam be woɖe nublanuikpɔkpɔ fia o.	contradiction	<pad> entailment</s>	entailment
+73	Nua dze abe nu wɔnuku ene, ɛ̃. Nyemeka ɖe edzi be wote ŋu ɖe mɔ le nu siawo wɔwɔ ŋu o.	Ewɔ nuku nam be woɖe mɔ na wo be natsɔ nu ɖuɖu kple nu nono le eme.	neutral	<pad> entailment</s>	entailment
+74	Nua dze abe nu wɔnuku ene, ɛ̃. Nyemeka ɖe edzi be wote ŋu ɖe mɔ le nu siawo wɔwɔ ŋu o.	Ewɔ  nuku nam be wote ŋu do le eme.	entailment	<pad> entailment</s>	entailment
+75	Oh, le esia me hã, vinyewo xɔ ƒè bla eve vɔ ɖeke kple bla eve vɔ ene fifia, ekem, nyema	Esia mehiãm o, elabena, vinyewo xɔ wu ƒè bla eve.	entailment	<pad> entailment</s>	entailment
+76	Oh, le esia me hã, vinyewo xɔ ƒè bla eve vɔ ɖeke kple bla eve vɔ ene fifia, ekem, nyema	Mate ŋu xɔ wo elabena wogogo wo nɔewo le ƒè me.	neutral	<pad> entailment</s>	entailment
+77	Oh, le esia me hã, vinyewo xɔ ƒè bla eve vɔ ɖeke kple bla eve vɔ ene fifia, ekem, nyema	Ele nam be mawɔe elabena wo kple eve xɔ ƒè ewo kple wuiɖeke.	contradiction	<pad> entailment</s>	entailment
+78	ɛ̃, ame siwo, siwo ate ŋu nɔ dɔme le ɣeyiɣi ɖe sia ɖe alo esiwo ƒe nyametsotso woate ŋu do vlo nenye be woatso nyame la,	ɛ̃, ame siwo ate ŋu ava eme be womate ŋu wɔ nyametsotso nyuitɔwo o la.	entailment	<pad> contradiction</s>	contradiction
+79	ɛ̃, ame siwo, siwo ate ŋu nɔ dɔme le ɣeyiɣi ɖe sia ɖe alo esiwo ƒe nyametsotso woate ŋu do vlo nenye be woatso nyame la,	Ɛ̃, ame siwo dɔ mele wuwum o la.	neutral	<pad> entailment</s>	entailment
+80	ɛ̃, ame siwo, siwo ate ŋu nɔ dɔme le ɣeyiɣi ɖe sia ɖe alo esiwo ƒe nyametsotso woate ŋu do vlo nenye be woatso nyame la,	ɛ̃ ame siwo ƒe nyametsotso ŋutete meɖiɖi kpɔ o la.	contradiction	<pad> entailment</s>	entailment
+81	Wome va haɖe o, wogale tsaɖiɖi dzi, wozɔ mɔ tso ƒè bla adẽawo ƒe nuwuwu ke.	Woyi ɖe togodo tsaɖiɖi tso ƒè 1970 lia ke.	entailment	<pad> entailment</s>	entailment
+82	Wome va haɖe o, wogale tsaɖiɖi dzi, wozɔ mɔ tso ƒè bla adẽawo ƒe nuwuwu ke.	Wolɔ̃a togodo tsaɖiɖi. 	neutral	<pad> entailment</s>	entailment
+83	Wome va haɖe o, wogale tsaɖiɖi dzi, wozɔ mɔ tso ƒè bla adẽawo ƒe nuwuwu ke.	Nyitsɔ laa wowu woƒe togodo tsaɖiɖi la nu.	contradiction	<pad> entailment</s>	entailment
+84	nu ka ta nàwɔ aerobic ɖoe	Ate ŋu ɖe ale si nènɔ aerobic wɔm la me na mi mahã?	entailment	<pad> entailment</s>	entailment
+85	nu ka ta nàwɔ aerobic ɖoe	Aerobic lé dzi nam elabena ele nam be mawɔ dɔ aɖe si ku ɖe dzi kple kawo ƒe ʋaʋa ŋuti.	neutral	<pad> entailment</s>	entailment
+86	nu ka ta nàwɔ aerobic ɖoe	Meɖe kuku, dzudzɔ nuƒoƒo tso aerobic ŋu.	contradiction	<pad> entailment</s>	entailment
+87	enyo, esia ya ganyo, nyemesusu esia o, ɛ̃.	Susu vlui aɖe wònye si ŋu meɖe asi le le kɔsiɖa si va yi la me.	contradiction	<pad> entailment</s>	entailment
+88	enyo, esia ya ganyo, nyemesusu esia o, ɛ̃.	Nu vevi aɖee.	entailment	<pad> entailment</s>	entailment
+89	enyo, esia ya ganyo, nyemesusu esia o, ɛ̃.	Nu mawɔmawɔ si dzi nètɔ asi la nye nu vevi aɖe.	neutral	<pad> entailment</s>	entailment
+90	Vidaɖiƒe zi eve le kɔsiɖa me, wole eyɔm be ametsitsiwo ƒe ŋkeke, gake eyina ametsitsiwo ƒe nɔƒe.	Woʋua vidaɖiƒea gbe sia gbe na ɖevi siwo mexɔ ƒè atɔ̃ o la ɖeɖe ko.	contradiction	<pad> entailment</s>	entailment
+91	Vidaɖiƒe zi eve le kɔsiɖa me, wole eyɔm be ametsitsiwo ƒe ŋkeke, gake eyina ametsitsiwo ƒe nɔƒe.	Nyateƒe me la, woɖea asi le wo ŋu wodona zi eve le kɔsiɖa ɖeka me nenye be ametsitsiawo lɔ̃ ko.	neutral	<pad> entailment</s>	entailment
+92	Vidaɖiƒe zi eve le kɔsiɖa me, wole eyɔm be ametsitsiwo ƒe ŋkeke, gake eyina ametsitsiwo ƒe nɔƒe.	Ametsitsiwo daɖiƒe wonye eye woda ŋkɔ ɖe edzi be ametsitsiwo ƒe nɔƒe.	entailment	<pad> entailment</s>	entailment
+93	Esiae nye woƒe taɖodzinu oh	Esiae widze agbagba be yewoawɔ.	entailment	<pad> entailment</s>	entailment
+94	Esiae nye woƒe taɖodzinu oh	Womedi nu sia kpɔ gbeɖe o.	contradiction	<pad> entailment</s>	entailment
+95	Esiae nye woƒe taɖodzinu oh	Woƒe asi su woƒe taɖodzinu la dzi.	neutral	<pad> entailment</s>	entailment
+96	Ne wò asi nasu tu dzi la, ele be nazã wò asi eveawo.	tu madanyuiewo ƒe afã tso ale si wozãe alɔɖekae la gbɔ.	neutral	<pad> entailment</s>	entailment
+97	Ne wò asi nasu tu dzi la, ele be nazã wò asi eveawo.	Nɔnɔme nyuitɔ na tuwo zazãe nye be woawɔ afɔ eve ŋudɔ.	contradiction	<pad> entailment</s>	entailment
+98	Ne wò asi nasu tu dzi la, ele be nazã wò asi eveawo.	Nenye be nèbe yeanya tu ŋudɔ nyuie la,ele be nazã wò alɔ eveawo.	entailment	<pad> entailment</s>	entailment
+99	eye euh teti wotso afi aɖe vɛ, nyemenya afi si wòtso vɛ o evɔ	Nyemenya afi si esia tso o gake la etsɔ nyuie.	entailment	<pad> entailment</s>	entailment
+100	eye euh teti wotso afi aɖe vɛ, nyemenya afi si wòtso vɛ o evɔ	Ele vavam kabakaba evɔ nyemenya asi si wòtso o.	neutral	<pad> entailment</s>	entailment
+101	eye euh teti wotso afi aɖe vɛ, nyemenya afi si wòtso vɛ o evɔ	Egbɔna abe ahũ ene eye menye ɣeyiɣi si tututu wòava ɖo.	contradiction	<pad> entailment</s>	entailment
+102	ao, le nyateƒe me la, nyemenyae o, nyemebui o	Nyemenya nu gã aɖe ku ɖe eŋu o.	entailment	<pad> entailment</s>	entailment
+103	ao, le nyateƒe me la, nyemenyae o, nyemebui o	Ɖekemanyala menye le lɔlɔ̃nyawo me	neutral	<pad> entailment</s>	entailment
+104	ao, le nyateƒe me la, nyemenyae o, nyemebui o	Mele esram ƒè geɖewoe nye esia.	contradiction	<pad> entailment</s>	entailment
+105	ɛ̃, ame nyui ŋutɔ wonye, ènya, e	Mesusu be enya be amenyui yenye	neutral	<pad> entailment</s>	entailment
+106	ɛ̃, ame nyui ŋutɔ wonye, ènya, e	Ao, enyra ku ŋutɔ	contradiction	<pad> entailment</s>	entailment
+107	ɛ̃, ame nyui ŋutɔ wonye, ènya, e	ɛ̃, ame nyui ŋutɔ wònye	entailment	<pad> entailment</s>	entailment
+108	ɛ̃, edoe ɖa be wonetsɔ euh afɔtutunu ɖeka esi miazã	Edoe ɖa be woneƒle ʋuʋugbɔ̃mɔ	contradiction	<pad> entailment</s>	entailment
+109	ɛ̃, edoe ɖa be wonetsɔ euh afɔtutunu ɖeka esi miazã	Edoe ɖa be wonedi afɔtutunu	entailment	<pad> entailment</s>	entailment
+110	ɛ̃, edoe ɖa be wonetsɔ euh afɔtutunu ɖeka esi miazã	Enɔ didim be yeatutu ʋua kple anyigbatutunu	neutral	<pad> entailment</s>	entailment
+111	ŋutifafa mele teƒe sia o, woda tu fifi laa le mɔ̃ gã la dzi le aƒe etɔ̃ dometsotso tso míatɔ gbɔ	Tudada la va eme le teƒe si dzidzi mile 100 tso gbɔnye	contradiction	<pad> entailment</s>	entailment
+112	ŋutifafa mele teƒe sia o, woda tu fifi laa le mɔ̃ gã la dzi le aƒe etɔ̃ dometsotso tso míatɔ gbɔ	Tudada la tsɔ ɖe nye aƒe gbɔ eye wodo vɔvɔ̃ nam ale gbegbe be meɖe mɔ nam be mado o.	neutral	<pad> entailment</s>	entailment
+113	ŋutifafa mele teƒe sia o, woda tu fifi laa le mɔ̃ gã la dzi le aƒe etɔ̃ dometsotso tso míatɔ gbɔ	Woda tu le gbɔnye, nyateƒeme la, teƒe sia menyo o	entailment	<pad> entailment</s>	entailment
+114	euh-huh nyawoe me meɖo gɔmesese tututu o	Nyemeda asi ɖe wò nya dzi o, nua ɖo gɔmesese	contradiction	<pad> entailment</s>	entailment
+115	euh-huh nyawoe me meɖo gɔmesese tututu o	Mekpɔ be wònya dzɔ le eƒe gɔmesese ɖoɖo ta.	neutral	<pad> entailment</s>	entailment
+116	euh-huh nyawoe me meɖo gɔmesese tututu o	Wò nya dzɔ be womele gɔwo me sem o	entailment	<pad> entailment</s>	entailment
+117	Mele agbagba dzem be maku ɖe eŋu	Mele agbagba dzem be maku ɖe eŋu	entailment	<pad> entailment</s>	entailment
+118	Mele agbagba dzem be maku ɖe eŋu	Mele tɔnye sinu wɔm	neutral	<pad> entailment</s>	entailment
+119	Mele agbagba dzem be maku ɖe eŋu	Maŋlɔ nya sia be eye nyemagakpɔ megbe gbeɖe o	contradiction	<pad> entailment</s>	entailment
+120	Míele asi sɔm ɖe míaƒe gege ɖe tsɔmeɖaŋununyawɔnawo me	Míele nu siwo le vevie hena gege ɖe tsɔmeɖaŋununyawo me ɖoɖo la tum	entailment	<pad> entailment</s>	entailment
+121	Míele asi sɔm ɖe míaƒe gege ɖe tsɔmeɖaŋununyawɔnawo me	Miele trãzistɔwo wɔm, ale míaƒe tsɔme la anɔ nunya madzɔlaƒewo kpɔkplɔ te	neutral	<pad> entailment</s>	entailment
+122	Míele asi sɔm ɖe míaƒe gege ɖe tsɔmeɖaŋununyawɔnawo me	Míele didim be míaxe mɔ na aɖaŋununya bene mega ɖu dzi o	contradiction	<pad> entailment</s>	entailment
+123	Le kpɔɖeŋu me, le kɔkɔƒe la, ameŋunukuiwo atrɔ violɛ	Le kɔkɔƒe la, ameŋunukuiawo ƒe afã koe atrɔ violɛ	contradiction	<pad> entailment</s>	entailment
+124	Le kpɔɖeŋu me, le kɔkɔƒe la, ameŋunukuiwo atrɔ violɛ	Ate ŋu vca eme be ameŋunukuiawo natrɔ amadede faa	entailment	<pad> entailment</s>	entailment
+125	Le kpɔɖeŋu me, le kɔkɔƒe la, ameŋunukuiwo atrɔ violɛ	ɣe aɖewo :gi la, ameŋunukuiawo atrɔ blɔ faa	neutral	<pad> entailment</s>	entailment
+126	Daniel Yamins nye ɖekakpui akɔŋutabula triakɔ aɖe	M. Yamins tre le akɔŋutabubu me ŋutɔ	entailment	<pad> entailment</s>	entailment
+127	Daniel Yamins nye ɖekakpui akɔŋutabula triakɔ aɖe	M. Yamins ku eɖokui ɖe flinutatakɔŋutabubu ŋu	neutral	<pad> entailment</s>	entailment
+128	Daniel Yamins nye ɖekakpui akɔŋutabula triakɔ aɖe	M. Yamins's nye aɖaŋunutala gã gake mesesẽ le akɔŋtabubu me o	contradiction	<pad> entailment</s>	entailment
+129	Eye nenye be ele nenema la, ɖee wogogona liƒoa edziedzia?	Menya be wometena ɖe liƒo la ŋu gbeɖe o	contradiction	<pad> entailment</s>	entailment
+130	Eye nenye be ele nenema la, ɖee wogogona liƒoa edziedzia?	Medi be manya, wonɔa Angleterre edziedzia?	neutral	<pad> entailment</s>	entailment
+131	Eye nenye be ele nenema la, ɖee wogogona liƒoa edziedzia?	Nuƒola la dzro be yeaɖe nume ku ɖe ale si edziedzi la, woɖo woƒe sẽƒe kloe la ŋu	entailment	<pad> entailment</s>	entailment
+132	Eye mesusu be nuŋunukui aɖe lii le anyigbadzi nugbagbewo gbɔ si nana be wodzia tẽe le nɔnɔme si fia be wole ʋiʋlim na agbetsitsi na dzidzime aɖe si le ta kekem la ta.	Anyigbadzi nugbagbewo le tɔtrɔm fũu	entailment	<pad> entailment</s>	entailment
+133	Eye mesusu be nuŋunukui aɖe lii le anyigbadzi nugbagbewo gbɔ si nana be wodzia tẽe le nɔnɔme si fia be wole ʋiʋlim na agbetsitsi na dzidzime aɖe si le ta kekem la ta.	Dzodzo si li nue anyigbadzi nugbagbewo trɔna lena	neutral	<pad> entailment</s>	entailment
+134	Eye mesusu be nuŋunukui aɖe lii le anyigbadzi nugbagbewo gbɔ si nana be wodzia tẽe le nɔnɔme si fia be wole ʋiʋlim na agbetsitsi na dzidzime aɖe si le ta kekem la ta.	Anyigbadzi nugbagbewo metrɔna gbeɖe o	contradiction	<pad> entailment</s>	entailment
+135	Le kpotiti sia nu la, ahuhɔ̃enu aɖeke mate ŋu lɔ nyadzɔdzɔ geɖe ɖe eme o	Ahuhɔ̃enu dzɔdzɔewo nye nyalesafui siwo xɔa agba sɔgbɔ 	contradiction	<pad> entailment</s>	entailment
+136	Le kpotiti sia nu la, ahuhɔ̃enu aɖeke mate ŋu lɔ nyadzɔdzɔ geɖe ɖe eme o	Ahuhɔ̃enu dzɔdzɔewo menyo na nyalélé o	entailment	<pad> entailment</s>	entailment
+137	Le kpotiti sia nu la, ahuhɔ̃enu aɖeke mate ŋu lɔ nyadzɔdzɔ geɖe ɖe eme o	Nyalésafui bubuwo lii siwo nye atukpanuwo hena anyigbanunya nyawo lélé ɖi to kekelilɔdzewo dzi	neutral	<pad> entailment</s>	entailment
+138	Le esia nu la, menyo be ametsitsiwo nafia ale si wowɔa aye la ɖevi siwo adze abɔsokpo gɔme o, abe ale si wowɔnae ɣe aɖewo ɣi ahenɔ kpekpeɖeŋu nam wo le puzzle wɔwɔ kple esiawo tɔgbi me ene o	ɖevi siwo tsi hena abɔsokpoyiyi la sesẽ hena ŋuɖoɖokpɔkpɔ na fefe siwo nyena aɖaŋunuwo hewu esiwo nyena nudetometyɔwo	contradiction	<pad> entailment</s>	entailment
+139	Le esia nu la, menyo be ametsitsiwo nafia ale si wowɔa aye la ɖevi siwo adze abɔsokpo gɔme o, abe ale si wowɔnae ɣe aɖewo ɣi ahenɔ kpekpeɖeŋu nam wo le puzzle wɔwɔ kple esiawo tɔgbi me ene o	Ɖevi siwo tsi na abɔsokpoyiyi la mehiã kpekpeɖe geɖe hafi anya ale si wowɔa ayee o	entailment	<pad> entailment</s>	entailment
+140	Le esia nu la, menyo be ametsitsiwo nafia ale si wowɔa aye la ɖevi siwo adze abɔsokpo gɔme o, abe ale si wowɔnae ɣe aɖewo ɣi ahenɔ kpekpeɖeŋu nam wo le puzzle wɔwɔ kple esiawo tɔgbi me ene o	Ɖevi siwo le abɔsokpo de ge la ƒe susu metsi ale teƒewo o alebe woate ŋu awɔ puzzle esi ametsitsi makpe ɖe wo ŋu o	neutral	<pad> entailment</s>	entailment
+141	Wotu [dukɔ sia] le vovokpɔkpɔ me nya sia nu be amegbetɔwo katã le sɔsɔe	Nya siwo kiu ɖe esia ŋu la, woŋlɔ wo ɖe agbalẽ bubu geɖe me.	neutral	<pad> entailment</s>	entailment
+142	Wotu [dukɔ sia] le vovokpɔkpɔ me nya sia nu be amegbetɔwo katã le sɔsɔe	Ame aɖewo bunae be amewo katã sɔ	entailment	<pad> entailment</s>	entailment
+143	Wotu [dukɔ sia] le vovokpɔkpɔ me nya sia nu be amegbetɔwo katã le sɔsɔe	Wotu dukɔ sia le xɔse sia nu be ame aɖewo nyo wu ame mlɔeawo	contradiction	<pad> contradiction</s>	contradiction
+144	Ɖee wòhiã be magakafui ɖe edzia?	Meka ɖe edzi kemkem kloe be mele edzi ɖu ge le echec ƒe fefe sia me	contradiction	<pad> entailment</s>	entailment
+145	Ɖee wòhiã be magakafui ɖe edzia?	mele dokuinye biam be ɖee wogahiã dzesidede tso asinye wu mahã?	entailment	<pad> entailment</s>	entailment
+146	Ɖee wòhiã be magakafui ɖe edzia?	ɖee wòle be makafui ɖe edzi le ale si wòsrɔ̃ sãŋku nyuie la ta mahã?	neutral	<pad> entailment</s>	entailment
+147	woate ŋu tu togodo kadede nublawonɔewo le didime vovovo nu	Woate ŋu zã didime bubuwo ahatu nudoɖakpɔ na spin ƒe kadedenublawonɔewo	entailment	<pad> entailment</s>	entailment
+148	woate ŋu tu togodo kadede nublawonɔewo le didime vovovo nu	Spin ƒe nublawonɔewo le vevie ŋutɔ hena aɖaŋuɖenunya si kpɔa nyalénuwo gbɔ	neutral	<pad> entailment</s>	entailment
+149	woate ŋu tu togodo kadede nublawonɔewo le didime vovovo nu	Womate ŋu susu spin ƒe nublawonɔewo le didime vovovo nu o	contradiction	<pad> entailment</s>	entailment
+150	(kple dzodzoewɔwɔ) ao, ao, nyemedi be nàku o!	Nyemedi be nàku o !	entailment	<pad> entailment</s>	entailment
+151	(kple dzodzoewɔwɔ) ao, ao, nyemedi be nàku o!	Ne nèku la, mekam o !	contradiction	<pad> entailment</s>	entailment
+152	(kple dzodzoewɔwɔ) ao, ao, nyemedi be nàku o!	Mese veve ŋutɔ nenye be nèku !	neutral	<pad> entailment</s>	entailment
+153	Wode ka ve nae le dutoƒo le todexe 19 lia gbe ƒè 1875 me le San Jose le Californie	Wonɔa ka dem ve na amewo le dutoƒo le Californie va sẽ ɖe ƒè 1875 lia me	entailment	<pad> entailment</s>	entailment
+154	Wode ka ve nae le dutoƒo le todexe 19 lia gbe ƒè 1875 me le San Jose le Californie	Womekpɔ nya manyiomanyio aɖeke ku ɖe eŋu o eya ta woɖe asi le eŋu	contradiction	<pad> entailment</s>	entailment
+155	Wode ka ve nae le dutoƒo le todexe 19 lia gbe ƒè 1875 me le San Jose le Californie	Wode ka ve nae le aʋahoho ɖe duse ŋu kple sɔfifĩ ta	neutral	<pad> entailment</s>	entailment
+156	Le ʋunyaʋunya gã sia me la, atiaƒu gbemumu keklẽ la le kpetowo me tom	Aƒu la le blɔ tsiɖitsiɖi eye wozrɔ̃ abe atukpa ene	contradiction	<pad> entailment</s>	entailment
+157	Le ʋunyaʋunya gã sia me la, atiaƒu gbemumu keklẽ la le kpetowo me tom	Aƒu la yɔ fũu kple akpa sue siwo lewo ɖokuio tum ɖe meli la ŋu.	neutral	<pad> entailment</s>	entailment
+158	Le ʋunyaʋunya gã sia me la, atiaƒu gbemumu keklẽ la le kpetowo me tom	Aƒu la le amamui eye wòde abe ɖee wòle fiefiem ene	entailment	<pad> entailment</s>	entailment
+159	Seɖoɖo yeye aɖe si kpɔmɔ na dodo le ƒè 1860 liawo ƒe dzimaɖiwo me	le ƒè 1870 liawo me la, seɖoɖo la katã lolo eye du la nɔ amenumawɔe dziɖuɖu te	contradiction	<pad> entailment</s>	entailment
+160	Seɖoɖo yeye aɖe si kpɔmɔ na dodo le ƒè 1860 liawo ƒe dzimaɖiwo me	Ƒè 1890liao me nye ʋunyaʋunya ɣeyiɣiwo	entailment	<pad> entailment</s>	entailment
+161	Seɖoɖo yeye aɖe si kpɔmɔ na dodo le ƒè 1860 liawo ƒe dzimaɖiwo me	seɖoɖo yeye la le didim be yeakeke ta na dɔwɔtɔwo ƒe sewo.	neutral	<pad> entailment</s>	entailment
+162	Le eya gbɔ la, susu deŋgɔ ɖe sia ɖe tsona hahomedzeɖoɖo gbɔ, le ɖevi kple eƒe denunyawɔe teƒenɔlawo dome le hahodɔwɔwɔ aɖe me.	Ɖeviwo metu zãna susu deŋgɔwo o.	contradiction	<pad> contradiction</s>	contradiction
+163	Le eya gbɔ la, susu deŋgɔ ɖe sia ɖe tsona hahomedzeɖoɖo gbɔ, le ɖevi kple eƒe denunyawɔe teƒenɔlawo dome le hahodɔwɔwɔ aɖe me.	Tɔƒodede nye dɔ aɖe si bɔ ɖe denunyawɔe geɖewo gbɔ.	neutral	<pad> entailment</s>	entailment
+164	Le eya gbɔ la, susu deŋgɔ ɖe sia ɖe tsona hahomedzeɖoɖo gbɔ, le ɖevi kple eƒe denunyawɔe teƒenɔlawo dome le hahodɔwɔwɔ aɖe me.	Dɔwɔwɔ ɖe du le vevie hena susu deŋgɔwo mama.	entailment	<pad> entailment</s>	entailment
+165	Rezadores alo rezadoras, siwo nye gbɔgbɔ̃metatɔwo le kɔ aɖewo me, esiwo kplɔa hamea le ameɖikɔnuwo, amekɔkɔewo ƒe azãwo me nenye be nunɔla melii o.	Hamea aɖeke menɔ anyi si ƒe tatɔwo menye nunɔlawo o.	contradiction	<pad> entailment</s>	entailment
+166	Rezadores alo rezadoras, siwo nye gbɔgbɔ̃metatɔwo le kɔ aɖewo me, esiwo kplɔa hamea le ameɖikɔnuwo, amekɔkɔewo ƒe azãwo me nenye be nunɔla melii o.	Kɔ aɖewo me ƒe gbɔgbɔmetatɔ aɖewo menye nunɔlawo o.	entailment	<pad> entailment</s>	entailment
+167	Rezadores alo rezadoras, siwo nye gbɔgbɔ̃metatɔwo le kɔ aɖewo me, esiwo kplɔa hamea le ameɖikɔnuwo, amekɔkɔewo ƒe azãwo me nenye be nunɔla melii o.	Gbɔgbɔmetatɔwo aɖewo ƒe ɖawo le yibɔ	neutral	<pad> entailment</s>	entailment
+168	Le hahome nudzɔɖeamedzi kãtatawo me la, mɔnukpɔkpɔ bene woana ɖoɖoawo nayi edzi nyuie akpe ɖe ɖeviawo ŋu bene woase dzodzro ɖiwonɔewo kple tovowvowo, xɔsewo kple amewo ƒe seselelãmewo gɔme.	Ɖeviwo ate ŋu asrɔ̃ nu si me amewo sɔ alo to vovo le la gɔme	entailment	<pad> entailment</s>	entailment
+169	Le hahome nudzɔɖeamedzi kãtatawo me la, mɔnukpɔkpɔ bene woana ɖoɖoawo nayi edzi nyuie akpe ɖe ɖeviawo ŋu bene woase dzodzro ɖiwonɔewo kple tovowvowo, xɔsewo kple amewo ƒe seselelãmewo gɔme.	ɖeviwo ade dzersi kɔkɔƒe si nu ameƒome vovovoawo to vovo le.	neutral	<pad> entailment</s>	entailment
+170	Le hahome nudzɔɖeamedzi kãtatawo me la, mɔnukpɔkpɔ bene woana ɖoɖoawo nayi edzi nyuie akpe ɖe ɖeviawo ŋu bene woase dzodzro ɖiwonɔewo kple tovowvowo, xɔsewo kple amewo ƒe seselelãmewo gɔme.	Ɖeviawo mate ŋu srɔ̃ naneke o.	contradiction	<pad> contradiction</s>	contradiction
+171	Nyenye gãtɔ si nɔ Dzemeni gɔmeɖosea si le aʋa megbe lae nye nu si nazi dziɖuɖua te ɖe anyi wu.	Nazi dziɖuɖua ɖe mɔ le esia ŋu.	contradiction	<pad> entailment</s>	entailment
+172	Nyenye gãtɔ si nɔ Dzemeni gɔmeɖosea si le aʋa megbe lae nye nu si nazi dziɖuɖua te ɖe anyi wu.	Nazi dziɖuɖua wu ame siwo katã ƒe alɔ le eme lae.	neutral	<pad> entailment</s>	entailment
+173	Nyenye gãtɔ si nɔ Dzemeni gɔmeɖosea si le aʋa megbe lae nye nu si nazi dziɖuɖua te ɖe anyi wu.	Nazi dziɖuɖua ɖe asi esia dzi.	entailment	<pad> entailment</s>	entailment
+174	Sonja, ɖevi la dze via nyɔnu la ƒe dɔdzeamedziwo sɔsrɔ̃	Ame aɖeke medoa dɔmedzui sesẽ o	contradiction	<pad> entailment</s>	entailment
+175	Sonja, ɖevi la dze via nyɔnu la ƒe dɔdzeamedziwo sɔsrɔ̃	Sonja nye ɖevi ko.	entailment	<pad> entailment</s>	entailment
+176	Sonja, ɖevi la dze via nyɔnu la ƒe dɔdzeamedziwo sɔsrɔ̃	Sonja tsaka	neutral	<pad> entailment</s>	entailment
+177	6 le ƒè bla atɔ̃ vɔ atɔ̃ siwo do ŋgɔ na dumeʋala, kodzoɖiƒea wɔ ŋusẽ sia ŋudɔ kple aɖaŋudzedze	Ɣe aɖewo ɣi le ƒè ewoawo siwo do ŋgɔ na dumeʋa la me la, kodziɖoƒea wɔ ŋusẽ sia ŋudɔ.	entailment	<pad> entailment</s>	entailment
+178	6 le ƒè bla atɔ̃ vɔ atɔ̃ siwo do ŋgɔ na dumeʋala, kodzoɖiƒea wɔ ŋusẽ sia ŋudɔ kple aɖaŋudzedze	Le ƒè bla atɔ̃ vɔ atɔ̃ siwo kplɔ ame yi ɖe dumeʋa la gbɔ la, kodzoɖiƒea wɔ ŋusẽ sia ŋudɔ zi ene.	neutral	<pad> entailment</s>	entailment
+179	6 le ƒè bla atɔ̃ vɔ atɔ̃ siwo do ŋgɔ na dumeʋala, kodzoɖiƒea wɔ ŋusẽ sia ŋudɔ kple aɖaŋudzedze	le ƒè bla atɔ̃ vɔ atɔ̃ siwo kplɔ ame yi ɖe dumamaʋa la gbɔ la, kodzoɖiƒea wɔ ŋusẽ sia ŋudɔ zi miliɔ̃ atɔ̃.	contradiction	<pad> entailment</s>	entailment
+180	Aƒetɔ, maka ɖe edzi na wò be wogblɔ nya siawo katã nam.	Megblɔ na wò be menya nya siawo katã	entailment	<pad> entailment</s>	entailment
+181	Aƒetɔ, maka ɖe edzi na wò be wogblɔ nya siawo katã nam.	Nutakpɔla ƒe kunya wogblɔ nam.	neutral	<pad> entailment</s>	entailment
+182	Aƒetɔ, maka ɖe edzi na wò be wogblɔ nya siawo katã nam.	Nyamekɔkɔ geɖe lii si woɣla ɖem.	contradiction	<pad> entailment</s>	entailment
+183	Howɔwɔawo tɔtɔ aʋafia Blood le eƒe fuɖenamedrɔ̃ewo me.	Aʋafia Blood tea ŋu bu nu aɖe siwo doa dziku nae madzudzɔmadzudzɔ la ŋu.	contradiction	<pad> entailment</s>	entailment
+184	Howɔwɔawo tɔtɔ aʋafia Blood le eƒe fuɖenamedrɔ̃ewo me.	Howɔwɔ aɖewo tsi aʋafia Blood ƒe tamebubuwo nu.	entailment	<pad> entailment</s>	entailment
+185	Howɔwɔawo tɔtɔ aʋafia Blood le eƒe fuɖenamedrɔ̃ewo me.	Avuvia ƒe ɣlidodo nyɔ aʋafia la tso eƒe tamebubuwo me.	neutral	<pad> entailment</s>	entailment
+186	Evɔ nyemate ŋu ŋlɔ be be esi nyemenye naneke wu kluvi le nyruiwò gbɔ le Barbade o la, wò ya edea bubu ŋunye o	Èɖea dɔmenyo fianam esime menye kluvi nɔ Barbade.	entailment	<pad> entailment</s>	entailment
+187	Evɔ nyemate ŋu ŋlɔ be be esi nyemenye naneke wu kluvi le nyruiwò gbɔ le Barbade o la, wò ya edea bubu ŋunye o	Enye tamesẽla le ŋunye eye etsɔnam abe afɔtutunu ene.	contradiction	<pad> entailment</s>	entailment
+188	Evɔ nyemate ŋu ŋlɔ be be esi nyemenye naneke wu kluvi le nyruiwò gbɔ le Barbade o la, wò ya edea bubu ŋunye o	Esi menye nyruiwò tɔ la, eƒoam gbe sia gbe.	neutral	<pad> entailment</s>	entailment
+189	Anyigba la le afi ma, abe mile etɔ̃ le ŋgɔ ene - gbe siwo mesɔ wo la ɖo abe gli ene hebu dziɣɔli la ʋĩi	Nuƒoxlãme nyakpɔwo do ta ɖa.	entailment	<pad> entailment</s>	entailment
+190	Anyigba la le afi ma, abe mile etɔ̃ le ŋgɔ ene - gbe siwo mesɔ wo la ɖo abe gli ene hebu dziɣɔli la ʋĩi	Ame aɖeke mele ƒukpo si ŋu wole tetem dɔ la, dzi o.	neutral	<pad> entailment</s>	entailment
+191	Anyigba la le afi ma, abe mile etɔ̃ le ŋgɔ ene - gbe siwo mesɔ wo la ɖo abe gli ene hebu dziɣɔli la ʋĩi	Anyigba aɖeke mele dzedzem ɖe wo le miles geɖe va kpe godoo o, aƒua ɖeɖe koe li yi ʋĩi.	contradiction	<pad> entailment</s>	entailment
+192	Fia bubutɔ ƒe amedɔdɔ kple bubume Sunderland ƒometɔ menye ameklewo ƒe anyigba sia dzi.	Ame dɔdɔwo le Fia Bubutɔ si, siwo dometɔ ɖeka menye.	entailment	<pad> entailment</s>	entailment
+193	Fia bubutɔ ƒe amedɔdɔ kple bubume Sunderland ƒometɔ menye ameklewo ƒe anyigba sia dzi.	Fia Bubutɔ ɖom ɖe afi sia kɔsiɖa ɖekae nye esia.	neutral	<pad> entailment</s>	entailment
+194	Fia bubutɔ ƒe amedɔdɔ kple bubume Sunderland ƒometɔ menye ameklewo ƒe anyigba sia dzi.	Nyemexɔa gbeɖeɖe tso Fia Bubutɔ gbɔ o.	contradiction	<pad> entailment</s>	entailment
+195	Egblɔ be, menyi esia fe ɖe wò,alo mesusunae nenema.	Mesusui kpɔ be yenyi naneke fe ɖe wò o.	contradiction	<pad> entailment</s>	entailment
+196	Egblɔ be, menyi esia fe ɖe wò,alo mesusunae nenema.	Enyi fe ɖe wò le kpekpeɖeŋu si nènae esime wònye wɔmi va yi la ta	neutral	<pad> entailment</s>	entailment
+197	Egblɔ be, menyi esia fe ɖe wò,alo mesusunae nenema.	Enɔ ebum be yenyi nanefe ɖe wò.	entailment	<pad> entailment</s>	entailment
+198	Anye ne menyae nyuie wu be mate ɖe Jamaïque ŋu kplikpã alea le zãme.	Mezɔ mɔ hete ɖe Jamaïque ŋu le ɣe ƒe xɔɖoɖo megbe	entailment	<pad> entailment</s>	entailment
+199	Anye ne menyae nyuie wu be mate ɖe Jamaïque ŋu kplikpã alea le zãme.	Meɖo meli gã aɖe yi Jamaïque	neutral	<pad> entailment</s>	entailment
+200	Anye ne menyae nyuie wu be mate ɖe Jamaïque ŋu kplikpã alea le zãme.	Ŋukeke mee nye kple srɔ̃nye míeva ɖo Jamaïque le.	contradiction	<pad> entailment</s>	entailment
+201	Blood ƒe susuwo yi esia kple nu bubuwo gbɔ esime wòle meridienne la dzi.	Blood ku drẽ manyatalenui aɖe le ŋudɔ me.	contradiction	<pad> entailment</s>	entailment
+202	Blood ƒe susuwo yi esia kple nu bubuwo gbɔ esime wòle meridienne la dzi.	Blood ganɔ tame bum le alɔ̃ me.	entailment	<pad> entailment</s>	entailment
+203	Blood ƒe susuwo yi esia kple nu bubuwo gbɔ esime wòle meridienne la dzi.	Blood nɔ tame bum vevie ku ɖe zi mamlɔetɔ si woùkpɔ nɔa la ŋu.	neutral	<pad> entailment</s>	entailment
+204	Kakaɖedzi lii be mele egblɔ ge na wò.	Enyo, magblɔe na wò.	entailment	<pad> entailment</s>	entailment
+205	Kakaɖedzi lii be mele egblɔ ge na wò.	Medega nu eye mele abe mumu ene.	contradiction	<pad> entailment</s>	entailment
+206	Kakaɖedzi lii be mele egblɔ ge na wò.	Esi nèdo ŋugbe be yemagblɔ esia o tae mele egblɔm na wò ɖoe.	neutral	<pad> entailment</s>	entailment
+207	Ah, abe ale kee?	Ame aɖe le biabiam be akpa ka yeayi hã.	entailment	<pad> entailment</s>	entailment
+208	Ah, abe ale kee?	Nyabiala la ɖeka koe lii eye ame aɖeke melii wòaƒo nu kplii o.	contradiction	<pad> entailment</s>	entailment
+209	Ah, abe ale kee?	Ame si le nya la biam la le kabakaba dzi eye ehiã be yeanya fifi laa mɔ si yeato la. 	neutral	<pad> entailment</s>	entailment
+210	Nyemawɔ fia ƒe gbedeasi la ŋudɔ alɔ gblɔdɔe o.	Fia ƒe gbedeasi dziwɔwɔ tsi tsitre ɖe nyenye ŋu.	neutral	<pad> entailment</s>	entailment
+211	Nyemawɔ fia ƒe gbedeasi la ŋudɔ alɔ gblɔdɔe o.	Mebu tame geɖe le fia ƒe gbedeasi la ŋu.	entailment	<pad> entailment</s>	entailment
+212	Nyemawɔ fia ƒe gbedeasi la ŋudɔ alɔ gblɔdɔe o.	Mede asi agbalẽ te be woawɔ ɖe fia ƒe gbedeasi la dzi tamemabue.	contradiction	<pad> entailment</s>	entailment
+213	Ede dzesii be ate ŋu ava eme be yeagbugbɔ asi yi megbe kabae.	Ede dzesii be ŋkeke blibo la le ŋgɔ na ye be yeagbugbɔ si yi megbe	contradiction	<pad> entailment</s>	entailment
+214	Ede dzesii be ate ŋu ava eme be yeagbugbɔ asi yi megbe kabae.	Ede dzesii be ele be yeawɔ kaba.	entailment	<pad> entailment</s>	entailment
+215	Ede dzesii be ate ŋu ava eme be yeagbugbɔ asi yi megbe kabae.	Ne ɖee ye hã nɔ teƒe ma ke la, woanyakpoɔe.	neutral	<pad> entailment</s>	entailment
+216	Egblɔ nublanuitɔe kple amenumavedɔme na ametɔe be, ke hã la, enye eye wòwɔ nu si woate ŋui le ƒè etɔ siawo me	Menye dzidzɔnya nae be ewu ame gbogbo mawo le ƒè etɔ̃ siawo me o.	neutral	<pad> entailment</s>	entailment
+217	Egblɔ nublanuitɔe kple amenumavedɔme na ametɔe be, ke hã la, enye eye wòwɔ nu si woate ŋui le ƒè etɔ siawo me	Eƒo nu dzidzɔtɔe le eƒe dɔwo kple amenyenye ŋu.	contradiction	<pad> entailment</s>	entailment
+218	Egblɔ nublanuitɔe kple amenumavedɔme na ametɔe be, ke hã la, enye eye wòwɔ nu si woate ŋui le ƒè etɔ siawo me	Enɔ nu ƒom kple nublanuigbe.	entailment	<pad> entailment</s>	entailment
+219	Mesusui be esia sɔ kple wò didi.	Meka ɖe edzi be esia tɔwòwo wɔnae.	entailment	<pad> entailment</s>	entailment
+220	Mesusui be esia sɔ kple wò didi.	Mexlẽ nu ku ɖe wò dukɔ kple wò denunyawɔe ŋu.	neutral	<pad> entailment</s>	entailment
+221	Mesusui be esia sɔ kple wò didi.	Meka ɖe edzi be esia mevaa eme edziedzi le mia gbɔ o.	contradiction	<pad> entailment</s>	entailment
+222	.nkumiamia aɖe ŋlɔ eƒe ŋgo.	Nukoko hãnyã aɖe dze le mo nae.	contradiction	<pad> entailment</s>	entailment
+223	.nkumiamia aɖe ŋlɔ eƒe ŋgo.	Ese nu tɔdziname aɖe le eƒe dɔgbo me.	neutral	<pad> entailment</s>	entailment
+224	.nkumiamia aɖe ŋlɔ eƒe ŋgo.	Emia ŋkuwo	entailment	<pad> entailment</s>	entailment
+225	Enɔ ekpɔ kple dzidzɔ ŋku, gake, esi wòkpɔ eƒe ŋkume si ɖe gbɔdzɔgbɔdzɔ fia kple monyanyra si ŋlɔ eƒe ŋugo la, eya hã ŋutɔ tɔ trɔ.	Eƒe mo trɔ esi wòkpɔ etɔ	entailment	<pad> entailment</s>	entailment
+226	Enɔ ekpɔ kple dzidzɔ ŋku, gake, esi wòkpɔ eƒe ŋkume si ɖe gbɔdzɔgbɔdzɔ fia kple monyanyra si ŋlɔ eƒe ŋugo la, eya hã ŋutɔ tɔ trɔ.	Eƒo mo klẽ esi wõkpo eƒe monyanyra la.	contradiction	<pad> entailment</s>	entailment
+227	Enɔ ekpɔ kple dzidzɔ ŋku, gake, esi wòkpɔ eƒe ŋkume si ɖe gbɔdzɔgbɔdzɔ fia kple monyanyra si ŋlɔ eƒe ŋugo la, eya hã ŋutɔ tɔ trɔ.	Menya ne ele dɔmedzui dom le ye ŋu o	neutral	<pad> entailment</s>	entailment
+228	Ele zɔzɔm blewu yiɖaƒoxlã gli la eye woto agbo gãwo me ge ɖe gbadza la dzi.	Esi wònye be wotu ʋɔa kple safui la, edzo kpo fla afobɛ la hege ɖe aƒea me.	contradiction	<pad> entailment</s>	entailment
+229	Ele zɔzɔm blewu yiɖaƒoxlã gli la eye woto agbo gãwo me ge ɖe gbadza la dzi.	Agbo gãwo koe nye afi si woto age ɖe aƒeadogba dzi.	neutral	<pad> entailment</s>	entailment
+230	Ele zɔzɔm blewu yiɖaƒoxlã gli la eye woto agbo gãwo me ge ɖe gbadza la dzi.	Agbo gãwo lii si woato age ɖe aƒeadogba dzi	entailment	<pad> entailment</s>	entailment
+231	Egblɔ kple dziku be,menyae be nèle enya ge godoo	Enɔ susum be wole ka de ge ve na ame aɖe.	entailment	<pad> entailment</s>	entailment
+232	Egblɔ kple dziku be,menyae be nèle enya ge godoo	Aʋafia si lé fiafi aɖe lae wònye	neutral	<pad> entailment</s>	entailment
+233	Egblɔ kple dziku be,menyae be nèle enya ge godoo	Edi mɔnu si wòato asi dzo le dua mle alebe magayi gakpɔme o	contradiction	<pad> entailment</s>	entailment
+234	Nyateƒeme, ale ke wɔ malé wo atu esime míeganɔ ƒoƒose wɔm?	Nyemete ŋu ƒoe ɖe ɖokuinye nu be made wo gaxɔme o	entailment	<pad> entailment</s>	entailment
+235	Nyateƒeme, ale ke wɔ malé wo atu esime míeganɔ ƒoƒose wɔm?	Mekpɔ be wosu asinye esime ke mekpɔ wo ko	contradiction	<pad> entailment</s>	entailment
+236	Nyateƒeme, ale ke wɔ malé wo atu esime míeganɔ ƒoƒose wɔm?	Nyematsɔe ake ɖokuinye kpɔ nenye be mede wo mɔ o	neutral	<pad> entailment</s>	entailment
+237	Menyae ƒè sia me.	Menɔ eminyam tso ƒè ɖekae nye esi, evɔ eya ŋutɔ menya o	neutral	<pad> entailment</s>	entailment
+238	Menyae ƒè sia me.	Mezu esia abe kɔsiɖa ɖeka lɔƒoe nye esia ene.	contradiction	<pad> entailment</s>	entailment
+239	Menyae ƒè sia me.	Meti eyome le ƒè mamlɔe me	entailment	<pad> entailment</s>	entailment
+240	Agbalẽŋugbalẽwo kple agbalẽnutinu siwo le aklamakpɔ la me la melɔ wo katã si li la ɖe eme o	Aklamakpɔdzikpɔla la medina be woade yewo agbalẽ me o	neutral	<pad> entailment</s>	entailment
+241	Agbalẽŋugbalẽwo kple agbalẽnutinu siwo le aklamakpɔ la me la melɔ wo katã si li la ɖe eme o	Boblodogbalẽwo medoa dzidzɔ na agbaleklamakpɔa o	entailment	<pad> entailment</s>	entailment
+242	Agbalẽŋugbalẽwo kple agbalẽnutinu siwo le aklamakpɔ la me la melɔ wo katã si li la ɖe eme o	Nu gã si nakpɔ le agbalẽklamakpɔa mee nye agbaleŋugbalẽwo	contradiction	<pad> entailment</s>	entailment
+243	Asi siwo le gbadza ƒe la nye teƒe nyui aɖe si nàte ŋu ƒle nu le le Pekin.	Asiwo ɖina kle gbadza ƒe le Pekin siwo me fiase adodoewo le	entailment	<pad> entailment</s>	entailment
+244	Asi siwo le gbadza ƒe la nye teƒe nyui aɖe si nàte ŋu ƒle nu le le Pekin.	Asi siwo ɖina le gbadzaƒe le Beijing lawoe nye nyuiotɔwo le xexea me	neutral	<pad> entailment</s>	entailment
+245	Asi siwo le gbadza ƒe la nye teƒe nyui aɖe si nàte ŋu ƒle nu le le Pekin.	Pekin ƒè se sesẽ la meɖemɔ na gb adzaƒesi mawo tɔgbi le dugã la titina	contradiction	<pad> entailment</s>	entailment
+246	Ƒugo gãtɔ si le dziehe ɣetoɖoƒe kpadzi nye melidzeƒe nui aɖe evɔ tsia kple aƒua ate ŋu aƒo ɖi.	Tsia kple ƒutaa nɔa kɔkɔe ɣe sia ɣi	contradiction	<pad> entailment</s>	entailment
+247	Ƒugo gãtɔ si le dziehe ɣetoɖoƒe kpadzi nye melidzeƒe nui aɖe evɔ tsia kple aƒua ate ŋu aƒo ɖi.	Tsia kple ƒuta ate ŋu ƒoɖi	entailment	<pad> entailment</s>	entailment
+248	Ƒugo gãtɔ si le dziehe ɣetoɖoƒe kpadzi nye melidzeƒe nui aɖe evɔ tsia kple aƒua ate ŋu aƒo ɖi.	Tsia ƒoɖi le nugbegblewo dede eme ta	neutral	<pad> entailment</s>	entailment
+249	Dziƒoxɔ mawo nye gadzraɖoƒewo eye woda ŋkɔ ɖe mɔ si dzi wole la be la Milla de Oro alo Golden Mile	Dziƒoxɔ siwo le Golden Mile dzi :fe ɖeke menye gadzraɖoƒe o	contradiction	<pad> entailment</s>	entailment
+250	Dziƒoxɔ mawo nye gadzraɖoƒewo eye woda ŋkɔ ɖe mɔ si dzi wole la be la Milla de Oro alo Golden Mile	Golden Mile dzidziƒoxɔwo nye gadzraɖoƒewo	entailment	<pad> entailment</s>	entailment
+251	Dziƒoxɔ mawo nye gadzraɖoƒewo eye woda ŋkɔ ɖe mɔ si dzi wole la be la Milla de Oro alo Golden Mile	Golden Mile dzidziƒoxɔwo nye dɔwɔƒe ƒomevi vovovowo, ɖewo nye gadzraɖoƒewo	neutral	<pad> entailment</s>	entailment
+252	Eme kɔ ƒãa be hafi woage ɖe Xexemeʋa Ecelia me la, Eŋlisigbedodu Ƒoƒuawo dze tutuɖo gɔme le Canada ƒe yame si le dedie wu la, ale be yameʋukulawo nadzraɖo ɖi na aʋa la.	Canada ƒe yame nɔ dedie wu	entailment	<pad> entailment</s>	entailment
+253	Eme kɔ ƒãa be hafi woage ɖe Xexemeʋa Ecelia me la, Eŋlisigbedodu Ƒoƒuawo dze tutuɖo gɔme le Canada ƒe yame si le dedie wu la, ale be yameʋukulawo nadzraɖo ɖi na aʋa la.	Nuwowo aɖeke menɔ Canada ƒe yame o	neutral	<pad> entailment</s>	entailment
+254	Eme kɔ ƒãa be hafi woage ɖe Xexemeʋa Ecelia me la, Eŋlisigbedodu Ƒoƒuawo dze tutuɖo gɔme le Canada ƒe yame si le dedie wu la, ale be yameʋukulawo nadzraɖo ɖi na aʋa la.	Canada ƒe skiwo nyraku ŋutɔ	contradiction	<pad> entailment</s>	entailment
+255	To egbɔ be wonya nyuie be yewoƒe ƒuta nyui la meganye yewo tɔ o hã la, wometsɔ ɖeke le eme o, eye wogale dɔ tsɔm nyuie	Heliheli kple ametsitsri ɖeɖe ko wole ɖeɖem fia ame sia me fifi si wonya be amewo le yewoƒe ƒuta la zã ge kple yewoe	contradiction	<pad> entailment</s>	entailment
+256	To egbɔ be wonya nyuie be yewoƒe ƒuta nyui la meganye yewo tɔ o hã la, wometsɔ ɖeke le eme o, eye wogale dɔ tsɔm nyuie	Ele na wo be wo kple ame bubuwo woazã tɔgo la fifia	entailment	<pad> entailment</s>	entailment
+257	To egbɔ be wonya nyuie be yewoƒe ƒuta nyui la meganye yewo tɔ o hã la, wometsɔ ɖeke le eme o, eye wogale dɔ tsɔm nyuie	Tsã la, woƒe ƒuta didi mile alafa atɔ̃ sɔŋ.	neutral	<pad> entailment</s>	entailment
+258	Le ƒè 1279 lia me la, Kublai Khan tu eƒe fiadu ɖe Beihai tagba ƒe gowo dzi le Pekin, afi si eƒe fiakesinɔnu aɖewo gale egbeegbe	Kubilai Khan tu fiadu aɖe ɖe Taiwan	contradiction	<pad> entailment</s>	entailment
+259	Le ƒè 1279 lia me la, Kublai Khan tu eƒe fiadu ɖe Beihai tagba ƒe gowo dzi le Pekin, afi si eƒe fiakesinɔnu aɖewo gale egbeegbe	Kublai Khan ƒe kesinɔnu aɖewo le Beijing	entailment	<pad> entailment</s>	entailment
+260	Le ƒè 1279 lia me la, Kublai Khan tu eƒe fiadu ɖe Beihai tagba ƒe gowo dzi le Pekin, afi si eƒe fiakesinɔnu aɖewo gale egbeegbe	Kublai Khan nye bubume aɖe	neutral	<pad> entailment</s>	entailment
+261	Esi wonye be enɔ bɔbɔe na wo be wonɔ wo ɖokuiwo dem e:nlisiawo me la, Protestant sukusukuwo koe lɔ̀ be yewovi yuɖatɔ siwo le Yurɔpa Ɣedzeƒe la naxɔ ɖaseɖigbalẽ tso Westmount alo be woaga te ŋu yi ɖe Toronto ake.	Yuɖatɔ siwo le Yurɔpa Ɣedzeƒe la woa ɖeka kple ame sia ame nyuie	contradiction	<pad> entailment</s>	entailment
+262	Esi wonye be enɔ bɔbɔe na wo be wonɔ wo ɖokuiwo dem e:nlisiawo me la, Protestant sukusukuwo koe lɔ̀ be yewovi yuɖatɔ siwo le Yurɔpa Ɣedzeƒe la naxɔ ɖaseɖigbalẽ tso Westmount alo be woaga te ŋu yi ɖe Toronto ake.	dua metɔ mamlɔeawo melɔ̃a yuɖatɔwo o	neutral	<pad> entailment</s>	entailment
+263	Esi wonye be enɔ bɔbɔe na wo be wonɔ wo ɖokuiwo dem e:nlisiawo me la, Protestant sukusukuwo koe lɔ̀ be yewovi yuɖatɔ siwo le Yurɔpa Ɣedzeƒe la naxɔ ɖaseɖigbalẽ tso Westmount alo be woaga te ŋu yi ɖe Toronto ake.	Yuɖatɔwo wɔa ɖeka bɔbɔe kple eŋlisiawo.	entailment	<pad> entailment</s>	entailment
+264	Ne miate ŋui la, mite ɖe nusesẽ la ŋu do ŋgɔ	Migaxlẽ nusesẽ la do ɣɔ o, atsi vivisese nu na mi emegbe	contradiction	<pad> entailment</s>	entailment
+265	Ne miate ŋui la, mite ɖe nusesẽ la ŋu do ŋgɔ	Midze agbagba miase nublaɖo la me do ŋgɔ ne miate ŋui	entailment	<pad> entailment</s>	entailment
+266	Ne miate ŋui la, mite ɖe nusesẽ la ŋu do ŋgɔ	Nusɔsrɔ̃a anɔ godui na mi nenye be miese agbalẽa ƒe sesẽƒe gɔme	neutral	<pad> entailment</s>	entailment
+267	Eƒe yɔdo, mɛta 27 (88 pieds) le anyigba tume, nye kpe zɔzrɔ̃e eye wòkeke ɖe mɛta trɔɖo m²  200 dzi (13 000 pieds carrés)	Eƒe yɔdo si me woɖii ɖo la tito wu mɛta 20	entailment	<pad> entailment</s>	entailment
+268	Eƒe yɔdo, mɛta 27 (88 pieds) le anyigba tume, nye kpe zɔzrɔ̃e eye wòkeke ɖe mɛta trɔɖo m²  200 dzi (13 000 pieds carrés)	Enye ameŋukuta vevi aɖe	neutral	<pad> entailment</s>	entailment
+269	Eƒe yɔdo, mɛta 27 (88 pieds) le anyigba tume, nye kpe zɔzrɔ̃e eye wòkeke ɖe mɛta trɔɖo m²  200 dzi (13 000 pieds carrés)	Wogba eƒe yɔdoxɔ ƒe tame kple atigbogblowo	contradiction	<pad> entailment</s>	entailment
+270	Miɖo ŋui ne miaɣla miaƒe nu siwo anɔ asitsɔƒe la ɖe fiɛwo	Miɣla miaƒe nu tɔxɛwo nenye be miedze fiɛwo kpɔkpɔ	entailment	<pad> entailment</s>	entailment
+271	Miɖo ŋui ne miaɣla miaƒe nu siwo anɔ asitsɔƒe la ɖe fiɛwo	Fiɛwo dia nu geɖe, miaƒe nunɔamesiwo hã le eme	neutral	<pad> entailment</s>	entailment
+272	Miɖo ŋui ne miaɣla miaƒe nu siwo anɔ asitsɔƒe la ɖe fiɛwo	miehiã be miaɣla nunɔamesiawo ɖe fiɛawo o	contradiction	<pad> entailment</s>	entailment
+273	Ƒè 1 400 do ŋgɔ na Estei Fiasa tutu la, Milreu hã nye agblenutome ƒe aƒe gã aɖe si nye ameŋukuta aɖe tɔ	Milreu didi tso nuwo gbɔ abe mile 10 ene	neutral	<pad> entailment</s>	entailment
+274	Ƒè 1 400 do ŋgɔ na Estei Fiasa tutu la, Milreu hã nye agblenutome ƒe aƒe gã aɖe si nye ameŋukuta aɖe tɔ	Milreu nɔ agblenutowo me	entailment	<pad> entailment</s>	entailment
+275	Ƒè 1 400 do ŋgɔ na Estei Fiasa tutu la, Milreu hã nye agblenutome ƒe aƒe gã aɖe si nye ameŋukuta aɖe tɔ	Milreu nɔ dugã la titina	contradiction	<pad> entailment</s>	entailment
+276	Tsia ƒe dzoxɔxɔ anɔ °C 18 kple 24 dome (°F 64 yi 75)	Ƒuwo ƒe dzoxɔxɔ le tɔtrɔm gbe sia gbe gake meɖiɖi yi sikpe ɖoƒe gɔme kpɔ o	entailment	<pad> entailment</s>	entailment
+277	Tsia ƒe dzoxɔxɔ anɔ °C 18 kple 24 dome (°F 64 yi 75)	Ƒuwo ƒe dzoxɔxɔ nɔa ɖeka le ƒèa katã me	contradiction	<pad> entailment</s>	entailment
+278	Tsia ƒe dzoxɔxɔ anɔ °C 18 kple 24 dome (°F 64 yi 75)	Kpɔ dzodzowo dea dzi le ŋkeke me nenye be dzodzo le wɔwɔm la	neutral	<pad> entailment</s>	entailment
+279	Kinabalu ƒe lãveme nye lãve ade siwo ta woʋlina le nutoame dometɔ ɖeka	Atiglinyi ewo kple ɖɛgbo adẽ le Kinabalu lãve la me	neutral	<pad> entailment</s>	entailment
+280	Kinabalu ƒe lãveme nye lãve ade siwo ta woʋlina le nutoame dometɔ ɖeka	Dziɖuɖua ƒe nutowo li si ta wòʋlina, Kinabalu ƒe dukɔaƒe lãve hã le eme	entailment	<pad> entailment</s>	entailment
+281	Kinabalu ƒe lãveme nye lãve ade siwo ta woʋlina le nutoame dometɔ ɖeka	Nuto etɔ̃e li si ta dziɖuɖua kpɔna	contradiction	<pad> entailment</s>	entailment
+282	Miele nɔnɔmetata ʋuʋu kpɔ ge ku ɖe Anne kple Amsterdam ŋu le ɣeyiɣi si me woxɔ dua kpakple fotowo kple ɣe ma ɣi nuwo ŋu	Miele foto aɖeke kpɔ ge o	contradiction	<pad> contradiction</s>	contradiction
+283	Miele nɔnɔmetata ʋuʋu kpɔ ge ku ɖe Anne kple Amsterdam ŋu le ɣeyiɣi si me woxɔ dua kpakple fotowo kple ɣe ma ɣi nuwo ŋu	Miele fotowo kpɔ ge	entailment	<pad> entailment</s>	entailment
+284	Miele nɔnɔmetata ʋuʋu kpɔ ge ku ɖe Anne kple Amsterdam ŋu le ɣeyiɣi si me woxɔ dua kpakple fotowo kple ɣe ma ɣi nuwo ŋu	Miele foto gbãtɔwo ƒe ɖewo kpɔ ge	neutral	<pad> entailment</s>	entailment
+285	Treasure Beach le abe teƒe ɖeka si amedzrodzeƒe le ene, amedzrodzeƒe aɖewo kaka ɖe ƒutago etɔ̃ nu	Amedzrodzeƒe metsitsiã meli aɖeke na ame siwo yina ɖe Treasure Beach o	entailment	<pad> entailment</s>	entailment
+286	Treasure Beach le abe teƒe ɖeka si amedzrodzeƒe le ene, amedzrodzeƒe aɖewo kaka ɖe ƒutago etɔ̃ nu	Amedzrodzeƒe xɔ ŋkɔ aɖe li na nukpɔk;pɔ tsaɖila siwo vana Teasure Beach la	neutral	<pad> entailment</s>	entailment
+287	Treasure Beach le abe teƒe ɖeka si amedzrodzeƒe le ene, amedzrodzeƒe aɖewo kaka ɖe ƒutago etɔ̃ nu	Teasure Beach nye futagodu sue siwo bɔ ɖe nutoame la dometɔ ɖeka	contradiction	<pad> entailment</s>	entailment
+288	Le afo si gbɔna me la xexea me kɔna (dzodzo manɔ eme o) eye ƒu ƒe dzoxɔxɔ ƒe dziyiyi nana be tsiƒuƒu, ƒugɔme yiyi nyea nu vivi aɖe kpakple tɔdzidɔ bubuawo hã	Le afo me la, dzodzoa dena kɔkɔƒe 100 kple edzivɔwo	contradiction	<pad> entailment</s>	entailment
+289	Le afo si gbɔna me la xexea me kɔna (dzodzo manɔ eme o) eye ƒu ƒe dzoxɔxɔ ƒe dziyiyi nana be tsiƒuƒu, ƒugɔme yiyi nyea nu vivi aɖe kpakple tɔdzidɔ bubuawo hã	Edziedzi la enyea 75 le afo me	neutral	<pad> entailment</s>	entailment
+290	Le afo si gbɔna me la xexea me kɔna (dzodzo manɔ eme o) eye ƒu ƒe dzoxɔxɔ ƒe dziyiyi nana be tsiƒuƒu, ƒugɔme yiyi nyea nu vivi aɖe kpakple tɔdzidɔ bubuawo hã	Dzodzo wɔna le afo me	entailment	<pad> contradiction</s>	contradiction
+291	Le tsidoawo me la, ɖeka li si me vavalawo dea ga henɔ mɔ kpɔm be klo ɖeka teti nado, mɔkpɔkpɔ hena dzɔgbenyui	Amewo medaa ga ɖe eme gbeɖe o elabena esia hea dzɔgbevɔ̃e vana	contradiction	<pad> entailment</s>	entailment
+292	Le tsidoawo me la, ɖeka li si me vavalawo dea ga henɔ mɔ kpɔm be klo ɖeka teti nado, mɔkpɔkpɔ hena dzɔgbenyui	Amewo daa ga ɖe eme to egbɔ be woŋlɔ ɖe nufiakpeawo dzi be womegawɔe nenema o lae	neutral	<pad> entailment</s>	entailment
+293	Le tsidoawo me la, ɖeka li si me vavalawo dea ga henɔ mɔ kpɔm be klo ɖeka teti nado, mɔkpɔkpɔ hena dzɔgbenyui	Amewo ƒu ga gbe ɖe eme	entailment	<pad> entailment</s>	entailment
+294	Melidzeƒe du Nauplie nye teƒe nyui aɖe si dzi woato aka dua me alo adi teƒe bubu aɖu nu le le tsaɖiɖi me	Nu dzena nyuie tso Nauplie	neutral	<pad> entailment</s>	entailment
+295	Melidzeƒe du Nauplie nye teƒe nyui aɖe si dzi woato aka dua me alo adi teƒe bubu aɖu nu le le tsaɖiɖi me	Nafplio menye gnu nyui aɖeke o	contradiction	<pad> entailment</s>	entailment
+296	Melidzeƒe du Nauplie nye teƒe nyui aɖe si dzi woato aka dua me alo adi teƒe bubu aɖu nu le le tsaɖiɖi me	Nafplio nye gunu adodui	entailment	<pad> entailment</s>	entailment
+297	Le Prinsengracht la, otto Frank kple eƒe ƒomea ɣla ɖe woƒe nudzaƒe ƒe guxɔ me ƒè eve sɔŋ hafi wova ke ɖe wo ŋu	Wole Otto Frank le ŋkeke evelia gbe	contradiction	<pad> entailment</s>	entailment
+298	Le Prinsengracht la, otto Frank kple eƒe ƒomea ɣla ɖe woƒe nudzaƒe ƒe guxɔ me ƒè eve sɔŋ hafi wova ke ɖe wo ŋu	Otto Franck nɔ ɣlaɣla me wu ɣleti 25	entailment	<pad> entailment</s>	entailment
+299	Le Prinsengracht la, otto Frank kple eƒe ƒomea ɣla ɖe woƒe nudzaƒe ƒe guxɔ me ƒè eve sɔŋ hafi wova ke ɖe wo ŋu	Otto Franck ɣla eɖokui va se ɖe esime naziwo va kpɔe	neutral	<pad> entailment</s>	entailment
+300	Nutome dziɖuɖu kple du geɖewo ɖo akɔŋta ɖoɖo anyi	Nutome dziɖuɖuwo ateŋu ɖo woawo ŋutɔ ƒe sewo anyi	neutral	<pad> entailment</s>	entailment
+301	Nutome dziɖuɖu kple du geɖewo ɖo akɔŋta ɖoɖo anyi	Nutome dziɖuɖuwo meɖo dzi zizĩ aɖeke o	contradiction	<pad> entailment</s>	entailment
+302	Nutome dziɖuɖu kple du geɖewo ɖo akɔŋta ɖoɖo anyi	Dzi zizĩ li na akɔŋta ɖoɖo bubuwo tso nutome dziɖuɖuwo gbɔ	entailment	<pad> entailment</s>	entailment
+303	Dedienɔnɔ nyanyanana habɔbɔa wɔ gododo 8 kple 12 ɣleti sia ɣleti	Dedienɔnɔ habɔbɔa wɔa gododo 9 le ɣleti ɖeka me	neutral	<pad> entailment</s>	entailment
+304	Dedienɔnɔ nyanyanana habɔbɔa wɔ gododo 8 kple 12 ɣleti sia ɣleti	Dedienɔnɔ habɔbɔa wɔa doa go gbe sia gbe le ɣletia me	contradiction	<pad> entailment</s>	entailment
+305	Dedienɔnɔ nyanyanana habɔbɔa wɔ gododo 8 kple 12 ɣleti sia ɣleti	Dedienɔnɔ habɔbɔa woa takpekpe geɖewo ƒe sia ƒe	entailment	<pad> entailment</s>	entailment
+306	Gɔmedze aɖaŋudɔ va eme do ŋugɔ	Aɖaŋudɔ va eme le gɔmedze ɣeyiɣi me	entailment	<pad> entailment</s>	entailment
+307	Gɔmedze aɖaŋudɔ va eme do ŋugɔ	Ɖoƒe mamlɔe ko aɖaŋudɔ kpɔ eme vava le	contradiction	<pad> entailment</s>	entailment
+308	Gɔmedze aɖaŋudɔ va eme do ŋugɔ	Aɖaŋudɔa akpɔ gege ne gɔmedze numekuku medo ŋugɔ o	neutral	<pad> entailment</s>	entailment
+309	Dunyagbɔkpɔlawo kple dziɖuɖua kplɔlawo ɖo susu bubuwo anyi le alesi woawɔ akpɔ tɔɖɔdzinuawo ɖoƒe gbɔ to nyanyanana bubuwo me 	Dziɖuɖua teƒenɔlawo trɔ woƒe nukpɔsusu	entailment	<pad> entailment</s>	entailment
+310	Dunyagbɔkpɔlawo kple dziɖuɖua kplɔlawo ɖo susu bubuwo anyi le alesi woawɔ akpɔ tɔɖɔdzinuawo ɖoƒe gbɔ to nyanyanana bubuwo me 	Dziɖuɖua teƒenɔlawo na ŋusẽ wo ɖokuiwo to susu ɖeɖe vovovowo me	neutral	<pad> entailment</s>	entailment
+311	Dunyagbɔkpɔlawo kple dziɖuɖua kplɔlawo ɖo susu bubuwo anyi le alesi woawɔ akpɔ tɔɖɔdzinuawo ɖoƒe gbɔ to nyanyanana bubuwo me 	Dziɖuɖua teƒenɔlawo gbe agbenɔnɔ tɔtrɔ	contradiction	<pad> entailment</s>	entailment
+312	Edze be woatrɔ agbalɛwo ɖe gbe bubu me na asisinɔ siwo se gbe bubu to vovo na Ŋlissigbe	Woɖe mɔ le dɔwɔna ƒe agbalɛwo ŋu ko le Ŋlissigbe me	contradiction	<pad> entailment</s>	entailment
+313	Edze be woatrɔ agbalɛwo ɖe gbe bubu me na asisinɔ siwo se gbe bubu to vovo na Ŋlissigbe	Woateŋu ŋlɔ agbalɛwo ɖe chinoi alo russe gbe me	neutral	<pad> entailment</s>	entailment
+314	Edze be woatrɔ agbalɛwo ɖe gbe bubu me na asisinɔ siwo se gbe bubu to vovo na Ŋlissigbe	Woateŋu ŋlɔ agbalɛwo ɖe gbe bubuwo me	entailment	<pad> entailment</s>	entailment
+315	Agbagbadzedze alo nuɖoɖi bubuwo ɖo	Miaƒe agbagbadzedze geɖewo le dɔ wɔm vɔ	neutral	<pad> entailment</s>	entailment
+316	Agbagbadzedze alo nuɖoɖi bubuwo ɖo	Mieɖo naneke ɖe tsɔ si gbɔna ŋu o	contradiction	<pad> entailment</s>	entailment
+317	Agbagbadzedze alo nuɖoɖi bubuwo ɖo	Mieɖo nane daɖi vɔ	entailment	<pad> entailment</s>	entailment
+318	Woatsɔ nuwo abe ɣeyiɣi suewo mɔɖaŋu nuwo ɖeɖe ɖa kple agbalɛ veviewo ƒe mɔnumakpɔkpɔ	Wo tutu IBM ƒe mɔɖaŋunuwo	neutral	<pad> entailment</s>	entailment
+319	Woatsɔ nuwo abe ɣeyiɣi suewo mɔɖaŋu nuwo ɖeɖe ɖa kple agbalɛ veviewo ƒe mɔnumakpɔkpɔ	Wo tutu mɔɖaŋua ƒe dzɔdzɔme nuwo	entailment	<pad> entailment</s>	entailment
+320	Woatsɔ nuwo abe ɣeyiɣi suewo mɔɖaŋu nuwo ɖeɖe ɖa kple agbalɛ veviewo ƒe mɔnumakpɔkpɔ	Wogble dzɔdzɔmenuwo katã ɖi	contradiction	<pad> entailment</s>	entailment
+321	Emegbe la, teƒenɔla si va do ŋugɔ la axɔ nudzrala ke aɖo eye adzr biabiawo me kplii ku ɖe nua ƒe ɖewo ŋuti	Teƒenɔla wɔ gaƒoƒo ɖeka tsaɖiɖi	neutral	<pad> entailment</s>	entailment
+322	Emegbe la, teƒenɔla si va do ŋugɔ la axɔ nudzrala ke aɖo eye adzr biabiawo me kplii ku ɖe nua ƒe ɖewo ŋuti	Teƒenɔla ɖeka va srãwo kpɔ	entailment	<pad> entailment</s>	entailment
+323	Emegbe la, teƒenɔla si va do ŋugɔ la axɔ nudzrala ke aɖo eye adzr biabiawo me kplii ku ɖe nua ƒe ɖewo ŋuti	Miexɔ ame dzidzi kpɔ aɖeke o	contradiction	<pad> entailment</s>	entailment
+324	Gadzadzraɖo kple kesinɔnua le tetem ɖe wo nɔewo dzi	Tsitsiã wɔwɔ na gadzadzra ɖo kpɔ ŋusẽ ɖe kesinɔnua dzi	entailment	<pad> entailment</s>	entailment
+325	Gadzadzraɖo kple kesinɔnua le tetem ɖe wo nɔewo dzi	Kesinɔnu kple ganyaŋunyawo meɖo kadede o	contradiction	<pad> entailment</s>	entailment
+326	Gadzadzraɖo kple kesinɔnua le tetem ɖe wo nɔewo dzi	Kesinɔtɔwo ɖo ŋutete adzra woƒe kesinɔnu ƒe akpa ɖe ɖi	neutral	<pad> entailment</s>	entailment
+327	Le kpɔɖeŋu me hatsotso aɖe si ŋu miewɔ numekuku tso la, wotsãe kple dɔwɔƒe bubu alebe woateŋu asitsatsa ƒe hiãhiãwo nu	Nenye be wotsã dɔwɔƒe hã mehiã be woa ɖɔli eƒe tatɔwo o	contradiction	<pad> entailment</s>	entailment
+328	Le kpɔɖeŋu me hatsotso aɖe si ŋu miewɔ numekuku tso la, wotsãe kple dɔwɔƒe bubu alebe woateŋu asitsatsa ƒe hiãhiãwo nu	Dɔwɔƒe eve ƒe tsatsã wɔ ɖeka kple eƒe tɔtrɔ na dɔwɔwɔ nɔnɔme gbegblẽ	neutral	<pad> entailment</s>	entailment
+329	Le kpɔɖeŋu me hatsotso aɖe si ŋu miewɔ numekuku tso la, wotsãe kple dɔwɔƒe bubu alebe woateŋu asitsatsa ƒe hiãhiãwo nu	Miele ŋuku ɖe dɔwɔƒe aɖe si wotsã zi eve eye wotrɔ ɖe dɔwɔwɔ dzi zizĩ yeyewo ŋu 	entailment	<pad> entailment</s>	entailment
+330	Le eƒe wɔwɔme la, miexa nu be woaɖe mɔ na fexexe do ŋugɔ hafi akpɔ be mɔzɔzɔ̃ va eme nyateƒe	Mienya fexexe axɔ ɣeyɣi geɖe	contradiction	<pad> entailment</s>	entailment
+331	Le eƒe wɔwɔme la, miexa nu be woaɖe mɔ na fexexe do ŋugɔ hafi akpɔ be mɔzɔzɔ̃ va eme nyateƒe	Miesusu be fexexe ado ŋugɔ na ŋuku lele ɖe ŋu	entailment	<pad> entailment</s>	entailment
+332	Le eƒe wɔwɔme la, miexa nu be woaɖe mɔ na fexexe do ŋugɔ hafi akpɔ be mɔzɔzɔ̃ va eme nyateƒe	Miesusu be woaxe fe ɖoɖa mi do ŋugɔ eye woa fi mi	neutral	<pad> entailment</s>	entailment
+333	Aɖaŋudɔwo ŋuti nunya le dɔwɔƒe siawo me menye abe dɔwɔnu ko ene o gake fafadenume ene	Mɔɖaŋu ɖoɖo nye aɖaŋu ŋuti nunya vevie aɖe si gbɔ dɔwɔƒewo kpɔ na 	neutral	<pad> entailment</s>	entailment
+334	Aɖaŋudɔwo ŋuti nunya le dɔwɔƒe siawo me menye abe dɔwɔnu ko ene o gake fafadenume ene	Aɖaŋu ŋuti nunya menye dɔwɔnu ko fafadenume hã	contradiction	<pad> entailment</s>	entailment
+335	Aɖaŋudɔwo ŋuti nunya le dɔwɔƒe siawo me menye abe dɔwɔnu ko ene o gake fafadenume ene	Dɔwɔƒe siawo na asi xɔxɔ gã ɖe aɖaŋu ŋuti nunya	entailment	<pad> entailment</s>	entailment
+336	Nukpɔsusu eve si dzena le gbegbɔgblɔ agbalɛ̃ ŋɔŋlɔ me ateŋu na nɔnɔme bubu numekuku si gbɔna la	Gbegbɔgblɔ agbalɛ̃ ŋɔŋlɔ ateŋu trɔ alesi miedoa nuawo ƒe suewo kpɔ	neutral	<pad> entailment</s>	entailment
+337	Nukpɔsusu eve si dzena le gbegbɔgblɔ agbalɛ̃ ŋɔŋlɔ me ateŋu na nɔnɔme bubu numekuku si gbɔna la	Gbegbɔgblɔ agbalɛ̃ ŋɔŋlɔ ateŋu trɔ numekuku si gbɔna	entailment	<pad> entailment</s>	entailment
+338	Nukpɔsusu eve si dzena le gbegbɔgblɔ agbalɛ̃ ŋɔŋlɔ me ateŋu na nɔnɔme bubu numekuku si gbɔna la	Naneke meli si miawɔ atrɔ numekukua o	contradiction	<pad> entailment</s>	entailment
+339	Fli siwo le aɖaka me ɖe dɔ ɖolawo katã ƒe nyoname fia eye kpexɔasime fliwo ɖe aɖawɔwɔ nyawo ƒe nu siwwo bu le dɔwɔwɔ me ɖo ɖe akpa bubu gbɔ	Fliawo akɔŋtawo ɖe alesi miaƒe dɔ ɖolawo ƒe nyoname le 10 ɖe alafa	neutral	<pad> entailment</s>	entailment
+340	Fli siwo le aɖaka me ɖe dɔ ɖolawo katã ƒe nyoname fia eye kpexɔasime fliwo ɖe aɖawɔwɔ nyawo ƒe nu siwwo bu le dɔwɔwɔ me ɖo ɖe akpa bubu gbɔ	Fliawo meɖe naneke fia wu mɔwo o	contradiction	<pad> entailment</s>	entailment
+341	Fli siwo le aɖaka me ɖe dɔ ɖolawo katã ƒe nyoname fia eye kpexɔasime fliwo ɖe aɖawɔwɔ nyawo ƒe nu siwwo bu le dɔwɔwɔ me ɖo ɖe akpa bubu gbɔ	Fliawo ɖe miaƒe dɔ ɖolawo ƒe nyoname fia	entailment	<pad> entailment</s>	entailment
+342	Centerlink ɖo mɔnu vovovowo siwo tu ɖe afɔkuwo bubu ŋu alebe gomekpɔlawo ateŋu na akɔŋta ku ɖe woƒe nunɔamesiwo ŋu	Centerlink menya alesi wɔa ɖɔ kuxia ɖo o	contradiction	<pad> entailment</s>	entailment
+343	Centerlink ɖo mɔnu vovovowo siwo tu ɖe afɔkuwo bubu ŋu alebe gomekpɔlawo ateŋu na akɔŋta ku ɖe woƒe nunɔamesiwo ŋu	Centerlink ɖo mɔnu geɖe afia ale si amewo aɖo akɔŋta ku ɖe woƒe ga nyawo ŋu elabe esia na dziɖuɖua gble ga geɖe	neutral	<pad> entailment</s>	entailment
+344	Centerlink ɖo mɔnu vovovowo siwo tu ɖe afɔkuwo bubu ŋu alebe gomekpɔlawo ateŋu na akɔŋta ku ɖe woƒe nunɔamesiwo ŋu	Centerlink ɖo mɔnu geɖewo afia ɖeviwo ale si woakpɔ woƒe ga nyawo gbɔ	entailment	<pad> entailment</s>	entailment
+345	Esia na wɔwɔa ɖeɖefiawo akpeɖe dɔwɔƒewo ŋu be wɔaga gblẽ ga le gɔmedzedze le dɔwɔnuwo ƒeƒle me o	Emegbe woateŋu ɖe ale si ɖoɖoa wɔadɔ afia	entailment	<pad> entailment</s>	entailment
+346	Esia na wɔwɔa ɖeɖefiawo akpeɖe dɔwɔƒewo ŋu be wɔaga gblẽ ga le gɔmedzedze le dɔwɔnuwo ƒeƒle me o	Woateŋu aɖefia dɔwɔƒea be mesɔ be woatu dɔwɔƒe yeyewo o	neutral	<pad> entailment</s>	entailment
+347	Esia na wɔwɔa ɖeɖefiawo akpeɖe dɔwɔƒewo ŋu be wɔaga gblẽ ga le gɔmedzedze le dɔwɔnuwo ƒeƒle me o	Womeɖo susu aɖeke ku ɖe ga ƒe ŋusẽkpɔɖeamedzi o	contradiction	<pad> entailment</s>	entailment
+348	Ɣetoɖoƒe Carolina ƒe agbagbadzedzewo he dziɖuɖu vae le ƒe si va me	Ameaɖeke me me kpeɖe ameŋu le ɣetoɖoƒe Carolina o	contradiction	<pad> entailment</s>	entailment
+349	Ɣetoɖoƒe Carolina ƒe agbagbadzedzewo he dziɖuɖu vae le ƒe si va me	SC wɔdɔ ɖe du	entailment	<pad> entailment</s>	entailment
+350	Ɣetoɖoƒe Carolina ƒe agbagbadzedzewo he dziɖuɖu vae le ƒe si va me	Republicain kple democrat tɔwo wɔdɔ ɖe du le ɣetoɖoƒe Carolina 	neutral	<pad> entailment</s>	entailment
+351	Le ameŋukuta ɖe ƒe nyanu la wometsɔ ɖaseɖigbalɛ̃wo ɖo ɖe Small Business Administration ƒe aƒetɔ o	Aɖaŋuɖeha metsɔ ɖaseɖigbalɛ̃wo na SBA eye womedae ɖe amesi kpɔa gbɔ ƒe dɔwɔƒe o	neutral	<pad> entailment</s>	entailment
+352	Le ameŋukuta ɖe ƒe nyanu la wometsɔ ɖaseɖigbalɛ̃wo ɖo ɖe Small Business Administration ƒe aƒetɔ o	Aɖaŋuɖeha metsɔ ɖaseɖigbalɛ̃wo na SBA o	entailment	<pad> entailment</s>	entailment
+353	Le ameŋukuta ɖe ƒe nyanu la wometsɔ ɖaseɖigbalɛ̃wo ɖo ɖe Small Business Administration ƒe aƒetɔ o	Aɖaŋuɖeha ma SBA ɖaseɖigbalɛ̃ na ame sia ame si bia	contradiction	<pad> entailment</s>	entailment
+354	Anyo be woale ŋuku ɖe mɔzɔzɔ̃ ganyawo ŋu nenye wosɔ kple bubuwo ŋu	Amedzrodzeƒe dua me tɔwo lɔ̃ fexexe to gaxɔgbalɛ̃vi dzi	neutral	<pad> entailment</s>	entailment
+355	Anyo be woale ŋuku ɖe mɔzɔzɔ̃ ganyawo ŋu nenye wosɔ kple bubuwo ŋu	Woale ŋuku ɖe mɔzɔzɔa ŋu to amedzrodzeƒe ganyawo me	entailment	<pad> entailment</s>	entailment
+356	Anyo be woale ŋuku ɖe mɔzɔzɔ̃ ganyawo ŋu nenye wosɔ kple bubuwo ŋu	Mɔnu aɖeke meli ne woanya be mɔzɔzɔ̃a kpɔ eme va vava o	contradiction	<pad> entailment</s>	entailment
+357	Le kpɔɖeŋu me, mieyi dugã aɖe si ɖo  ɖoɖodɔwɔƒe 600 me	Du gãwo me nye teƒe adodoe na ɖoɖodɔwɔƒewo	neutral	<pad> entailment</s>	entailment
+358	Le kpɔɖeŋu me, mieyi dugã aɖe si ɖo  ɖoɖodɔwɔƒe 600 me	Du gã aɖe ɖo ɖoɖodɔƒewo tɔn ɖeka	entailment	<pad> entailment</s>	entailment
+359	Le kpɔɖeŋu me, mieyi dugã aɖe si ɖo  ɖoɖodɔwɔƒe 600 me	Ɖoɖodɔwɔƒewo de axa na gawo le se nyawo ƒe susu ta	contradiction	<pad> entailment</s>	entailment
+360	Ne miedidi dɔwɔwɔ nyui la woteŋu akpɔ blibo nyenye o	Ateŋu de blibo nenye be netsɔmɔnu geɖewo	contradiction	<pad> entailment</s>	entailment
+361	Ne miedidi dɔwɔwɔ nyui la woteŋu akpɔ blibo nyenye o	Mateŋu de blibo kpɔ o	entailment	<pad> entailment</s>	entailment
+362	Ne miedidi dɔwɔwɔ nyui la woteŋu akpɔ blibo nyenye o	Miateŋu de blibo elabe mi katã mienye ame made blibowo	neutral	<pad> entailment</s>	entailment
+363	Amesi haya xɔ na Hazmi kple Mihdhar le ƒe 2000 lia me nye dumevi si wɔa ɖe sewo dzi eye woɖo kadede nyui kple FBI kpakple kpovitɔwo	Hazmi kple Mihdhar ƒle aƒe aɖe eye womeɖo kadodo aɖeke kple ameaɖeke o	contradiction	<pad> entailment</s>	entailment
+364	Amesi haya xɔ na Hazmi kple Mihdhar le ƒe 2000 lia me nye dumevi si wɔa ɖe sewo dzi eye woɖo kadede nyui kple FBI kpakple kpovitɔwo	Hazmi kple Mihdhar haya xɔ na ƒea katã kple $500 gbe sia gbe	neutral	<pad> entailment</s>	entailment
+365	Amesi haya xɔ na Hazmi kple Mihdhar le ƒe 2000 lia me nye dumevi si wɔa ɖe sewo dzi eye woɖo kadede nyui kple FBI kpakple kpovitɔwo	Hazmi kple Mihdhar haya xɔ	entailment	<pad> entailment</s>	entailment
+366	Na woƒe Bosnie ƒe mɔzɔzɔ̃ la, woakpɔ Sauditɔ si nye Al Qaeda menɔla aɖe nyabiabia numeɖeɖe le kele, 3 ƒe 2001 me	Al Qaeda menɔtɔ aɖe yi Bosnie zi 18 le ƒe 2001 me	neutral	<pad> entailment</s>	entailment
+367	Na woƒe Bosnie ƒe mɔzɔzɔ̃ la, woakpɔ Sauditɔ si nye Al Qaeda menɔla aɖe nyabiabia numeɖeɖe le kele, 3 ƒe 2001 me	Al Qaeda menɔtɔ aɖe yi Bosnie	entailment	<pad> entailment</s>	entailment
+368	Na woƒe Bosnie ƒe mɔzɔzɔ̃ la, woakpɔ Sauditɔ si nye Al Qaeda menɔla aɖe nyabiabia numeɖeɖe le kele, 3 ƒe 2001 me	Kpeɖodzi aɖeke meli be Al Qaeda menɔtɔ aɖe yi Bosnie o	contradiction	<pad> contradiction</s>	contradiction
+369	Jane bia New-York dɔwɔwɔtɔ si kpɔa Mihdhar didi gbɔ be woade asi agbalɛ̃ aɖe te ese ale si wowɔ FISA nyanyanana	Jane bia be dua ƒe ʋɔnudrɔ̃la nade asi FISA agbalɛ̃ aɖe te 	neutral	<pad> entailment</s>	entailment
+370	Jane bia New-York dɔwɔwɔtɔ si kpɔa Mihdhar didi gbɔ be woade asi agbalɛ̃ aɖe te ese ale si wowɔ FISA nyanyanana	Jane bia be woade asi FISA agbalɛ̃ ŋuɖoɖo aɖe te	entailment	<pad> entailment</s>	entailment
+371	Jane bia New-York dɔwɔwɔtɔ si kpɔa Mihdhar didi gbɔ be woade asi agbalɛ̃ aɖe te ese ale si wowɔ FISA nyanyanana	Jane gblɔ be FISA ŋuɖoɖo agbalɛ̃ aɖeke mehiã o	contradiction	<pad> entailment</s>	entailment
+372	Naneke medo le woŋu si ku ɖe dedienɔnɔ ɖoɖo le checkpoint o	Kpeɖodzi geɖewo dze le ŋukulele ɖe nu ŋu le checkpoint o	contradiction	<pad> entailment</s>	entailment
+373	Naneke medo le woŋu si ku ɖe dedienɔnɔ ɖoɖo le checkpoint o	Numekakawo le checkpointwo le dedikpɔlawo ƒe nutovokpɔkpɔ me	neutral	<pad> entailment</s>	entailment
+374	Naneke medo le woŋu si ku ɖe dedienɔnɔ ɖoɖo le checkpoint o	Checkpoint meteŋu kpɔ Kpeɖodziwo ɖe woŋu o	entailment	<pad> entailment</s>	entailment
+375	Khallad hã gblɔ nya bubu, wo etɔ̃a zɔ mɔ yi Karachi	Khallad be gblɔ be menya naneke ku ɖe wo etɔ̃a ŋu o	contradiction	<pad> entailment</s>	entailment
+376	Khallad hã gblɔ nya bubu, wo etɔ̃a zɔ mɔ yi Karachi	Khallad be ɖewohĩ wo etɔ̃a zɔ mɔ ɖe du	entailment	<pad> entailment</s>	entailment
+377	Khallad hã gblɔ nya bubu, wo etɔ̃a zɔ mɔ yi Karachi	Khallad be aklama 50% li be wo etɔ̃a yi Karachi le kele me	neutral	<pad> entailment</s>	entailment
+378	Numekuku akɔŋta, Binalshibh nyabiabia, le kele 1 ƒe 2002 lia me	FBI dɔwɔwɔƒe tɔxɛ aɖe bia nya Binalshib	neutral	<pad> entailment</s>	entailment
+379	Numekuku akɔŋta, Binalshibh nyabiabia, le kele 1 ƒe 2002 lia me	Wobia nya Binalshib le ƒe 2002 liame	entailment	<pad> entailment</s>	entailment
+380	Numekuku akɔŋta, Binalshibh nyabiabia, le kele 1 ƒe 2002 lia me	Wome ƒonu na Binalbish kpɔ o eye wobu	contradiction	<pad> entailment</s>	entailment
+381	Mihdhar xɔ america visa le ŋkeke eve me le CIA-FBI  gododo megbe	Mihdhar ɖo america visa tsɔ va dua me	entailment	<pad> entailment</s>	entailment
+382	Mihdhar xɔ america visa le ŋkeke eve me le CIA-FBI  gododo megbe	Mihdhar meɖo visa kpɔ o eyata meva miagbɔ kpɔ o	contradiction	<pad> contradiction</s>	contradiction
+383	Mihdhar xɔ america visa le ŋkeke eve me le CIA-FBI  gododo megbe	Mihdhar xɔ visa elabena menye ŋɔdidonametɔ o	neutral	<pad> entailment</s>	entailment
+384	Le ƒe eve numekuku megbe la, FBI meteŋu de dzesi hadɔwɔla o 	FBI meteŋu kpɔ ŋutsua le eƒe dzodzo le Floride le ƒe 2001 me o	neutral	<pad> entailment</s>	entailment
+385	Le ƒe eve numekuku megbe la, FBI meteŋu de dzesi hadɔwɔla o 	FBI meteŋu kpɔ amesi wonye o	entailment	<pad> entailment</s>	entailment
+386	Le ƒe eve numekuku megbe la, FBI meteŋu de dzesi hadɔwɔla o 	FBI meteŋu kpɔ amea o	contradiction	<pad> entailment</s>	entailment
+387	Le americatɔ 11lia gome la, yameʋua dzeɖoɖo mamlɔe va eme le 08h13lia me	Dzɖoɖowo va eme tso american11lia gbɔ	entailment	<pad> entailment</s>	entailment
+388	Le americatɔ 11lia gome la, yameʋua dzeɖoɖo mamlɔe va eme le 08h13lia me	Dzeɖoɖowo tso american11lia gbɔ miniti 5 sia miniti	neutral	<pad> entailment</s>	entailment
+389	Le americatɔ 11lia gome la, yameʋua dzeɖoɖo mamlɔe va eme le 08h13lia me	Dzeɖoɖo aɖeke menɔ american 11lia dome kpɔ o	contradiction	<pad> entailment</s>	entailment
+390	Eƒe nusi wofɔ anye ne ehiã kpekpeɖeŋu tso Germany dziɖuɖua gbɔ la, asesẽ na xɔxɔ	Ne numekukuawo de to la, aɖe sisila etɔ̃awo ƒe teƒe afia	neutral	<pad> entailment</s>	entailment
+391	Eƒe nusi wofɔ anye ne ehiã kpekpeɖeŋu tso Germany dziɖuɖua gbɔ la, asesẽ na xɔxɔ	Germany dziɖuɖua ateŋu kpɔ kuxi le numekuku de to me	entailment	<pad> entailment</s>	entailment
+392	Eƒe nusi wofɔ anye ne ehiã kpekpeɖeŋu tso Germany dziɖuɖua gbɔ la, asesẽ na xɔxɔ	Numekuku ateŋu nɔ bɔboe na dziɖuɖua	contradiction	<pad> entailment</s>	entailment
+393	Eƒe ŋtetewo mesu o, gake ʋɛ aɖewo koe ŋu wotrɔ asi le	Wometrɔ woƒe amekpɔkpɔ ɖoɖo o	neutral	<pad> entailment</s>	entailment
+394	Eƒe ŋtetewo mesu o, gake ʋɛ aɖewo koe ŋu wotrɔ asi le	Wome wɔ nu gã aɖeke na nɔnɔmea tɔtrɔ o	entailment	<pad> entailment</s>	entailment
+395	Eƒe ŋtetewo mesu o, gake ʋɛ aɖewo koe ŋu wotrɔ asi le	Wodze agbagba geɖe xedzra nuwo katã ɖo	contradiction	<pad> entailment</s>	entailment
+396	Numekula ƒe agbalɛ̃ ɖe fia be etsaka ŋukumekaka geɖe kple se mɔxenuwo le nyananawo mamã me kpakple se si kplɔa ŋutasela nyanyananalawo to numekuku mɔwo dzi	Numekula ƒe numekuku me kɔ	contradiction	<pad> entailment</s>	entailment
+397	Numekula ƒe agbalɛ̃ ɖe fia be etsaka ŋukumekaka geɖe kple se mɔxenuwo le nyananawo mamã me kpakple se si kplɔa ŋutasela nyanyananalawo to numekuku mɔwo dzi	Numekula mekɔ nu gɖewo me nyui o	entailment	<pad> entailment</s>	entailment
+398	Numekula ƒe agbalɛ̃ ɖe fia be etsaka ŋukumekaka geɖe kple se mɔxenuwo le nyananawo mamã me kpakple se si kplɔa ŋutasela nyanyananalawo to numekuku mɔwo dzi	Numekula ƒe nuŋɔŋlɔa baɖa ale gbegbe be ameaɖeke meteŋu le exlɛm o	neutral	<pad> entailment</s>	entailment
+399	Asarafomegã ɖewo le amewo ɖeɖe le adzawo me; bubuwo le gbadza dzi kple metro ʋudzeƒea	Asrafomegãwo ɖo woawotɔ ƒe dɔdeasiwo	entailment	<pad> entailment</s>	entailment
+400	Asarafomegã ɖewo le amewo ɖeɖe le adzawo me; bubuwo le gbadza dzi kple metro ʋudzeƒea	Asrafomegãwo yi afisi ko wohiã le ɖoɖomanɔ ŋui	contradiction	<pad> entailment</s>	entailment
+401	Asarafomegã ɖewo le amewo ɖeɖe le adzawo me; bubuwo le gbadza dzi kple metro ʋudzeƒea	Wona dɔdeasi asrafomegãwo le ŋugɔ dodo le dɔme ta	neutral	<pad> entailment</s>	entailment
+402	Le anyɔnyɔ 9lia me la, dzɔgbevɔ̃e nyanyanana aɖe tso Afghanistan, va	Miexɔ nyanyananawo tso Afghanistan	entailment	<pad> entailment</s>	entailment
+403	Le anyɔnyɔ 9lia me la, dzɔgbevɔ̃e nyanyanana aɖe tso Afghanistan, va	Miese Afghanistan ŋukɔ va se ɖe kele me o	contradiction	<pad> entailment</s>	entailment
+404	Le anyɔnyɔ 9lia me la, dzɔgbevɔ̃e nyanyanana aɖe tso Afghanistan, va	Woxlɔ̃ nu mi ku ɖe anyɔnyɔ 9lia amedzidzedze ŋu	neutral	<pad> entailment</s>	entailment
+405	Dzeɖoɖo manɔ anyi nye nu sesẽ si nɔ World Trade Center, Pentagone, Somerest kple Pennsylvanie ƒe gbagba me 	Dzeɖoɖo nɔ anyi nyui le anyɔnyɔ 11lia me	contradiction	<pad> entailment</s>	entailment
+406	Dzeɖoɖo manɔ anyi nye nu sesẽ si nɔ World Trade Center, Pentagone, Somerest kple Pennsylvanie ƒe gbagba me 	Amewo meteŋu ƒonu kple World Trade Center o elabena dziɖegbe ŋusẽ li eye kaƒomɔwo nu tso	neutral	<pad> entailment</s>	entailment
+407	Dzeɖoɖo manɔ anyi nye nu sesẽ si nɔ World Trade Center, Pentagone, Somerest kple Pennsylvanie ƒe gbagba me 	Esesẽ na amewo be woaɖo dze kple Worlde Trade Center	entailment	<pad> entailment</s>	entailment
+408	Numekukuwo le nyatakakadzraɖoƒewo me ateŋu na woakpɔ ʋukuku gbalɛvi kple eƒe number kpakple kaƒomɔ nuleɖi	Numekulawo bia hã be woaɖe mɔ le nyatakakadzraɖoƒewo ŋu na yewo	neutral	<pad> entailment</s>	entailment
+409	Numekukuwo le nyatakakadzraɖoƒewo me ateŋu na woakpɔ ʋukuku gbalɛvi kple eƒe number kpakple kaƒomɔ nuleɖi	Nyanyanana geɖewo li tonyatakakadzraɖoƒe siwo li me	entailment	<pad> entailment</s>	entailment
+410	Numekukuwo le nyatakakadzraɖoƒewo me ateŋu na woakpɔ ʋukuku gbalɛvi kple eƒe number kpakple kaƒomɔ nuleɖi	Mɔnu aɖeke meli woato akpɔ nyanyanana ku ɖe dzɔtsoƒe siwo li o	contradiction	<pad> entailment</s>	entailment
+411	Dɔdzikpɔla teɖa le Hazmi kple Mihdhar ŋu le esi wokpɔ ɖikeke gake esia meva eme do ŋugɔ woƒe kpekpeɖeŋu xɔxɔ o	 Dɔdzikpɔla yɔ dziɖuɖumegãwo zi ɖeka emegbe egbe eƒe kpekpeɖeŋu nana le nya sia me	contradiction	<pad> entailment</s>	entailment
+412	Dɔdzikpɔla teɖa le Hazmi kple Mihdhar ŋu le esi wokpɔ ɖikeke gake esia meva eme do ŋugɔ woƒe kpekpeɖeŋu xɔxɔ o	Dɔdzikpɔla na eƒe kpekpeɖeŋu togbɔ ɖikeke nɔ eme	entailment	<pad> entailment</s>	entailment
+413	Dɔdzikpɔla teɖa le Hazmi kple Mihdhar ŋu le esi wokpɔ ɖikeke gake esia meva eme do ŋugɔ woƒe kpekpeɖeŋu xɔxɔ o	Kpekpeɖeŋua na be woteŋu xɔ mɔzɔgbalɛ̃wo	neutral	<pad> entailment</s>	entailment
+414	Wo wu yɔyɔ siawo nu le ƒe 2003lia me, ŋɔdidoname ƒe nyawo kata xɔ yɔyɔ ɖeka fifia, 315	Dɔwɔna siwo katã ku ɖe ŋɔdidonameŋu trɔ zu nu si le vevie na mi	neutral	<pad> entailment</s>	entailment
+415	Wo wu yɔyɔ siawo nu le ƒe 2003lia me, ŋɔdidoname ƒe nyawo kata xɔ yɔyɔ ɖeka fifia, 315	Biabia siwo katã ku ɖe ŋɔdidoname ŋu xɔ dzesi ɖeka ŋukume	entailment	<pad> entailment</s>	entailment
+416	Wo wu yɔyɔ siawo nu le ƒe 2003lia me, ŋɔdidoname ƒe nyawo kata xɔ yɔyɔ ɖeka fifia, 315	Ŋɔdidoname nya ɖe sia ɖe gbɔ kpɔkpɔ anɔ eɖokui si	contradiction	<pad> entailment</s>	entailment
+417	Asrafomegã si kpɔ xɔgã mu la gblɔe na ESU dɔwɔƒetɔwo le dziehe xɔgã ɖeɖe me	Ameaɖeke menɔ dziehe xɔgã me le anyiehe tɔ ƒe gbagba me o	contradiction	<pad> entailment</s>	entailment
+418	Asrafomegã si kpɔ xɔgã mu la gblɔe na ESU dɔwɔƒetɔwo le dziehe xɔgã ɖeɖe me	Anyiehe xɔgã gbã miniti 30 do ŋugɔ hafi asrafomegã ƒonu kple ESU dɔwɔƒetɔwo le dziehe xɔgã me	neutral	<pad> entailment</s>	entailment
+419	Asrafomegã si kpɔ xɔgã mu la gblɔe na ESU dɔwɔƒetɔwo le dziehe xɔgã ɖeɖe me	Asrafomegã kpɔ anyiehe xɔgã ƒe gbagba teƒe	entailment	<pad> entailment</s>	entailment
+420	Indianapolis nye teƒe nyui aɖe na fefwɔlawo dɔwɔwɔ	 Fefewɔlawo lɔ̃a Indianapolis ɖe eƒe casting dɔwɔƒe geɖe siwo le eme ta	neutral	<pad> entailment</s>	entailment
+421	Indianapolis nye teƒe nyui aɖe na fefwɔlawo dɔwɔwɔ	Abe fefwɔla ene la, mieɖola ʋu atsi Indianapolis	entailment	<pad> entailment</s>	entailment
+422	Indianapolis nye teƒe nyui aɖe na fefwɔlawo dɔwɔwɔ	Asesẽ miakpɔ dɔ le Indianapolis nenye be le sinima kple fefewɔwɔ kpa dzi, elabe aɖaŋudɔ ŋuti nunya du wonye	contradiction	<pad> entailment</s>	entailment
+423	Miena kpekpeɖeŋu to kaƒomɔ dzi gaƒoƒo 24 ɖe gaƒoƒo dzi, ŋkeke 7 ɖe ŋkeke dzi to nyanyananawo dɔwɔƒe le mɔxexe nu kple dzilawo kpekpeɖeŋu ka dzi	E-mail alo aɖakagbalɛ̃vi dzi ko amewo ateŋu ayɔ mi to	contradiction	<pad> entailment</s>	entailment
+424	Miena kpekpeɖeŋu to kaƒomɔ dzi gaƒoƒo 24 ɖe gaƒoƒo dzi, ŋkeke 7 ɖe ŋkeke dzi to nyanyananawo dɔwɔƒe le mɔxexe nu kple dzilawo kpekpeɖeŋu ka dzi	Miateŋu yɔ mi to kaƒomɔ dzi le ŋkekea me katã	entailment	<pad> entailment</s>	entailment
+425	Miena kpekpeɖeŋu to kaƒomɔ dzi gaƒoƒo 24 ɖe gaƒoƒo dzi, ŋkeke 7 ɖe ŋkeke dzi to nyanyananawo dɔwɔƒe le mɔxexe nu kple dzilawo kpekpeɖeŋu ka dzi	Miexɔ yɔyɔ alafawo dzoɖa kple fiɖawo gbe	neutral	<pad> entailment</s>	entailment
+426	Elabena aɖakavi siawo anɔ woƒe bablawo me ɣeyiɣi didi aɖe le esime woaʋu nunana bubuwo	Afɔku nuwoe le aɖakaviawo me	neutral	<pad> entailment</s>	entailment
+427	Elabena aɖakavi siawo anɔ woƒe bablawo me ɣeyiɣi didi aɖe le esime woaʋu nunana bubuwo	Woaʋu nubabla siawo do ŋugɔ na nunana bubuwo	contradiction	<pad> entailment</s>	entailment
+428	Elabena aɖakavi siawo anɔ woƒe bablawo me ɣeyiɣi didi aɖe le esime woaʋu nunana bubuwo	Aɖakavi siawo anɔ tutu ɣeyiɣi aɖe	entailment	<pad> entailment</s>	entailment
+429	Miakpɔ mi nenye be  miaɖiɖi miaƒe asi dzi, hahometɔwo abia kpekpeɖeŋu si akpeɖe mia ŋu miawɔ dɔdeasia	Miehiã be miaƒe nyaselawo katã nawɔ $25 nunana alebe miateŋu ɖiɖi tiketiwo dzi kpɔtɔ	neutral	<pad> entailment</s>	entailment
+430	Miakpɔ mi nenye be  miaɖiɖi miaƒe asi dzi, hahometɔwo abia kpekpeɖeŋu si akpeɖe mia ŋu miawɔ dɔdeasia	Miateŋu ɖiɖi miaƒe as dzi ne mmiedi gake miaƒetɔ lɔ̃a eƒe dzidzeme	contradiction	<pad> entailment</s>	entailment
+431	Miakpɔ mi nenye be  miaɖiɖi miaƒe asi dzi, hahometɔwo abia kpekpeɖeŋu si akpeɖe mia ŋu miawɔ dɔdeasia	Miaƒe nunanawo kpeaɖe miaŋu mieɖiɖi asiwo	entailment	<pad> entailment</s>	entailment
+432	00 na nuxlɔ̃amenyawo mi, ŋusẽdodowo kple ɖevi 400 ƒe dzefefe le Indianapolis nutoame	To nunanawo dzi la mieteŋu kpe Beyonce wova dziha ne Indianapolis tsɔẽviwo	neutral	<pad> entailment</s>	entailment
+433	00 na nuxlɔ̃amenyawo mi, ŋusẽdodowo kple ɖevi 400 ƒe dzefefe le Indianapolis nutoame	Miekpɔmɔ be miaɖu Nöel azã na ɖeviwo gake mieteŋu wɔ naneke nawo o	contradiction	<pad> entailment</s>	entailment
+434	00 na nuxlɔ̃amenyawo mi, ŋusẽdodowo kple ɖevi 400 ƒe dzefefe le Indianapolis nutoame	Mieteŋu kpeɖe Indianapolis viwo geɖewo ŋu	entailment	<pad> entailment</s>	entailment
+435	Le ɣeyiɣi gbãtɔ me la, vavalawo ateŋu wɔ $1000nunana na Chacelors's Circle alo $500 na Chancellor's Associates tɔwo	Ɖokuisinɔdɔwɔtɔ vavalawo ateŋu kpɔ gome le $50 nunana megbe	contradiction	<pad> entailment</s>	entailment
+436	Le ɣeyiɣi gbãtɔ me la, vavalawo ateŋu wɔ $1000nunana na Chacelors's Circle alo $500 na Chancellor's Associates tɔwo	Amewo ateŋu kpɔ gome nenye be wowɔ nunana gã	entailment	<pad> entailment</s>	entailment
+437	Le ɣeyiɣi gbãtɔ me la, vavalawo ateŋu wɔ $1000nunana na Chacelors's Circle alo $500 na Chancellor's Associates tɔwo	Ame geɖewo lɔ̃ Chacellors Aassociates nunana	neutral	<pad> entailment</s>	entailment
+438	Miaƒe ateŋu na amlɔkɔe mɔnukpɔkpɔ bubuwo mi le ƒe nuwuwu 	Ne miewɔ $1000 nunana la kakaɖedzi li be miateŋu kpɔ gome le amlɔkɔe mɔnukpɔkpɔwo me	neutral	<pad> entailment</s>	entailment
+439	Miaƒe ateŋu na amlɔkɔe mɔnukpɔkpɔ bubuwo mi le ƒe nuwuwu 	Dzɔgbevɔ̃etɔ la, miaƒe amlɔkɔe toɖoƒolawo ateŋu gblɔna mi be miawɔ nunana ɖeke o	contradiction	<pad> entailment</s>	entailment
+440	Miaƒe ateŋu na amlɔkɔe mɔnukpɔkpɔ bubuwo mi le ƒe nuwuwu 	Miateŋu xɔ amlɔkɔewo ɖiɖi dzi kpɔtɔ le miaƒe nunanawo dzi	entailment	<pad> entailment</s>	entailment
+441	Abe alesi mienyae la, hatsotso sia menɔlawo nye xɔlɔ̃ kple amexoxo siwo wɔa $1000 nunana ƒe sia ƒe le sefiafia suku	Hatsotso sia metɔ aɖewo wɔ $100000 nunana le suku	neutral	<pad> entailment</s>	entailment
+442	Abe alesi mienyae la, hatsotso sia menɔlawo nye xɔlɔ̃ kple amexoxo siwo wɔa $1000 nunana ƒe sia ƒe le sefiafia suku	Ame aɖewo le hatsotso sia me wɔ $1000 nunana le sefiafia suku	entailment	<pad> entailment</s>	entailment
+443	Abe alesi mienyae la, hatsotso sia menɔlawo nye xɔlɔ̃ kple amexoxo siwo wɔa $1000 nunana ƒe sia ƒe le sefiafia suku	Miedi be miabia hatsotso sia be woawɔ ga ƒe nunana na sukua gake miegblɔe haɖe o	contradiction	<pad> entailment</s>	entailment
+444	Abe ƒe 50 me viwo ene la, nye ŋukuɖodzinuwo dometɔ ɖeka nye fefewɔƒe yiyi	Nye melɔ̃ fefewɔƒe yiyi le nye ɖevime o, eyata metrɔ zu dzɔdzɔmeŋutinunyala	contradiction	<pad> entailment</s>	entailment
+445	Abe ƒe 50 me viwo ene la, nye ŋukuɖodzinuwo dometɔ ɖeka nye fefewɔƒe yiyi	Melɔ̃a fefewɔƒe yiyi le nye ɖevime	entailment	<pad> entailment</s>	entailment
+446	Abe ƒe 50 me viwo ene la, nye ŋukuɖodzinuwo dometɔ ɖeka nye fefewɔƒe yiyi	Nye fefe vevitɔ le Civic Theatre me nye La Belle et la B̂ete	neutral	<pad> entailment</s>	entailment
+447	Ne ame sia me si xɔ agbalɛvi sia na $18	Amesiwo katã xɔ agbalɛvi sia:  miegana naneke o, enye fififi mɔnu aɖe	contradiction	<pad> entailment</s>	entailment
+448	Ne ame sia me si xɔ agbalɛvi sia na $18	Ne mietsɔ $18 na la, miatsɔ nunana aɖe na mi	neutral	<pad> entailment</s>	entailment
+449	Ne ame sia me si xɔ agbalɛvi sia na $18	Miele mɔ kpɔm be ame siwo míeɖo agbalẽ ɖo ɖe la dometɔ ɖe sia ɖe ana $18 kpekpeɖeŋu	entailment	<pad> entailment</s>	entailment
+450	Mitso gɔmea ko ɖa,mide dzesi tiatia si dze,miwɔ trɔtrɔ siwo hiã le miaƒeadrɛs ŋueye miɖoe ɖa to agbalẽkotoku me.	Taflatsemigawɔ trɔtrɔ aɖeke le miaƒe adrɛs ŋu o.	contradiction	<pad> entailment</s>	entailment
+451	Mitso gɔmea ko ɖa,mide dzesi tiatia si dze,miwɔ trɔtrɔ siwo hiã le miaƒeadrɛs ŋueye miɖoe ɖa to agbalẽkotoku me.	Mi:do miaƒe adrɛs ɖa le agbalẽkotoku me.	neutral	<pad> entailment</s>	entailment
+452	Mitso gɔmea ko ɖa,mide dzesi tiatia si dze,miwɔ trɔtrɔ siwo hiã le miaƒeadrɛs ŋueye miɖoe ɖa to agbalẽkotoku me.	Ne edzro mia miate ŋu atrɔ asi le miaƒe adres ŋu faa.	entailment	<pad> entailment</s>	entailment
+453	Dɔyɔlawo ƒe hehenaƒea hiã miaƒe kpekpeɖeŋu hena eƒe ŋgɔgbedede kple eƒe nufiafiaɖaŋu dodoɖeŋgɔ deŋgɔ ʈaʋliʋli.	Miwɔ dɔmenyɔnunana dɔlar miliɔ̃ alafa ɖeka na dɔnɔdzikpɔƒe hehenaƒea ne miedzi be yewoabu yewoƒe ŋkuɖodzikpetata.	neutral	<pad> entailment</s>	entailment
+454	Dɔyɔlawo ƒe hehenaƒea hiã miaƒe kpekpeɖeŋu hena eƒe ŋgɔgbedede kple eƒe nufiafiaɖaŋu dodoɖeŋgɔ deŋgɔ ʈaʋliʋli.	Dɔnɔdzikpɔƒe hehenaƒea ɖo eƒe taɖodzinuwo katɑ̃ gbɔ si wɔe be womegahiɑ̃ gakpekpeɖeŋu aɖeke o.	contradiction	<pad> contradiction</s>	contradiction
+455	Dɔyɔlawo ƒe hehenaƒea hiã miaƒe kpekpeɖeŋu hena eƒe ŋgɔgbedede kple eƒe nufiafiaɖaŋu dodoɖeŋgɔ deŋgɔ ʈaʋliʋli.	Miele mɔ kpɔm be miawɔ kpekpeɖeŋu nunana aɖe na dɔnɔdzikpɔƒe hehenaƒea.	entailment	<pad> entailment</s>	entailment
+456	Ame blanyi le alafa me siwo anye gomekpɔlawo la aɖe afia be nuteƒekpɔkpɔ de ŋgɔ le yewo si le kuxiwo gbɔ kpɔkpɔ me.	Gomekpɔlawo ƒe afɑ̃ aɖe afia be ŋutete le yewo si le kuxi gɑ̃wo gbɔ kpɔkpɔ me.	entailment	<pad> entailment</s>	entailment
+457	Ame blanyi le alafa me siwo anye gomekpɔlawo la aɖe afia be nuteƒekpɔkpɔ de ŋgɔ le yewo si le kuxiwo gbɔ kpɔkpɔ me.	Ne woma gomekpɔlawo ɖe akpa ene mea, akpa ɖeka koe te ŋu ɖe ŋutete si woatsɔ akpɔ kuxiwo gbɔ fia.	contradiction	<pad> entailment</s>	entailment
+458	Ame blanyi le alafa me siwo anye gomekpɔlawo la aɖe afia be nuteƒekpɔkpɔ de ŋgɔ le yewo si le kuxiwo gbɔ kpɔkpɔ me.	Gomekpɔlawo wu ame alafa ɖeka.	neutral	<pad> contradiction</s>	contradiction
+459	Mikpɔ egbɔ be miaƒe nunalawo ƒe dzidziɖedzi nagatsi akpo dzi o.	Aɖe fu ne mietɔte kpekpeɖeŋu nana.	entailment	<pad> entailment</s>	entailment
+460	Mikpɔ egbɔ be miaƒe nunalawo ƒe dzidziɖedzi nagatsi akpo dzi o.	Miaƒe nunala siwo ŋuti asixɔxɔ megale o ƒe nuleɖigbalẽ do le nyadzɔdzɔgbalẽwo me, eyata mexɔe se be miadzi be woaɖi gbɔ yewo nenema gbegbe o.	neutral	<pad> entailment</s>	entailment
+461	Mikpɔ egbɔ be miaƒe nunalawo ƒe dzidziɖedzi nagatsi akpo dzi o.	Nulawo gbɔ miaƒe hiahiã nu, le esia ta mitɔte nunana.	contradiction	<pad> entailment</s>	entailment
+462	Kɔmpuita kple internet dzi kadonu nye mɔɖenu siwo ana be ame aɖe nàkpɔ gome le miaƒe hehenaƒea.	Be woayi gbeadzi la amewo mehiã naneke o.	contradiction	<pad> contradiction</s>	contradiction
+463	Kɔmpuita kple internet dzi kadonu nye mɔɖenu siwo ana be ame aɖe nàkpɔ gome le miaƒe hehenaƒea.	Be woage ɖe hehenaƒea ele be kɔmpuita kple internet dzi kadonua nanɔ ame si.	entailment	<pad> entailment</s>	entailment
+464	Kɔmpuita kple internet dzi kadonu nye mɔɖenu siwo ana be ame aɖe nàkpɔ gome le miaƒe hehenaƒea.	Ele be amewo nàtsɔ woƒe kɔmpuita kple internet dzi kadonua ɖe asi esi wole gegem ɖe teƒea hena mɔɖeɖe.	neutral	<pad> entailment</s>	entailment
+465	Tikitiwo dzadzra kple nudɔdɔwo wɔwɔ makpɔ miaƒe gakuxiwo gbɔ na ƴeƴiƴia o.	Ne mienya dzra tikitiwo ko la, miate ŋu akpɔ ƴeƴiƴia ƒe gagnawo gbɔ.	contradiction	<pad> entailment</s>	entailment
+466	Tikitiwo dzadzra kple nudɔdɔwo wɔwɔ makpɔ miaƒe gakuxiwo gbɔ na ƴeƴiƴia o.	Miehiã ga geɖe be miatsɔ akpɔ ƴeƴiƴia ƒe nuhiahiãwo gbɔ wu ga si miakpɔ to tikitiwo dzadzra kple nudɔdɔwo wɔwɔ.	entailment	<pad> entailment</s>	entailment
+467	Tikitiwo dzadzra kple nudɔdɔwo wɔwɔ makpɔ miaƒe gakuxiwo gbɔ na ƴeƴiƴia o.	Tikitiwo dzadzra kple nudɔdɔwo wɔwɔ akpɔ miaƒe gakuxiwo gbɔ blaadre le alafa dzi na ƴeƴiƴia katã ko.	neutral	<pad> entailment</s>	entailment
+468	AGBA YEYE! NUNANA ƉESIAƉE NAA TƆTRƆ NƆA AME ŊU!	Woŋlɔ nudzɔdzɔ ɖesiaɖe ɖi eye wokaa nya ta le eŋu le ƴletia ƒe nyadzɔdzɔ me.	neutral	<pad> entailment</s>	entailment
+469	AGBA YEYE! NUNANA ƉESIAƉE NAA TƆTRƆ NƆA AME ŊU!	Asixɔxɔ le nunana ɖesiaɖe ŋu.	entailment	<pad> entailment</s>	entailment
+470	AGBA YEYE! NUNANA ƉESIAƉE NAA TƆTRƆ NƆA AME ŊU!	Nunana siwo gbɔ dɔlar alafa ɖeka ŋu le tɔxɛ.	contradiction	<pad> entailment</s>	entailment
+471	Mɔ si le ŋgɔa didi be miaɖo miaƒe taɖodzinu si nye dɔlar 365 000 tso mi mìa xɔlɔ̃wo kple nudɔdɔ dɔlawo gbɔ.	Mìaƒe gahiahiã kɔ gbɔ dɔlar 300 000.	entailment	<pad> entailment</s>	entailment
+472	Mɔ si le ŋgɔa didi be miaɖo miaƒe taɖodzinu si nye dɔlar 365 000 tso mi mìa xɔlɔ̃wo kple nudɔdɔ dɔlawo gbɔ.	Mìaƒe dzidzie nye be mìadzi mìaƒe ganyawo ɖe edzi zi gbɔ zi etɔ̃.	neutral	<pad> entailment</s>	entailment
+473	Mɔ si le ŋgɔa didi be miaɖo miaƒe taɖodzinu si nye dɔlar 365 000 tso mi mìa xɔlɔ̃wo kple nudɔdɔ dɔlawo gbɔ.	Ga kpɔkpɔ mɔnu ɖeka gobii mele mìasi o.	contradiction	<pad> entailment</s>	entailment
+474	Mìaƒe dɔdaƒe nɔɖokui si si kpɔa dukɔmeviwo ƒe nya ŋutɔŋutɔ gbɔ le dɔ wɔm ƒe geɖee nye sia eye mìetsɔ nuvlowɔlawo taʋiʋli tɔ ɖeka kpe ɖe eŋu medzidzi o.	Mìaƒe dɔdaƒe nɔɖokui si si kpɔa dukɔmeviwo ƒe nya ŋutɔŋutɔ gbɔ le dɔ wɔm ƒe enyie nye esia.	neutral	<pad> entailment</s>	entailment
+475	Mìaƒe dɔdaƒe nɔɖokui si si kpɔa dukɔmeviwo ƒe nya ŋutɔŋutɔ gbɔ le dɔ wɔm ƒe geɖee nye sia eye mìetsɔ nuvlowɔlawo taʋiʋli tɔ ɖeka kpe ɖe eŋu medzidzi o.	Dukɔmeviwo ƒe nya ŋutɔŋutɔ gbɔ kpɔkpɔ le mìaƒe ɖokuisi dɔdaƒea aɖu dɔdzitɔtɔ ƒe ƒe gbãtɔ ƒe azã ƴleti si gbɔna.	contradiction	<pad> entailment</s>	entailment
+476	Mìaƒe dɔdaƒe nɔɖokui si si kpɔa dukɔmeviwo ƒe nya ŋutɔŋutɔ gbɔ le dɔ wɔm ƒe geɖee nye sia eye mìetsɔ nuvlowɔlawo taʋiʋli tɔ ɖeka kpe ɖe eŋu medzidzi o.	Se si ku ɖe dukɔmeviwo ƒe dɔwɔwɔ ŋu dze egɔme ƒe ɖekae nye esia.	entailment	<pad> entailment</s>	entailment
+477	Tikiti dzadzra ƒe ga mesu na ɖoɖowɔɖia o.	Ewɔ nam abe tikitiwo dzadzra ƒe ga màsu akpɔ ɖoɖoawo ƒe nya gbɔ o.	entailment	<pad> entailment</s>	entailment
+478	Tikiti dzadzra ƒe ga mesu na ɖoɖowɔɖia o.	Ga si wokã ɖe ɖoɖoawo ŋuti kɔ akpa.	neutral	<pad> entailment</s>	entailment
+479	Tikiti dzadzra ƒe ga mesu na ɖoɖowɔɖia o.	Ga si mìakpɔ tso tikitiawo dzadzra me asɔ ta na ɖoɖoawo gbɔ kpɔkpɔ.	contradiction	<pad> entailment</s>	entailment
+480	Omnia Vincit amor (nenye be nèle dɔ wɔm na Weekly Standard ko): Brit Hume (si wɔ Fox News Sunday wɔna) la le nya biam eɖokui ku ɖe susu kawo ta Lewinsky mate ŋui o ɖo. Egale lɔlɔ̃ tsɔm na zimenɔla la.	Brit Hume nye nyakakadɔwɔlawo ƒe tatɔ le Fox.	neutral	<pad> entailment</s>	entailment
+481	Omnia Vincit amor (nenye be nèle dɔ wɔm na Weekly Standard ko): Brit Hume (si wɔ Fox News Sunday wɔna) la le nya biam eɖokui ku ɖe susu kawo ta Lewinsky mate ŋui o ɖo. Egale lɔlɔ̃ tsɔm na zimenɔla la.	Brit Hume wɔa dɔ na CNN.	contradiction	<pad> entailment</s>	entailment
+482	Omnia Vincit amor (nenye be nèle dɔ wɔm na Weekly Standard ko): Brit Hume (si wɔ Fox News Sunday wɔna) la le nya biam eɖokui ku ɖe susu kawo ta Lewinsky mate ŋui o ɖo. Egale lɔlɔ̃ tsɔm na zimenɔla la.	Brit Hume wɔa dɔ na Fox.	entailment	<pad> entailment</s>	entailment
+483	Wowɔ geɖe be woakpe ɖe Michael Apted ŋuti be wòade agbe film siwo kplɔ wonɔewo ɖo.	Michael Apted gblẽ wɔnawo katã le esi wòɖe vividodoɖe ame ŋu kple veveseɖe ame ŋu ɖa.	contradiction	<pad> entailment</s>	entailment
+484	Wowɔ geɖe be woakpe ɖe Michael Apted ŋuti be wòade agbe film siwo kplɔ wonɔewo ɖo.	Woxɔ Michael Apted be wòava de agbe tɔxɛ aɖe wɔnawo me.	entailment	<pad> entailment</s>	entailment
+485	Wowɔ geɖe be woakpe ɖe Michael Apted ŋuti be wòade agbe film siwo kplɔ wonɔewo ɖo.	Wokpɔ be wɔnawo fa eye dzo mele wo me o, le susu sia ta woxɔ Michael Apted be wòatrɔ asi le wo ŋu etɔxɛ.	neutral	<pad> entailment</s>	entailment
+486	Mikpɔ ɖetugbi sia le parka si wotso lã fu ƴi do atsyɔ̃ na kple eƒe damaɖuia ɖa.	Ɖetugbi aɖe do awu si aɖe mɔ nɛ be wòafe le sno me.	neutral	<pad> entailment</s>	entailment
+487	Mikpɔ ɖetugbi sia le parka si wotso lã fu ƴi do atsyɔ̃ na kple eƒe damaɖuia ɖa.	Ɖetugbi aɖe do awu ƴi.	entailment	<pad> entailment</s>	entailment
+488	Mikpɔ ɖetugbi sia le parka si wotso lã fu ƴi do atsyɔ̃ na kple eƒe damaɖuia ɖa.	Ɖetugbi aɖe do nu dzĩ helĩhelĩ.	contradiction	<pad> entailment</s>	entailment
+489	Womegblɔ alesi tututue Kaufman dzi be yeatrɔ asi le ye ŋutɔ ƒe ku ŋu le filmea me wòsɔ o.	Makpɔ Kaufman wòanɔ nu ƒom tso eya ŋutɔ ƒe ku ŋu o.	entailment	<pad> entailment</s>	entailment
+490	Womegblɔ alesi tututue Kaufman dzi be yeatrɔ asi le ye ŋutɔ ƒe ku ŋu le filmea me wòsɔ o.	Wobia gbe Kaufman le filmea me wòƒo nu tso eya ŋutɔ ƒe ku ŋu.	contradiction	<pad> entailment</s>	entailment
+491	Womegblɔ alesi tututue Kaufman dzi be yeatrɔ asi le ye ŋutɔ ƒe ku ŋu le filmea me wòsɔ o.	Filmea nye esi ŋu woka ga kpekpe aɖe ɖo evɔ womebu Kaufman ƒe wɔƒe veviwo ɖe eme o.	neutral	<pad> entailment</s>	entailment
+492	Nu te ɖe Rockefeller dzi esime wòde dzesi be Avenging Angel Tarbell te nutata ɖe eƒe ŋutigbalẽ ŋuti le McClure gbɔ.	Rockefeller te numekuku tso kãsa ŋu.	neutral	<pad> entailment</s>	entailment
+493	Nu te ɖe Rockefeller dzi esime wòde dzesi be Avenging Angel Tarbell te nutata ɖe eƒe ŋutigbalẽ ŋuti le McClure gbɔ.	Rockefeller nana nu ame.	entailment	<pad> entailment</s>	entailment
+494	Nu te ɖe Rockefeller dzi esime wòde dzesi be Avenging Angel Tarbell te nutata ɖe eƒe ŋutigbalẽ ŋuti le McClure gbɔ.	Rockefeller nye nuŋuvela.	contradiction	<pad> entailment</s>	entailment
+495	Medidi o, wotso Klayman nu be ede kɔta aɖe dzi le asitsanya aɖe me le New York.	Wotso Klayman nu le Californie be ede kɔta aɖe dzi.	contradiction	<pad> entailment</s>	entailment
+496	Medidi o, wotso Klayman nu be ede kɔta aɖe dzi le asitsanya aɖe me le New York.	Klayman mele mɔ kpɔm be woatso ye nu le kɔta aɖe dzidede ƒe nya me o.	neutral	<pad> entailment</s>	entailment
+497	Medidi o, wotso Klayman nu be ede kɔta aɖe dzi le asitsanya aɖe me le New York.	Wotsɔ nya aɖewo ɖe Klayman ŋu be ede kɔta aɖe dzi.	entailment	<pad> entailment</s>	entailment
+498	Ame aɖeke masusui be xɔ aɖe si ɖɔ kple dɔwɔƒe dzi kpɔlawo la naho eye woanɔ Amérika ƒe dɔ ƒe nyawo gbɔ kpɔgbalẽŋlɔla dzum o.	Dɔwɔƒedzikpɔlawo do dziwuiwo.	neutral	<pad> contradiction</s>	contradiction
+499	Ame aɖeke masusui be xɔ aɖe si ɖɔ kple dɔwɔƒe dzi kpɔlawo la naho eye woanɔ Amérika ƒe dɔ ƒe nyawo gbɔ kpɔgbalẽŋlɔla dzum o.	Edze kɔtɛ be dɔwɔƒe dzikpɔlawo nava te ƴlidodo.	contradiction	<pad> entailment</s>	entailment
+500	Ame aɖeke masusui be xɔ aɖe si ɖɔ kple dɔwɔƒe dzi kpɔlawo la naho eye woanɔ Amérika ƒe dɔ ƒe nyawo gbɔ kpɔgbalẽŋlɔla dzum o.	Edze kɔtɛ be dɔwɔƒe dzikpɔlawo nava te ƴlidodo.	entailment	<pad> entailment</s>	entailment
+501	Viɖe aɖeke mele nya sia me na amegbetɔwo o.	Wodzia kamedelawo kple dzɔdzɔme ŋutete si wova ɖea ɖe go emegbe.	contradiction	<pad> entailment</s>	entailment
+502	Viɖe aɖeke mele nya sia me na amegbetɔwo o.	Ŋutilã mamla de ŋgɔ wu dzɔdzɔme ŋutete.	entailment	<pad> contradiction</s>	contradiction
+503	Viɖe aɖeke mele nya sia me na amegbetɔwo o.	Kamedela akpa gãtɔwo mlãa woƒe ŋutilã gaƒoƒo enyi ya tete kwasiɖa sia kwasiɖa.	neutral	<pad> entailment</s>	entailment
+504	Esi meɖo aƒe me la, wokã nya ta be Amerika dzudzɔ kpekpeɖeŋu nana le mɔ eve nu.	Mekpɔa ŋudzedze ɖe dunyahehe ŋu.	neutral	<pad> entailment</s>	entailment
+505	Esi meɖo aƒe me la, wokã nya ta be Amerika dzudzɔ kpekpeɖeŋu nana le mɔ eve nu.	Mese nya tso Amerika ŋu.	entailment	<pad> entailment</s>	entailment
+506	Esi meɖo aƒe me la, wokã nya ta be Amerika dzudzɔ kpekpeɖeŋu nana le mɔ eve nu.	Woka nyata be Amerika aɖiɖi eƒe nunanawo dzi akpɔtɔ le mɔ eve nu.	contradiction	<pad> entailment</s>	entailment
+507	Xexeame katã ƒe yuniversiti ƒe nyadzɔdzɔgbalẽ gãtɔ kple xoxotɔ...Oxford...ka nya ta be wote fli ɖe yeƒe hakpanyawo nuleɖigbalẽa me	Hakpanyanuleɖigbalẽ si le Oxford meganye yeye o.	entailment	<pad> entailment</s>	entailment
+508	Xexeame katã ƒe yuniversiti ƒe nyadzɔdzɔgbalẽ gãtɔ kple xoxotɔ...Oxford...ka nya ta be wote fli ɖe yeƒe hakpanyawo nuleɖigbalẽa me	Ga menɔ yuniversiti xɔ ŋkɔa si be wòana eƒe hakpanyanuleɖigbalẽ nanɔ yeye o.	neutral	<pad> entailment</s>	entailment
+509	Xexeame katã ƒe yuniversiti ƒe nyadzɔdzɔgbalẽ gãtɔ kple xoxotɔ...Oxford...ka nya ta be wote fli ɖe yeƒe hakpanyawo nuleɖigbalẽa me	Wode dɔ asi na yuniversitia be wòakpɔ hakpanyanuleɖigbalẽawo dzi eye wòdo ŋugbe be yemate fli ɖe wo me o.	contradiction	<pad> entailment</s>	entailment
+510	Akɔfafa nunana aɖe li na ameƒomea.	Akɔfafa nunana sia nye nututsakanu gbɔlo si ƒe dɔwɔwɔ de ŋgɔ.	neutral	<pad> entailment</s>	entailment
+511	Akɔfafa nunana aɖe li na ameƒomea.	Viɖe aɖeke mele nya sia me na amegbetɔwo o.	contradiction	<pad> entailment</s>	entailment
+512	Akɔfafa nunana aɖe li na ameƒomea.	Menye nyatakaka baɖa aɖeke na ameƒomea o.	entailment	<pad> entailment</s>	entailment
+513	Menye kamedenuwɔnawo dzi koe woato ada tsatsa le nyatakakadzraɖoƒe siawo dzi o.	Woda asi ɖe tsatsa dada to dunyahenyawo kple akɔdanyawo hã dzi le nyatakakadzraɖoƒe sia.	neutral	<pad> entailment</s>	entailment
+514	Menye kamedenuwɔnawo dzi koe woato ada tsatsa le nyatakakadzraɖoƒe siawo dzi o.	Kamedenuwɔnawo ƒe tsatsa dada dzi koe woda asi ɖo le nyatakakadzraɖoƒe siawo.	contradiction	<pad> contradiction</s>	contradiction
+515	Menye kamedenuwɔnawo dzi koe woato ada tsatsa le nyatakakadzraɖoƒe siawo dzi o.	Nyatakakadzraɖoƒe siawo de ŋgɔ le nu geɖe me.	entailment	<pad> entailment</s>	entailment
+516	N.J.Johnson si xɔ ƒe 56 do dziku gblɔ nya siwo woleɖi le go etɔ̃ me be yemegadzi be yeakpɔ gome le dukplɔla ƒe akɔdanyawo me o le gododo si democrate habɔbɔa wɔ le Atlantic City le August 25 lia dzi.	Johnson de dzesi be amewo megale ye dzi o	neutral	<pad> entailment</s>	entailment
+517	N.J.Johnson si xɔ ƒe 56 do dziku gblɔ nya siwo woleɖi le go etɔ̃ me be yemegadzi be yeakpɔ gome le dukplɔla ƒe akɔdanyawo me o le gododo si democrate habɔbɔa wɔ le Atlantic City le August 25 lia dzi.	Johnson mesusui kpɔ be yeade megbe o.	contradiction	<pad> entailment</s>	entailment
+518	N.J.Johnson si xɔ ƒe 56 do dziku gblɔ nya siwo woleɖi le go etɔ̃ me be yemegadzi be yeakpɔ gome le dukplɔla ƒe akɔdanyawo me o le gododo si democrate habɔbɔa wɔ le Atlantic City le August 25 lia dzi.	Johnson do dziku be yeade megbe.	entailment	<pad> entailment</s>	entailment
+519	Lamar Alexander ɖe ta le eƒe mɔnukpɔkpɔ si su esi be wòazu dukplɔla te.	Neglogodo la ame ɖeka ya teti gbe kpɔ be yemazu dukplɔla o.	entailment	<pad> entailment</s>	entailment
+520	Lamar Alexander ɖe ta le eƒe mɔnukpɔkpɔ si su esi be wòazu dukplɔla te.	Lamar Alexander gbe be yemaɖe asi le dukplɔla ƒe hoʋiʋlia me o.	contradiction	<pad> entailment</s>	entailment
+521	Lamar Alexander ɖe ta le eƒe mɔnukpɔkpɔ si su esi be wòazu dukplɔla te.	Eva zi aƒetɔ Alexander dzi be wòtɔte hoʋiʋlia le esi wokaka eƒe foto maɖɔʋuwo ta.	neutral	<pad> entailment</s>	entailment
+522	To vo na nya ɖefuname siwo ku ɖe eŋu va yi mea, etu afɔ amegbetɔwo ƒe dzena hã dzi vevitɔ esi wòzã FBI le nya aɖe si wona ŋkɔ be Filgate ƒe nya me.	Amerika dziɖuɖudɔwɔƒea zã FBI tsɔ zɔ̃ amesiwo katã le ho ʋlim be yewoanye dukplɔla gɔme.	neutral	<pad> entailment</s>	entailment
+523	To vo na nya ɖefuname siwo ku ɖe eŋu va yi mea, etu afɔ amegbetɔwo ƒe dzena hã dzi vevitɔ esi wòzã FBI le nya aɖe si wona ŋkɔ be Filgate ƒe nya me.	Amerika dziɖuɖudɔwɔƒea zã FBI le mɔ gbegblẽ nu.	entailment	<pad> entailment</s>	entailment
+524	To vo na nya ɖefuname siwo ku ɖe eŋu va yi mea, etu afɔ amegbetɔwo ƒe dzena hã dzi vevitɔ esi wòzã FBI le nya aɖe si wona ŋkɔ be Filgate ƒe nya me.	Amerika dziɖuɖudɔwɔƒea zã FBI le mɔ si sɔ nu.	contradiction	<pad> entailment</s>	entailment
+525	Tung do ŋugbe be yeƒe asi asẽ ɖe amesiwo kɔ xɔwo ƒe asi yi dzi, gake amewo susui be howɔwɔ gbɔlo ko wòanye.	Tung metsɔ ɖe le eme na ame siwo kɔ xɔwo ƒe asi yi dzi ƒe nya me o.	contradiction	<pad> entailment</s>	entailment
+526	Tung do ŋugbe be yeƒe asi asẽ ɖe amesiwo kɔ xɔwo ƒe asi yi dzi, gake amewo susui be howɔwɔ gbɔlo ko wòanye.	Tung kpɔe be ame siwo kɔ xɔwo ƒe asi yi dzi la le nuwɔm tsitre ɖe ɖoɖo si le se nu la ŋu.	neutral	<pad> entailment</s>	entailment
+527	Tung do ŋugbe be yeƒe asi asẽ ɖe amesiwo kɔ xɔwo ƒe asi yi dzi, gake amewo susui be howɔwɔ gbɔlo ko wòanye.	Tung dzi be yeakpɔ ŋusẽ ɖe ame siwo le xɔwo ƒe asi kɔm yi dzi la dzi.	entailment	<pad> entailment</s>	entailment
+528	kple fedonamegbalẽvi vɔɖiwo ŋu.	Ame ewo bu woƒe agbawo.	neutral	<pad> entailment</s>	entailment
+529	kple fedonamegbalẽvi vɔɖiwo ŋu.	Amewo fɔ nya ɖe agbawo ƒe bubu ŋu.	entailment	<pad> entailment</s>	entailment
+530	kple fedonamegbalẽvi vɔɖiwo ŋu.	Womeŋlɔ nya siwo amewo fɔ ɖe te le woƒe agba bubuwo ta ɖi o.	contradiction	<pad> entailment</s>	entailment
+531	Lawrence Singleton si doa avu na amewo, si wole de ga ƒe enyi pɛ ko la tɔ hɛ nyɔnu bubu aɖe le Florida le esi wotso abɔ nɛ vɔ megbe.	Esi wòtso abɔ na amesiwo dzi wòdze la, etsɔ wo ƴla ɖe gbelɔnu me.	neutral	<pad> entailment</s>	entailment
+532	Lawrence Singleton si doa avu na amewo, si wole de ga ƒe enyi pɛ ko la tɔ hɛ nyɔnu bubu aɖe le Florida le esi wotso abɔ nɛ vɔ megbe.	Ame sia ame susui be eƒe gaxɔmenɔnɔ trɔ eƒe agbe kura.	contradiction	<pad> entailment</s>	entailment
+533	Lawrence Singleton si doa avu na amewo, si wole de ga ƒe enyi pɛ ko la tɔ hɛ nyɔnu bubu aɖe le Florida le esi wotso abɔ nɛ vɔ megbe.	Aƒetɔ Singleton nye ame si wobu fɔ le Floride be enye akpasese amegbɔdɔla.	entailment	<pad> entailment</s>	entailment
+534	Le Charles Lane si nye New Republic nyakakadɔwɔla nya nu la, adzotsoamenya nye nya aɖe si le amebaɖanyenye dim ɖe edzi le Gabriel Garcia Marquez nyakakanya nu.	Charles Lane nye nyakakadɔwɔla.	entailment	<pad> entailment</s>	entailment
+535	Le Charles Lane si nye New Republic nyakakadɔwɔla nya nu la, adzotsoamenya nye nya aɖe si le amebaɖanyenye dim ɖe edzi le Gabriel Garcia Marquez nyakakanya nu.	Charles Lane dzra ʋuwo.	contradiction	<pad> entailment</s>	entailment
+536	Le Charles Lane si nye New Republic nyakakadɔwɔla nya nu la, adzotsoamenya nye nya aɖe si le amebaɖanyenye dim ɖe edzi le Gabriel Garcia Marquez nyakakanya nu.	Charles Lane kpɔ ga home aɖe tso nya sia me.	neutral	<pad> entailment</s>	entailment
+537	Se nyawo gbɔ kpɔƒe ɖeka menye dɔwɔƒe si ate ŋu akpɔ nya siawo gbɔ le Washington ŋdi sia o.	Menye kodzoɖoƒea koe nye dunyahehawo ƒe godoƒe ɖeka kolia si le Washington.	entailment	<pad> entailment</s>	entailment
+538	Se nyawo gbɔ kpɔƒe ɖeka menye dɔwɔƒe si ate ŋu akpɔ nya siawo gbɔ le Washington ŋdi sia o.	Wotɔa dunyahehawo ƒe wɔnawo dzi le ŋdi kpadzi.	neutral	<pad> entailment</s>	entailment
+539	Se nyawo gbɔ kpɔƒe ɖeka menye dɔwɔƒe si ate ŋu akpɔ nya siawo gbɔ le Washington ŋdi sia o.	Dzidzɔdonamenuwo koe va nɔ kodzoɖoƒea, vevitɔ	contradiction	<pad> entailment</s>	entailment
+540	Ame ate ŋu akpɔe le susu me be bulldozer ʋukula aɖe le mɔ aɖe dzram ɖo ɖe ŋgɔyiyi yeye aɖe ŋu, si xɔtula Hey, Loyd...	Àte ŋu akpɔe le susu me be bulldozer ʋukula aɖe le bulldozer gɔme dzem	neutral	<pad> entailment</s>	entailment
+541	Ame ate ŋu akpɔe le susu me be bulldozer ʋukula aɖe le mɔ aɖe dzram ɖo ɖe ŋgɔyiyi yeye aɖe ŋu, si xɔtula Hey, Loyd...	Àte ŋu akpɔ bulldozer dɔwɔla aɖe le susu me	entailment	<pad> entailment</s>	entailment
+542	Ame ate ŋu akpɔe le susu me be bulldozer ʋukula aɖe le mɔ aɖe dzram ɖo ɖe ŋgɔyiyi yeye aɖe ŋu, si xɔtula Hey, Loyd...	Màte ŋu akpɔ bulldozer dɔwɔla aɖe le susu me o	contradiction	<pad> entailment</s>	entailment
+543	Meyɔe le lɛta aɖe si meŋlɔ na Ðɔkta la me Edze abe ɖe wòdo dzidzɔ nɛ ene, eye wòɖo atikutsetsebolo sue aɖe ɖem hena Kristmas ɖuɖu.	Meka ɖe edzi be ɖɔktaa xɔ lɛta si meɖo ɖee.	entailment	<pad> entailment</s>	entailment
+544	Meyɔe le lɛta aɖe si meŋlɔ na Ðɔkta la me Edze abe ɖe wòdo dzidzɔ nɛ ene, eye wòɖo atikutsetsebolo sue aɖe ɖem hena Kristmas ɖuɖu.	Nyemeɖu abolo si ɖɔktaa ɖo ɖem le Kristmas ma dzi o	neutral	<pad> entailment</s>	entailment
+545	Meyɔe le lɛta aɖe si meŋlɔ na Ðɔkta la me Edze abe ɖe wòdo dzidzɔ nɛ ene, eye wòɖo atikutsetsebolo sue aɖe ɖem hena Kristmas ɖuɖu.	Ðɔktaa ɖo wein ƒe aɖa ɖeka ɖem le Kristmas ma dzi	contradiction	<pad> entailment</s>	entailment
+546	Wotsɔ ŋkɔ si dzi woaɖo ŋkui be Bean Eaters yɔa ƒuƒoƒoa tsã, si, nusi wɔ nuku be woate ŋu abu hã be enye Indiatɔwo ƒe megbeŋkɔ.	Wotrɔ woƒe ƒuƒoƒoa ƒe ŋkɔ, elabena mexɔ ŋkɔ fũ o.	neutral	<pad> entailment</s>	entailment
+547	Wotsɔ ŋkɔ si dzi woaɖo ŋkui be Bean Eaters yɔa ƒuƒoƒoa tsã, si, nusi wɔ nuku be woate ŋu abu hã be enye Indiatɔwo ƒe megbeŋkɔ.	Ŋkɔ aɖe nɔ ƒuƒoƒoa si do ŋgɔ na esia si woate ŋu abu hã be enye Indiatɔwo ƒe megbeŋkɔ.	entailment	<pad> entailment</s>	entailment
+548	Wotsɔ ŋkɔ si dzi woaɖo ŋkui be Bean Eaters yɔa ƒuƒoƒoa tsã, si, nusi wɔ nuku be woate ŋu abu hã be enye Indiatɔwo ƒe megbeŋkɔ.	Ŋkɔ ɖeka koe nɔ habɔbɔa si.	contradiction	<pad> entailment</s>	entailment
+549	Nyemete ŋu kpɔ gɔmesese ma tɔgbe le nyagɔmeɖegbalẽ aɖe me o	Mekpɔ gɔmesesea le nyagɔmeɖegbalẽa me	contradiction	<pad> entailment</s>	entailment
+550	Nyemete ŋu kpɔ gɔmesese ma tɔgbe le nyagɔmeɖegbalẽ aɖe me o	Melé ŋku ɖe nyagɔmeɖegbalẽa me eye nyemeke ɖe gɔmesese aɖeke ŋu o.	entailment	<pad> entailment</s>	entailment
+551	Nyemete ŋu kpɔ gɔmesese ma tɔgbe le nyagɔmeɖegbalẽ aɖe me o	Nyagɔmeɖegbalẽ si mezã lae nye nyagɔmeɖegbalẽ si wozãna ɖaa.	neutral	<pad> entailment</s>	entailment
+552	Aleke ame ate ŋu awɔ esia?	Aleke ame geɖe mate ŋu awɔ naneke o?	contradiction	<pad> entailment</s>	entailment
+553	Aleke ame ate ŋu awɔ esia?	Aleke ame aɖe ate ŋu awɔ nu gbegblẽ sia tɔgbe?	neutral	<pad> entailment</s>	entailment
+554	Aleke ame ate ŋu awɔ esia?	Aleke wòate ŋu adzɔe be ame ɖeka ko nawɔ esia?	entailment	<pad> entailment</s>	entailment
+555	Tsɔ kpe ɖe eŋu la, nya siwo wonya be wofɔ ƒe alafa 20 lia ɖe te, le ŋgɔdonyaa nu, gake eŋlɔ ƒe alafa 20 lia ƒe gɔmedzedze me asrafowo ƒe nyagbɔgblɔ be.	Le ŋgɔdonyaa nu la, nya siwo dzɔ tso ƒe alafa 20 lia me la le eme, gake mebua gbegbɔgblɔ siwo do ŋgɔ la ŋu o.	entailment	<pad> entailment</s>	entailment
+556	Tsɔ kpe ɖe eŋu la, nya siwo wonya be wofɔ ƒe alafa 20 lia ɖe te, le ŋgɔdonyaa nu, gake eŋlɔ ƒe alafa 20 lia ƒe gɔmedzedze me asrafowo ƒe nyagbɔgblɔ be.	Gbegbɔgblɔ siwo katã le eme tso ɣeyiɣiawo ƒe gɔmedzedze ke la le eme.	contradiction	<pad> entailment</s>	entailment
+557	Tsɔ kpe ɖe eŋu la, nya siwo wonya be wofɔ ƒe alafa 20 lia ɖe te, le ŋgɔdonyaa nu, gake eŋlɔ ƒe alafa 20 lia ƒe gɔmedzedze me asrafowo ƒe nyagbɔgblɔ be.	Gbegbɔgblɔ vovovo geɖewo li siwo woŋlɔ do ŋgɔ na ƒe alafa blaevelia.	neutral	<pad> entailment</s>	entailment
+558	Ne ƒe 1984 tɔa le ame aɖe si la, ate ŋu ado dziku na wo ŋutɔ be ele be woaƒle agbalẽ sia tsɔ wu be woaƒle Kpekpeɖeŋunu si le kpuie wu (eye wòxɔ asi wu).	Ƒe 1984 tɔae nye nyuitɔ kekeake.	neutral	<pad> entailment</s>	entailment
+559	Ne ƒe 1984 tɔa le ame aɖe si la, ate ŋu ado dziku na wo ŋutɔ be ele be woaƒle agbalẽ sia tsɔ wu be woaƒle Kpekpeɖeŋunu si le kpuie wu (eye wòxɔ asi wu).	Womedzra agbalẽa o.	contradiction	<pad> entailment</s>	entailment
+560	Ne ƒe 1984 tɔa le ame aɖe si la, ate ŋu ado dziku na wo ŋutɔ be ele be woaƒle agbalẽ sia tsɔ wu be woaƒle Kpekpeɖeŋunu si le kpuie wu (eye wòxɔ asi wu).	Nuɖuɖu si wotsɔ kpe ɖe eŋu la ƒe asi bɔbɔ wu agbalẽa.	entailment	<pad> entailment</s>	entailment
+561	Bernstein ɖe eme le ŋgɔdonya me	Bernstein mele eme ɖem titotito o.	neutral	<pad> entailment</s>	entailment
+562	Bernstein ɖe eme le ŋgɔdonya me	Nyataƒoƒoa me ko Bernstein ɖe eme le.	contradiction	<pad> entailment</s>	entailment
+563	Bernstein ɖe eme le ŋgɔdonya me	Nugɔmeɖeɖe aɖe nɔ kpɔkplɔyiɖemea me.	entailment	<pad> entailment</s>	entailment
+564	Womegblɔ be nya siawo nye se o, evɔ asesẽ na amedzro be wòanya vovototo si le wozazã feŋuɖutɔe me nenye be wògaxɔ ƒè bla eve le afi ma gɔ̃ hã	Ame siwo wodzi le gbea me ŋutɔ hã ɖoa kuxi le ezazã ƒeŋutɔe me	neutral	<pad> entailment</s>	entailment
+565	Womegblɔ be nya siawo nye se o, evɔ asesẽ na amedzro be wòanya vovototo si le wozazã feŋuɖutɔe me nenye be wògaxɔ ƒè bla eve le afi ma gɔ̃ hã	Feŋuɖuɖu nye nu bɔbɔetɔ si me amedzrowo sena wu.	contradiction	<pad> entailment</s>	entailment
+566	Womegblɔ be nya siawo nye se o, evɔ asesẽ na amedzro be wòanya vovototo si le wozazã feŋuɖutɔe me nenye be wògaxɔ ƒè bla eve le afi ma gɔ̃ hã	Nya siawo mele bɔbɔe na amedzro ƒe gɔmesese.	entailment	<pad> entailment</s>	entailment
+567	Le nuwuwu la, ele be woakpɔ nyuie le nudzidzi ɖe dzi si ɖo ɣomesese bubu la.	Nyadzɔdzɔgbale tatɔwo ƒe dɔe nye be woade dzesi vodada siawoe.	neutral	<pad> entailment</s>	entailment
+568	Le nuwuwu la, ele be woakpɔ nyuie le nudzidzi ɖe dzi si ɖo ɣomesese bubu la.	Dzidziɖedzi nye mɔnu nyui aɖe si dzi woato akpɔ egb;,o be woɖe nya aɖe be nyuie.	contradiction	<pad> entailment</s>	entailment
+569	Le nuwuwu la, ele be woakpɔ nyuie le nudzidzi ɖe dzi si ɖo ɣomesese bubu la.	Nyagɔmesese ate ŋu to vo nenye be nyagbɔgblɔ la dzidzi vie.	entailment	<pad> entailment</s>	entailment
+570	Mitsɔ dzodzo ble ta na mia ɖokuiwo.	Dzodzo dede ta na ame nye mɔnu nyui aɖe be wòalé eɖokui ƒoƒu eye wòalé ŋku ɖe nu ŋu.	contradiction	<pad> entailment</s>	entailment
+571	Mitsɔ dzodzo ble ta na mia ɖokuiwo.	Nenye be dzodzoa de dzi sɔgbɔ la, ana be ame natsaka le ɛfe ta dzi	entailment	<pad> entailment</s>	entailment
+572	Mitsɔ dzodzo ble ta na mia ɖokuiwo.	Egbe la, dzodzoa ɖiɖi kɔkɔme atɔ̃ wu esi nɔa anyi le ɣeyiɣi siawo me.	neutral	<pad> entailment</s>	entailment
+573	Dɔ bubu aɖeke melii si yɔ fũu kple gbɔɖiɖi ameɖokui o.	Dɔ bubuwo ya dea bubu wo ɖokuiwo ŋu.	neutral	<pad> contradiction</s>	contradiction
+574	Dɔ bubu aɖeke melii si yɔ fũu kple gbɔɖiɖi ameɖokui o.	Dɔ geɖe lii siwo ƒe kɔnuwoe nye be ame naɖi gbɔlo eɖokui	contradiction	<pad> entailment</s>	entailment
+575	Dɔ bubu aɖeke melii si yɔ fũu kple gbɔɖiɖi ameɖokui o.	Dɔbubu meli si sesẽ le ameɖokui nu tsotso alea o.	entailment	<pad> entailment</s>	entailment
+576	Ɖovu siawo si le wo ɖokluiwo ŋu dzem kpɔ ŋgɔyiyi le dzeɖoɖo, aseŋukaka kple kadedenyawo me, to egbɔ le wo ŋutɔ de la, ŋkɔ nyui mele wo si o.	Ŋkɔ nyui aɖeke mele agbalẽ ɖeɖiwo si o	contradiction	<pad> entailment</s>	entailment
+577	Ɖovu siawo si le wo ɖokluiwo ŋu dzem kpɔ ŋgɔyiyi le dzeɖoɖo, aseŋukaka kple kadedenyawo me, to egbɔ le wo ŋutɔ de la, ŋkɔ nyui mele wo si o.	Agbalẽ ɖeɖi siawo mexɔ ŋkɔ nyui aɖeke o.	entailment	<pad> entailment</s>	entailment
+578	Ɖovu siawo si le wo ɖokluiwo ŋu dzem kpɔ ŋgɔyiyi le dzeɖoɖo, aseŋukaka kple kadedenyawo me, to egbɔ le wo ŋutɔ de la, ŋkɔ nyui mele wo si o.	Wogblɔ nyɔnu le atsuƒewo ƒe nyawo le nyadzɔdzɔgbalê siawo me	neutral	<pad> entailment</s>	entailment
+579	Si lite/light ɖɔ biya la ƒe nɔnɔme	Biya ƒe agbalẽ kakɛawo ate ŋu fia lite alo light	entailment	<pad> entailment</s>	entailment
+580	Si lite/light ɖɔ biya la ƒe nɔnɔme	Wowɔa Lite kple light ŋudɔ heɖɔa vin kple whisky	contradiction	<pad> entailment</s>	entailment
+581	Si lite/light ɖɔ biya la ƒe nɔnɔme	Biya fafla la ƒe numuame kpekpeme mede dzi o	neutral	<pad> entailment</s>	entailment
+582	Wowɔa ŋkɔ zãwu ma ŋdɔ le afi si eya alo nuteƒenɔla mehiã le la o.	Amewo mete ŋu le ŋkɔ bubu kpɔm o.	neutral	<pad> entailment</s>	entailment
+583	Wowɔa ŋkɔ zãwu ma ŋdɔ le afi si eya alo nuteƒenɔla mehiã le la o.	Wozãa ŋkɔ la akpa.	entailment	<pad> entailment</s>	entailment
+584	Wowɔa ŋkɔ zãwu ma ŋdɔ le afi si eya alo nuteƒenɔla mehiã le la o.	Ele be woanɔ ŋkɔa zam ɖe edzi.	contradiction	<pad> entailment</s>	entailment
+585	Le esiaxo katã me la, enye dzɔgbevɔ̃e be nuŋɔŋlɔ adodui la hã si nana woɖoa ŋu nu la, hã gablea nu ɖe edzi.	Edziedzi la amewo ɖoa ŋukɔ nuŋɔŋlɔ baɖa dzi wu.	contradiction	<pad> entailment</s>	entailment
+586	Le esiaxo katã me la, enye dzɔgbevɔ̃e be nuŋɔŋlɔ adodui la hã si nana woɖoa ŋu nu la, hã gablea nu ɖe edzi.	Woléa nyaɖonyi si woŋlɔ nyuie la ɖe tame wu esi womeŋlɔ nyuie la o.	entailment	<pad> entailment</s>	entailment
+587	Le esiaxo katã me la, enye dzɔgbevɔ̃e be nuŋɔŋlɔ adodui la hã si nana woɖoa ŋu nu la, hã gablea nu ɖe edzi.	Nyaɖoanyi si woŋlɔ nyuie la xɔa tsi le etata sɔgbɔ me	neutral	<pad> entailment</s>	entailment
+588	Esi Eŋlisiawo de dzesi nɔnɔme ɖivɔvɔ̃ sia la, wode bubu eŋu hedo nyakpe ɖe ŋgɔ	Eŋlisiawo medea bubu aɖeke ame ŋu o.	contradiction	<pad> entailment</s>	entailment
+589	Esi Eŋlisiawo de dzesi nɔnɔme ɖivɔvɔ̃ sia la, wode bubu eŋu hedo nyakpe ɖe ŋgɔ	Eŋlisiawo ɖe asi xexea me ganyawo dzi	neutral	<pad> entailment</s>	entailment
+590	Esi Eŋlisiawo de dzesi nɔnɔme ɖivɔvɔ̃ sia la, wode bubu eŋu hedo nyakpe ɖe ŋgɔ	Eŋlisiawo do adzɔ geɖe le xexea me	entailment	<pad> entailment</s>	entailment
+591	Ɣe aɖewo ɣi la, eyae nye ayetɔ wu.	Womete ŋu dea dzesi bɔboe ɣe aɖewo ɣi o.	entailment	<pad> entailment</s>	entailment
+592	Ɣe aɖewo ɣi la, eyae nye ayetɔ wu.	Meɖea gbe sesiẽ o le mɔ aɖe si wodze agbagba ɖe ɣlidodo le eme ta.	neutral	<pad> entailment</s>	entailment
+593	Ɣe aɖewo ɣi la, eyae nye ayetɔ wu.	Ele bɔbɔe be woade dzesi le didiƒe ke	contradiction	<pad> entailment</s>	entailment
+594	Nyateƒe wonye be eŋlisigbe ƒe kɔtagbewo sɔgbɔ le Grande Bretagne wu Amerika Dziehe, eye ame siwo se wodo wo la, agblɔ na mi be ɖewo le wome la, womedo gɔmesesekadede aɖeke kple wo nɔewo o.	eŋlisegbe kɔtagbewo sɔgbɔ le Grande Bretagne wu Etats-Unis.	entailment	<pad> entailment</s>	entailment
+595	Nyateƒe wonye be eŋlisigbe ƒe kɔtagbewo sɔgbɔ le Grande Bretagne wu Amerika Dziehe, eye ame siwo se wodo wo la, agblɔ na mi be ɖewo le wome la, womedo gɔmesesekadede aɖeke kple wo nɔewo o.	Eŋlisigbe ƒe kɔtagbewo le Amerika kple Grande Bretagne sɔ le wo nɔewo nu ale be womekpɔna vovototo adeke le wo me o.	contradiction	<pad> entailment</s>	entailment
+596	Nyateƒe wonye be eŋlisigbe ƒe kɔtagbewo sɔgbɔ le Grande Bretagne wu Amerika Dziehe, eye ame siwo se wodo wo la, agblɔ na mi be ɖewo le wome la, womedo gɔmesesekadede aɖeke kple wo nɔewo o.	Amerika Dziehetɔwo mete ŋu sena Grande Bretagne ƒe eŋlisigbe ƒe kɔtagbewo me tututu o.	neutral	<pad> entailment</s>	entailment
+597	"Tennessee ƒe nyakakadɔwɔla aɖe zã nyagbe avu ƒe ɣeyiɣi hede dzesi ""dzodzo ƒe ɣeyiɣi ƒuƒui"" la, esia tso ""canicule"" si nye dzodzome ɣeyiɣi ƒuƒui le dasiamime me."	Le nyakakadɔwɔla la ƒe nya nu la, avu ƒe ɣeyiɣia nye nyagbe aɖe si wozana heɖɔa afome tsidzadza ɣeyiɣiawoè	contradiction	<pad> entailment</s>	entailment
+598	"Tennessee ƒe nyakakadɔwɔla aɖe zã nyagbe avu ƒe ɣeyiɣi hede dzesi ""dzodzo ƒe ɣeyiɣi ƒuƒui"" la, esia tso ""canicule"" si nye dzodzome ɣeyiɣi ƒuƒui le dasiamime me."	Le tennessee la, siamlɔm kple dasiamime hã nye ɣleti siwo xɔa dzo ŋutɔ	neutral	<pad> entailment</s>	entailment
+599	"Tennessee ƒe nyakakadɔwɔla aɖe zã nyagbe avu ƒe ɣeyiɣi hede dzesi ""dzodzo ƒe ɣeyiɣi ƒuƒui"" la, esia tso ""canicule"" si nye dzodzome ɣeyiɣi ƒuƒui le dasiamime me."	Le dasiamime me la, dzodzo wɔna eye tsi medzana kura le ŋkeke mawo me o.	entailment	<pad> entailment</s>	entailment

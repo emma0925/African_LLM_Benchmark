@@ -1,0 +1,2243 @@
+	premise	hypothesis	label	llm
+0	Well, I didn't even think about it, but I was upset, so I went back and talked to him again.	I haven't spoken to him since.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+1	Well, I didn't even think about it, but I was upset, so I went back and talked to him again.	He was so angry that I started talking to him again.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, I would say: ""Kungani"" (it's neutral)."
+2	Well, I didn't even think about it, but I was upset, so I went back and talked to him again.	We had a good conversation.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+3	I was told that, uh, a man would be called in later to meet me.	I had not been told that I would meet someone.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+4	I was told that, uh, a man would be called in later to meet me.	I was told that a man would be called in to meet me.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment"
+5	I was told that, uh, a man would be called in later to meet me.	The man waited a long time.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+6	There are so many things you could say about him that I would just ignore that.	I want to tell you everything I know about it!	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+7	There are so many things you could say about him that I would just ignore that.	I'm not going to talk about that, although there are a lot of things we want to see.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship is: entailment.
+
+In Zulu, I would say: ""Kungoba ngokuqondile!"" (It is indeed entailed!)"
+8	There are so many things you could say about him that I would just ignore that.	I won't talk about the history of the city because we have a lot to talk about.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is NEUTRAL. The premise talks about ignoring certain things about someone, while the hypothesis discusses not talking about the history of a city due to having a lot to discuss. The two statements don't seem to be directly related or contradictory."
+9	So I don't know why.	I am convinced of the reason.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+10	So I don't know why.	I don't know why she changed schools.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+11	So I don't know why.	I don't know why that happened.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+12	I'm the only one who's, uh, been using the controls for, uh, surveillance in the cockpit of a small airplane.	I don't want to be the only one using the controller for the test.	neutral	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+13	I'm the only one who's, uh, been using the controls for, uh, surveillance in the cockpit of a small airplane.	An inspection was carried out on the flight deck of the small airport.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral"
+14	I'm the only one who's, uh, been using the controls for, uh, surveillance in the cockpit of a small airplane.	There are a few of us who use the scanner for testing.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+15	I'm the, uh, retired Senior Chief of Saints, as Rick said.	I still work to this day.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+16	I'm the, uh, retired Senior Chief of Saints, as Rick said.	I retired in 2002.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral. The premise mentions the speaker's title and a reference to someone named Rick, but it does not provide any information about the year of retirement, which is the focus of the hypothesis."
+17	I'm the, uh, retired Senior Chief of Saints, as Rick said.	Rick told you that I had retired.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+18	There are some earnings forecasts on my desk, um, uh, and it's for Cutty Seed and Cutty Seed, that's the client's name.	A customer named Cutty earns $10,000 a month.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise only mentions that there are earnings forecasts on the desk for a client named Cutty Seed, but it does not provide any information about the client's earnings. Therefore, it neither supports nor contradicts the hypothesis that Cutty earns $10,000 a month."
+19	There are some earnings forecasts on my desk, um, uh, and it's for Cutty Seed and Cutty Seed, that's the client's name.	There was a customer named Cutty.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+20	There are some earnings forecasts on my desk, um, uh, and it's for Cutty Seed and Cutty Seed, that's the client's name.	We don't have any customers named Cutty.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+21	The girl who can help me is on the other side of town.	The girl I need help from lives far away from here.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+22	The girl who can help me is on the other side of town.	The girl who will help me is 5 miles away.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment.
+
+In Zulu, I would say: ""Kuyafana!"" (It agrees!)"
+23	The girl who can help me is on the other side of town.	No one could help me.	contradiction	"Sawubona! (Hello!)
+
+The answer is contradiction."
+24	But their knowledge differed as to who was the farm worker and who was the householder, it was just like...	They all agreed to work together in the field.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+25	But their knowledge differed as to who was the farm worker and who was the householder, it was just like...	They could not agree on who was the farm worker and who had the right to be in the house.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+26	But their knowledge differed as to who was the farm worker and who was the householder, it was just like...	They could not agree on who should work in the cotton fields and who should sweep the floor.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+27	I said they just had, like, five kids, one of whom died.	All their children survived.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+28	I said they just had, like, five kids, one of whom died.	One of the children died.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment"
+29	I said they just had, like, five kids, one of whom died.	The dead child was born blind.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral"
+30	She said she had tears in her eyes and said that Joe had climbed out the front door.	She had tears in her eyes as she told him to climb up on the front porch.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, I'd say: ""Kungani"" (it's neutral)."
+31	She said she had tears in her eyes and said that Joe had climbed out the front door.	She quickly wiped away her tears after sending Joe away from the front of the house.	contradiction	"Sawubona! (Hello!)
+
+The answer is: entailment."
+32	She said she had tears in her eyes and said that Joe had climbed out the front door.	She was so happy to see Joe that she burst into tears.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+33	Even if the plane were to crash, why would it, uh, crash and take out a piece of metal for the waves to collect outside?	The fence prevented it during the same fire incident.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is NEUTRAL. The premise talks about a plane crash and a piece of metal, while the hypothesis mentions a fence and a fire incident. They seem to be unrelated and don't provide enough information to establish a clear entailment or contradiction."
+34	Even if the plane were to crash, why would it, uh, crash and take out a piece of metal for the waves to collect outside?	The debris would accumulate on the outside from scrap metal after the plane burns.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Yoruba, I would say: ""O dara o!"" (It's okay!)"
+35	Even if the plane were to crash, why would it, uh, crash and take out a piece of metal for the waves to collect outside?	The fence will be exposed during a fire.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral"
+36	He is the great-great-great-great-great-great-great-great-grandson of Clem Francis, a retired U.S. Air Force officer.	The General is a retired U.S. Air Force officer.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral."
+37	He is the great-great-great-great-great-great-great-great-grandson of Clem Francis, a retired U.S. Air Force officer.	The CEO recently retired a few weeks ago.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral"
+38	He is the great-great-great-great-great-great-great-great-grandson of Clem Francis, a retired U.S. Air Force officer.	The Chief of Staff of the U.S. Air Force just started his new assignment this week.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+39	It was so good that two or three planes came in a week and I didn't know where they were going.	More than one flight arrives every week.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+40	It was so good that two or three planes came in a week and I didn't know where they were going.	The rest of the flight was stressful.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+41	It was so good that two or three planes came in a week and I didn't know where they were going.	There are no flights coming in.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+42	They have a full-length suit inside and it took me a little while to put on a full-length suit.	It takes up to three months to complete a full-length canvas print using full-length canvas.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+43	They have a full-length suit inside and it took me a little while to put on a full-length suit.	Getting used to wearing a full-length suit takes time.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment"
+44	They have a full-length suit inside and it took me a little while to put on a full-length suit.	We can teach you how to use a full diaphragm when it gets dark.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about putting on a full-length suit, while the hypothesis mentions teaching someone to use a full diaphragm when it gets dark. There is no logical connection between the two, so the premise neither entails nor contradicts the hypothesis."
+45	I would say that it's safe to go in with the bomb because it won't explode, no matter how hard it hits.	The pilot had dropped the missile.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+46	I would say that it's safe to go in with the bomb because it won't explode, no matter how hard it hits.	The atomic bomb is unlikely to explode.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+47	I would say that it's safe to go in with the bomb because it won't explode, no matter how hard it hits.	The danger of a nuclear explosion is immense.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+48	If so, that's exactly what I'm trying to do.	I don't know why this is so important to you.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+49	If so, that's exactly what I'm trying to do.	I'm trying to do this, but I can't.	entailment	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+50	If so, that's exactly what I'm trying to do.	I am trying to finish my special assignment next week.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+51	However, the animals are constantly on the move, especially the goats.	The goats escape from the enclosure every day.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+52	However, the animals are constantly on the move, especially the goats.	The goats are always running away.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment.
+
+In Yoruba, I would say: ""O ti pẹlu"" (It has followed)."
+53	However, the animals are constantly on the move, especially the goats.	The goats were safely hidden.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+54	The doors were locked when we entered.	All the doors were wide open.	contradiction	"Sawubona! (Hello!) In isiZulu, I'd say ""Kulungile"" (It's okay).
+
+The answer is: contradiction."
+55	The doors were locked when we entered.	The computer is with us.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, I'd say: ""Kutheni!"" (That's it!)"
+56	The doors were locked when we entered.	We entered even though the doors were locked.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+57	So I just had to open it up and try to think about it that way.	I'm sure I'll need all of them to find a solution to this.	neutral	"Sawubona! (Hello!) 
+
+The answer is neutral."
+58	So I just had to open it up and try to think about it that way.	I don't know what to do with all of it so please give me a report to find a solution to this.	contradiction	"Sawubona! (Hello!)
+
+The answer is: entailment"
+59	So I just had to open it up and try to think about it that way.	I'll calculate it with the sum of all of it.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is **neutral**. The premise talks about opening something up and thinking about it, while the hypothesis mentions calculating something with a sum. They seem unrelated and don't necessarily support or contradict each other.
+
+In isiZulu, I would say: ""Kungenzeka ukuthi kube nelungelo lokuthi kube ngokwahluka"" (It seems like there's no clear connection between the two statements)."
+60	And that's too much because the mothers are using drugs.	The mothers were poisoned.	neutral	"Sawubona! (Hello!)
+
+In this case, the answer is neutral. The premise mentions mothers using drugs, but it doesn't necessarily imply that they were poisoned. There could be other reasons why the mothers are using drugs, and poisoning is just one possible interpretation.
+
+In Zulu, I'd say: ""Kungenzeka ukuthi kubonakale ukuthi umama awusebenzisa amadragi, kodwa akukho ukuthola ukuthi babulaliwe."" (It's possible that the mothers are using drugs, but it doesn't necessarily mean they were poisoned.)"
+61	And that's too much because the mothers are using drugs.	The mothers had no prescription or medication.	contradiction	"Sawubona! (Hello!)
+
+The answer is entailment."
+62	And that's too much because the mothers are using drugs.	The mothers also use drugs.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment"
+63	yes it is good is it raining	I don't care if it rains.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is NEUTRAL. The premise is expressing a positive sentiment about the rain, while the hypothesis is expressing indifference. They don't necessarily agree or disagree with each other."
+64	yes it is good is it raining	It's nice and raining.	entailment	"Sawubona! (Hello!)
+
+Let's break it down:
+
+PREMISE: ""yes it is good is it raining"" can be rephrased to ""it is good that it is raining"".
+
+HYPOTHESIS: ""It's nice and raining"".
+
+The premise and hypothesis both convey a positive sentiment about the rain. Therefore, the answer is: entailment."
+65	yes it is good is it raining	It's very bad with begging all the way to the neck.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is NEUTRAL. The premise talks about the weather (raining) and whether it's good, while the hypothesis seems to describe a completely unrelated situation (begging all the way to the neck). There's no logical connection or opposition between the two, so it's neutral.
+
+In Zulu, I'd say: ""Kungani ukuthola ukuthi ibandakanya noma ikhathalele."" (It's unclear how they relate or contradict each other.)"
+66	oh how much a human life is worth and whether you can revive a human being or not	Every life deserves re-election and a second chance.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is... entailment.
+
+In Zulu, I'd say: ""Kungoba ngokuqondile!"" (It's a direct connection!)
+
+The premise talks about the value of human life and the possibility of reviving or giving a second chance, which aligns with the hypothesis that every life deserves re-election and a second chance. The ideas are closely related and supportive of each other."
+67	oh how much a human life is worth and whether you can revive a human being or not	No human being deserves to be re-elected.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is NEUTRAL. The premise talks about the value of human life and reviving a human being, while the hypothesis discusses re-election, which is a political concept unrelated to the premise. There is no logical connection between the two, so they don't entail or contradict each other.
+
+In Zulu, I would say: ""Kungenzeka ukuthi ibandakanyana leli qaphela nalena hypothesis ngoba ayikho inhlangano yabo."" (It's not possible to connect this premise and hypothesis because they don't have a relationship.)"
+68	oh how much a human life is worth and whether you can revive a human being or not	It's not going to have anything to do with the re-engineering of the Earth.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about the value of human life and reviving a human being, while the hypothesis mentions re-engineering the Earth. There is no logical connection between the two, so the premise neither supports nor contradicts the hypothesis."
+69	oh brother you have a problem connecting the wires there	I've never seen this kind of wiring problem before.	neutral	"Sawubona! (Hello!)
+
+The answer is: entailment.
+
+In Zulu, ""Ngiyabonga"" (thank you)!"
+70	oh brother you have a problem connecting the wires there	The problem is not the wiring.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+71	oh brother you have a problem connecting the wires there	This unusual combination of wires presents a problem.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment"
+72	it looks like a lot of crap so I was surprised by how much they would charge	He wasn't surprised, he just knew they were desperate.	contradiction	"Sawubona! (Hello!) In isiZulu, I'd say ""Ngiyabonga"" (Thank you) for the question.
+
+Now, let's analyze the premise and hypothesis. After careful consideration, I conclude that the relationship between the premise and hypothesis is a **contradiction**. The premise suggests the speaker was surprised, while the hypothesis claims the speaker wasn't surprised. These two statements cannot both be true at the same time.
+
+In isiZulu, I'd say ""Kungani"" (That's why) the answer is a contradiction!"
+73	it looks like a lot of crap so I was surprised by how much they would charge	Surprisingly, you were allowed to bring food and water in there.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral"
+74	it looks like a lot of crap so I was surprised by how much they would charge	He was surprised that they could catch him.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral."
+75	Oh, but still, still, still, um, my kids are 11 and 24, so I don't have to do that.	I don't need to do that because my children are in their 20s.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the answer is entailment.
+
+In Yoruba, I'd say: ""O dara!"" (It's correct!)"
+76	Oh, but still, still, still, um, my kids are 11 and 24, so I don't have to do that.	I may need to do so when they are close in age.	neutral	"Sawubona! (Hello!)
+
+The answer is contradiction."
+77	Oh, but still, still, still, um, my kids are 11 and 24, so I don't have to do that.	I had to do this when they were 10 and 11 years old.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+78	Yes, people who can go to work at any time or whose decision can be confusing when they have to make a decision	Yes, people who may not be able to make the best experience decisions.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is: entailment.
+
+In Yoruba, I would say: ""O dara!"" (It is correct!)"
+79	Yes, people who can go to work at any time or whose decision can be confusing when they have to make a decision	Yes, people may not starve.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is **neutral**.
+
+The premise talks about people's flexibility in their work schedule and decision-making, while the hypothesis mentions not starving. There's no direct logical connection between these two statements, so we can't conclude that one necessarily follows from the other.
+
+In Zulu, I'd say: ""Kungekho ukuthola ukuthi kubonga ukuthi..."" (There's no connection to conclude that...)
+
+Is there anything else I can help you with?"
+80	Yes, people who can go to work at any time or whose decision can be confusing when they have to make a decision	Yes, people with mental bags don't have challenges.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship is **contradiction**.
+
+In the Yoruba language, I would say: ""O ti ṣe àṣẹyọri"" (It is a contradiction).
+
+The premise suggests that people with certain characteristics (flexible work schedule or confusing decision-making) might have challenges, while the hypothesis claims that people with ""mental bags"" (which I assume means mental health issues or emotional burdens) don't have challenges. These two statements are opposing, hence the contradiction."
+81	No, they're still flying. They've been flying since the end of the last ice age.	They have been travelling since the 1970s.	entailment	"Sawubona! (Hello!) 
+
+The answer is: contradiction."
+82	No, they're still flying. They've been flying since the end of the last ice age.	They love to travel.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Yoruba, I would say: ""Okan l'o ye"" (It's not related)."
+83	No, they're still flying. They've been flying since the end of the last ice age.	They had just finished their honeymoon.	contradiction	"Sawubona! (Hello!)
+
+The answer is neutral."
+84	how to exercise your mind	Can you explain how mental recreation is accomplished?	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+85	how to exercise your mind	I am interested in cardiovascular exercise because I need cardiovascular and pulmonary functions.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about exercising the mind, while the hypothesis is about cardiovascular exercise for physical health. They are unrelated topics, so there's no entailment or contradiction."
+86	how to exercise your mind	Please stop talking about mental exercise.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+87	well that's good I never thought of that before	It was a crazy idea that I got rid of last week.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say it's a contradiction. The premise implies a positive or novel idea, while the hypothesis suggests it was a crazy idea that was gotten rid of. These two statements don't align, hence the contradiction.
+
+In isiZulu, I'd say: ""Kungapheli"" (It's a contradiction)."
+88	well that's good I never thought of that before	That's a good point.	entailment	"Sawubona! (Hello!) 
+
+The answer is entailment."
+89	well that's good I never thought of that before	The phrase you mentioned is a good topic.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+90	The Jerusalem school is held two days a week. It is called the Jerusalem school for retired workers, but it goes to the places of retired workers.	The Jerseys school is also open daily for children under five years old only.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about the Jerusalem school, its schedule, and its target audience (retired workers), while the hypothesis mentions a different school (Jerseys school) with a different target audience (children under five years old). There is no logical connection between the two, so the premise neither supports nor contradicts the hypothesis."
+91	The Jerusalem school is held two days a week. It is called the Jerusalem school for retired workers, but it goes to the places of retired workers.	They are allowed to leave no more than twice a week if the pensioners are ready for it.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+92	The Jerusalem school is held two days a week. It is called the Jerusalem school for retired workers, but it goes to the places of retired workers.	It is often referred to as the Jerome School for the Elderly but is more commonly called the Elderly Area.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is **neutral**. The premise talks about the Jerusalem school's schedule and name, while the hypothesis mentions a different name (Jerome School for the Elderly) and a description (Elderly Area) that aren't directly related to the premise. There's no clear connection or conflict between the two, so it's neutral.
+
+In Yoruba, I'd say: ""O ri iru kan, ko si iru kan"" (There's no connection, no conflict)."
+93	that's their number oh	That is what they have been striving for.	entailment	"Sawubona! (Hello!)
+
+In this case, the answer is neutral. The premise ""that's their number oh"" doesn't provide enough information to conclude whether it supports or contradicts the hypothesis ""That is what they have been striving for."""
+94	that's their number oh	That's not what they want.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is NEUTRAL. The premise seems to be stating a fact about a phone number, while the hypothesis is expressing a contradictory opinion about someone's desires. There is no direct logical connection between the two statements.
+
+In Zulu, I would say: ""Kungani ukuthi akukho ukuxhumana phakathi kwalezi zinto."" (It's because there is no connection between these things.)"
+95	that's their number oh	They got their wish.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is... neutral.
+
+In Yoruba, I'd say: ""Oriki ti ko je ki a mo"" (The connection is not clear to me).
+
+The premise ""that's their number oh"" doesn't provide enough information to confirm or deny the hypothesis ""They got their wish."" We need more context to establish a clear relationship between the two."
+96	firing a gun also involves using both hands	Half of all firearm misfires were caused by the use of one hand.	neutral	"Sawubona! (Hello!) 
+
+The answer is: contradiction"
+97	firing a gun also involves using both hands	The best way to aim a gun is to use both feet.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+98	firing a gun also involves using both hands	Use both hands if you want to do a gun control maneuver.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+99	And uh but it came out of nowhere I don't know where it came from but	I don't know where it came from but it was fast.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment. The premise and hypothesis both agree that the origin is unknown, and the hypothesis adds more information about the speed."
+100	And uh but it came out of nowhere I don't know where it came from but	He hurried to visit but I seemed to know where he might be coming from.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is NEUTRAL. The premise talks about something coming out of nowhere, while the hypothesis discusses someone visiting and knowing where they might be coming from. The two statements don't directly support or contradict each other.
+
+In Zulu, I would say: ""Kungenzeka ukuthi kube nelungelo lokuthi kube ngokuqondile"" (It seems there is no direct connection between the two statements)."
+101	And uh but it came out of nowhere I don't know where it came from but	It was like sugar honey and I knew exactly when it would come.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say it's a **contradiction**.
+
+The premise suggests that the speaker doesn't know where it came from or when it would come, whereas the hypothesis implies that the speaker knew exactly when it would come. These two statements are opposing each other, hence the contradiction.
+
+In Zulu, I would say: ""Kungapheli"" (It's a contradiction)."
+102	no i don't even know him i don't think so	I don't know much about it.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+103	no i don't even know him i don't think so	I am not naive when it comes to love.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is... neutral.
+
+The premise seems to be discussing a specific person and the speaker's lack of knowledge or acquaintance with them, whereas the hypothesis makes a claim about the speaker's level of naivety when it comes to love. There isn't a clear logical connection between the two, so I wouldn't say the premise entails or contradicts the hypothesis."
+104	no i don't even know him i don't think so	I've been studying it for years.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral"
+105	yes it's good you know that	I think he knows he did the right thing.	neutral	"Sawubona! (Hello!)
+
+The answer is: entailment"
+106	yes it's good you know that	No, he did not.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+107	yes it's good you know that	Yes, he did very well.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is... neutral.
+
+The premise seems to be a general statement of approval or agreement, while the hypothesis is a specific statement about someone doing well. There isn't a direct logical connection between the two, so we can't conclude that the premise entails or contradicts the hypothesis.
+
+Ngiyabonga (Thank you) for the question!"
+108	yes he suggested finding uh um a uh a blanket to use	He suggested getting a sewing machine.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral"
+109	yes he suggested finding uh um a uh a blanket to use	He suggested searching for zero.	entailment	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+110	yes he suggested finding uh um a uh a blanket to use	He wanted to wipe the blood off with a towel.	neutral	"Sawubona! (Hello!) 
+
+After analyzing the premise and hypothesis, I would say it's neutral. The premise mentions a blanket, but the hypothesis talks about a towel, so there's no direct connection or contradiction between the two."
+111	This place is very bad. The shooting of Nirona just happened about three blocks from our house.	The gunfire was heard less than 100 miles from where I lived.	contradiction	"Sawubona! (Hello!)
+
+The answer is entailment."
+112	This place is very bad. The shooting of Nirona just happened about three blocks from our house.	The sound of gunfire approached my house and scared me to go outside.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+113	This place is very bad. The shooting of Nirona just happened about three blocks from our house.	The sound of gunfire was heard in the vicinity of my house, and the neighborhood was in turmoil.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+114	uh-huh it's true it's not that much uh suddenly	I don't agree with you, it's totally wrong.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+115	uh-huh it's true it's not that much uh suddenly	I think you're right about his behavior.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+116	uh-huh it's true it's not that much uh suddenly	"You're right about the ""no"" part."	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say it's NEUTRAL. The premise seems to be unclear and doesn't directly relate to the hypothesis, which is talking about a ""no"" part that isn't explicitly mentioned in the premise.
+
+In isiZulu, I'd say ""Kungenzeka"" (It's unclear)"
+117	I'm trying really hard to recover	I try to do my best.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+118	I'm trying really hard to recover	I try my best.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+119	I'm trying really hard to recover	I would leave and never look back.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Zulu, ""Ngicabanga ukuthi ngiyakhohlwa"" (I think it's a contradiction). The premise suggests effort to recover, while the hypothesis implies giving up and leaving. These two ideas don't align."
+120	We have closed the door on our technological future.	We're developing leaders who are critical to the future of engineering.	entailment	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+121	We have closed the door on our technological future.	We're building a smart grid, so AI is going to control our future.	neutral	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+122	We have closed the door on our technological future.	We want technology to succeed.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+123	For example, at the highest levels, all generations become popes.	At the highest level, only half a generation can become pope.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+124	For example, at the highest levels, all generations become popes.	The cells of the genus can change colour.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about generations becoming popes, while the hypothesis talks about cells changing color. These two statements are unrelated, and one does not logically follow from the other."
+125	For example, at the highest levels, all generations become popes.	In some cases the cells can become the same color.	neutral	"Sawubona! (Hello!) 
+
+The answer is neutral. The premise talks about generations and popes, while the hypothesis talks about cells and colors. There is no logical connection between the two, so the premise neither entails nor contradicts the hypothesis."
+126	Daniel Yamins is a brilliant young mathematician.	Mr. Yamins is a great mathematician.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment.
+
+In Zulu, I'd say: ""Iqiniso!"" (That's true!)"
+127	Daniel Yamins is a brilliant young mathematician.	Mr. Yamins' main interest is military mathematics.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral. The premise provides information about Daniel Yamins being a brilliant young mathematician, but it does not provide any information about his main interest, which is the focus of the hypothesis."
+128	Daniel Yamins is a brilliant young mathematician.	Mr. Yamins is a great artist, but a terrible mathematician.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+129	And if so, are they always close to the border?	As far as I know, they have not travelled near the border.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+130	And if so, are they always close to the border?	I wonder, are they always in England?	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+131	And if so, are they always close to the border?	The driver wanted to know how many times they approached the border.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral."
+132	I believe that there is a molecule by which life on Earth repeatedly renews itself in the laws of nature for generations to come.	Life in the world is constantly changing.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment.
+
+In Yoruba, I would say: ""Ọrọ yi mu ipinlẹẹsi"" meaning ""This statement supports the hypothesis""."
+133	I believe that there is a molecule by which life on Earth repeatedly renews itself in the laws of nature for generations to come.	Life on Earth changes with the temperature.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about a molecule that helps life on Earth renew itself, while the hypothesis discusses how life on Earth changes with temperature. These two statements don't necessarily agree or disagree with each other, so the relationship between them is neutral."
+134	I believe that there is a molecule by which life on Earth repeatedly renews itself in the laws of nature for generations to come.	Life on earth is constantly changing.	contradiction	"Sawubona! (Hello!)
+
+The answer is entailment."
+135	With that game, the daily cricket can't cope with so much news.	Everyday crystals are the repository of a vast collection of information.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the relationship is NEUTRAL. The premise talks about a ""daily cricket"" and its inability to cope with news, while the hypothesis discusses ""everyday crystals"" being a repository of information. The two seem unrelated, and there's no clear entailment or contradiction between them.
+
+In Zulu, I'd say: ""Kungani ukuthi kunezinkinga ekutheni ukuthola ukuthola ukwazi kwalezi zinto."" (It's unclear how these two things are related.)"
+136	With that game, the daily cricket can't cope with so much news.	Everyday crystals are not very useful for news forecasting.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+137	With that game, the daily cricket can't cope with so much news.	There are also some crystals that are particularly useful for weather forecasting with laser lighting.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about a game and daily cricket, while the hypothesis discusses crystals and weather forecasting with laser lighting. There is no logical connection between the two, so they are neutral towards each other."
+138	Therefore, adults do not need to teach elementary school children to lose weight, as they sometimes do when helping them solve puzzles or related tasks.	Elementary school students do better in academics than in gymnastics.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral"
+139	Therefore, adults do not need to teach elementary school children to lose weight, as they sometimes do when helping them solve puzzles or related tasks.	Primary school students do not need much help to learn how to weigh.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+140	Therefore, adults do not need to teach elementary school children to lose weight, as they sometimes do when helping them solve puzzles or related tasks.	Elementary school students do not have the skills to solve puzzles on their own.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment.
+
+In Zulu, I would say: ""Iqiniso!"" (That's true!)"
+141	[This country] was born out of freedom and the myth of birth was born out of it.	The accounts of this myth are broken down into numerous appendices.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is NEUTRAL. The premise talks about the origin of the country and the myth, while the hypothesis discusses the structure of the accounts of that myth. They don't necessarily entail or contradict each other."
+142	[This country] was born out of freedom and the myth of birth was born out of it.	Some people believe that birth is just birth.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Yoruba, I'd say: ""O dara o!"" (That's correct!)"
+143	[This country] was born out of freedom and the myth of birth was born out of it.	This nation was founded on the belief that some people are better than others.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise talks about the country being born out of freedom and a myth of birth, but it doesn't provide any information about the belief that some people are better than others, which is the hypothesis. There is no clear connection or contradiction between the two statements.
+
+In Zulu, I would say: ""Kungani ukuthi kubonakala ukuthi kusasa ukuthola ukuthi kunezinto ezahlukene."" (It seems that there is no clear connection or contradiction between the two statements.)
+
+Is there anything else I can help you with?"
+144	Shall I praise you more?	He was openly convinced that I needed to punish him for his disappointments.	contradiction	"Sawubona! (Hello!)
+
+The answer is contradiction."
+145	Shall I praise you more?	I wondered if he needed more appreciation from me.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+146	Shall I praise you more?	Should I praise him for his piano work?	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is NEUTRAL. The premise is asking about praising ""you"" ( likely the person being spoken to), while the hypothesis is asking about praising ""him"" (a third person) for his piano work. The subjects and contexts are different, so there's no direct entailment or contradiction."
+147	The myth of chemical bonding can be formulated in various ways.	Another principle uses it to paint a picture of chemical interactions.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+148	The myth of chemical bonding can be formulated in various ways.	Chemical interaction diagrams are very useful for computer science applications.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+149	The myth of chemical bonding can be formulated in various ways.	The picture of chemical bonding is unimaginable in many ways.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Yoruba, I would say: ""Ọrịkịsị nị"" (It's neutral).
+
+The premise talks about the myth of chemical bonding being formulated in various ways, while the hypothesis talks about the picture of chemical bonding being unimaginable in many ways. These two statements don't necessarily agree or disagree with each other, so the relationship between them is neutral."
+150	(Terrified) No, no, I don't want you to die!	I don't want you to die!	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+151	(Terrified) No, no, I don't want you to die!	I don't care if you die!	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+152	(Terrified) No, no, I don't want you to die!	I'd hate to see you die!	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+153	He was publicly hanged on January 19, 1875, in San Jose, California.	The California hare was publicly hanged until the end of 1875.	entailment	"Sawubona! (Hello!) In Zulu, I'd say ""Ngiyabonga"" (Thank you) for the question.
+
+Now, let's analyze the premise and hypothesis. The premise talks about a specific person being hanged on a particular date, whereas the hypothesis mentions ""The California hare"" (which is likely an animal) being hanged until the end of 1875.
+
+In this case, the premise does not provide any information about the California hare, so it neither supports nor contradicts the hypothesis. Therefore, the answer is NEUTRAL."
+154	He was publicly hanged on January 19, 1875, in San Jose, California.	They untied all the ropes that held him and let him go free.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+155	He was publicly hanged on January 19, 1875, in San Jose, California.	He was hanged for sedition and horse theft.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral. The premise provides information about the event of the person being hanged, but it does not mention the reason for the hanging, which is the focus of the hypothesis."
+156	By means of an unexplained movement, the green sea is swept away.	The sea was dark and crystal-clear.	contradiction	"Sawubona! (Hello!)
+
+Let's analyze the premise and hypothesis.
+
+The premise mentions the ""green sea,"" while the hypothesis describes the sea as ""dark and crystal-clear."" These two descriptions are mutually exclusive, as ""green"" and ""dark"" are different colors.
+
+Therefore, I would say that the premise **contradicts** the hypothesis."
+157	By means of an unexplained movement, the green sea is swept away.	The water is filled with small fish that are poured onto the hulls.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, ""Ngiyabonga"" (thank you)."
+158	By means of an unexplained movement, the green sea is swept away.	The sea is green and crystal clear.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, I would say: ""Kungani"" (it's neutral)."
+159	An entirely new Judiciary is striving to operate in a manner different from the turmoil of the 1860s.	By the 1870s all of the Court's decisions had devastated the country and were in disarray.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Zulu, ""Ngiyabonga"" (thank you)!"
+160	An entirely new Judiciary is striving to operate in a manner different from the turmoil of the 1860s.	The 1860s were a tumultuous time.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+161	An entirely new Judiciary is striving to operate in a manner different from the turmoil of the 1860s.	The ruling of the new Court intends to undermine the rights of the workers.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+162	Each of the higher forms of thought to which he refers is first manifested in the social context, between the child and the representatives of his culture as they engage in social activity.	Children do not have the same high-mindedness.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+163	Each of the higher forms of thought to which he refers is first manifested in the social context, between the child and the representatives of his culture as they engage in social activity.	Fishing is a popular activity that is shared across many different cultures.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about the development of higher forms of thought in a social context, while the hypothesis discusses the popularity of fishing across different cultures. There is no logical connection between the two, so the premise neither entails nor contradicts the hypothesis."
+164	Each of the higher forms of thought to which he refers is first manifested in the social context, between the child and the representatives of his culture as they engage in social activity.	The practice of meditation sometimes helps one to meditate on higher levels of consciousness.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about the development of higher forms of thought in a social context, while the hypothesis mentions the practice of meditation and its effect on higher levels of consciousness. The two statements are unrelated, and neither confirms nor denies the other."
+165	Some communities have intercessors, religious leaders who lead the congregation in prayer at funerals, celebrations of saints' days, and whenever the parish priest is not at home.	None of the communities had religious leaders who were not members of the clergy.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Zulu, I'd say: ""Kutheni ukuthola ukuthi kubangelwa!"" (It's clear that it's a contradiction!)"
+166	Some communities have intercessors, religious leaders who lead the congregation in prayer at funerals, celebrations of saints' days, and whenever the parish priest is not at home.	Some communities have clergymen who are not members of the clergy.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In isiZulu, ngiyakwazi ukuthetha ngokuthula. (I can explain calmly.)
+
+The premise talks about intercessors, who are religious leaders, while the hypothesis talks about clergymen who are not members of the clergy. There is no direct connection or contradiction between the two, so the relationship is neutral."
+167	Some communities have intercessors, religious leaders who lead the congregation in prayer at funerals, celebrations of saints' days, and whenever the parish priest is not at home.	Some of the religious leaders had black hair.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+168	In children's theatre as well, the opportunity to play and direct various roles helps children to recognize the similarities and differences between people in their desires, beliefs and emotions.	Children can learn about people's similarities and differences.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+169	In children's theatre as well, the opportunity to play and direct various roles helps children to recognize the similarities and differences between people in their desires, beliefs and emotions.	Children see how different generations are.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+170	In children's theatre as well, the opportunity to play and direct various roles helps children to recognize the similarities and differences between people in their desires, beliefs and emotions.	Children cannot learn anything.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+171	The best feature of the postwar German constitution, then, was precisely the brutal murder of the Nazis.	The Nazis allowed it.	contradiction	"Sawubona! (Hello!) 
+
+The answer is: contradiction."
+172	The best feature of the postwar German constitution, then, was precisely the brutal murder of the Nazis.	The Nazis executed everyone involved.	neutral	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+173	The best feature of the postwar German constitution, then, was precisely the brutal murder of the Nazis.	It was brought to an end by the Nazis.	entailment	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+174	Sonja began to absorb her daughter's anger.	No one is angry.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Zulu, I'd say: ""Kutheni!"" (That's a contradiction!)"
+175	Sonja began to absorb her daughter's anger.	Sonja is a child.	entailment	"Sawubona! (Hello!) In isiZulu, I'd say ""Ngicabanga ukuthi..."" (I think that...).
+
+In this case, I think that the premise contradicts the hypothesis. The premise states that Sonja is absorbing her daughter's anger, implying that Sonja is a parent, whereas the hypothesis states that Sonja is a child. These two statements cannot be true at the same time.
+
+So, the answer is: contradiction."
+176	Sonja began to absorb her daughter's anger.	Sonja was furious.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+177	6 In the 35 years leading up to World War I, the Court exercised this power on a number of occasions.	The court exercised this power in the decade leading up to World War I.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+178	6 In the 35 years leading up to World War I, the Court exercised this power on a number of occasions.	The court exercised this power 4 times in the 35 years leading up to the World War.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral. The premise states that the court exercised this power ""on a number of occasions,"" but it doesn't specify the exact number. The hypothesis states a specific number (4), which isn't confirmed or denied by the premise."
+179	6 In the 35 years leading up to World War I, the Court exercised this power on a number of occasions.	The court used this power 5 million times in the 35 years leading up to the World War.	contradiction	"Sawubona! (Hello!)
+
+The answer is contradiction."
+180	I can assure you that I have received full information from them.	I testify to you that I have been given knowledge of it all.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment.
+
+In isiZulu, ""Ngikhona ukuthola ulwazi olunele lwethu"" (The premise) means ""I have received full information from them"". And ""Ngiyabonga ukuthi ngimile ukwazi konke"" (The hypothesis) means ""I testify to you that I have been given knowledge of it all"". Both statements convey the same meaning, so the premise entails the hypothesis."
+181	I can assure you that I have received full information from them.	I was told about the death of the spy.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+182	I can assure you that I have received full information from them.	A lot of information was kept from me.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+183	The noise interrupted Captain Blood's dissatisfied thoughts.	Captain Blood found freedom to reflect on his dissatisfaction without restriction.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Zulu, ""Ngicela ukwethula"" (I would like to explain). The premise states that the noise interrupted Captain Blood's thoughts, implying that he was not able to reflect freely. This contradicts the hypothesis, which suggests that he had the freedom to reflect without restriction."
+184	The noise interrupted Captain Blood's dissatisfied thoughts.	Some noise disturbed the speech of Captain Blood.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Yoruba, I'd say: ""Otutu ni"" (It's neutral)."
+185	The noise interrupted Captain Blood's dissatisfied thoughts.	The barking of the puppy woke the sailor from his slumber.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+186	But I can never forget when I was a slave in your brother's house in Barbados, you treated me with a kindness.	She took good care of me when I was a slave in Barbados.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+187	But I can never forget when I was a slave in your brother's house in Barbados, you treated me with a kindness.	You're mean to me, and you're meaner than a whore.	contradiction	"Sawubona! (Hello!)
+
+The answer is contradiction."
+188	But I can never forget when I was a slave in your brother's house in Barbados, you treated me with a kindness.	Your brother used to beat me badly every day when he was my boss.	neutral	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+189	There, not more than three miles from here, is the land--an uneven green wall which occupies a western portion.	The formerly lush grasslands have become desolate.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship is NEUTRAL. The premise describes a physical location and its features, while the hypothesis makes a claim about the condition of the grasslands, which is not directly addressed in the premise."
+190	There, not more than three miles from here, is the land--an uneven green wall which occupies a western portion.	Their destination is an uninhabited island.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+191	There, not more than three miles from here, is the land--an uneven green wall which occupies a western portion.	They saw no land for many miles, only endless water.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+192	I am the supreme creator of these uncivilized parts of the world, and my Lord Sunderland's equals.	The Most High has servants, and I am one of them.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is: contradiction.
+
+The premise presents the speaker as a supreme creator, equal to Lord Sunderland, implying a sense of superiority or divinity. In contrast, the hypothesis suggests that the speaker is a servant of the Most High, implying a subordinate role. These two perspectives seem to be mutually exclusive, hence the contradiction.
+
+Ngiyabonga (Thank you) for the question!"
+193	I am the supreme creator of these uncivilized parts of the world, and my Lord Sunderland's equals.	The Almighty sent me here about a week ago.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say it's neutral. The premise talks about the speaker's self-proclaimed status and equality with Lord Sunderland, while the hypothesis mentions the Almighty sending the speaker to a place. There's no direct connection or conflict between the two statements.
+
+In isiZulu, I'd say: ""Kungani"" (It's neutral)."
+194	I am the supreme creator of these uncivilized parts of the world, and my Lord Sunderland's equals.	I do not take orders from the Almighty.	contradiction	"Sawubona! (Hello!)
+
+Let's break it down in Zulu:
+
+""Ngicela ukubonga"" (I request an explanation)
+
+The premise implies that the speaker is a supreme creator, equal to their Lord Sunderland. This suggests that the speaker is on the same level as a higher power.
+
+The hypothesis states that the speaker does not take orders from the Almighty. This implies that the speaker is not subordinate to a higher power.
+
+""Ngiphinde"" (I think)
+
+The premise and hypothesis are not directly contradictory, as the premise doesn't explicitly state that the speaker takes orders from the Almighty. However, the premise does imply a level of equality with a higher power, which could suggest that the speaker might take orders from them.
+
+""Ngicabanga"" (I conclude)
+
+The relationship between the premise and hypothesis is NEUTRAL. The premise doesn't directly entail or contradict the hypothesis, but rather provides context that could be interpreted in different ways."
+195	You're the one I'm responsible for - or I think I am, he said.	He doesn't think he's worth anything.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+196	You're the one I'm responsible for - or I think I am, he said.	He owes you for the help you gave him when he was a poor beggar.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+197	You're the one I'm responsible for - or I think I am, he said.	He thinks he's got something.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+198	I should have known sooner than to approach Jamaica so late at night.	I traveled near Jamaica after sunset.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+199	I should have known sooner than to approach Jamaica so late at night.	I traveled to Jamaica on a large ferry.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about approaching Jamaica at night, but it doesn't provide any information about the mode of transportation used to get to Jamaica. The hypothesis mentions a large ferry, but it's not related to the premise's concern about the time of approach. Therefore, the premise neither entails nor contradicts the hypothesis."
+200	I should have known sooner than to approach Jamaica so late at night.	My wife and I arrived in Jamaica in the afternoon.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Zulu, ""Ngicela ukwazi"" (I want to know) why you think that, but it seems like the premise implies arriving at night, while the hypothesis states arriving in the afternoon. That's a clear contradiction, my friend!"
+201	Blood reflected on this and other matters as he sat relaxedly in the wheelchair.	Blood was burned and had nightmares in the wheelchair.	contradiction	"Sawubona! (Hello!)
+
+The answer is neutral."
+202	Blood reflected on this and other matters as he sat relaxedly in the wheelchair.	Blood was thinking as he lay down.	entailment	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In the premise, Blood is sitting in a wheelchair, but in the hypothesis, he is lying down. These two states are mutually exclusive, so the hypothesis contradicts the premise."
+203	Blood reflected on this and other matters as he sat relaxedly in the wheelchair.	Blood vividly recalls the last time he saw his mother.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+204	Yes, then I'll tell you.	Well, let me tell you about it.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment"
+205	Yes, then I'll tell you.	I won't talk to you.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+206	Yes, then I'll tell you.	For you have promised that you will not do such a thing as I am telling you.	neutral	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Zulu, ""Ngicela ukuthola ukuthini"" (I'm asking for an explanation)."
+207	How could that be?	Someone asks which way to go.	entailment	"Sawubona! (Hello!)
+
+The answer is neutral."
+208	How could that be?	The questioner is alone and has no one around him to talk to.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is NEUTRAL. The premise ""How could that be?"" is a question that expresses surprise or skepticism, but it doesn't provide any information about the questioner's surroundings or companions. It doesn't support or refute the hypothesis that the questioner is alone and has no one around him to talk to."
+209	How could that be?	The seeker is in a hurry and needs to know the way immediately.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+210	I refuse to accept the King's appointment with a joke.	Accepting the King's impeachment was against my character.	neutral	"Sawubona! (Hello!)
+
+Let's analyze the premise and hypothesis.
+
+The premise talks about refusing to accept the King's appointment, while the hypothesis talks about accepting the King's impeachment being against one's character.
+
+In this case, I'd say it's **neutral**. The premise and hypothesis are discussing different topics (appointment vs. impeachment), and there's no direct logical connection between them."
+211	I refuse to accept the King's appointment with a joke.	I have thought carefully about the King's appointment.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the answer is entailment.
+
+In Zulu, ""Ngithola ukuthola"" (I understand)."
+212	I refuse to accept the King's appointment with a joke.	I signed the document to receive the King's appointment without hesitation.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Zulu, ""Ngiyabonga"" (thank you)!"
+213	He felt the need to return urgently.	He told her that he had all day to come back.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+214	He felt the need to return urgently.	He sensed the urgency of the situation.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+215	He felt the need to return urgently.	If he stays in one place, they can see him.	neutral	"Sawubona! (Hello!) 
+
+The answer is neutral."
+216	Yet he has been and done what he did about three years ago, he said, but he says it with sadness now, without any of his past bluster.	He didn't like the fact that he had killed so many men in the past three years.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+217	Yet he has been and done what he did about three years ago, he said, but he says it with sadness now, without any of his past bluster.	He spoke enthusiastically about his travels and adventures.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+218	Yet he has been and done what he did about three years ago, he said, but he says it with sadness now, without any of his past bluster.	He spoke with a sad voice.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+219	I think that is beyond the age of people like you.	I want to believe that this is what people like you do.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is NEUTRAL. The premise talks about age, while the hypothesis talks about behavior, so they don't necessarily agree or disagree with each other."
+220	I think that is beyond the age of people like you.	I've read about people like you, and their culture.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+221	I think that is beyond the age of people like you.	I can see that this is not common among people like you.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship is: NEUTRAL.
+
+The premise talks about something being beyond the age of people like you, while the hypothesis discusses something not being common among people like you. They don't necessarily agree or disagree with each other, so it's a neutral relationship.
+
+In isiZulu, I'd say: ""Kungenzeka ukuthi ibandakanyana"" (It's not necessarily related)."
+222	His face was pale with anger.	A big smile appeared on his face.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+223	His face was pale with anger.	He has a feeling of sickness in his stomach.	neutral	"Sawubona! (Hello!) In isiZulu, I'd say ""Ngicabanga ukuthi..."" (I think that...).
+
+In this case, I think that the answer is neutral. The premise describes the person's facial expression, while the hypothesis describes a possible internal feeling. There's no direct connection between the two, so it's neither an entailment nor a contradiction."
+224	His face was pale with anger.	Anger was visible on his face.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment"
+225	She was observing him with her eyelids but when she saw the sadness on his face, and the frightened frown on his forehead, her face also changed.	His face changed after seeing her face.	entailment	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+226	She was observing him with her eyelids but when she saw the sadness on his face, and the frightened frown on his forehead, her face also changed.	His face brightened when he saw the anger in his face.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+227	She was observing him with her eyelids but when she saw the sadness on his face, and the frightened frown on his forehead, her face also changed.	She didn't know if she was angry with him.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral"
+228	He trudges over the challenging wall and enters the garden through the large gates of the citadel.	When the main entrance to the main street closes, you leap into the garden.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, I would say: ""Kutheni ukuthola ukuthi kubonakala ukuthi akukho mthethosivivinywa."" (It is not clear that there is a connection between the two statements.)"
+229	He trudges over the challenging wall and enters the garden through the large gates of the citadel.	The large gateway was the only entrance to the garden.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+230	He trudges over the challenging wall and enters the garden through the large gates of the citadel.	There is a large entrance to the garden.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+231	He would be nailed to the torture stake, no doubt in a derogatory way.	He thought that someone would go to the gallows.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, I'd say: ""Kungani ukuthi kuyena"" (It's neutral)."
+232	He would be nailed to the torture stake, no doubt in a derogatory way.	He was a judge who had caught a thief.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+233	He would be nailed to the torture stake, no doubt in a derogatory way.	He suggested a way to escape from the city to avoid going to prison.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+234	How can I learn to lock them up? It's in the introduction.	I didn't have the courage to lock them up.	entailment	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Yoruba, I'd say: ""Ọrọ̀ yi ń ṣe àṣẹ̣!"" (This statement contradicts!)"
+235	How can I learn to lock them up? It's in the introduction.	I locked them up as soon as I found them.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+236	How can I learn to lock them up? It's in the introduction.	I wouldn't have forgiven myself if I had locked them up.	neutral	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+237	I've been hunting him for the past year.	I've been searching for about a year and I don't know.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+238	I've been hunting him for the past year.	I've been following for about a week.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+239	I've been hunting him for the past year.	I've been hunting him for the past year or so.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+240	The museum is not based on a name or a trademark	The museum doesn't like to be labeled.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+241	The museum is not based on a name or a trademark	The museum doesn't like billboards.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral."
+242	The museum is not based on a name or a trademark	The museum's treasure is the proverb of names.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship is: neutral.
+
+The premise talks about the museum's basis, while the hypothesis talks about the museum's treasure. They seem to be discussing different aspects, and there's no direct logical connection between them.
+
+Ngiyabonga (Thank you) for asking!"
+243	The open-air markets are the best places to shop in Beijing.	Beijing is a city of open-air markets with luxurious shops.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise only talks about open-air markets being the best places to shop, but it doesn't provide information about Beijing being a city of open-air markets with luxurious shops. The hypothesis adds new information that isn't supported or denied by the premise."
+244	The open-air markets are the best places to shop in Beijing.	Beijing's open-air markets are some of the best in the world.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+245	The open-air markets are the best places to shop in Beijing.	Beijing's strict curfew does not allow open-air markets within the city limits.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+246	The largest lake in the northwest is a good shelter, but the water table and the coast can be muddy.	The water and beaches are always clean.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+247	The largest lake in the northwest is a good shelter, but the water table and the coast can be muddy.	The water and the shore may be polluted.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment.
+
+In Zulu, ""Ngicabanga ukuthi iyentilemnt"" (I think it's an entailment)."
+248	The largest lake in the northwest is a good shelter, but the water table and the coast can be muddy.	The water is also polluted due to pollution.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, ""Ngicela ukwethula"" (I want to explain). The premise talks about the lake being a good shelter, but having a muddy water table and coast. It doesn't necessarily imply that the water is polluted due to pollution, which is the hypothesis. Therefore, the premise neither supports nor contradicts the hypothesis, making it neutral."
+249	The towers served as a bank, and the road they stood on became known as the Milla de Oro, or Golden mile.	None of the towers on the Golden Mile are banks.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+250	The towers served as a bank, and the road they stood on became known as the Milla de Oro, or Golden mile.	The towers of the Golden Mile were banks.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+251	The towers served as a bank, and the road they stood on became known as the Milla de Oro, or Golden mile.	The towers of the Golden Mile were used by various businesses, including banks.	neutral	"Sawubona! (Hello!)
+
+The answer is: entailment"
+252	It seemed completely unnatural, then, that intervention in World War II began with the British Commonwealth Air Training Plan, using safe Canadian airspace to train fighter pilots.	Canada has safe airspace.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+253	It seemed completely unnatural, then, that intervention in World War II began with the British Commonwealth Air Training Plan, using safe Canadian airspace to train fighter pilots.	Canada's air force does not have an air-to-air missile.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about the British Commonwealth Air Training Plan during World War II, while the hypothesis mentions air-to-air missiles, which is not related to the premise. Therefore, there is no entailment or contradiction between the two."
+254	It seemed completely unnatural, then, that intervention in World War II began with the British Commonwealth Air Training Plan, using safe Canadian airspace to train fighter pilots.	Canada's airspace is also very dangerous.	contradiction	"Sawubona! (Hello!)
+
+The answer is contradiction."
+255	And they are also patient and compassionate, even though they know that their beautiful beaches are no longer their own.	They are upset and angry with everyone now that they have to share the riverbank.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In the premise, it's stated that they are patient and compassionate, but the hypothesis suggests they are upset and angry, which contradicts the premise."
+256	And they are also patient and compassionate, even though they know that their beautiful beaches are no longer their own.	They now have to share the riverbank with other people.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral."
+257	And they are also patient and compassionate, even though they know that their beautiful beaches are no longer their own.	They once owned 500 miles of the riverfront.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral"
+258	Kublai Khan founded his capital in 1279 on the shores of Beijing's Beihai Lake, where his royal treasures were on display.	Kublai Khan established a capital in Taiwan.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+259	Kublai Khan founded his capital in 1279 on the shores of Beijing's Beihai Lake, where his royal treasures were on display.	Kublai Khan has assets in Beijing.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+260	Kublai Khan founded his capital in 1279 on the shores of Beijing's Beihai Lake, where his royal treasures were on display.	Kublai Khan was a very respected man.	neutral	"Sawubona! (Hello!)
+
+The answer is: entailment.
+
+In Zulu, ""Ngicela ukuthola ukuthola"" (I request to understand). The premise provides a fact about Kublai Khan's accomplishments, which implies that he was a respected person. Therefore, the premise entails the hypothesis."
+261	Easy contact with British communities only Christian schools took their Jewish children who had been educated in Eastern Europe to the prestigious Westmount School or to, once again, Toronto.	Jews in Eastern Europe tend to have good relations with the general public.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+262	Easy contact with British communities only Christian schools took their Jewish children who had been educated in Eastern Europe to the prestigious Westmount School or to, once again, Toronto.	The rest of the city was hostile to the Jews.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+263	Easy contact with British communities only Christian schools took their Jewish children who had been educated in Eastern Europe to the prestigious Westmount School or to, once again, Toronto.	Jews enjoyed friendly relations with British communities.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+264	If so, set your sights on the foundation.	Don't start the foundation too early; it will spoil the fun in the end.	contradiction	"Sawubona! (Hello!)
+
+The answer is entailment."
+265	If so, set your sights on the foundation.	If possible, try to learn the basics beforehand.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is... neutral.
+
+In Zulu, I'd say: ""Kungani ukuthi kungenzeka ukuthola ukuthola ukuthola"" which means ""It seems like it's not necessarily connected"".
+
+The premise is talking about setting sights on the foundation, while the hypothesis is about learning the basics beforehand. They're not directly related, so it's a neutral relationship."
+266	If so, set your sights on the foundation.	It will be easier for you if you know the basics of the book.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship is NEUTRAL. The premise talks about setting sights on the foundation, while the hypothesis mentions knowing the basics of a book. There doesn't seem to be a direct logical connection between the two statements."
+267	Its vault, 27 m (88 ft) deep, is made of hewn stone and covers an area of 1,200sq m (~13,000 sq ft).	They were buried 20m below the ground.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about the vault's depth and area, but it doesn't provide specific information about how far below the ground the burial site is. The hypothesis mentions a specific depth of 20m, but the premise doesn't confirm or deny it. Therefore, the relationship between the premise and the hypothesis is neutral."
+268	Its vault, 27 m (88 ft) deep, is made of hewn stone and covers an area of 1,200sq m (~13,000 sq ft).	He is an important person in the community.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, I'd say: ""Kutheni, akukho ukuxhumana phakathi kwesimo nesithesis."" (It's neutral, there's no connection between the premise and the hypothesis.)"
+269	Its vault, 27 m (88 ft) deep, is made of hewn stone and covers an area of 1,200sq m (~13,000 sq ft).	The casket is made of wood.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Yoruba, I'd say: ""O ṣe pẹ̀lú"" (It contradicts)."
+270	Remember to keep all your small belongings for the ducks.	Hide his belongings for the monkeys.	entailment	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+271	Remember to keep all your small belongings for the ducks.	The monkeys are interested in many things, including your possessions.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+272	Remember to keep all your small belongings for the ducks.	You don't need to hide your belongings from the monkeys.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, ""Ngiyabonga"" (thank you) for the question!"
+273	Some 1,400 years before the construction of Estei Castle, Milreu was also the home of a wealthy aristocrat.	Milreu is 10 miles away from nothing.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+274	Some 1,400 years before the construction of Estei Castle, Milreu was also the home of a wealthy aristocrat.	Milreu is located in the heart of the city.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral."
+275	Some 1,400 years before the construction of Estei Castle, Milreu was also the home of a wealthy aristocrat.	Milreu is located in the center of the city.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+276	The temperature of the cable is between 18°C and 24°C (64°F to 75°F).	The temperature of tap water fluctuates, but it never exceeds freezing.	entailment	"Sawubona! (Hello!)
+
+The answer is neutral. The premise talks about the temperature of a cable, while the hypothesis talks about the temperature of tap water. There is no direct connection between the two, so the premise neither entails nor contradicts the hypothesis."
+277	The temperature of the cable is between 18°C and 24°C (64°F to 75°F).	The temperature of the tap water remains constant throughout the year.	contradiction	"Sawubona! (Hello!)
+
+The answer is neutral. The premise talks about the temperature of a cable, while the hypothesis talks about the temperature of tap water. There is no direct connection between the two, so the premise neither supports nor contradicts the hypothesis."
+278	The temperature of the cable is between 18°C and 24°C (64°F to 75°F).	Note that the temperature rises during the day as it goes down.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+279	Kinabalu National Park is just one of six protected areas in the state.	Kinabalu National Park has ten elephants and six monkeys.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+280	Kinabalu National Park is just one of six protected areas in the state.	The province has several protected areas, including the Kinabalu National Park.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment.
+
+In Yoruba, I'd say: ""O ṣe pẹ̀lú"" (It agrees with it)."
+281	Kinabalu National Park is just one of six protected areas in the state.	A total of three districts were created in the state.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, ""Akukho ukuxhumana"" (There is no connection). The premise talks about protected areas in a state, while the hypothesis talks about the number of districts created in the state. They are unrelated, so the premise neither supports nor contradicts the hypothesis."
+282	Here you will see a gallery of Anne's and Amsterdam's history in action with paintings and artifacts from the period.	There are no pictures.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+283	Here you will see a gallery of Anne's and Amsterdam's history in action with paintings and artifacts from the period.	Here are some pictures.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment. The premise mentions ""paintings"" which are a type of picture, so the hypothesis is entailed by the premise."
+284	Here you will see a gallery of Anne's and Amsterdam's history in action with paintings and artifacts from the period.	Here are some of the first pictures.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+285	Treasure Beach is the only resort area in question, with a few resorts scattered over three lakes.	There aren't that many resorts for people coming to Treasure Beach to grab.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+286	Treasure Beach is the only resort area in question, with a few resorts scattered over three lakes.	There is a four-star hotel for tourists who come to Treasure Beach.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral. The premise talks about the resort area and the number of lakes, but it doesn't provide any information about the rating of the hotels in Treasure Beach, so it neither confirms nor denies the existence of a four-star hotel."
+287	Treasure Beach is the only resort area in question, with a few resorts scattered over three lakes.	Treasure Beach is one of the many resorts in the area.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+288	Summers bring mild (but not hot) weather and warm shallow waters, making it ideal for snorkeling, scuba diving, and other water sports.	It's always 100 degrees or hotter in the summer.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+289	Summers bring mild (but not hot) weather and warm shallow waters, making it ideal for snorkeling, scuba diving, and other water sports.	It's usually 75 in the summer.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral. The premise describes the weather as ""mild (but not hot)"", which doesn't provide a specific temperature, so it neither confirms nor denies the hypothesis that it's usually 75 in the summer."
+290	Summers bring mild (but not hot) weather and warm shallow waters, making it ideal for snorkeling, scuba diving, and other water sports.	The weather is very bad in the summer.	entailment	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+291	Among the festivities was one in which guests threw coins into it in the hopes of beating the head of a goat, a sure way to bring good luck.	People don't throw money into it because it's bad luck.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+292	Among the festivities was one in which guests threw coins into it in the hopes of beating the head of a goat, a sure way to bring good luck.	People were throwing coins into it despite the sign telling them not to do so.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+293	Among the festivities was one in which guests threw coins into it in the hopes of beating the head of a goat, a sure way to bring good luck.	People threw copper coins into the water.	entailment	"Sawubona! (Hello!)
+
+The answer is neutral. The premise mentions coins, but it doesn't specify the type of coins, so it doesn't provide enough information to confirm or deny the hypothesis that the coins were copper."
+294	The area of the Nafplio station is a good place for hiking, or perhaps a place to have lunch if you are hiking.	Nafplio's eyes widened.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral"
+295	The area of the Nafplio station is a good place for hiking, or perhaps a place to have lunch if you are hiking.	Nafplio is a bad place.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+296	The area of the Nafplio station is a good place for hiking, or perhaps a place to have lunch if you are hiking.	Nafplio is the best place.	entailment	"Sawubona! (Hello!)
+
+The answer is neutral."
+297	On the Prinsengracht, Otto Frank and his family hid in the attic of their department store for over four years before they were found.	Otto Frank was arrested the next day.	contradiction	"Sawubona! (Hello!)
+
+The answer is contradiction."
+298	On the Prinsengracht, Otto Frank and his family hid in the attic of their department store for over four years before they were found.	Otto Frank remained in hiding for over 25 months.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+299	On the Prinsengracht, Otto Frank and his family hid in the attic of their department store for over four years before they were found.	Otto Frank hid it until the Nazis found it.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+300	Local governments have additional inspection systems.	Local governments have the right to make their own laws.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Yoruba, ""O dara o"" (it's okay). The premise talks about inspection systems, while the hypothesis talks about the right to make laws. There's no direct connection between the two, so it's neutral."
+301	Local governments have additional inspection systems.	Provincial governments have no laws of their own.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, ""Angikwazi ukuthola ukuthola ukuthola"" which means ""I couldn't find any connection."" The premise talks about local governments having additional inspection systems, while the hypothesis talks about provincial governments having no laws of their own. There is no clear relationship between the two statements, so the answer is neutral."
+302	Local governments have additional inspection systems.	Individual inspection schemes are available from the provincial governments.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment.
+
+In Zulu, ""Ngithole ukuthi kubonga ukuthola ukuthi"" (I understand that it is correct to say that)."
+303	Law enforcement agencies will hold meetings between August and December.	Security teams have about 9 meetings a month.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, ""Angikho"" (I don't know) would be an appropriate response, but in this case, I can confidently say it's neutral because the premise talks about meetings between August and December, while the hypothesis talks about the number of meetings per month, which isn't directly related to the time frame mentioned in the premise."
+304	Law enforcement agencies will hold meetings between August and December.	Security teams hold meetings every day of the month.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, ""Ngiyabonga"" (thank you)!"
+305	Law enforcement agencies will hold meetings between August and December.	The security team holds meetings several times a year.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+306	An announcement has been made at the beginning.	Announcement in the offseason.	entailment	"Sawubona! (Hello!)
+
+The answer is neutral."
+307	An announcement has been made at the beginning.	The announcement is the final step.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+308	An announcement has been made at the beginning.	Without a break, the Proclamation would have to be reversed in the end.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is NEUTRAL. The premise talks about an announcement being made at the beginning, while the hypothesis discusses the possibility of a proclamation being reversed in the end. There's no direct logical connection between the two statements, so we can't conclude that one entails or contradicts the other.
+
+In Yoruba, I would say: ""Oriki ti ko ni ipa l'ara won"" meaning ""The premise does not have a direct impact on the hypothesis."""
+309	For this reason, policy-makers and government administrators are adopting a new way of thinking, a multiplicity of approaches to achieving their goals and the use of words to guide thinking.	Government agents changing their ways.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+310	For this reason, policy-makers and government administrators are adopting a new way of thinking, a multiplicity of approaches to achieving their goals and the use of words to guide thinking.	Government officials have tried to increase their power by thinking differently.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is:
+
+ENTAILMENT
+
+The premise mentions that government administrators are adopting a new way of thinking, which implies that they are trying to approach their goals differently. The hypothesis states that government officials have tried to increase their power by thinking differently. The premise provides evidence that supports the hypothesis, as the new way of thinking mentioned in the premise could be a means to increase their power.
+
+Ngiyabonga (Thank you) for asking!"
+311	For this reason, policy-makers and government administrators are adopting a new way of thinking, a multiplicity of approaches to achieving their goals and the use of words to guide thinking.	The agents of the State refused to change their ways.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+312	A copy in a language other than English will be required for prosecutors presenting evidence.	Evidence is only allowed in English.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+313	A copy in a language other than English will be required for prosecutors presenting evidence.	We may have court documents in Chinese or Russian.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+314	A copy in a language other than English will be required for prosecutors presenting evidence.	Certificates can be written in other languages.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+315	A concerted effort is underway, and this is it.	Most of our plans to start.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, I'd say: ""Kungenzeka ukuthi kuyaphinde ukuthola ukuthola ukuthola."" (It's not clear whether it supports or contradicts the hypothesis.)"
+316	A concerted effort is underway, and this is it.	We have no plans for the future.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Zulu, I'd say: ""Kungani kubangelwa!"" (It's a contradiction!)"
+317	A concerted effort is underway, and this is it.	We made plans.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+318	Consider, for a moment, the loss of original computer files, and the unavailability of necessary documents.	We extracted computer files from IBM.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about the loss of original computer files and unavailability of necessary documents, while the hypothesis claims that computer files were extracted from IBM. These two statements do not necessarily agree or disagree with each other, hence the relationship is neutral."
+319	Consider, for a moment, the loss of original computer files, and the unavailability of necessary documents.	The original computer files were removed.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+320	Consider, for a moment, the loss of original computer files, and the unavailability of necessary documents.	All the original computer files are stored.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+321	Subsequently, the same delegates who had previously visited returned to review the information provided to answer questions and to discuss the problems identified in the sample document.	The delegation visited for about an hour.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+322	Subsequently, the same delegates who had previously visited returned to review the information provided to answer questions and to discuss the problems identified in the sample document.	The delegation had a visit.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment"
+323	Subsequently, the same delegates who had previously visited returned to review the information provided to answer questions and to discuss the problems identified in the sample document.	We have no visitors.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+324	Saving money not only affects the value of words, but the value of words itself makes it possible to save money.	That the person would put money on their property.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship is NEUTRAL. The premise talks about the relationship between saving money and the value of words, while the hypothesis is about putting money on one's property. There is no direct connection or contradiction between the two, so the relationship is neutral.
+
+In Zulu, I would say: ""Kungani ukuthola ukuthi kukhona ukweqeqeshwa okungafani"" (It's unclear how the two are related).
+
+Is there anything else I can help you with?"
+325	Saving money not only affects the value of words, but the value of words itself makes it possible to save money.	Saving and wealth have nothing in common.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the premise **contradicts** the hypothesis.
+
+The premise suggests that saving money is related to the value of words, and that this value enables saving money. This implies that saving money and wealth (or value) are connected.
+
+On the other hand, the hypothesis claims that saving and wealth have nothing in common, which contradicts the idea presented in the premise.
+
+So, the answer is **contradiction**."
+326	Saving money not only affects the value of words, but the value of words itself makes it possible to save money.	The wealthy were more likely to hide their higher wages.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is **neutral**. The premise talks about the relationship between saving money and the value of words, while the hypothesis discusses the wealthy hiding their higher wages. There is no logical connection between the two statements, and they do not support or contradict each other."
+327	For example, one company we worked on had a policy that forced them to combine business and management in order to keep up with the growth that the business needed.	Although there are two councils, there is a real need for them to reform their governance structure.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+328	For example, one company we worked on had a policy that forced them to combine business and management in order to keep up with the growth that the business needed.	Merging two companies into one creates tension.	neutral	"Sawubona! (Hello!)
+
+The answer is: Neutral.
+
+The premise talks about combining business and management within a company, whereas the hypothesis talks about merging two companies into one. They are discussing different scenarios, so the premise neither supports nor contradicts the hypothesis."
+329	For example, one company we worked on had a policy that forced them to combine business and management in order to keep up with the growth that the business needed.	We analyzed the businesses that have joined and need to reform their governance to keep up with the growth of their businesses.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment"
+330	We even thought that paying the money would be necessary to get some sleep before they could guarantee our trip.	We know that the reward will be delayed.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral"
+331	We even thought that paying the money would be necessary to get some sleep before they could guarantee our trip.	We thought the money would come in before the guarantee period.	entailment	"Sawubona! (Hello!) In Zulu, I'd say ""Ngiyabonga"" (Thank you) for asking.
+
+Now, let's analyze the premise and hypothesis. After careful consideration, I conclude that the relationship between the premise and hypothesis is:
+
+neutral"
+332	We even thought that paying the money would be necessary to get some sleep before they could guarantee our trip.	We thought that the money would not come in, and that we would be robbed.	neutral	"Sawubona! (Hello!) In Zulu, I'd say ""Ngiyabonga"" (Thank you) for the question.
+
+After analyzing the premise and hypothesis, I'd conclude that it's a **contradiction**. The premise implies that paying the money is necessary to ensure a safe trip, whereas the hypothesis suggests that paying the money might lead to being robbed. These two statements have opposing ideas, hence the contradiction."
+333	Technology has been integrated with the business model in every industry because we know that technology is the core of the business, not just the component.	Extensive machinery is a universal resource on which business can rely.	neutral	"Sawubona! (Hello!)
+
+The answer is: Neutral.
+
+In Zulu, ""Angikwazi ukuthola ukuthola"" which means ""I don't get it"" because the premise talks about technology being the core of business, while the hypothesis talks about extensive machinery being a universal resource. They are not directly related, so it's neutral."
+334	Technology has been integrated with the business model in every industry because we know that technology is the core of the business, not just the component.	Technology is just a tool, not an enabler.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+335	Technology has been integrated with the business model in every industry because we know that technology is the core of the business, not just the component.	These businesses rely on technology.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment.
+
+In Zulu, ""Ngithanda ukuthola ukuthola ukwazi"" - I'm happy to help you understand!"
+336	Two ideas already outlined in the table will be useful for future work.	The table of contents may indicate how the illustrations will be presented.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+337	Two ideas already outlined in the table will be useful for future work.	Letting go can change a renewed commitment in the long run.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about the usefulness of two ideas, while the hypothesis discusses the impact of ""letting go"" on a renewed commitment. There is no clear connection or opposition between the two statements, making them neutral towards each other."
+338	Two ideas already outlined in the table will be useful for future work.	There is nothing to be done by changing the definition.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, I'd say: ""Kunesikhathi esingekho"" (There is no connection)."
+339	The rows are filled with a box about how email subscribers live with the rows and a gemstone about which is discarded (if it's the other way around) to change the service to a different one.	The lines refer to the life expectancy of males at the 10% level.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise and hypothesis seem to be talking about completely different topics, making it difficult to establish a logical connection between them. The premise appears to discuss email subscribers and gemstones, while the hypothesis talks about the life expectancy of males. Therefore, the premise neither entails nor contradicts the hypothesis."
+340	The rows are filled with a box about how email subscribers live with the rows and a gemstone about which is discarded (if it's the other way around) to change the service to a different one.	The line shows nothing but a path.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is NEUTRAL. The premise talks about rows, boxes, email subscribers, gemstones, and services, while the hypothesis mentions a line and a path. The two seem to be discussing unrelated topics, and there's no clear connection between them."
+341	The rows are filled with a box about how email subscribers live with the rows and a gemstone about which is discarded (if it's the other way around) to change the service to a different one.	The line describes the life-style of all the Ishmaelites.	entailment	"Sawubona! (Hello!)
+
+In this case, I would say the answer is NEUTRAL. The premise doesn't seem to provide any information that directly supports or contradicts the hypothesis about the lifestyle of Ishmaelites. The premise appears to be talking about email subscribers and gemstones, which doesn't seem to be related to the hypothesis."
+342	Based on this risk analysis, Centrelink developed a method to prevent each participant and staff from learning to log their work commitments.	Centrelink does not know how to deal with the problem.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Zulu, I'd say: ""Kungenzeka ukuthi ibuye ibingelethwe."" (It cannot be that it is accepted.)"
+343	Based on this risk analysis, Centrelink developed a method to prevent each participant and staff from learning to log their work commitments.	Centrelink did a lot to teach people how to report their salaries because the government loses money on their mistakes.	neutral	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+344	Based on this risk analysis, Centrelink developed a method to prevent each participant and staff from learning to log their work commitments.	Centrelink has a way to teach people how to talk about their salary.	entailment	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Zulu, I would say: ""Kungapheli"" (It's a contradiction)."
+345	This allows the demonstration of the prototype before the manufacturing companies invest in the raw materials and tools to make a replica representative for the demonstration stage.	They can demonstrate how the model works.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment"
+346	This allows the demonstration of the prototype before the manufacturing companies invest in the raw materials and tools to make a replica representative for the demonstration stage.	They can show a company that it is not sufficiently scalable to build new companies.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+347	This allows the demonstration of the prototype before the manufacturing companies invest in the raw materials and tools to make a replica representative for the demonstration stage.	They don't know how to show how the Fund works.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+348	South Carolina's affiliation resulted in graduation the following year.	No one in South Carolina cooperated.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+349	South Carolina's affiliation resulted in graduation the following year.	SC worked together.	entailment	"Sawubona! (Hello!)
+
+In this case, the answer is entailment. The premise implies that South Carolina (SC) worked together, which aligns with the hypothesis.
+
+In Zulu, I'd say: ""Kulungile, ngoba iphakamisi ilingana ne-hypothesis."" (It's correct, because the premise agrees with the hypothesis.)"
+350	South Carolina's affiliation resulted in graduation the following year.	Democrats and Republicans worked together in South Carolina.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about South Carolina's affiliation and its result, while the hypothesis talks about Democrats and Republicans working together in South Carolina. There is no direct connection between the two, so the premise neither entails nor contradicts the hypothesis."
+351	As one of the officers of the Board section 605 (b) certificates are not issued to the Small Business Administration (SBA) other than the Senior Advisor to the Administrator.	The SBA certification boards do not issue certificates to anyone, they are issued to companies that conduct examinations.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is: contradiction.
+
+The premise states that certificates are issued to a specific individual (the Senior Advisor to the Administrator), while the hypothesis claims that certificates are not issued to individuals, but rather to companies. These two statements are in direct opposition, hence the contradiction.
+
+In Zulu, I would say: ""Kunezinkinga"" (There is a contradiction)."
+352	As one of the officers of the Board section 605 (b) certificates are not issued to the Small Business Administration (SBA) other than the Senior Advisor to the Administrator.	SBA certification boards do not issue certificates to anyone.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship is: neutral.
+
+The premise only talks about a specific section (605b) and a specific position (Senior Advisor to the Administrator), whereas the hypothesis makes a broader claim about all SBA certification boards. The premise doesn't provide enough information to confirm or deny the hypothesis."
+353	As one of the officers of the Board section 605 (b) certificates are not issued to the Small Business Administration (SBA) other than the Senior Advisor to the Administrator.	SBA licensing committees are responsible for issuing licenses to all applicants on a daily basis.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say it's a **contradiction**. The premise suggests that certificates are not issued to the SBA except in one specific case, whereas the hypothesis claims that SBA licensing committees issue licenses to all applicants daily, which contradicts the premise.
+
+In isiZulu, I'd say ""Kunezinkinga"" (There's a contradiction)."
+354	If there is a discrepancy between the hotel and the individual funds, verification will be required.	Most hotels accept credit cards for payment.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+355	If there is a discrepancy between the hotel and the individual funds, verification will be required.	Travel to the hotel will be guaranteed with a hotel fee.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, ""Angikho"" (I don't know) would be an incorrect response, but in this case, I can confidently say it's neutral because the premise talks about verification being required in case of a discrepancy, while the hypothesis talks about travel to the hotel being guaranteed with a hotel fee. The two statements don't necessarily agree or disagree with each other."
+356	If there is a discrepancy between the hotel and the individual funds, verification will be required.	There is no way to know whether the hotel departure happened or not.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Yoruba, I'd say: ""Oriki ti ko ni ibasepo"" (There is no connection between them)."
+357	For example, one capital city that we visited has more than 600 computer technology companies.	Cities are good for the computer technology industry.	neutral	"Sawubona! (Hello!)
+
+The answer is: entailment."
+358	For example, one capital city that we visited has more than 600 computer technology companies.	A big city has a lot of computer technology companies.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+359	For example, one capital city that we visited has more than 600 computer technology companies.	Computer technology companies avoid the capital because of the law.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+360	In terms of cost, we cannot find perfection there.	He can be perfect if he tries hard enough.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+361	In terms of cost, we cannot find perfection there.	You can never be perfect.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+362	In terms of cost, we cannot find perfection there.	Of course not. We are all imperfect.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+363	The relative who hosted Hazmi and Mihdhar in 2000 was a good citizen who had a conversation with local police and FBI agents.	Hazmi and Mihdhar bought a house and didn't talk to anyone.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+364	The relative who hosted Hazmi and Mihdhar in 2000 was a good citizen who had a conversation with local police and FBI agents.	Hazmi and Mihdhar rented a house for a year, paying $500 per day.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+365	The relative who hosted Hazmi and Mihdhar in 2000 was a good citizen who had a conversation with local police and FBI agents.	Hazmi and Mihdhar rented an apartment.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral"
+366	For their journey to Bosnia, see a documentary by a scientist, Interview with a Saudi al Qaeda member on Oct. 3, 2001.	An al Qaeda operative made 18 trips to Bosnia in 2001.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral"
+367	For their journey to Bosnia, see a documentary by a scientist, Interview with a Saudi al Qaeda member on Oct. 3, 2001.	The al Qaeda member went to Bosnia.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+368	For their journey to Bosnia, see a documentary by a scientist, Interview with a Saudi al Qaeda member on Oct. 3, 2001.	There is no evidence that any al Qaeda member went to Bosnia.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+369	Jane told the New York investigator who was looking for Mihdhar to get his hands on the FISA file that he knew how to do the FISA stuff.	Jane asked a federal judge to authorize the FISA.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+370	Jane told the New York investigator who was looking for Mihdhar to get his hands on the FISA file that he knew how to do the FISA stuff.	Jane asked to sign the FISA form.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral."
+371	Jane told the New York investigator who was looking for Mihdhar to get his hands on the FISA file that he knew how to do the FISA stuff.	Jane said there was no need for a FISA warrant.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+372	There is no difference in the level of security required in a testing facility.	There was strong evidence in the laboratory.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about the level of security required in a testing facility, while the hypothesis mentions strong evidence in a laboratory. The two statements are not directly related, and the premise does not provide any information that would support or contradict the hypothesis."
+373	There is no difference in the level of security required in a testing facility.	The conduct of an examination depends on the groups responsible for conducting the examination.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about the level of security required in a testing facility, while the hypothesis discusses the conduct of an examination depending on the groups responsible for conducting it. There is no direct connection or opposition between the two statements, making them neutral towards each other."
+374	There is no difference in the level of security required in a testing facility.	The investigation found no evidence to stop them.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral"
+375	Khallad has given us a second copy, saying that all three have gone to Karachi.	Khallad said he knew nothing about the three.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Zulu, ""Ngicela ukuthola ukuthola"" (I request to get an answer)."
+376	Khallad has given us a second copy, saying that all three have gone to Karachi.	Khallad said the three could have traveled together.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+377	Khallad has given us a second copy, saying that all three have gone to Karachi.	Khallad said there was a 50% chance that the three had travelled to Karachi in October.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In isiZulu, ""Ngiyabonga"" (thank you)!"
+378	The wise answer, Interview with Binalshibh, Oct. 1, 2002.	Binalshibh was questioned by the FBI.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+379	The wise answer, Interview with Binalshibh, Oct. 1, 2002.	Binalshibh was interviewed in 2002.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+380	The wise answer, Interview with Binalshibh, Oct. 1, 2002.	Binalshibh was not spoken to when he disappeared.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+381	Mihdhar received U.S. citizenship two days after the CIA-FBI meeting in New York.	Mihdhar had a U.S. visitor's passport to enter the city.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral"
+382	Mihdhar received U.S. citizenship two days after the CIA-FBI meeting in New York.	Mihdhar didn't get a passport, so he didn't come to the US.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+383	Mihdhar received U.S. citizenship two days after the CIA-FBI meeting in New York.	Mihdhar was given a passport because he is not a terrorist.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+384	Despite a two-year investigation, the FBI was unable to identify the employee or determine his origin.	The FBI couldn't even find the boy who left Florida in 2001.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+385	Despite a two-year investigation, the FBI was unable to identify the employee or determine his origin.	The FBI couldn't even identify the boy.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+386	Despite a two-year investigation, the FBI was unable to identify the employee or determine his origin.	The FBI knew who he was, they put him in jail.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+387	In the case of America 11, the final communication from the plane occurred at approximately 8:13 A.M.	There were speeches from 11 Americans.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about the final communication from a plane, while the hypothesis talks about speeches from 11 Americans. There is no direct connection or conflict between the two statements, so it's neutral."
+388	In the case of America 11, the final communication from the plane occurred at approximately 8:13 A.M.	There were speeches from 11 Americans for 5 minutes each.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about the final communication from a plane, while the hypothesis talks about speeches from 11 Americans. There is no direct connection or conflict between the two statements, so it's neutral."
+389	In the case of America 11, the final communication from the plane occurred at approximately 8:13 A.M.	There was no communication from the 11 Americans.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+390	The arrival would have required little time and considerable cooperation from the German government, which was difficult to obtain.	After all, the search does not reveal the whereabouts of the fugitives.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+391	The arrival would have required little time and considerable cooperation from the German government, which was difficult to obtain.	German governments would have difficulty conducting a short and thorough investigation.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+392	The arrival would have required little time and considerable cooperation from the German government, which was difficult to obtain.	The investigation will be simple and will require the government to carry it out.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+393	These powers are not strong enough but they do nothing to improve it.	They did not change their language very much.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+394	These powers are not strong enough but they do nothing to improve it.	They did little to change things.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+395	These powers are not strong enough but they do nothing to improve it.	They worked hard to change things.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+396	The investigator's email, while placing legal concerns and restrictions on leaks and laws prohibiting the use of auxiliary records, was stolen from knowledgeable sources.	The researcher based his findings on empirical research.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+397	The investigator's email, while placing legal concerns and restrictions on leaks and laws prohibiting the use of auxiliary records, was stolen from knowledgeable sources.	The researcher gave few details.	entailment	"Sawubona! (Hello!)
+
+The answer is neutral."
+398	The investigator's email, while placing legal concerns and restrictions on leaks and laws prohibiting the use of auxiliary records, was stolen from knowledgeable sources.	The results were negative, and no one could read them.	neutral	"Sawubona! (Hello!)
+
+In this case, I would say the relationship between the premise and the hypothesis is NEUTRAL. The premise talks about an email being stolen, while the hypothesis talks about the results being negative and unreadable. There's no clear connection or contradiction between the two statements."
+399	Each soldier was then given the task of carrying someone out of the stairs, and those who died were recruited to carry goods out of the shops, assemblies and camp roads.	The soldiers got their work done.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+400	Each soldier was then given the task of carrying someone out of the stairs, and those who died were recruited to carry goods out of the shops, assemblies and camp roads.	They simply flee to where they are needed.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+401	Each soldier was then given the task of carrying someone out of the stairs, and those who died were recruited to carry goods out of the shops, assemblies and camp roads.	Military ranks are assigned by rank.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about soldiers carrying people and goods, while the hypothesis talks about military ranks being assigned by rank. There is no logical connection between the two, so the premise neither supports nor contradicts the hypothesis."
+402	On September 9, we received an urgent call from Afghanistan.	We got a call from Afghanistan.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+403	On September 9, we received an urgent call from Afghanistan.	We did not hear anything from Afghanistan until October.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+404	On September 9, we received an urgent call from Afghanistan.	We were told about the coming attack on September 9.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+405	Radio silence is common at the World Trade Center, the Pentagon and Somerset County, Pennsylvania, areas of confusion where law enforcement and prosecutors have spoken.	Public speaking worked well on 9/11.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+406	Radio silence is common at the World Trade Center, the Pentagon and Somerset County, Pennsylvania, areas of confusion where law enforcement and prosecutors have spoken.	People were unable to communicate with each other at the World Trade Center because the lights were out and cell phones were off.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, ""Ngicela uxolo"" (I request clarity). The premise talks about radio silence in certain areas, but it doesn't necessarily imply that people were unable to communicate due to lights being out and cell phones being off, which is the hypothesis. There might be other reasons for the radio silence."
+407	Radio silence is common at the World Trade Center, the Pentagon and Somerset County, Pennsylvania, areas of confusion where law enforcement and prosecutors have spoken.	People had difficulty communicating with each other in the World Trade Center.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+408	A search of the current mailbox can reveal the original, where it was deposited, and its mobile phone number.	The investigators had a good hiding place.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+409	A search of the current mailbox can reveal the original, where it was deposited, and its mobile phone number.	There are many messages from the underground vault.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is NEUTRAL. The premise talks about searching a mailbox and finding information about a specific message, while the hypothesis makes a claim about the existence of many messages from an underground vault. There is no direct logical connection between the two, so they don't entail or contradict each other.
+
+In Zulu, I would say: ""Kungani ukuthola ukuthi kukuhle ukuthola ukuthola ukuthola."" (It's not clear how to connect the two statements.)"
+410	A search of the current mailbox can reveal the original, where it was deposited, and its mobile phone number.	There is no way to get any information about the issue from the laboratories we use.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+411	Saying that the brother had given you all the merchandise, the ruler was far away from Hazmi and Mihdhar but this happened after they had received help.	The superintendent contacted the authorities and refused to help with the matter.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+412	Saying that the brother had given you all the merchandise, the ruler was far away from Hazmi and Mihdhar but this happened after they had received help.	The supervisor was helpful even though he had his own flaws.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral"
+413	Saying that the brother had given you all the merchandise, the ruler was far away from Hazmi and Mihdhar but this happened after they had received help.	The assistance consisted of money and obtaining passports.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is NEUTRAL. The premise talks about the ruler being far away and the brothers receiving help, but it doesn't provide specific information about the type of assistance, which is what the hypothesis is about."
+414	In 2003, this facility was closed, and all the homicide units were consolidated.	Cases of homicidal behaviour have an important identifier.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about the consolidation of homicide units, while the hypothesis talks about the importance of identifiers for cases of homicidal behavior. There is no logical connection between the two, so the premise neither supports nor contradicts the hypothesis."
+415	In 2003, this facility was closed, and all the homicide units were consolidated.	All cases of homicidal behavior have the same mark.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral."
+416	In 2003, this facility was closed, and all the homicide units were consolidated.	Murder cases are handled at different levels.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+417	The soldier who witnessed the collapse of the South Tower reported it to the ESU in the North Tower.	No one was left in the North Tower after the South Tower collapsed.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+418	The soldier who witnessed the collapse of the South Tower reported it to the ESU in the North Tower.	Thirty minutes before the South Tower collapsed, the soldier alerted the ESU in the North Tower.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+419	The soldier who witnessed the collapse of the South Tower reported it to the ESU in the North Tower.	The soldier witnessed the collapse of the South Tower.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+420	Indianapolis is a great place for many of the artists to work.	Actors in Indianapolis because of the lucrative business there.	neutral	"Sawubona! (Hello!)
+
+The answer is: entailment.
+
+In Yoruba, I would say: ""Otito ore"" (That is correct)!"
+421	Indianapolis is a great place for many of the artists to work.	If you're an actor, you live in Indianapolis.	entailment	"Sawubona! (Hello!) 
+
+The answer is neutral."
+422	Indianapolis is a great place for many of the artists to work.	It's hard to find work as an actor in Indianapolis because it's a tech city.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+423	Help is available 24 hours, 7 days a week from the Prevention Information Resource Center &amp; Parent Help hotline.	People can contact us by phone or by e-mail.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+424	Help is available 24 hours, 7 days a week from the Prevention Information Resource Center &amp; Parent Help hotline.	You can invite us for drinks at any time.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral."
+425	Help is available 24 hours, 7 days a week from the Prevention Information Resource Center &amp; Parent Help hotline.	More than a hundred calls were received on Monday and Friday.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+426	These boxes were kept in their place after all the gifts had been opened.	These chests are equipped with powerful projectiles.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about boxes being kept in their place after gifts were opened, while the hypothesis talks about chests (not boxes) being equipped with powerful projectiles. There is no logical connection between the two, so the premise neither supports nor contradicts the hypothesis."
+427	These boxes were kept in their place after all the gifts had been opened.	These boxes will be opened before the rest of the gifts.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+428	These boxes were kept in their place after all the gifts had been opened.	We won't open this box for a while.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, I'd say: ""Kutheni, kubonakala ukuthi akukho okuthile okwenza ukuthi ipremise ibingelela noma ikhetha isihloko."" (It's clear that there's no connection making the premise entail or contradict the hypothesis.)"
+429	If we reduce the amount, we will have to come to our assembly and ask you to donate to us to solve this project.	To keep our tickets under $10, we would need conventions to save up to $25.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship is NEUTRAL. The premise talks about reducing an amount and asking for donations, while the hypothesis discusses keeping tickets under $10 and saving up to $25. The two statements don't seem to be directly related or contradictory.
+
+In Zulu, I'd say: ""Kungani ukuthola ukuthi kube nezinkinga ezimbili ezahlukene."" (It's clear that there are two separate issues here.)"
+430	If we reduce the amount, we will have to come to our assembly and ask you to donate to us to solve this project.	We can reduce our expenses as much as we can, but our master loves to eat.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is **neutral**. The premise talks about reducing an amount and asking for donations, while the hypothesis mentions reducing expenses and someone's love for eating. The two statements seem unrelated, and one does not logically follow or contradict the other.
+
+In Zulu, I would say: ""Kungenzeka ukuthi kube nelungelo lokuthi akukho mthethosivivinywa okungenzeka ukuthi kube nelungelo lokuthi akukho mthethosivivinywa"" (It seems that there is no logical connection between the two statements).
+
+Is there anything else I can help you with?"
+431	If we reduce the amount, we will have to come to our assembly and ask you to donate to us to solve this project.	Your donations can help us reduce our expenses.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+432	00 helped us provide guidance, encouragement and joy to the 400 or so children from Indianapolis.	Thank you for your donation, it looks like Beyoncé is here for the Indianapolis charity event.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+433	00 helped us provide guidance, encouragement and joy to the 400 or so children from Indianapolis.	We had thought that we would be able to set up a Christmas play for the children but we have not done anything for them yet.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+434	00 helped us provide guidance, encouragement and joy to the 400 or so children from Indianapolis.	We are like the children of Indianapolis.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral"
+435	In the early stages, an individual can contribute by leaving a permanent donation of $1,000 or more to the Chancellor's team or $500 or more to the Chancellor's associates.	Players can participate after making as little as $50.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+436	In the early stages, an individual can contribute by leaving a permanent donation of $1,000 or more to the Chancellor's team or $500 or more to the Chancellor's associates.	Candidates can participate if they have set a lot of money.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+437	In the early stages, an individual can contribute by leaving a permanent donation of $1,000 or more to the Chancellor's team or $500 or more to the Chancellor's associates.	Most of the investors wanted to invest in Chancellors Associates.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+438	Your donation at this time of year may qualify you for a yearly tax deduction.	If you make a donation of at least $1,000, you are entitled to tax benefits.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+439	Your donation at this time of year may qualify you for a yearly tax deduction.	Unfortunately, your advisor advised you not to leave any gifts.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+440	Your donation at this time of year may qualify you for a yearly tax deduction.	You should be able to deduct taxes from your savings.	entailment	"Sawubona! (Hello!) In isiZulu, I'd say ""Ngithola ukuthola!"" (I understand!)
+
+Now, let's analyze the premise and hypothesis:
+
+The premise states that a donation may qualify for a yearly tax deduction, implying that the donation might lead to a reduction in taxes owed.
+
+The hypothesis suggests that you should be able to deduct taxes from your savings.
+
+In this case, I'd say the relationship between the premise and hypothesis is... entailment! The premise provides a reason why you might be able to deduct taxes (because of the donation), which aligns with the hypothesis that you should be able to deduct taxes from your savings."
+441	As you know, this membership is filled with those friends and former members who have donated $1,000 or more annually to law school.	Some of the members have donated over $1,000 to the school.	neutral	"Sawubona! (Hello!)
+
+The answer is: entailment"
+442	As you know, this membership is filled with those friends and former members who have donated $1,000 or more annually to law school.	We have people who have donated over $1,000 to the law school.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+443	As you know, this membership is filled with those friends and former members who have donated $1,000 or more annually to law school.	We planned to appeal to this group to donate money to schools but no one has done so.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Yoruba, I would say: ""O ṣe iru, ṣe iru"" meaning ""It's a contradiction, it's a contradiction!"""
+444	As a child growing up in the 50's, my happiest moments were when I was in the Civic Theatre.	When I was a child, I hated going to the theater, so I became a scientist.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+445	As a child growing up in the 50's, my happiest moments were when I was in the Civic Theatre.	As a child, I loved going to the theater.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+446	As a child growing up in the 50's, my happiest moments were when I was in the Civic Theatre.	My favorite show from Civic is Beauty and the Beast.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral"
+447	For each person who receives this letter, you put down $18	Every person who receives this letter: don't give money, they want to beat you.	contradiction	"Sawubona! (Hello!)
+
+In this case, the answer is contradiction."
+448	For each person who receives this letter, you put down $18	We'll give you a gift if you donate $18.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+449	For each person who receives this letter, you put down $18	We hope that everyone who receives a letter can save $18.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+450	Just remove the reason, see what made it work, make any changes to your address and return it to us in the envelope.	Please do not change your address.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+451	Just remove the reason, see what made it work, make any changes to your address and return it to us in the envelope.	There is a white envelope with your address on it.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+452	Just remove the reason, see what made it work, make any changes to your address and return it to us in the envelope.	He is free to change your address, if you think it is correct.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+453	The school of nursing needs your talents in order to advance the cause of sound education.	Please make a donation of $100 million to the School of Nursing or you will lose your commemorative stamp.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, I'd say: ""Kungani ukuthi kune-entailment, ukucopheleleyo, okuthi kune-neutral."" (It's because there's no entailment, contradiction, or it's neutral.)"
+454	The school of nursing needs your talents in order to advance the cause of sound education.	The nursing school already has its own budget, so it doesn't need any money.	contradiction	"Sawubona! (Hello!)
+
+The answer is neutral. The premise talks about the school needing talents, while the hypothesis talks about the school having its own budget and not needing money. The two statements are unrelated, and one does not logically follow from or contradict the other."
+455	The school of nursing needs your talents in order to advance the cause of sound education.	We hope that you will leave money for the nursing school.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Yoruba, I would say: ""Otito si"" (That's correct!)"
+456	80% of the participants said this about the development of knowledge for the elimination of heredity.	More than half of the respondents spoke of the development of the knowledge of the end of the 20th century.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship is NEUTRAL.
+
+The premise talks about 80% of participants discussing the development of knowledge for eliminating heredity, while the hypothesis talks about more than half of respondents speaking about the development of knowledge in the 20th century. These two statements are not directly related, and one does not necessarily imply or contradict the other."
+457	80% of the participants said this about the development of knowledge for the elimination of heredity.	A quarter of our participants spoke about the knowledge of the end of the 20th century.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say that the relationship between them is NEUTRAL. The premise talks about 80% of participants discussing the development of knowledge for the elimination of heredity, while the hypothesis mentions a quarter of participants speaking about knowledge related to the end of the 20th century. These two statements are unrelated and do not logically entail or contradict each other.
+
+In isiZulu, I would say: ""Kunezinkinga ukuthi kuphinde kube ngokuqondile"" (There is no connection, it's unrelated)."
+458	80% of the participants said this about the development of knowledge for the elimination of heredity.	There were more than 100 participants.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+459	Please do not open to the list of our last speakers.	It's a shame if you don't leave money.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral."
+460	Please do not open to the list of our last speakers.	The list of recent speakers has been closed to the public, so trust me, you don't want to be embarrassed.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+461	Please do not open to the list of our last speakers.	We have spokespersons, so please don't leave money out.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is NEUTRAL. The premise talks about not opening a list of speakers, while the hypothesis mentions having spokespersons and not leaving money out, which seem unrelated topics.
+
+In Zulu, I'd say: ""Kungani ukuthi kunezinto ezahlukene kakhulu, akukho ukuxhumana phakathi kwawo."" (It's because there are very different things, and there's no connection between them.)"
+462	Anyone with a computer and a handheld keyboard can reach the bottom.	People don't need anything to reach the bottom.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Zulu, I'd say: ""Kungenzeka ukuthi kube nekungahambi."" (It's not possible that it's both true and false.)"
+463	Anyone with a computer and a handheld keyboard can reach the bottom.	People need computers and hand-held devices to get to the bottom.	entailment	"Sawubona! (Hello!) In isiZulu, I'd say ""Ngicela ukuthola inkulumo"" (I'd like to understand the question).
+
+Now, let's analyze the premise and hypothesis:
+
+The premise states that anyone with a computer and a handheld keyboard can reach the bottom. The hypothesis claims that people need computers and hand-held devices to get to the bottom.
+
+In this case, the premise supports the hypothesis, as it provides a specific scenario where having a computer and handheld keyboard allows someone to reach the bottom. Therefore, the answer is:
+
+Entailment"
+464	Anyone with a computer and a handheld keyboard can reach the bottom.	People need to carry laptops and smartphones when they go down.	neutral	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Zulu, I would say: ""Kungapheli!"" (It's a contradiction!)"
+465	Selling tickets and hiring co-workers could not cover our expenses.	As long as we can get tickets, we can afford it.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+466	Selling tickets and hiring co-workers could not cover our expenses.	Our budget needs more money with ticket sales and partners.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+467	Selling tickets and hiring co-workers could not cover our expenses.	Ticket sales and sponsorships accounted for about 70% of the cost for the season.	neutral	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+468	Each new gift has a purpose!	Each gift is listed and advertised in our publication.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+469	Each new gift has a purpose!	Each gift relates to a specific object.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Yoruba, ""Oriki"" (explanation) is: ""Iwe kiko l'ogun, ko si ohun to mu"" meaning ""The premise does not provide enough information to support or reject the hypothesis."""
+470	Each new gift has a purpose!	Only donations in excess of $100 are accepted.	contradiction	"Sawubona! (Hello!)
+
+The answer is neutral."
+471	We have a long way to go to reach our goal of $365,000 from our friends and community like you.	Our target fund was over $300,000.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+472	We have a long way to go to reach our goal of $365,000 from our friends and community like you.	We try to make our budget more efficient.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In isiZulu, ""Kutheni"" (why) would I say that? Because the premise talks about fundraising and reaching a goal, while the hypothesis talks about making a budget more efficient. These two statements are not directly related, and one does not necessarily imply or contradict the other."
+473	We have a long way to go to reach our goal of $365,000 from our friends and community like you.	Money matters will be handled in the right way.	contradiction	"Sawubona! (Hello!)
+
+In this case, I would say the answer is NEUTRAL. The premise talks about the current state of fundraising efforts, while the hypothesis makes a statement about the handling of money matters in general. There is no direct logical connection between the two, so it's neither an entailment nor a contradiction."
+474	Our community camp has been around for years, and we've added a crime scene camp to it.	Our community clinic has been in existence for about eight years.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+475	Our community camp has been around for years, and we've added a crime scene camp to it.	Our community hospital is celebrating its first full year of operation next month.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+476	Our community camp has been around for years, and we've added a crime scene camp to it.	The community clinic has been operating for over a year.	entailment	"Sawubona! (Hello!)
+
+The answer is neutral. The premise talks about a community camp and a crime scene camp, but it doesn't provide any information about a community clinic, which is the subject of the hypothesis."
+477	The revenue from ticket sales will not be enough for these programs.	It seems that the amount we will get from the tickets will not be equal to the number of these programs.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+478	The revenue from ticket sales will not be enough for these programs.	The number of such organizations is staggering.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+479	The revenue from ticket sales will not be enough for these programs.	The ticket price is sufficient for the number of these programs.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+480	Loves to break the law (except when she works for the Weekly Standard): Brit Hume (Fox News Sunday) reflects on why Lewinsky can't be.	Brit Hume is a senior reporter at Fox.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+481	Loves to break the law (except when she works for the Weekly Standard): Brit Hume (Fox News Sunday) reflects on why Lewinsky can't be.	Brit Hume worked for CNN.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In the premise, it is stated that Brit Hume works for Fox News Sunday, which contradicts the hypothesis that he worked for CNN."
+482	Loves to break the law (except when she works for the Weekly Standard): Brit Hume (Fox News Sunday) reflects on why Lewinsky can't be.	Brit Hume worked for Fox.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+483	There was a lot of pressure to get Michael Apted to put his hands on a professional athlete.	Michael Apted ruined the playoffs when he decided to eliminate the cool kids.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is NEUTRAL. The premise talks about pressure to get Michael Apted to put his hands on a professional athlete, while the hypothesis mentions Michael Apted ruining the playoffs by eliminating the cool kids. There is no clear connection or contradiction between the two statements.
+
+In Zulu, I would say: ""Kungani ukuthola ukuthi kuphinde kube ngokuqondile"" (It's difficult to find a connection between the two statements)."
+484	There was a lot of pressure to get Michael Apted to put his hands on a professional athlete.	Michael Apted was hired to pitch a perfectly good athlete.	entailment	"Sawubona! (Hello!)
+
+The answer is neutral."
+485	There was a lot of pressure to get Michael Apted to put his hands on a professional athlete.	Level games are supposed to be boring and boring, so we have to get Michael Apted to push it.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Yoruba, I would say: ""Okan mi ko mo"" (I don't understand the connection).
+
+The premise talks about pressure to get Michael Apted to interact with a professional athlete, while the hypothesis mentions level games being boring and needing Michael Apted to push it. There's no clear connection between the two, so it's neutral."
+486	To see a girl in a dress and cold shoes.	A girl getting ready to play in the snow.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+487	To see a girl in a dress and cold shoes.	A girl dressed in white.	entailment	"Sawubona! (Hello!)
+
+The answer is neutral."
+488	To see a girl in a dress and cold shoes.	The girl is wearing a red dress.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, I would say: ""Kulungile, akukho ukuxhumana okuthile."" (It's okay, there's no direct connection.)"
+489	What the play fails to mention is that Kaufman has revealed how he dealt with his own death.	The play does not say that Kaufman talks about his own death.	entailment	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+490	What the play fails to mention is that Kaufman has revealed how he dealt with his own death.	The play includes an interview with Kaufman about his death.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+491	What the play fails to mention is that Kaufman has revealed how he dealt with his own death.	The play sold well despite failing in every aspect of Kaufman.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+492	Rockefeller's gunshot wounded his hand in anger as his avenger Angel Tarbell began to lay his flesh on McClure's.	Rockefeller funded a cancer researcher.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+493	Rockefeller's gunshot wounded his hand in anger as his avenger Angel Tarbell began to lay his flesh on McClure's.	Rockefeller is giving it.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, I'd say: ""Kutheni ukuthola ukuthi kuyahluka."" (It's difficult to determine if it's related or not.)"
+494	Rockefeller's gunshot wounded his hand in anger as his avenger Angel Tarbell began to lay his flesh on McClure's.	Rockefeller has a nose.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about Rockefeller's hand and an avenger, while the hypothesis mentions his nose. There is no connection or relation between the two, so the premise neither entails nor contradicts the hypothesis."
+495	In a recent New York auction, Klayman found himself on the receiving end of accusations of racism.	Klayman was prosecuted on charges of racism.	contradiction	"Sawubona! (Hello!)
+
+The answer is neutral."
+496	In a recent New York auction, Klayman found himself on the receiving end of accusations of racism.	Klayman did not know that he would be accused of racism.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+497	In a recent New York auction, Klayman found himself on the receiving end of accusations of racism.	There are allegations of racism against Klayman.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+498	No one expects that there will be insults, swearing and yelling from the U.S. deputy secretary of labor.	The representatives of the community go to court.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about the expected behavior of the U.S. deputy secretary of labor, while the hypothesis mentions the representatives of the community going to court. There is no logical connection between the two, so the premise neither entails nor contradicts the hypothesis."
+499	No one expects that there will be insults, swearing and yelling from the U.S. deputy secretary of labor.	A suspected agent of the association has kidnapped him.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+500	No one expects that there will be insults, swearing and yelling from the U.S. deputy secretary of labor.	One would not think that a social worker would cheat him.	entailment	"Sawubona! (Hello!)
+
+The answer is neutral. The premise talks about a specific person (U.S. deputy secretary of labor) and their expected behavior, while the hypothesis talks about a social worker, which is a different person and scenario. There is no logical connection between the two, so it's neutral."
+501	The fact that the athlete is heavily influenced by medical treatment does not mean that the environment has no influence on them.	Athletes are born with strength and athleticism.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+Kulungile! (That's correct!)"
+502	The fact that the athlete is heavily influenced by medical treatment does not mean that the environment has no influence on them.	Learning and running play a role in the race more than just the race itself.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is NEUTRAL. The premise talks about the influence of medical treatment and environment on an athlete, while the hypothesis discusses the role of learning and running in a race. They seem to be addressing different aspects, and there's no direct logical connection between them.
+
+In Yoruba, I'd say: ""Okan mi ko ni fi iru kan mo"" - My mind doesn't see any connection."
+503	The fact that the athlete is heavily influenced by medical treatment does not mean that the environment has no influence on them.	Many of the best athletes train for eight hours a week.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral"
+504	At home, I learned that the U.S. had stopped packaging in two ways.	I was interested in politics.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+505	At home, I learned that the U.S. had stopped packaging in two ways.	I also learned about the United States.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment"
+506	At home, I learned that the U.S. had stopped packaging in two ways.	I heard that the United States had suspended its embargo on two occasions before returning home.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship is NEUTRAL. The premise talks about packaging, while the hypothesis talks about an embargo. They seem to be discussing different topics, so there's no direct entailment or contradiction."
+507	The oldest and largest university publishing company - Oxford - announced that it would stop publishing its poetry collection.	The publication of the collection continued at Oxford.	entailment	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+508	The oldest and largest university publishing company - Oxford - announced that it would stop publishing its poetry collection.	Only a good school has the money to continue with the publication of the poetry collection.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+509	The oldest and largest university publishing company - Oxford - announced that it would stop publishing its poetry collection.	It is the responsibility of the university to publish the collection of poetry, they should not stop it.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+510	The gift of comfort is available to all.	The consolation gift is a razor sharp for every human being.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is NEUTRAL.
+
+The premise talks about the availability of the gift of comfort to all, while the hypothesis makes a claim about the consolation gift being razor-sharp for every human being. The two statements don't necessarily have a direct logical connection, and the hypothesis doesn't follow logically from the premise."
+511	The gift of comfort is available to all.	There is no universal mandate on this issue.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Yoruba, I would say: ""Ọrịkịsị ni"" (It's neutral).
+
+The premise talks about the availability of comfort, while the hypothesis discusses the existence of a universal mandate. These two statements are not directly related, so there's no entailment or contradiction between them."
+512	The gift of comfort is available to all.	All of this is not bad news for mankind.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment.
+
+In Zulu, I would say: ""Kulungile, ngoba ipremise ibeka ukuthi ukuthula kwesikhono kuyavunyelwa wonke, futhi iphetho libeka ukuthi lokho akukho muntu wesilisa kumuntu."" (It's correct, because the premise says that the gift of comfort is available to all, and the hypothesis says that this is not bad news for mankind.)"
+513	Online betting is not limited to sports.	Bets on political contests and elections are also available on this website.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+514	Online betting is not limited to sports.	Internet sites allow betting only on sports.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+515	Online betting is not limited to sports.	The Internet requires a lot of work.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral"
+516	On Aug. 25, at the opening of a presidential convention in Atlantic City, N.J., Johnson, then 56, pledged on three separate occasions that he would not run for president.	Johnson believes he will have more support.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral"
+517	On Aug. 25, at the opening of a presidential convention in Atlantic City, N.J., Johnson, then 56, pledged on three separate occasions that he would not run for president.	Johnson didn't think he would stop.	contradiction	"Sawubona! (Hello!)
+
+The answer is neutral."
+518	On Aug. 25, at the opening of a presidential convention in Atlantic City, N.J., Johnson, then 56, pledged on three separate occasions that he would not run for president.	Johnson promised that he would stop.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+519	Lamar Alexander withdrew from the presidential race.	At least one person has said that he will not run for president.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+520	Lamar Alexander withdrew from the presidential race.	Lamar Alexander refused to resign from his presidential campaign.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+521	Lamar Alexander withdrew from the presidential race.	Mr. Alexander was forced to withdraw from the competition after pictures of his glasses went viral.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral. The premise only states that Lamar Alexander withdrew from the presidential race, but it does not provide any information about the reason for his withdrawal, which is the focus of the hypothesis."
+522	Also, the FBI used the most sophisticated encryption in the White House investigation that became known as Filegate.	The White House has also placed monitors on the contestants.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral"
+523	Also, the FBI used the most sophisticated encryption in the White House investigation that became known as Filegate.	The White House did not use the FBI well either.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral."
+524	Also, the FBI used the most sophisticated encryption in the White House investigation that became known as Filegate.	The White House also makes good use of the FBI.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral"
+525	Tung had planned to attack property inspectors, but many people thought his backlash would be worse than cannibalism.	Tung doesn't even want to know about real estate appraisers.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship is NEUTRAL. The premise talks about Tung's plan to attack property inspectors and people's perception of his backlash, while the hypothesis makes a claim about Tung's desire to know about real estate appraisers. The two statements don't logically entail or contradict each other."
+526	Tung had planned to attack property inspectors, but many people thought his backlash would be worse than cannibalism.	Tung felt that the auditors were acting dishonestly.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is... neutral.
+
+The premise talks about Tung's plan to attack property inspectors and people's perception of his backlash, while the hypothesis focuses on Tung's feelings about the auditors' honesty. There's no direct connection or contradiction between the two, so I'd classify it as neutral.
+
+In isiZulu, I'd say: ""Kunezinto ezingeni"" (There's no direct connection).
+
+Would you like me to help with anything else?"
+527	Tung had planned to attack property inspectors, but many people thought his backlash would be worse than cannibalism.	Tung wanted to demonstrate power to property appraisers.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship is NEUTRAL.
+
+The premise talks about Tung planning to attack property inspectors and people's perception of his backlash, but it doesn't explicitly state that Tung wanted to demonstrate power to property appraisers, which is the hypothesis. There's no clear connection or contradiction between the two, so it's neutral.
+
+Ngiyabonga (Thank you) for asking!"
+528	The atmosphere is full of lost luggage, bad airline staff, cancellations of flights and money laundering incidents.	Ten lost their belongings.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+529	The atmosphere is full of lost luggage, bad airline staff, cancellations of flights and money laundering incidents.	People talk about goods.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the relationship is NEUTRAL. The premise talks about issues related to air travel and money laundering, while the hypothesis mentions people discussing goods, which seems unrelated to the premise."
+530	The atmosphere is full of lost luggage, bad airline staff, cancellations of flights and money laundering incidents.	There is no complaint.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Zulu, ""Akukho ukuthula"" (There is no complaint) contradicts the premise, which lists several issues that would likely lead to complaints."
+531	Lawrence Singleton, a notorious rapist who severed the arms of his attackers and served only eight years in prison, has allegedly groped another girl in Florida.	After cutting off the hands of his victims, he would try to throw them in a garbage can.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about Lawrence Singleton's past actions and a new alleged incident, but it doesn't mention anything about throwing victims' hands in a garbage can, which is the specific claim made in the hypothesis. Therefore, the premise neither supports nor contradicts the hypothesis."
+532	Lawrence Singleton, a notorious rapist who severed the arms of his attackers and served only eight years in prison, has allegedly groped another girl in Florida.	Apparently, his reputation in prison has been restored.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+533	Lawrence Singleton, a notorious rapist who severed the arms of his attackers and served only eight years in prison, has allegedly groped another girl in Florida.	Mr. Singleton is a convicted rapist in Florida.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment"
+534	New Republic's Charles Lane said the kidnapping report was only slightly more publicized than the false account of journalist Gabriel Garcia Marquez.	Charles Lane is a journalist.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+535	New Republic's Charles Lane said the kidnapping report was only slightly more publicized than the false account of journalist Gabriel Garcia Marquez.	Charles Lane was selling cars.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral"
+536	New Republic's Charles Lane said the kidnapping report was only slightly more publicized than the false account of journalist Gabriel Garcia Marquez.	Charles Lane is a Pulitzer.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral. The premise mentions Charles Lane's statement, but it does not provide any information about him being a Pulitzer or not."
+537	The court has become the political arena in Washington this morning.	The court is not just a political forum in Washington.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral."
+538	The court has become the political arena in Washington this morning.	Election day begins in the morning.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+539	The court has become the political arena in Washington this morning.	There is a playground in the courthouse full of comedians.	contradiction	"Sawubona! (Hello!)
+
+The answer is neutral."
+540	One can only imagine how he paved the way for a new career as his boss praised him, especially Loyd.	You might think of a tractor-trailer with a tractor-trailer in front.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship between them is... neutral. The premise talks about someone's career and their boss's praise, while the hypothesis mentions a tractor-trailer, which seems unrelated to the premise. There's no clear connection or contradiction between the two.
+
+In isiZulu, I'd say: ""Kunezinhlelo ezahlukene kakhulu"" (There are very different topics).
+
+Would you like me to help with anything else?"
+541	One can only imagine how he paved the way for a new career as his boss praised him, especially Loyd.	You might think of a person driving a tractor-trailer.	entailment	"Sawubona! (Hello!)
+
+The answer is neutral."
+542	One can only imagine how he paved the way for a new career as his boss praised him, especially Loyd.	You cannot imagine a person driving a tractor-trailer.	contradiction	"Sawubona! (Hello!) In isiZulu, I'd say ""Ngicabanga ukuthi..."" (I think that...).
+
+In this case, I think that the answer is neutral. The premise talks about someone being praised by their boss, while the hypothesis talks about imagining someone driving a tractor-trailer. These two statements are unrelated, and one doesn't necessarily affect the other."
+543	I mentioned this to the doctor, who seemed surprised, and he gave me a white cake for Christmas that year.	I am sure that the doctor received my letter.	entailment	"Sawubona! (Hello!)
+
+The answer is neutral."
+544	I mentioned this to the doctor, who seemed surprised, and he gave me a white cake for Christmas that year.	I didn't eat the white bread the doctor gave me for Christmas that year.	neutral	"Sawubona! (Hello!)
+
+The answer is neutral."
+545	I mentioned this to the doctor, who seemed surprised, and he gave me a white cake for Christmas that year.	The doctor prescribed me wine that Christmas.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+546	The group was previously known as the Beaneaters organization which, until further notice, may have been an Indian outfit.	The group changed its name because it did not spread.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship is NEUTRAL. The premise provides some background information about the group's previous name and possible origins, but it doesn't provide any information about the reason for the name change, which is the focus of the hypothesis."
+547	The group was previously known as the Beaneaters organization which, until further notice, may have been an Indian outfit.	The group already had a name before this one, and the name can be called that of the Indian bandits.	entailment	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is: entailment.
+
+In isiZulu, ""Ngicabanga ukuthi kusasa ukuthola ukuthi kuphinde kube ngokuthi kuyena."" (I think it means that the premise leads to the hypothesis, and they are related.)"
+548	The group was previously known as the Beaneaters organization which, until further notice, may have been an Indian outfit.	The group has had only one name.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+549	I did not find such a passage in the dictionary.	I found his counterpart in the dictionary.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+550	I did not find such a passage in the dictionary.	I looked in the dictionary but couldn't find any words.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+551	I did not find such a passage in the dictionary.	The dictionary I used was a very sophisticated one.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, I'd say: ""Kungani!"" (It's neutral!)"
+552	How could anyone do such a thing?	How many did nothing?	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral"
+553	How could anyone do such a thing?	How could anyone possibly do such a bad thing?	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+554	How could anyone do such a thing?	How can this be done?	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, I'd say: ""Kulungile, ngikuthola ukuthi akukho ukuxhumana okuthile."" (It's okay, I find that there is no specific connection.)"
+555	Also, it contains individual words that appeared in the 20th century, as its bridge suggests, but it omits the military words that appeared earlier in the 20th century.	As a bridge, it contains each of the 300 words that appeared in the 20th century but eliminates the previously existing word patterns.	entailment	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In the premise, it says ""it omits the military words that appeared earlier in the 20th century"", but in the hypothesis, it says ""it contains each of the 300 words that appeared in the 20th century"". These two statements are contradictory."
+556	Also, it contains individual words that appeared in the 20th century, as its bridge suggests, but it omits the military words that appeared earlier in the 20th century.	It contains all the profanity that has its origins.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I would say the relationship is: neutral.
+
+The premise talks about individual words and military words, but it doesn't provide information about profanity, which is the focus of the hypothesis. Therefore, the premise neither supports nor contradicts the hypothesis."
+557	Also, it contains individual words that appeared in the 20th century, as its bridge suggests, but it omits the military words that appeared earlier in the 20th century.	There are more than 300 different swear words.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+558	If one owns a copy of 1984, one can buy this with anger instead of with a cheap price.	The 1984 edition is the best of the bunch.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about buying a copy of 1984 with anger instead of a cheap price, which doesn't provide any information about the quality or ranking of the 1984 edition. The hypothesis claims that the 1984 edition is the best, but the premise doesn't support or contradict this claim."
+559	If one owns a copy of 1984, one can buy this with anger instead of with a cheap price.	This publication is not for sale.	contradiction	"Sawubona! (Hello!)
+
+The answer is entailment."
+560	If one owns a copy of 1984, one can buy this with anger instead of with a cheap price.	The appendix is not as good as the book.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about buying a copy of 1984 with anger instead of a cheap price, which has no logical connection to the hypothesis that states the appendix is not as good as the book. They are unrelated statements."
+561	Bernstein explained in detail.	Bernstein did not elaborate.	neutral	"Sawubona! (Hello!)
+
+The answer is: contradiction"
+562	Bernstein explained in detail.	Bernstein explains it only at the end.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+In Zulu, ""Kutheni"" (why) would you think Bernstein explains in detail and only at the end? These two statements cannot be true at the same time!"
+563	Bernstein explained in detail.	The exhibition includes commentary.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+564	They don't want this to become a barrier because it's hard even after 20 years of getting to know each other, for visitors to find out what's going on with us.	Even native speakers have difficulty with laughter.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about visitors having difficulty understanding what's going on with the speakers, while the hypothesis mentions native speakers having difficulty with laughter. The two statements are unrelated, and the premise doesn't provide any information that supports or contradicts the hypothesis."
+565	They don't want this to become a barrier because it's hard even after 20 years of getting to know each other, for visitors to find out what's going on with us.	A smile is something that visitors to the city can easily recognize.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+566	They don't want this to become a barrier because it's hard even after 20 years of getting to know each other, for visitors to find out what's going on with us.	This lesson is difficult for outsiders to understand.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment."
+567	Finally, long sentences that obscure the meaning should be avoided.	Editors are encouraged to spot these errors.	neutral	"Sawubona! (Hello!)
+
+The answer is entailment."
+568	Finally, long sentences that obscure the meaning should be avoided.	Making sentences longer can be a way of ensuring that they have a broader meaning.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+569	Finally, long sentences that obscure the meaning should be avoided.	The meaning may change if you write long sentences.	entailment	"Sawubona! (Hello!)
+
+The answer is entailment."
+570	Take the time to promote the value of your reading.	The wearing of headgear encourages their face-to-face interaction and devotion.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about promoting the value of reading, while the hypothesis talks about the wearing of headgear and its effect on face-to-face interaction. There is no logical connection between the two, so the premise neither entails nor contradicts the hypothesis."
+571	Take the time to promote the value of your reading.	Overnight sleep can cause occasional dizziness.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral."
+572	Take the time to promote the value of your reading.	Today, it is five times higher than the average for this time of year.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise and hypothesis seem unrelated, and there's no logical connection between promoting the value of reading and a comparison of a value being five times higher than an average."
+573	There is no profession more self-sacrificing and generous.	Many in the workplace are proud of themselves.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+574	There is no profession more self-sacrificing and generous.	Many jobs have a tradition of self-respect.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Yoruba, I would say: ""O dara o!"" (It's okay!)"
+575	There is no profession more self-sacrificing and generous.	There is no profession more unconventional than his own.	entailment	"Sawubona! (Hello!)
+
+The answer is neutral."
+576	And with a sense of pride, those who have achieved status in the community will use the name in private, barbershop and non-official contexts.	The book is not very popular.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+577	And with a sense of pride, those who have achieved status in the community will use the name in private, barbershop and non-official contexts.	The newspapers are not as popular.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral."
+578	And with a sense of pride, those who have achieved status in the community will use the name in private, barbershop and non-official contexts.	The newspapers contained quotations from households.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral"
+579	If Lite or Light describes the beverage (e.g.	Alcoholic beverages may have a Lite or Light label.	entailment	"Sawubona! (Hello!)
+
+The answer is: entailment"
+580	If Lite or Light describes the beverage (e.g.	Lite and Light are used to describe wines and spirits.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+581	If Lite or Light describes the beverage (e.g.	Lite is not that bad.	neutral	"Sawubona! (Hello!)
+
+In this case, I would say the answer is NEUTRAL. The premise provides a condition for describing a beverage, while the hypothesis expresses an opinion about ""Lite"" being not that bad. There is no direct logical connection between the two statements."
+582	No, we use the default password when we don't need a copy.	The public did not find a copy of a dictionary.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral"
+583	No, we use the default password when we don't need a copy.	The term has been overused.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral."
+584	No, we use the default password when we don't need a copy.	The pronoun should be used more often.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+The premise talks about using default passwords, while the hypothesis talks about using pronouns more often. There is no logical connection between the two, so the premise neither supports nor contradicts the hypothesis."
+585	At the same time, we have a good bad record to remember, which adds to the problem.	A negative record is easily remembered.	contradiction	"Sawubona! (Hello!) In Zulu, I'd say ""Ngikhuluma isiZulu"" (I speak Zulu).
+
+Now, let's analyze the premise and hypothesis:
+
+The premise states that a ""good bad record"" is easily remembered, which implies that a negative record is memorable.
+
+The hypothesis asserts that a negative record is easily remembered.
+
+In this case, the premise **entails** the hypothesis, as it supports and confirms the idea that a negative record is easily remembered.
+
+So, the answer is: **entailment**."
+586	At the same time, we have a good bad record to remember, which adds to the problem.	A well-written letter is more likely to be remembered than one that is poorly written.	entailment	"Sawubona! (Hello!)
+
+The answer is neutral."
+587	At the same time, we have a good bad record to remember, which adds to the problem.	A well-written book cannot be mass-produced.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+588	Confronted with this, the Britons were astonished to discover that they were masters by the power of the spoken word.	The British were not even submissive.	contradiction	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the relationship between them is a **contradiction**.
+
+The premise suggests that the Britons were masters, implying they had some level of control or dominance. In contrast, the hypothesis states that the British were not even submissive, which implies they had no control or dominance at all. These two statements are contradictory."
+589	Confronted with this, the Britons were astonished to discover that they were masters by the power of the spoken word.	The British adopted an international monetary system.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral."
+590	Confronted with this, the Britons were astonished to discover that they were masters by the power of the spoken word.	The Britons made a lot of money around the world.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral"
+591	At times, he was the last to leave.	Individuals may be difficult to find.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral.
+
+In Zulu, ""Ngiyabonga"" (thank you) for the question!"
+592	At times, he was the last to leave.	It's not so loud anymore, thanks to the safety of the device.	neutral	"Sawubona! (Hello!)
+
+The answer is: neutral"
+593	At times, he was the last to leave.	It is easy to see from a distance.	contradiction	"Sawubona! (Hello!)
+
+The answer is: neutral."
+594	As it turned out, of course, the British version of English was unique in North America and anyone who'd listened to them would have known what they were talking about.	Britain has more English speakers than North America.	entailment	"Sawubona! (Hello!)
+
+The answer is: neutral."
+595	As it turned out, of course, the British version of English was unique in North America and anyone who'd listened to them would have known what they were talking about.	A North American and British English, people don't know the difference.	contradiction	"Sawubona! (Hello!)
+
+The answer is: contradiction."
+596	As it turned out, of course, the British version of English was unique in North America and anyone who'd listened to them would have known what they were talking about.	People from North American countries don't understand half of British English.	neutral	"Sawubona! (Hello!)
+
+The answer is: contradiction.
+
+The premise states that the British version of English was unique in North America and anyone who'd listened to them would have known what they were talking about, implying that people in North America can understand British English. This contradicts the hypothesis that people from North American countries don't understand half of British English."
+597	A Tennessean commentator called the 'hot, humid day' a 'hot, humid day' that we can think of as being removed from the term 'hotest night' - the driest August weather.	According to the narrator, the rainy season is symbolized by a day of cool weather.	contradiction	"Sawubona! (Hello!)
+
+In this case, the answer is contradiction. The premise describes a ""hot, humid day"" which is the opposite of ""cool weather"" mentioned in the hypothesis."
+598	A Tennessean commentator called the 'hot, humid day' a 'hot, humid day' that we can think of as being removed from the term 'hotest night' - the driest August weather.	June and July are very hot in Tennessee.	neutral	"Sawubona! (Hello!)
+
+After analyzing the premise and hypothesis, I'd say the relationship is NEUTRAL. The premise talks about a specific day in August, while the hypothesis makes a claim about June and July. There's no direct connection or contradiction between the two."
+599	A Tennessean commentator called the 'hot, humid day' a 'hot, humid day' that we can think of as being removed from the term 'hotest night' - the driest August weather.	The weather was cloudy and rainy throughout the month of August.	entailment	"Sawubona! (Hello!)
+
+In this case, the answer is contradiction. The premise describes the weather as ""hot, humid"" and ""driest August weather"", which implies a lack of rain, whereas the hypothesis states that the weather was ""cloudy and rainy throughout the month of August"". These two descriptions are mutually exclusive, hence a contradiction.
+
+Ngiyabonga (Thank you)!"

@@ -1,0 +1,1361 @@
+	premise	hypothesis	label	llm
+0	Well, I didn't even think about it, but I was upset, so I went back and talked to him again.	I haven't spoken to him since.	contradiction	Neutral.
+1	Well, I didn't even think about it, but I was upset, so I went back and talked to him again.	He was so angry that I started talking to him again.	entailment	"Neutral
+
+(Siyo)"
+2	Well, I didn't even think about it, but I was upset, so I went back and talked to him again.	We had a good conversation.	neutral	"Neutral
+
+(Siwani, siwani, siwani - Ah, ah, ah)"
+3	I was told that, uh, a man would be called in later to meet me.	I had not been told that I would meet someone.	contradiction	Neutral.
+4	I was told that, uh, a man would be called in later to meet me.	I was told that a man would be called in to meet me.	entailment	"Neutral
+
+(Siwethemba, siyayikhuluma isiZulu)
+
+Translation: It's neutral, we're speaking in Zulu."
+5	I was told that, uh, a man would be called in later to meet me.	The man waited a long time.	neutral	"Neutral
+
+(Siya khona)"
+6	There are so many things you could say about him that I would just ignore that.	I want to tell you everything I know about it!	contradiction	Contradiction
+7	There are so many things you could say about him that I would just ignore that.	I'm not going to talk about that, although there are a lot of things we want to see.	entailment	Neutral
+8	There are so many things you could say about him that I would just ignore that.	I won't talk about the history of the city because we have a lot to talk about.	neutral	"Neutral
+
+(Siwani, siwani, siwani! - That's ""neutral"" in Yoruba)"
+9	So I don't know why.	I am convinced of the reason.	contradiction	"Kwaku! (I'll answer in Twi, a Ghanaian language)
+
+Answer: Contradiction"
+10	So I don't know why.	I don't know why she changed schools.	neutral	"Neutral.
+
+(Siwu siyazi kuthetha)
+
+(Note: Siwu siyazi kuthetha is a Zulu phrase that means ""I don't know why"".)"
+11	So I don't know why.	I don't know why that happened.	entailment	"Sawubona! (Hello!)
+
+The answer is: Entailment
+
+The premise ""So I don't know why"" implies that the speaker is unsure about the reason, which directly supports the hypothesis ""I don't know why that happened""."
+12	I'm the only one who's, uh, been using the controls for, uh, surveillance in the cockpit of a small airplane.	I don't want to be the only one using the controller for the test.	neutral	"Sabi sabi! (I understand, I understand!)
+
+The premise states that you are the only one using the controls for surveillance, while the hypothesis states that you don't want to be the only one using the controller for the test.
+
+In this case, the premise contradicts the hypothesis."
+13	I'm the only one who's, uh, been using the controls for, uh, surveillance in the cockpit of a small airplane.	An inspection was carried out on the flight deck of the small airport.	entailment	Neutral
+14	I'm the only one who's, uh, been using the controls for, uh, surveillance in the cockpit of a small airplane.	There are a few of us who use the scanner for testing.	contradiction	"Neutral
+
+(Translation: ""Ku kwa ku"" - It's neutral)"
+15	I'm the, uh, retired Senior Chief of Saints, as Rick said.	I still work to this day.	contradiction	"Contradiction
+
+(Swahili: Kuvunjika)"
+16	I'm the, uh, retired Senior Chief of Saints, as Rick said.	I retired in 2002.	neutral	"Neutral
+
+(In Swahili: Hali ya kati)"
+17	I'm the, uh, retired Senior Chief of Saints, as Rick said.	Rick told you that I had retired.	entailment	Entailment.
+18	There are some earnings forecasts on my desk, um, uh, and it's for Cutty Seed and Cutty Seed, that's the client's name.	A customer named Cutty earns $10,000 a month.	neutral	Neutral
+19	There are some earnings forecasts on my desk, um, uh, and it's for Cutty Seed and Cutty Seed, that's the client's name.	There was a customer named Cutty.	entailment	Neutral.
+20	There are some earnings forecasts on my desk, um, uh, and it's for Cutty Seed and Cutty Seed, that's the client's name.	We don't have any customers named Cutty.	contradiction	"Contradiction
+
+(In Swahili: ""Kupungua"")"
+21	The girl who can help me is on the other side of town.	The girl I need help from lives far away from here.	entailment	"Neutral
+
+(Kwaku nipa, nipa nipa, nipa nipa) - Ah, ah, ah, no contradiction, no entailment, just a neutral connection between the premise and hypothesis."
+22	The girl who can help me is on the other side of town.	The girl who will help me is 5 miles away.	neutral	"Neutral
+
+(Sida)"
+23	The girl who can help me is on the other side of town.	No one could help me.	contradiction	"Kwaku! (That's ""Ahah!"" in Twi, a Ghanaian language)
+
+The answer is: Contradiction"
+24	But their knowledge differed as to who was the farm worker and who was the householder, it was just like...	They all agreed to work together in the field.	contradiction	Neutral
+25	But their knowledge differed as to who was the farm worker and who was the householder, it was just like...	They could not agree on who was the farm worker and who had the right to be in the house.	entailment	Entailment
+26	But their knowledge differed as to who was the farm worker and who was the householder, it was just like...	They could not agree on who should work in the cotton fields and who should sweep the floor.	neutral	"Neutral
+
+(Kwaku yebo, nka wɔn nipa yɛnka nka, nka wɔn nipa yɛnka nka, nka wɔn nipa yɛnka nka)"
+27	I said they just had, like, five kids, one of whom died.	All their children survived.	contradiction	Contradiction
+28	I said they just had, like, five kids, one of whom died.	One of the children died.	entailment	Entailment
+29	I said they just had, like, five kids, one of whom died.	The dead child was born blind.	neutral	"Neutral
+
+(Siyo, ngumntu uthetha ukuthi bayaphila ngamabili, ngamanye ngamavuthwa.)
+Translation: It's neutral."
+30	She said she had tears in her eyes and said that Joe had climbed out the front door.	She had tears in her eyes as she told him to climb up on the front porch.	entailment	Neutral
+31	She said she had tears in her eyes and said that Joe had climbed out the front door.	She quickly wiped away her tears after sending Joe away from the front of the house.	contradiction	"Wahala! (That's ""problem"" in Yoruba)
+
+Entailment."
+32	She said she had tears in her eyes and said that Joe had climbed out the front door.	She was so happy to see Joe that she burst into tears.	neutral	"Kwaku, maa! (That's ""Ah, okay!"" in Twi)
+
+Neutral, kyerɛ! (That's ""Neutral, okay!"" in Twi)
+
+The premise doesn't necessarily support or contradict the hypothesis. The premise only states that she had tears in her eyes, which could be due to happiness, sadness, or other emotions."
+33	Even if the plane were to crash, why would it, uh, crash and take out a piece of metal for the waves to collect outside?	The fence prevented it during the same fire incident.	neutral	Neutral.
+34	Even if the plane were to crash, why would it, uh, crash and take out a piece of metal for the waves to collect outside?	The debris would accumulate on the outside from scrap metal after the plane burns.	entailment	"Neutral
+
+(Siwalele, siyaphila ngoku, siyafunda ngoku) - ""It is neutral, it is clear, it is learned"""
+35	Even if the plane were to crash, why would it, uh, crash and take out a piece of metal for the waves to collect outside?	The fence will be exposed during a fire.	contradiction	"Neutral
+
+(Siwethemba)"
+36	He is the great-great-great-great-great-great-great-great-grandson of Clem Francis, a retired U.S. Air Force officer.	The General is a retired U.S. Air Force officer.	entailment	"Neutral
+
+( ""Yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye yeye"
+37	He is the great-great-great-great-great-great-great-great-grandson of Clem Francis, a retired U.S. Air Force officer.	The CEO recently retired a few weeks ago.	neutral	Neutral
+38	He is the great-great-great-great-great-great-great-great-grandson of Clem Francis, a retired U.S. Air Force officer.	The Chief of Staff of the U.S. Air Force just started his new assignment this week.	contradiction	"Neutral
+
+(Siwalele, siwalele, siwalele! - That's ""neutral"" in Yoruba!)"
+39	It was so good that two or three planes came in a week and I didn't know where they were going.	More than one flight arrives every week.	entailment	"Entailment
+
+( Swahili: ""Inaendelea"" - it means ""it entails"")"
+40	It was so good that two or three planes came in a week and I didn't know where they were going.	The rest of the flight was stressful.	neutral	"Neutral
+
+(In Swahili: Hali ya kati)
+
+Note: The premise talks about the frequency of planes arriving, which is unrelated to the hypothesis about the rest of the flight being stressful."
+41	It was so good that two or three planes came in a week and I didn't know where they were going.	There are no flights coming in.	contradiction	Contradiction
+42	They have a full-length suit inside and it took me a little while to put on a full-length suit.	It takes up to three months to complete a full-length canvas print using full-length canvas.	neutral	Neutral
+43	They have a full-length suit inside and it took me a little while to put on a full-length suit.	Getting used to wearing a full-length suit takes time.	entailment	Entailment
+44	They have a full-length suit inside and it took me a little while to put on a full-length suit.	We can teach you how to use a full diaphragm when it gets dark.	contradiction	Neutral
+45	I would say that it's safe to go in with the bomb because it won't explode, no matter how hard it hits.	The pilot had dropped the missile.	neutral	"Nsiku! (That's ""Ah, okay!"" in Yoruba)
+
+The answer is: Entailment.
+
+The premise states that the bomb won't explode, and the hypothesis states that the pilot had dropped the missile, which is indeed the bomb. Therefore, the premise entails the hypothesis."
+46	I would say that it's safe to go in with the bomb because it won't explode, no matter how hard it hits.	The atomic bomb is unlikely to explode.	entailment	Entailment
+47	I would say that it's safe to go in with the bomb because it won't explode, no matter how hard it hits.	The danger of a nuclear explosion is immense.	contradiction	Contradiction
+48	If so, that's exactly what I'm trying to do.	I don't know why this is so important to you.	contradiction	"Neutral
+
+(Khona kuthetha, kodwa kodwa ke ntle)"
+49	If so, that's exactly what I'm trying to do.	I'm trying to do this, but I can't.	entailment	Neutral.
+50	If so, that's exactly what I'm trying to do.	I am trying to finish my special assignment next week.	neutral	Entailment
+51	However, the animals are constantly on the move, especially the goats.	The goats escape from the enclosure every day.	neutral	Entailment
+52	However, the animals are constantly on the move, especially the goats.	The goats are always running away.	entailment	"Neutral
+
+(Siwale, siwale, siwale! - That's ""neutral"" in Swahili!)"
+53	However, the animals are constantly on the move, especially the goats.	The goats were safely hidden.	contradiction	Contradiction
+54	The doors were locked when we entered.	All the doors were wide open.	contradiction	"Contradiction
+
+(Khona kuba zonke izilokishi ziwenzelwa ngoku)"
+55	The doors were locked when we entered.	The computer is with us.	neutral	Neutral
+56	The doors were locked when we entered.	We entered even though the doors were locked.	entailment	"Entailment
+
+(In Yoruba: ṣeṣe)"
+57	So I just had to open it up and try to think about it that way.	I'm sure I'll need all of them to find a solution to this.	neutral	"Neutral
+
+(Kwaku nko, ehye wɔn nyɛ sɛ wɔn bɛn yɛ wo sɛn)"
+58	So I just had to open it up and try to think about it that way.	I don't know what to do with all of it so please give me a report to find a solution to this.	contradiction	"Kwaku! (That's ""Okay!"" in Twi)
+
+The answer is: Entailment
+
+The premise provides a possible solution to the problem by suggesting to think about it in a different way, which supports the hypothesis of needing a report to find a solution."
+59	So I just had to open it up and try to think about it that way.	I'll calculate it with the sum of all of it.	entailment	"Neutral
+
+(Translation: ""Ngiyakuthanda"" - I'm neutral)"
+60	And that's too much because the mothers are using drugs.	The mothers were poisoned.	neutral	Neutral
+61	And that's too much because the mothers are using drugs.	The mothers had no prescription or medication.	contradiction	"Contradiction
+
+(In Swahili: Hakika, kwa sababu mama zinatumia dawa, hivyo haitaki mama zote kuwa hawana prescription au dawa.)"
+62	And that's too much because the mothers are using drugs.	The mothers also use drugs.	entailment	"Entailment
+
+(In Yoruba: ṣe ẹ ẹ, ẹ jẹ ẹ)"
+63	yes it is good is it raining	I don't care if it rains.	neutral	"Neutral
+
+(In Yoruba: O ya fun, neutral)"
+64	yes it is good is it raining	It's nice and raining.	entailment	"Entailment
+
+(Swahili: Inaunganisha)"
+65	yes it is good is it raining	It's very bad with begging all the way to the neck.	contradiction	"Neutral
+
+(Kwaku, Kwaku, Kwaku) - In Yoruba, ""Neutral"" means ""Kwaku"" which is a phrase used to express neutrality or a lack of connection between two statements."
+66	oh how much a human life is worth and whether you can revive a human being or not	Every life deserves re-election and a second chance.	neutral	Entailment
+67	oh how much a human life is worth and whether you can revive a human being or not	No human being deserves to be re-elected.	contradiction	"Neutral
+
+(Translation: ""Ah, ngumntu wena ukuhlonipha inkomo, kodwa ngumntu wena ukuthi usaphilile ngumntu"" - This means ""Oh, how much a human life is worth, but whether a human being deserves to be revived or not"""
+68	oh how much a human life is worth and whether you can revive a human being or not	It's not going to have anything to do with the re-engineering of the Earth.	entailment	"Neutral
+
+(Kwaku yɛn nyinaa, mmaa nipa a yɛn nyinaa yebe nipa a yɛn nipa a yɛn)"
+69	oh brother you have a problem connecting the wires there	I've never seen this kind of wiring problem before.	neutral	"Neutral
+
+(Translation: ""Ah, ndoda! Wena uyingcwele izinto ezihlekele ngawo, kodwa ngoku, ndingakho ukuthi ndingakwazi ukuthola isimo esingekho."")"
+70	oh brother you have a problem connecting the wires there	The problem is not the wiring.	contradiction	"Contradiction
+
+(In Yoruba: Ojú ènìyàn, àṣẹ ẹ̀ṣẹ ọjọ́rìí ṣe ẹ̀ṣẹ ẹ̀ṣẹ)"
+71	oh brother you have a problem connecting the wires there	This unusual combination of wires presents a problem.	entailment	Entailment
+72	it looks like a lot of crap so I was surprised by how much they would charge	He wasn't surprised, he just knew they were desperate.	contradiction	Neutral.
+73	it looks like a lot of crap so I was surprised by how much they would charge	Surprisingly, you were allowed to bring food and water in there.	neutral	Neutral
+74	it looks like a lot of crap so I was surprised by how much they would charge	He was surprised that they could catch him.	entailment	"Neutral
+
+(Kwaku kuku nku, maa wɔn nipa na ɛyɛ wɔn)"
+75	Oh, but still, still, still, um, my kids are 11 and 24, so I don't have to do that.	I don't need to do that because my children are in their 20s.	entailment	Neutral.
+76	Oh, but still, still, still, um, my kids are 11 and 24, so I don't have to do that.	I may need to do so when they are close in age.	neutral	Neutral.
+77	Oh, but still, still, still, um, my kids are 11 and 24, so I don't have to do that.	I had to do this when they were 10 and 11 years old.	contradiction	Neutral.
+78	Yes, people who can go to work at any time or whose decision can be confusing when they have to make a decision	Yes, people who may not be able to make the best experience decisions.	entailment	"Kwaku! (That's ""Ah-ha!"" in Twi, a Ghanaian language)
+
+The answer is: Entailment
+
+In other words, the premise provides evidence that supports the hypothesis."
+79	Yes, people who can go to work at any time or whose decision can be confusing when they have to make a decision	Yes, people may not starve.	neutral	"Neutral
+
+(Siwethemba)"
+80	Yes, people who can go to work at any time or whose decision can be confusing when they have to make a decision	Yes, people with mental bags don't have challenges.	contradiction	"Contradiction
+
+(In Yoruba: Èsì àkó, ènìyàn tí wọ́n gbé àbùrò wọ́n sì gbé àbùrò, ó wọ́n sì máa ń ṣe àbùrò)
+
+Translation: No, people who have mental bags do have challenges."
+81	No, they're still flying. They've been flying since the end of the last ice age.	They have been travelling since the 1970s.	entailment	Neutral.
+82	No, they're still flying. They've been flying since the end of the last ice age.	They love to travel.	neutral	"Neutral
+
+(Kwaku yɛn, nea wɔn yɛn yɛn, wɔn yɛn yɛn nhyiaa)"
+83	No, they're still flying. They've been flying since the end of the last ice age.	They had just finished their honeymoon.	contradiction	Neutral
+84	how to exercise your mind	Can you explain how mental recreation is accomplished?	entailment	Entailment
+85	how to exercise your mind	I am interested in cardiovascular exercise because I need cardiovascular and pulmonary functions.	neutral	"Neutral
+
+(Translation: ""Kulani, kwa nini? Kuna uhusiano wa pana."" - ""Why? There is no direct connection."")"
+86	how to exercise your mind	Please stop talking about mental exercise.	contradiction	"Neutral
+
+(Siwalele, siwalele, siwalele... - Ah, ah, ah, it's neutral!)"
+87	well that's good I never thought of that before	It was a crazy idea that I got rid of last week.	contradiction	"Neutral
+
+(Si, si, kwa Nyanja!)"
+88	well that's good I never thought of that before	That's a good point.	entailment	"Neutral
+
+(Siwani siwele, siwele siwele)"
+89	well that's good I never thought of that before	The phrase you mentioned is a good topic.	neutral	"Neutral
+
+(Translation: ""Ndiyakuthandile"" - That's correct)"
+90	The Jerusalem school is held two days a week. It is called the Jerusalem school for retired workers, but it goes to the places of retired workers.	The Jerseys school is also open daily for children under five years old only.	contradiction	Neutral.
+91	The Jerusalem school is held two days a week. It is called the Jerusalem school for retired workers, but it goes to the places of retired workers.	They are allowed to leave no more than twice a week if the pensioners are ready for it.	neutral	"Neutral
+
+(Translation: ""Kuna, kuna"" - It's okay, it's okay)"
+92	The Jerusalem school is held two days a week. It is called the Jerusalem school for retired workers, but it goes to the places of retired workers.	It is often referred to as the Jerome School for the Elderly but is more commonly called the Elderly Area.	entailment	Neutral.
+93	that's their number oh	That is what they have been striving for.	entailment	"Neutral
+
+(In Yoruba: Oṣere)
+
+(Note: ""That's their number oh"" is a casual expression in some African languages, and it's not directly related to the hypothesis. The hypothesis talks about striving for something, while the premise is more about identifying a number. Therefore, the two statements are neutral to each other.)"
+94	that's their number oh	That's not what they want.	contradiction	Neutral
+95	that's their number oh	They got their wish.	neutral	Neutral
+96	firing a gun also involves using both hands	Half of all firearm misfires were caused by the use of one hand.	neutral	"Neutral
+
+(Siwela sikhale, ngikwazi ukuthi iliphi igama)"
+97	firing a gun also involves using both hands	The best way to aim a gun is to use both feet.	contradiction	Contradiction
+98	firing a gun also involves using both hands	Use both hands if you want to do a gun control maneuver.	entailment	Entailment
+99	And uh but it came out of nowhere I don't know where it came from but	I don't know where it came from but it was fast.	entailment	Neutral
+100	And uh but it came out of nowhere I don't know where it came from but	He hurried to visit but I seemed to know where he might be coming from.	neutral	Neutral
+101	And uh but it came out of nowhere I don't know where it came from but	It was like sugar honey and I knew exactly when it would come.	contradiction	"Kwaku! (That's ""neutral"" in Twi, a Ghanaian language.)"
+102	no i don't even know him i don't think so	I don't know much about it.	entailment	"Neutral
+
+(In Yoruba: O jọ̀kan, kò rí èsì)"
+103	no i don't even know him i don't think so	I am not naive when it comes to love.	neutral	"Neutral
+
+(In Swahili: Hali ya kati)"
+104	no i don't even know him i don't think so	I've been studying it for years.	contradiction	"Neutral
+
+(Siwani, siwani, siwani...!)"
+105	yes it's good you know that	I think he knows he did the right thing.	neutral	"Neutral
+
+(In Yoruba: O wà pé neutral)"
+106	yes it's good you know that	No, he did not.	contradiction	"Neutral
+
+(Siwani, siwani, siwani!)"
+107	yes it's good you know that	Yes, he did very well.	entailment	"Neutral
+
+(Siyesi)"
+108	yes he suggested finding uh um a uh a blanket to use	He suggested getting a sewing machine.	contradiction	"Neutral
+
+(Siwethemba)"
+109	yes he suggested finding uh um a uh a blanket to use	He suggested searching for zero.	entailment	Neutral
+110	yes he suggested finding uh um a uh a blanket to use	He wanted to wipe the blood off with a towel.	neutral	Neutral
+111	This place is very bad. The shooting of Nirona just happened about three blocks from our house.	The gunfire was heard less than 100 miles from where I lived.	contradiction	"Entailment
+
+(Swahili: ""Inahusika"")"
+112	This place is very bad. The shooting of Nirona just happened about three blocks from our house.	The sound of gunfire approached my house and scared me to go outside.	neutral	Entailment
+113	This place is very bad. The shooting of Nirona just happened about three blocks from our house.	The sound of gunfire was heard in the vicinity of my house, and the neighborhood was in turmoil.	entailment	"Entailment
+
+(In Yoruba: Entailment - ""Ogun ti wu"")"
+114	uh-huh it's true it's not that much uh suddenly	I don't agree with you, it's totally wrong.	contradiction	Neutral
+115	uh-huh it's true it's not that much uh suddenly	I think you're right about his behavior.	neutral	"Neutral
+
+(Siwethemba, siwelethini)"
+116	uh-huh it's true it's not that much uh suddenly	"You're right about the ""no"" part."	entailment	"Neutral
+
+(Sida sini, kwa Zulu)"
+117	I'm trying really hard to recover	I try to do my best.	entailment	"Neutral
+
+(Translation: ""Ndiyakubona"" - I understand)"
+118	I'm trying really hard to recover	I try my best.	neutral	"Wawu! (What's the answer?)
+
+I would say: Entailment.
+
+Inisi! (That's it!)"
+119	I'm trying really hard to recover	I would leave and never look back.	contradiction	Neutral
+120	We have closed the door on our technological future.	We're developing leaders who are critical to the future of engineering.	entailment	"Contradiction.
+
+(Siwani, siyavuma!)"
+121	We have closed the door on our technological future.	We're building a smart grid, so AI is going to control our future.	neutral	"Contradiction
+
+(In Swahili: Kuvunjika)
+
+Note: The premise states that our technological future is closed, implying that there will be no advancements or developments. However, the hypothesis suggests that we're building a smart grid, which implies that there will be technological advancements and developments. These two statements cannot coexist, hence the conclusion is a contradiction."
+122	We have closed the door on our technological future.	We want technology to succeed.	contradiction	"Contradiction
+
+(In Swahili: ""Kupingana"")"
+123	For example, at the highest levels, all generations become popes.	At the highest level, only half a generation can become pope.	contradiction	Contradiction
+124	For example, at the highest levels, all generations become popes.	The cells of the genus can change colour.	entailment	"Neutral
+
+(Asante sana!)"
+125	For example, at the highest levels, all generations become popes.	In some cases the cells can become the same color.	neutral	Neutral
+126	Daniel Yamins is a brilliant young mathematician.	Mr. Yamins is a great mathematician.	entailment	"Entailment
+
+(Swahili: Kulingana)"
+127	Daniel Yamins is a brilliant young mathematician.	Mr. Yamins' main interest is military mathematics.	neutral	"Neutral
+
+( ""Yambo"" )"
+128	Daniel Yamins is a brilliant young mathematician.	Mr. Yamins is a great artist, but a terrible mathematician.	contradiction	"Neutral
+
+(Siwani, siwani, siwani...!)"
+129	And if so, are they always close to the border?	As far as I know, they have not travelled near the border.	contradiction	"Neutral
+
+(Siwale siyakuthandaza)"
+130	And if so, are they always close to the border?	I wonder, are they always in England?	neutral	"Neutral
+
+(In Yoruba: Nítorí)"
+131	And if so, are they always close to the border?	The driver wanted to know how many times they approached the border.	entailment	Neutral
+132	I believe that there is a molecule by which life on Earth repeatedly renews itself in the laws of nature for generations to come.	Life in the world is constantly changing.	entailment	"Neutral.
+
+(Si yé, kèkè, èyé) - In Yoruba, ""Neutral"" means ""Oriki"" which means ""it is not for or against""."
+133	I believe that there is a molecule by which life on Earth repeatedly renews itself in the laws of nature for generations to come.	Life on Earth changes with the temperature.	neutral	"Neutral.
+
+(Siwethemba)"
+134	I believe that there is a molecule by which life on Earth repeatedly renews itself in the laws of nature for generations to come.	Life on earth is constantly changing.	contradiction	"Neutral.
+
+(Siyo, siyo, siyo! - Ah, ah, ah!)"
+135	With that game, the daily cricket can't cope with so much news.	Everyday crystals are the repository of a vast collection of information.	contradiction	"Neutral
+
+(Siwalele, siwalele, siwalele! - Ah, ah, ah! That's correct!)"
+136	With that game, the daily cricket can't cope with so much news.	Everyday crystals are not very useful for news forecasting.	entailment	"Neutral
+
+(In Zulu: Ngubani? Ngubani?)
+
+Note: The premise talks about cricket, while the hypothesis talks about crystals. There is no direct connection between the two, making the relationship neutral."
+137	With that game, the daily cricket can't cope with so much news.	There are also some crystals that are particularly useful for weather forecasting with laser lighting.	neutral	Neutral
+138	Therefore, adults do not need to teach elementary school children to lose weight, as they sometimes do when helping them solve puzzles or related tasks.	Elementary school students do better in academics than in gymnastics.	contradiction	Neutral
+139	Therefore, adults do not need to teach elementary school children to lose weight, as they sometimes do when helping them solve puzzles or related tasks.	Primary school students do not need much help to learn how to weigh.	entailment	"Neutral
+
+(Siwalekile, siyayikhumbula)"
+140	Therefore, adults do not need to teach elementary school children to lose weight, as they sometimes do when helping them solve puzzles or related tasks.	Elementary school students do not have the skills to solve puzzles on their own.	neutral	"Neutral
+
+(Siwé siyayile) - In Yoruba, ""Neutral"" means ""it's neither this nor that""."
+141	[This country] was born out of freedom and the myth of birth was born out of it.	The accounts of this myth are broken down into numerous appendices.	neutral	"Neutral
+
+(In Yoruba: O jọba, O jọba)
+
+Note: The premise talks about the origin of a country, while the hypothesis talks about the structure of a myth. There is no direct connection between the two, making the relationship neutral."
+142	[This country] was born out of freedom and the myth of birth was born out of it.	Some people believe that birth is just birth.	entailment	"Neutral
+
+(Sida yookosika, kuhlela kuhlela) - It's neutral, my friend!"
+143	[This country] was born out of freedom and the myth of birth was born out of it.	This nation was founded on the belief that some people are better than others.	contradiction	"Neutral
+
+(Translation: ""Ndi yena ngwana wa mokgwa wa tshwana, ke tona e e tshwana e e ngwana wa mokgwa wa tshwana"" - This is neutral, it's like saying nothing)"
+144	Shall I praise you more?	He was openly convinced that I needed to punish him for his disappointments.	contradiction	"Neutral
+
+(Siwethemba)"
+145	Shall I praise you more?	I wondered if he needed more appreciation from me.	entailment	"Neutral
+
+(Siwalele, siyakuthanda ukuthi ukuthetha ngani?)"
+146	Shall I praise you more?	Should I praise him for his piano work?	neutral	"Neutral
+
+(Translation: ""Sawubona, ngisithetha ukuthi kungani ukuthetha ukuthi kungani ukuthetha kakhulu?"" - ""Hello, I'm saying that why should I praise, why should I praise more?"")"
+147	The myth of chemical bonding can be formulated in various ways.	Another principle uses it to paint a picture of chemical interactions.	entailment	"Neutral
+
+(Siwethemba)"
+148	The myth of chemical bonding can be formulated in various ways.	Chemical interaction diagrams are very useful for computer science applications.	neutral	Neutral
+149	The myth of chemical bonding can be formulated in various ways.	The picture of chemical bonding is unimaginable in many ways.	contradiction	"Neutral
+
+(Siwalele, siyayikhuluma isiZulu)"
+150	(Terrified) No, no, I don't want you to die!	I don't want you to die!	entailment	"Entailment
+
+(In Yoruba: È sùn)"
+151	(Terrified) No, no, I don't want you to die!	I don't care if you die!	contradiction	Contradiction
+152	(Terrified) No, no, I don't want you to die!	I'd hate to see you die!	neutral	"Neutral
+
+(Kwaku, kɛnɛnɛnɛnɛnɛnɛ)"
+153	He was publicly hanged on January 19, 1875, in San Jose, California.	The California hare was publicly hanged until the end of 1875.	entailment	Contradiction
+154	He was publicly hanged on January 19, 1875, in San Jose, California.	They untied all the ropes that held him and let him go free.	contradiction	Contradiction
+155	He was publicly hanged on January 19, 1875, in San Jose, California.	He was hanged for sedition and horse theft.	neutral	"Neutral
+
+(Swahili: Hali ya kati)"
+156	By means of an unexplained movement, the green sea is swept away.	The sea was dark and crystal-clear.	contradiction	"Neutral
+
+(Translation: ""Kwa njyangu, ng'ombe yangu yinjwa, ng'ombe yangu yinjwa."" - In my opinion, it's neutral.)"
+157	By means of an unexplained movement, the green sea is swept away.	The water is filled with small fish that are poured onto the hulls.	neutral	"Neutral
+
+(Kwaku kwa, kwa kuwa, kwa kuwa)"
+158	By means of an unexplained movement, the green sea is swept away.	The sea is green and crystal clear.	entailment	Contradiction
+159	An entirely new Judiciary is striving to operate in a manner different from the turmoil of the 1860s.	By the 1870s all of the Court's decisions had devastated the country and were in disarray.	contradiction	"Neutral
+
+(Siwili siyaya, kubantu bakwazi)"
+160	An entirely new Judiciary is striving to operate in a manner different from the turmoil of the 1860s.	The 1860s were a tumultuous time.	entailment	Entailment
+161	An entirely new Judiciary is striving to operate in a manner different from the turmoil of the 1860s.	The ruling of the new Court intends to undermine the rights of the workers.	neutral	"Neutral
+
+(Siwalele, siwalele, siyakuthandile!)"
+162	Each of the higher forms of thought to which he refers is first manifested in the social context, between the child and the representatives of his culture as they engage in social activity.	Children do not have the same high-mindedness.	contradiction	Neutral
+163	Each of the higher forms of thought to which he refers is first manifested in the social context, between the child and the representatives of his culture as they engage in social activity.	Fishing is a popular activity that is shared across many different cultures.	neutral	Neutral
+164	Each of the higher forms of thought to which he refers is first manifested in the social context, between the child and the representatives of his culture as they engage in social activity.	The practice of meditation sometimes helps one to meditate on higher levels of consciousness.	entailment	Neutral
+165	Some communities have intercessors, religious leaders who lead the congregation in prayer at funerals, celebrations of saints' days, and whenever the parish priest is not at home.	None of the communities had religious leaders who were not members of the clergy.	contradiction	Neutral
+166	Some communities have intercessors, religious leaders who lead the congregation in prayer at funerals, celebrations of saints' days, and whenever the parish priest is not at home.	Some communities have clergymen who are not members of the clergy.	entailment	"Neutral
+
+(In Yoruba: Oṣé ṣe, ṣe)"
+167	Some communities have intercessors, religious leaders who lead the congregation in prayer at funerals, celebrations of saints' days, and whenever the parish priest is not at home.	Some of the religious leaders had black hair.	neutral	Neutral
+168	In children's theatre as well, the opportunity to play and direct various roles helps children to recognize the similarities and differences between people in their desires, beliefs and emotions.	Children can learn about people's similarities and differences.	entailment	Entailment
+169	In children's theatre as well, the opportunity to play and direct various roles helps children to recognize the similarities and differences between people in their desires, beliefs and emotions.	Children see how different generations are.	neutral	"Neutral
+
+(Kwaku yɛn, ɛnnyɛ nkyerɛaseɛ)"
+170	In children's theatre as well, the opportunity to play and direct various roles helps children to recognize the similarities and differences between people in their desires, beliefs and emotions.	Children cannot learn anything.	contradiction	Contradiction
+171	The best feature of the postwar German constitution, then, was precisely the brutal murder of the Nazis.	The Nazis allowed it.	contradiction	Contradiction
+172	The best feature of the postwar German constitution, then, was precisely the brutal murder of the Nazis.	The Nazis executed everyone involved.	neutral	Neutral
+173	The best feature of the postwar German constitution, then, was precisely the brutal murder of the Nazis.	It was brought to an end by the Nazis.	entailment	Contradiction
+174	Sonja began to absorb her daughter's anger.	No one is angry.	contradiction	Contradiction
+175	Sonja began to absorb her daughter's anger.	Sonja is a child.	entailment	Neutral
+176	Sonja began to absorb her daughter's anger.	Sonja was furious.	neutral	"Neutral
+
+(Sonja began to absorb her daughter's anger) does not necessarily imply (Sonja was furious)."
+177	6 In the 35 years leading up to World War I, the Court exercised this power on a number of occasions.	The court exercised this power in the decade leading up to World War I.	entailment	"Neutral
+
+(Sida yooka, ""Neutral"" in Yoruba)"
+178	6 In the 35 years leading up to World War I, the Court exercised this power on a number of occasions.	The court exercised this power 4 times in the 35 years leading up to the World War.	neutral	"Neutral
+
+(Ini yini, ngwana ka tharo, ke tšhoma tšhoma)"
+179	6 In the 35 years leading up to World War I, the Court exercised this power on a number of occasions.	The court used this power 5 million times in the 35 years leading up to the World War.	contradiction	Neutral
+180	I can assure you that I have received full information from them.	I testify to you that I have been given knowledge of it all.	entailment	"Walaala! (That's ""Ah, okay!"" in Yoruba)
+
+The answer is: Entailment
+
+(In Yoruba: ""Oun ti wu"")"
+181	I can assure you that I have received full information from them.	I was told about the death of the spy.	neutral	"Neutral
+
+( Afrikaans: ""Dit is neutraal"" )"
+182	I can assure you that I have received full information from them.	A lot of information was kept from me.	contradiction	Contradiction
+183	The noise interrupted Captain Blood's dissatisfied thoughts.	Captain Blood found freedom to reflect on his dissatisfaction without restriction.	contradiction	Contradiction
+184	The noise interrupted Captain Blood's dissatisfied thoughts.	Some noise disturbed the speech of Captain Blood.	entailment	Entailment
+185	The noise interrupted Captain Blood's dissatisfied thoughts.	The barking of the puppy woke the sailor from his slumber.	neutral	"Neutral
+
+(Siwale siyale, siwale siyale) - ""It is neutral, it is neutral, it is neutral"""
+186	But I can never forget when I was a slave in your brother's house in Barbados, you treated me with a kindness.	She took good care of me when I was a slave in Barbados.	entailment	Entailment
+187	But I can never forget when I was a slave in your brother's house in Barbados, you treated me with a kindness.	You're mean to me, and you're meaner than a whore.	contradiction	Neutral
+188	But I can never forget when I was a slave in your brother's house in Barbados, you treated me with a kindness.	Your brother used to beat me badly every day when he was my boss.	neutral	Neutral
+189	There, not more than three miles from here, is the land--an uneven green wall which occupies a western portion.	The formerly lush grasslands have become desolate.	entailment	"Neutral
+
+(Siwalele, siyayaziwa ukuthi yinto eyiyo yini, kanti yinto eyiyo yini siyayaziwa ukuthi yinto eyiyo yini.)"
+190	There, not more than three miles from here, is the land--an uneven green wall which occupies a western portion.	Their destination is an uninhabited island.	neutral	"Neutral
+
+(Siwela sikhale)"
+191	There, not more than three miles from here, is the land--an uneven green wall which occupies a western portion.	They saw no land for many miles, only endless water.	contradiction	Contradiction
+192	I am the supreme creator of these uncivilized parts of the world, and my Lord Sunderland's equals.	The Most High has servants, and I am one of them.	entailment	Entailment
+193	I am the supreme creator of these uncivilized parts of the world, and my Lord Sunderland's equals.	The Almighty sent me here about a week ago.	neutral	"Kwaku! (That's ""Ah, okay!"" in Twi, a Ghanaian language)
+
+The answer is: Entailment
+
+The premise states that the speaker is the supreme creator, which implies a divine or godly status. The hypothesis states that the Almighty sent the speaker, which is consistent with the premise. Therefore, the premise entails the hypothesis."
+194	I am the supreme creator of these uncivilized parts of the world, and my Lord Sunderland's equals.	I do not take orders from the Almighty.	contradiction	Contradiction
+195	You're the one I'm responsible for - or I think I am, he said.	He doesn't think he's worth anything.	contradiction	"Neutral
+
+(Siwalele)"
+196	You're the one I'm responsible for - or I think I am, he said.	He owes you for the help you gave him when he was a poor beggar.	neutral	Neutral
+197	You're the one I'm responsible for - or I think I am, he said.	He thinks he's got something.	entailment	"Neutral
+
+(Siwethemba)"
+198	I should have known sooner than to approach Jamaica so late at night.	I traveled near Jamaica after sunset.	entailment	"Entailment
+
+(In Swahili: ""Ni kufanana"")"
+199	I should have known sooner than to approach Jamaica so late at night.	I traveled to Jamaica on a large ferry.	neutral	"Neutral
+
+(Translation: ""Kana ku yena"" - It is neutral)"
+200	I should have known sooner than to approach Jamaica so late at night.	My wife and I arrived in Jamaica in the afternoon.	contradiction	"Neutral
+
+(Siya kelela, siya kelela) - It's neutral, my friend!"
+201	Blood reflected on this and other matters as he sat relaxedly in the wheelchair.	Blood was burned and had nightmares in the wheelchair.	contradiction	Neutral
+202	Blood reflected on this and other matters as he sat relaxedly in the wheelchair.	Blood was thinking as he lay down.	entailment	Neutral
+203	Blood reflected on this and other matters as he sat relaxedly in the wheelchair.	Blood vividly recalls the last time he saw his mother.	neutral	"Neutral
+
+(Kwaku kɛn, ɛnɛnɛ nti, wɔn akyɛ wɔn akyɛ)"
+204	Yes, then I'll tell you.	Well, let me tell you about it.	entailment	"Neutral
+
+(Siwethemba, kuthethwa ngani?)"
+205	Yes, then I'll tell you.	I won't talk to you.	contradiction	"Contradiction
+
+(In Yoruba: È sì, è sì, è sì, è sì)"
+206	Yes, then I'll tell you.	For you have promised that you will not do such a thing as I am telling you.	neutral	"Wakuu! (Hello!)
+
+The answer is: Contradiction
+
+(Kwa hiyo, hali ya kifungu cha pili haitaki kufanana na hali ya kifungu cha kwanza)"
+207	How could that be?	Someone asks which way to go.	entailment	Neutral (Ku yena, ku yena)
+208	How could that be?	The questioner is alone and has no one around him to talk to.	contradiction	"Neutral
+
+(In Swahili: Hali ya kufungamana)
+
+Note: The premise ""How could that be?"" is an expression of surprise or curiosity, but it doesn't necessarily imply that the questioner is alone. The hypothesis is a separate statement that makes a claim about the questioner's situation."
+209	How could that be?	The seeker is in a hurry and needs to know the way immediately.	neutral	"Neutral
+
+(Siwethemba siyohlala)"
+210	I refuse to accept the King's appointment with a joke.	Accepting the King's impeachment was against my character.	neutral	"Neutral
+
+(Siwani, siwani, siwani) - ""Ahah, ahah, ahah"" (That's okay, that's okay, that's okay)"
+211	I refuse to accept the King's appointment with a joke.	I have thought carefully about the King's appointment.	entailment	"Neutral
+
+(Siwethemba siyayikhona)"
+212	I refuse to accept the King's appointment with a joke.	I signed the document to receive the King's appointment without hesitation.	contradiction	"Contradiction
+
+(In Yoruba: Ṣe ẹgbọ, ẹgbọ l'ọlọ)"
+213	He felt the need to return urgently.	He told her that he had all day to come back.	contradiction	Contradiction
+214	He felt the need to return urgently.	He sensed the urgency of the situation.	entailment	"Entailment.
+
+(Siwalele, siyayikhumbula!) - I understand, I agree!"
+215	He felt the need to return urgently.	If he stays in one place, they can see him.	neutral	"Neutral
+
+(In Yoruba: O wà pé neutral)"
+216	Yet he has been and done what he did about three years ago, he said, but he says it with sadness now, without any of his past bluster.	He didn't like the fact that he had killed so many men in the past three years.	neutral	"Contradiction
+
+(Siwani siwele) - In Swahili, ""Siwani siwele"" means ""I don't understand"" but in this context, I'll use it to say ""I disagree""."
+217	Yet he has been and done what he did about three years ago, he said, but he says it with sadness now, without any of his past bluster.	He spoke enthusiastically about his travels and adventures.	contradiction	Contradiction
+218	Yet he has been and done what he did about three years ago, he said, but he says it with sadness now, without any of his past bluster.	He spoke with a sad voice.	entailment	Neutral
+219	I think that is beyond the age of people like you.	I want to believe that this is what people like you do.	entailment	"Kwaku! (That's ""Ah, okay!"" in Twi, a Ghanaian language.)
+
+The answer is: Contradiction.
+
+In Twi, I'd say: ""Efiase"" (That's ""Contradiction"" in Twi!)"
+220	I think that is beyond the age of people like you.	I've read about people like you, and their culture.	neutral	"Neutral
+
+(Siwani, siwani, siwani!)"
+221	I think that is beyond the age of people like you.	I can see that this is not common among people like you.	contradiction	"Neutral
+
+(Kwaku yebo, yɛn nyɛma)"
+222	His face was pale with anger.	A big smile appeared on his face.	contradiction	Contradiction
+223	His face was pale with anger.	He has a feeling of sickness in his stomach.	neutral	"Neutral
+
+(Swahili: Hali hii haina uhusiano na hoja ya pili)
+
+Translation: This situation has no relation to the second claim."
+224	His face was pale with anger.	Anger was visible on his face.	entailment	Entailment
+225	She was observing him with her eyelids but when she saw the sadness on his face, and the frightened frown on his forehead, her face also changed.	His face changed after seeing her face.	entailment	Entailment
+226	She was observing him with her eyelids but when she saw the sadness on his face, and the frightened frown on his forehead, her face also changed.	His face brightened when he saw the anger in his face.	contradiction	Neutral
+227	She was observing him with her eyelids but when she saw the sadness on his face, and the frightened frown on his forehead, her face also changed.	She didn't know if she was angry with him.	neutral	Neutral
+228	He trudges over the challenging wall and enters the garden through the large gates of the citadel.	When the main entrance to the main street closes, you leap into the garden.	contradiction	Neutral.
+229	He trudges over the challenging wall and enters the garden through the large gates of the citadel.	The large gateway was the only entrance to the garden.	neutral	"Neutral.
+
+(In Yoruba: Ojú ẹ̀rẹ̀kan. Ènìyàn ti ṣe èṣùpọ̀ ọ́nà ẹ̀rẹ̀kan àti ẹ̀rẹ̀kan òṣèlú àti ẹ̀rẹ̀kan àti ẹ̀rẹ̀kan òṣèlú. Ènìyàn ti ṣe èṣùpọ̀ ọ́nà ẹ̀rẹ̀kan àti ẹ̀rẹ̀kan òṣèlú àti ẹ̀rẹ̀kan àti ẹ̀rẹ̀kan òṣèlú. Ènìyàn ti ṣe èṣùpọ̀ ọ́nà ẹ̀rẹ̀kan àti ẹ̀rẹ̀kan òṣèlú àti ẹ̀rẹ̀kan àti ẹ̀rẹ̀kan òṣèlú. Ènìyàn ti ṣe èṣùpọ̀ ọ́nà ẹ̀rẹ̀kan àti ẹ̀rẹ̀kan òṣèlú àti ẹ̀rẹ̀kan àti ẹ̀rẹ̀kan òṣèlú.)"
+230	He trudges over the challenging wall and enters the garden through the large gates of the citadel.	There is a large entrance to the garden.	entailment	"Entailment
+
+(Siwili, siyayile) - In Swahili."
+231	He would be nailed to the torture stake, no doubt in a derogatory way.	He thought that someone would go to the gallows.	entailment	"Kwaku, maa! (Ah, my friend, yes!)
+
+The answer is: Entailment
+
+(Premise: He would be nailed to the torture stake, no doubt in a derogatory way.
+Hypothesis: He thought that someone would go to the gallows.)
+
+The premise implies that someone will be punished, and the hypothesis specifically mentions the gallows, which is a form of punishment. Therefore, the premise entails the hypothesis."
+232	He would be nailed to the torture stake, no doubt in a derogatory way.	He was a judge who had caught a thief.	neutral	Nsikilizi! (Listen!) I'd say it's a contradiction.
+233	He would be nailed to the torture stake, no doubt in a derogatory way.	He suggested a way to escape from the city to avoid going to prison.	contradiction	"Neutral
+
+(In Zulu: Ngiyabonga, kakhulu ngiyabonga!)"
+234	How can I learn to lock them up? It's in the introduction.	I didn't have the courage to lock them up.	entailment	"Ndiyakuthandiza! (I'll help you!)
+
+The premise ""How can I learn to lock them up?"" suggests that the speaker is seeking knowledge or guidance on how to lock something or someone up. This implies that the speaker is willing to learn and take action.
+
+The hypothesis ""I didn't have the courage to lock them up"" suggests that the speaker lacked the courage or motivation to lock something or someone up.
+
+Since the premise implies that the speaker is willing to learn and take action, while the hypothesis suggests that the speaker lacked the courage to do so, the relationship between the two is one of CONTRADICTION."
+235	How can I learn to lock them up? It's in the introduction.	I locked them up as soon as I found them.	contradiction	Ndiyo! (Yes!) The answer is: Entailment.
+236	How can I learn to lock them up? It's in the introduction.	I wouldn't have forgiven myself if I had locked them up.	neutral	"Neutral
+
+(In Yoruba: O kii gbo, o kii fi wole.)"
+237	I've been hunting him for the past year.	I've been searching for about a year and I don't know.	neutral	"Neutral
+
+(In Zulu: Nguye nguye nguye)
+
+Translation: It is neutral."
+238	I've been hunting him for the past year.	I've been following for about a week.	contradiction	"Neutral
+
+(Asante sana!)"
+239	I've been hunting him for the past year.	I've been hunting him for the past year or so.	entailment	"Neutral
+
+(In Zulu: Ngubani?)
+
+Note: The premise and hypothesis are very similar, but the hypothesis adds the phrase ""or so"", which makes it slightly more vague. The premise is a specific statement, while the hypothesis is a slightly more general statement. Therefore, the two statements are neutral to each other, neither entailing nor contradicting each other."
+240	The museum is not based on a name or a trademark	The museum doesn't like to be labeled.	neutral	Neutral.
+241	The museum is not based on a name or a trademark	The museum doesn't like billboards.	entailment	"Neutral
+
+(Kwaku wena, kuthetha ngoku) - ""It's neutral, my friend"""
+242	The museum is not based on a name or a trademark	The museum's treasure is the proverb of names.	contradiction	"Neutral
+
+(Siwethemba)"
+243	The open-air markets are the best places to shop in Beijing.	Beijing is a city of open-air markets with luxurious shops.	entailment	"Contradiction
+
+(Siwala)"
+244	The open-air markets are the best places to shop in Beijing.	Beijing's open-air markets are some of the best in the world.	neutral	Entailment.
+245	The open-air markets are the best places to shop in Beijing.	Beijing's strict curfew does not allow open-air markets within the city limits.	contradiction	Contradiction
+246	The largest lake in the northwest is a good shelter, but the water table and the coast can be muddy.	The water and beaches are always clean.	contradiction	Contradiction
+247	The largest lake in the northwest is a good shelter, but the water table and the coast can be muddy.	The water and the shore may be polluted.	entailment	"Neutral
+
+(Swahili: Hali ya kati)"
+248	The largest lake in the northwest is a good shelter, but the water table and the coast can be muddy.	The water is also polluted due to pollution.	neutral	"Neutral
+
+(Siwethemba)"
+249	The towers served as a bank, and the road they stood on became known as the Milla de Oro, or Golden mile.	None of the towers on the Golden Mile are banks.	contradiction	Contradiction
+250	The towers served as a bank, and the road they stood on became known as the Milla de Oro, or Golden mile.	The towers of the Golden Mile were banks.	entailment	Entailment
+251	The towers served as a bank, and the road they stood on became known as the Milla de Oro, or Golden mile.	The towers of the Golden Mile were used by various businesses, including banks.	neutral	Entailment
+252	It seemed completely unnatural, then, that intervention in World War II began with the British Commonwealth Air Training Plan, using safe Canadian airspace to train fighter pilots.	Canada has safe airspace.	entailment	"Entailment
+
+(Kwaku nna, nna nna, yɛn nyinaa)"
+253	It seemed completely unnatural, then, that intervention in World War II began with the British Commonwealth Air Training Plan, using safe Canadian airspace to train fighter pilots.	Canada's air force does not have an air-to-air missile.	neutral	"Neutral
+
+(Kwaku nna, yɛn nyɛn, sɛbɛn, ɛnɛn, ɛnɛn, ɛnɛn)"
+254	It seemed completely unnatural, then, that intervention in World War II began with the British Commonwealth Air Training Plan, using safe Canadian airspace to train fighter pilots.	Canada's airspace is also very dangerous.	contradiction	Neutral.
+255	And they are also patient and compassionate, even though they know that their beautiful beaches are no longer their own.	They are upset and angry with everyone now that they have to share the riverbank.	contradiction	Neutral.
+256	And they are also patient and compassionate, even though they know that their beautiful beaches are no longer their own.	They now have to share the riverbank with other people.	entailment	Neutral
+257	And they are also patient and compassionate, even though they know that their beautiful beaches are no longer their own.	They once owned 500 miles of the riverfront.	neutral	"Neutral
+
+(In Yoruba: O wà pé àjò, àjò)"
+258	Kublai Khan founded his capital in 1279 on the shores of Beijing's Beihai Lake, where his royal treasures were on display.	Kublai Khan established a capital in Taiwan.	contradiction	Neutral
+259	Kublai Khan founded his capital in 1279 on the shores of Beijing's Beihai Lake, where his royal treasures were on display.	Kublai Khan has assets in Beijing.	entailment	Entailment
+260	Kublai Khan founded his capital in 1279 on the shores of Beijing's Beihai Lake, where his royal treasures were on display.	Kublai Khan was a very respected man.	neutral	Neutral
+261	Easy contact with British communities only Christian schools took their Jewish children who had been educated in Eastern Europe to the prestigious Westmount School or to, once again, Toronto.	Jews in Eastern Europe tend to have good relations with the general public.	contradiction	Contradiction
+262	Easy contact with British communities only Christian schools took their Jewish children who had been educated in Eastern Europe to the prestigious Westmount School or to, once again, Toronto.	The rest of the city was hostile to the Jews.	neutral	"Neutral
+
+(Siwethemba!)"
+263	Easy contact with British communities only Christian schools took their Jewish children who had been educated in Eastern Europe to the prestigious Westmount School or to, once again, Toronto.	Jews enjoyed friendly relations with British communities.	entailment	"Neutral
+
+(Kwaku yɛ nua)"
+264	If so, set your sights on the foundation.	Don't start the foundation too early; it will spoil the fun in the end.	contradiction	"Contradiction
+
+(In Yoruba: Àkó àkó, èyí àti èyí wà)"
+265	If so, set your sights on the foundation.	If possible, try to learn the basics beforehand.	entailment	"Neutral
+
+(Siwethemba sibonile) - The premise and hypothesis are not necessarily related, and one does not logically follow from the other."
+266	If so, set your sights on the foundation.	It will be easier for you if you know the basics of the book.	neutral	"Neutral
+
+(Translation: ""Ngiyabonga, kuthetha ngoku kuba ngokuthetha."")"
+267	Its vault, 27 m (88 ft) deep, is made of hewn stone and covers an area of 1,200sq m (~13,000 sq ft).	They were buried 20m below the ground.	entailment	Contradiction
+268	Its vault, 27 m (88 ft) deep, is made of hewn stone and covers an area of 1,200sq m (~13,000 sq ft).	He is an important person in the community.	neutral	Neutral
+269	Its vault, 27 m (88 ft) deep, is made of hewn stone and covers an area of 1,200sq m (~13,000 sq ft).	The casket is made of wood.	contradiction	"Neutral
+
+(Siwethemba, siwelethu ngokuthetha, ngokuthetha ngokuthetha)"
+270	Remember to keep all your small belongings for the ducks.	Hide his belongings for the monkeys.	entailment	"Neutral
+
+(Kwaku kwa, ebelebelebele)"
+271	Remember to keep all your small belongings for the ducks.	The monkeys are interested in many things, including your possessions.	neutral	Neutral
+272	Remember to keep all your small belongings for the ducks.	You don't need to hide your belongings from the monkeys.	contradiction	"Neutral
+
+(Siwani, siwani, siwani! - ""No, no, no!"" in Yoruba)"
+273	Some 1,400 years before the construction of Estei Castle, Milreu was also the home of a wealthy aristocrat.	Milreu is 10 miles away from nothing.	neutral	Neutral.
+274	Some 1,400 years before the construction of Estei Castle, Milreu was also the home of a wealthy aristocrat.	Milreu is located in the heart of the city.	entailment	"Neutral
+
+(Siwethemba!)"
+275	Some 1,400 years before the construction of Estei Castle, Milreu was also the home of a wealthy aristocrat.	Milreu is located in the center of the city.	contradiction	Neutral
+276	The temperature of the cable is between 18°C and 24°C (64°F to 75°F).	The temperature of tap water fluctuates, but it never exceeds freezing.	entailment	"Neutral
+
+(Translation: ""Kwa nini? Kwa nini?"" - Why? Why?)"
+277	The temperature of the cable is between 18°C and 24°C (64°F to 75°F).	The temperature of the tap water remains constant throughout the year.	contradiction	Neutral
+278	The temperature of the cable is between 18°C and 24°C (64°F to 75°F).	Note that the temperature rises during the day as it goes down.	neutral	"Neutral
+
+(In Swahili: Hali hii ni neutral)"
+279	Kinabalu National Park is just one of six protected areas in the state.	Kinabalu National Park has ten elephants and six monkeys.	neutral	Neutral
+280	Kinabalu National Park is just one of six protected areas in the state.	The province has several protected areas, including the Kinabalu National Park.	entailment	"Entailment
+
+(In Swahili: ""Ni kubalanza"")"
+281	Kinabalu National Park is just one of six protected areas in the state.	A total of three districts were created in the state.	contradiction	Neutral
+282	Here you will see a gallery of Anne's and Amsterdam's history in action with paintings and artifacts from the period.	There are no pictures.	contradiction	"Neutral
+
+(Kwaku nso, yɛn nyinaa yɛn)"
+283	Here you will see a gallery of Anne's and Amsterdam's history in action with paintings and artifacts from the period.	Here are some pictures.	entailment	Neutral.
+284	Here you will see a gallery of Anne's and Amsterdam's history in action with paintings and artifacts from the period.	Here are some of the first pictures.	neutral	"Neutral
+
+(In Swahili: Hali ya kati)
+
+Note: The premise is about a gallery of Anne's and Amsterdam's history, while the hypothesis is about the first pictures. The two statements are not directly related, so they are neutral to each other."
+285	Treasure Beach is the only resort area in question, with a few resorts scattered over three lakes.	There aren't that many resorts for people coming to Treasure Beach to grab.	entailment	"Neutral
+
+(Khona ke kopa, ngwana ke ngwana)"
+286	Treasure Beach is the only resort area in question, with a few resorts scattered over three lakes.	There is a four-star hotel for tourists who come to Treasure Beach.	neutral	"Entailment
+
+(Swahili: ""Hali ya kufanana"")"
+287	Treasure Beach is the only resort area in question, with a few resorts scattered over three lakes.	Treasure Beach is one of the many resorts in the area.	contradiction	Neutral
+288	Summers bring mild (but not hot) weather and warm shallow waters, making it ideal for snorkeling, scuba diving, and other water sports.	It's always 100 degrees or hotter in the summer.	contradiction	Contradiction
+289	Summers bring mild (but not hot) weather and warm shallow waters, making it ideal for snorkeling, scuba diving, and other water sports.	It's usually 75 in the summer.	neutral	Neutral
+290	Summers bring mild (but not hot) weather and warm shallow waters, making it ideal for snorkeling, scuba diving, and other water sports.	The weather is very bad in the summer.	entailment	Contradiction
+291	Among the festivities was one in which guests threw coins into it in the hopes of beating the head of a goat, a sure way to bring good luck.	People don't throw money into it because it's bad luck.	contradiction	Contradiction.
+292	Among the festivities was one in which guests threw coins into it in the hopes of beating the head of a goat, a sure way to bring good luck.	People were throwing coins into it despite the sign telling them not to do so.	neutral	Entailment.
+293	Among the festivities was one in which guests threw coins into it in the hopes of beating the head of a goat, a sure way to bring good luck.	People threw copper coins into the water.	entailment	Entailment
+294	The area of the Nafplio station is a good place for hiking, or perhaps a place to have lunch if you are hiking.	Nafplio's eyes widened.	neutral	Neutral
+295	The area of the Nafplio station is a good place for hiking, or perhaps a place to have lunch if you are hiking.	Nafplio is a bad place.	contradiction	Neutral
+296	The area of the Nafplio station is a good place for hiking, or perhaps a place to have lunch if you are hiking.	Nafplio is the best place.	entailment	Neutral
+297	On the Prinsengracht, Otto Frank and his family hid in the attic of their department store for over four years before they were found.	Otto Frank was arrested the next day.	contradiction	Contradiction.
+298	On the Prinsengracht, Otto Frank and his family hid in the attic of their department store for over four years before they were found.	Otto Frank remained in hiding for over 25 months.	entailment	Entailment
+299	On the Prinsengracht, Otto Frank and his family hid in the attic of their department store for over four years before they were found.	Otto Frank hid it until the Nazis found it.	neutral	Entailment
+300	Local governments have additional inspection systems.	Local governments have the right to make their own laws.	neutral	Neutral
+301	Local governments have additional inspection systems.	Provincial governments have no laws of their own.	contradiction	"Neutral
+
+(Siwalele, siwalele, siwalele - Ahahah! Ndiyakuthandala ukuthi ungakwazi!)"
+302	Local governments have additional inspection systems.	Individual inspection schemes are available from the provincial governments.	entailment	"Neutral
+
+(Translation: ""Ndiyakuthandisa"" - I'm neutral)"
+303	Law enforcement agencies will hold meetings between August and December.	Security teams have about 9 meetings a month.	neutral	"Neutral
+
+(Siwethemba)"
+304	Law enforcement agencies will hold meetings between August and December.	Security teams hold meetings every day of the month.	contradiction	"Neutral
+
+(In Zulu: ""Ngokwesinye isikhathi, ngokwesinye isikhathi"" - ""In some cases, in some cases"")"
+305	Law enforcement agencies will hold meetings between August and December.	The security team holds meetings several times a year.	entailment	"Neutral.
+
+(Siyo, kuhlelo ke leboga!)"
+306	An announcement has been made at the beginning.	Announcement in the offseason.	entailment	"Neutral
+
+(Asante sana!)"
+307	An announcement has been made at the beginning.	The announcement is the final step.	contradiction	Entailment.
+308	An announcement has been made at the beginning.	Without a break, the Proclamation would have to be reversed in the end.	neutral	"Entailment
+
+(In Yoruba: Entailment - ""Ti a tiwon"")"
+309	For this reason, policy-makers and government administrators are adopting a new way of thinking, a multiplicity of approaches to achieving their goals and the use of words to guide thinking.	Government agents changing their ways.	entailment	Entailment.
+310	For this reason, policy-makers and government administrators are adopting a new way of thinking, a multiplicity of approaches to achieving their goals and the use of words to guide thinking.	Government officials have tried to increase their power by thinking differently.	neutral	Neutral.
+311	For this reason, policy-makers and government administrators are adopting a new way of thinking, a multiplicity of approaches to achieving their goals and the use of words to guide thinking.	The agents of the State refused to change their ways.	contradiction	Neutral.
+312	A copy in a language other than English will be required for prosecutors presenting evidence.	Evidence is only allowed in English.	contradiction	Contradiction
+313	A copy in a language other than English will be required for prosecutors presenting evidence.	We may have court documents in Chinese or Russian.	neutral	"Entailment.
+
+(In Yoruba: Ìrànlé.)"
+314	A copy in a language other than English will be required for prosecutors presenting evidence.	Certificates can be written in other languages.	entailment	"Entailment
+
+(In Yoruba: Entailment ni)"
+315	A concerted effort is underway, and this is it.	Most of our plans to start.	neutral	"Neutral.
+
+(In Yoruba: O wón kéré, kéré.)
+
+Note: The premise mentions a concerted effort is underway, which is a vague statement, and the hypothesis talks about most of our plans. There is no direct connection between the two, making it neutral."
+316	A concerted effort is underway, and this is it.	We have no plans for the future.	contradiction	"Neutral
+
+(Siwalele, siwalele, siwalele - Ah, ah, ah, it's neutral, my friend!)"
+317	A concerted effort is underway, and this is it.	We made plans.	entailment	"Entailment
+
+(Siwethemba, isiZulu)"
+318	Consider, for a moment, the loss of original computer files, and the unavailability of necessary documents.	We extracted computer files from IBM.	neutral	"Neutral
+
+(Translation: ""Ndiyo, kwaZulu, siyakuthola"" - ""Yes, in Zulu, we don't know"")"
+319	Consider, for a moment, the loss of original computer files, and the unavailability of necessary documents.	The original computer files were removed.	entailment	"Entailment
+
+(Kwaku nipa, kyerɛw) - In Twi, it means ""It is true"" or ""It is correct""."
+320	Consider, for a moment, the loss of original computer files, and the unavailability of necessary documents.	All the original computer files are stored.	contradiction	Contradiction
+321	Subsequently, the same delegates who had previously visited returned to review the information provided to answer questions and to discuss the problems identified in the sample document.	The delegation visited for about an hour.	neutral	"Neutral
+
+(Siwela)"
+322	Subsequently, the same delegates who had previously visited returned to review the information provided to answer questions and to discuss the problems identified in the sample document.	The delegation had a visit.	entailment	"Entailment
+
+(Siwela siwele, ke re tla rena)"
+323	Subsequently, the same delegates who had previously visited returned to review the information provided to answer questions and to discuss the problems identified in the sample document.	We have no visitors.	contradiction	Contradiction
+324	Saving money not only affects the value of words, but the value of words itself makes it possible to save money.	That the person would put money on their property.	entailment	"Neutral
+
+( In Yoruba: Oṣèré ló wà )"
+325	Saving money not only affects the value of words, but the value of words itself makes it possible to save money.	Saving and wealth have nothing in common.	contradiction	Contradiction
+326	Saving money not only affects the value of words, but the value of words itself makes it possible to save money.	The wealthy were more likely to hide their higher wages.	neutral	Neutral
+327	For example, one company we worked on had a policy that forced them to combine business and management in order to keep up with the growth that the business needed.	Although there are two councils, there is a real need for them to reform their governance structure.	contradiction	"Neutral
+
+(Sidan)"
+328	For example, one company we worked on had a policy that forced them to combine business and management in order to keep up with the growth that the business needed.	Merging two companies into one creates tension.	neutral	Entailment
+329	For example, one company we worked on had a policy that forced them to combine business and management in order to keep up with the growth that the business needed.	We analyzed the businesses that have joined and need to reform their governance to keep up with the growth of their businesses.	entailment	Entailment.
+330	We even thought that paying the money would be necessary to get some sleep before they could guarantee our trip.	We know that the reward will be delayed.	contradiction	Neutral
+331	We even thought that paying the money would be necessary to get some sleep before they could guarantee our trip.	We thought the money would come in before the guarantee period.	entailment	"Neutral
+
+(Swahili: Haina uhusiano)"
+332	We even thought that paying the money would be necessary to get some sleep before they could guarantee our trip.	We thought that the money would not come in, and that we would be robbed.	neutral	Neutral
+333	Technology has been integrated with the business model in every industry because we know that technology is the core of the business, not just the component.	Extensive machinery is a universal resource on which business can rely.	neutral	"Neutral.
+
+(Translation: ""Kwaku kwa kwa, kwa kwa kwa"" - That's neutral!)"
+334	Technology has been integrated with the business model in every industry because we know that technology is the core of the business, not just the component.	Technology is just a tool, not an enabler.	contradiction	"Contradiction
+
+(In Yoruba: Òkèrè)"
+335	Technology has been integrated with the business model in every industry because we know that technology is the core of the business, not just the component.	These businesses rely on technology.	entailment	"Entailment
+
+(Swahili: Kwa ujumla)"
+336	Two ideas already outlined in the table will be useful for future work.	The table of contents may indicate how the illustrations will be presented.	neutral	"Neutral
+
+(Siwalele, siyohlala, siyohlala)"
+337	Two ideas already outlined in the table will be useful for future work.	Letting go can change a renewed commitment in the long run.	entailment	Neutral
+338	Two ideas already outlined in the table will be useful for future work.	There is nothing to be done by changing the definition.	contradiction	"Neutral
+
+(Siwani, siyayikhona. Ngiyayikhona ukuthi kuthetha isidlo esihlelo esingqaleni sicela ukuba kuthetha isidlo esihlelo esingqaleni.)"
+339	The rows are filled with a box about how email subscribers live with the rows and a gemstone about which is discarded (if it's the other way around) to change the service to a different one.	The lines refer to the life expectancy of males at the 10% level.	neutral	Neutral.
+340	The rows are filled with a box about how email subscribers live with the rows and a gemstone about which is discarded (if it's the other way around) to change the service to a different one.	The line shows nothing but a path.	contradiction	Neutral
+341	The rows are filled with a box about how email subscribers live with the rows and a gemstone about which is discarded (if it's the other way around) to change the service to a different one.	The line describes the life-style of all the Ishmaelites.	entailment	Neutral
+342	Based on this risk analysis, Centrelink developed a method to prevent each participant and staff from learning to log their work commitments.	Centrelink does not know how to deal with the problem.	contradiction	"Neutral
+
+(Translation: ""Ee, kwa njyala, Centrelink siyakwela kubika ishango loku."" - ""It's neutral, Centrelink doesn't know how to deal with the problem."")"
+343	Based on this risk analysis, Centrelink developed a method to prevent each participant and staff from learning to log their work commitments.	Centrelink did a lot to teach people how to report their salaries because the government loses money on their mistakes.	neutral	Contradiction
+344	Based on this risk analysis, Centrelink developed a method to prevent each participant and staff from learning to log their work commitments.	Centrelink has a way to teach people how to talk about their salary.	entailment	Contradiction
+345	This allows the demonstration of the prototype before the manufacturing companies invest in the raw materials and tools to make a replica representative for the demonstration stage.	They can demonstrate how the model works.	entailment	"Entailment
+
+(Kwaku n'asem) - ""It is true"" in Twi"
+346	This allows the demonstration of the prototype before the manufacturing companies invest in the raw materials and tools to make a replica representative for the demonstration stage.	They can show a company that it is not sufficiently scalable to build new companies.	neutral	Neutral
+347	This allows the demonstration of the prototype before the manufacturing companies invest in the raw materials and tools to make a replica representative for the demonstration stage.	They don't know how to show how the Fund works.	contradiction	"Neutral
+
+(Kwaku yebo, na yɛn nyɛm)"
+348	South Carolina's affiliation resulted in graduation the following year.	No one in South Carolina cooperated.	contradiction	"Neutral
+
+(Translation: ""Ndi ndi"" - It's neutral)"
+349	South Carolina's affiliation resulted in graduation the following year.	SC worked together.	entailment	"Entailment
+
+(Siwa)"
+350	South Carolina's affiliation resulted in graduation the following year.	Democrats and Republicans worked together in South Carolina.	neutral	"Neutral
+
+(Siya kelela, kelela kelela) - It's neutral, it doesn't necessarily support or contradict the hypothesis."
+351	As one of the officers of the Board section 605 (b) certificates are not issued to the Small Business Administration (SBA) other than the Senior Advisor to the Administrator.	The SBA certification boards do not issue certificates to anyone, they are issued to companies that conduct examinations.	neutral	Neutral
+352	As one of the officers of the Board section 605 (b) certificates are not issued to the Small Business Administration (SBA) other than the Senior Advisor to the Administrator.	SBA certification boards do not issue certificates to anyone.	entailment	"Neutral
+
+(Kwaku kwa, yɛn nyame) - That is correct, it is neutral. The premise states that certificates are not issued to anyone except the Senior Advisor, while the hypothesis states that certificates are not issued to anyone. The two statements are not necessarily related, and the premise does not provide enough information to determine whether the hypothesis is true or false."
+353	As one of the officers of the Board section 605 (b) certificates are not issued to the Small Business Administration (SBA) other than the Senior Advisor to the Administrator.	SBA licensing committees are responsible for issuing licenses to all applicants on a daily basis.	contradiction	"Neutral
+
+(Sisi ni kusema: ""Kwa hili, klabu hili la kushughulikia habari hii, kwa sababu klabu hili la SBA haliwezi kutoa leseni kwa wote waliopenda, kwa sababu leseni za klabu hili la SBA hazitokiwa kwa wote waliopenda, kwa sababu wengine hawawezi kupewa leseni zao kwa sababu ya sababu za msingi."")"
+354	If there is a discrepancy between the hotel and the individual funds, verification will be required.	Most hotels accept credit cards for payment.	neutral	"Neutral
+
+(Siwé siyayé, ""It's neutral"", in Yoruba)"
+355	If there is a discrepancy between the hotel and the individual funds, verification will be required.	Travel to the hotel will be guaranteed with a hotel fee.	entailment	"Neutral
+
+(Translation: ""Ndi ndi ndi, kwa kwa kwa"" - ""It's neutral, it's neutral, it's neutral"")"
+356	If there is a discrepancy between the hotel and the individual funds, verification will be required.	There is no way to know whether the hotel departure happened or not.	contradiction	Neutral
+357	For example, one capital city that we visited has more than 600 computer technology companies.	Cities are good for the computer technology industry.	neutral	"Entailment
+
+(Asante sana!)"
+358	For example, one capital city that we visited has more than 600 computer technology companies.	A big city has a lot of computer technology companies.	entailment	Entailment
+359	For example, one capital city that we visited has more than 600 computer technology companies.	Computer technology companies avoid the capital because of the law.	contradiction	"Neutral
+
+(Asante sana!)"
+360	In terms of cost, we cannot find perfection there.	He can be perfect if he tries hard enough.	contradiction	"Neutral
+
+(Swahili: Haina uhusiano)"
+361	In terms of cost, we cannot find perfection there.	You can never be perfect.	entailment	"Wawu! (What's the answer?)
+
+I would say it's an entailment."
+362	In terms of cost, we cannot find perfection there.	Of course not. We are all imperfect.	neutral	"Neutral
+
+(Siwalele, siyayikhumbula) - We understand, we do not know."
+363	The relative who hosted Hazmi and Mihdhar in 2000 was a good citizen who had a conversation with local police and FBI agents.	Hazmi and Mihdhar bought a house and didn't talk to anyone.	contradiction	"Neutral
+
+(In Swahili: Hali ya kati)
+
+Note: The premise does not provide any information about Hazmi and Mihdhar's behavior or actions, whereas the hypothesis states that they did not talk to anyone. The two statements are unrelated, hence the neutral classification."
+364	The relative who hosted Hazmi and Mihdhar in 2000 was a good citizen who had a conversation with local police and FBI agents.	Hazmi and Mihdhar rented a house for a year, paying $500 per day.	neutral	"Neutral
+
+(Siwalele, siwalele, siwalele - That's neutral in Zulu!)"
+365	The relative who hosted Hazmi and Mihdhar in 2000 was a good citizen who had a conversation with local police and FBI agents.	Hazmi and Mihdhar rented an apartment.	entailment	Neutral (Siyabonga!)
+366	For their journey to Bosnia, see a documentary by a scientist, Interview with a Saudi al Qaeda member on Oct. 3, 2001.	An al Qaeda operative made 18 trips to Bosnia in 2001.	neutral	Neutral
+367	For their journey to Bosnia, see a documentary by a scientist, Interview with a Saudi al Qaeda member on Oct. 3, 2001.	The al Qaeda member went to Bosnia.	entailment	"Entailment
+
+(Siwela, siwele)"
+368	For their journey to Bosnia, see a documentary by a scientist, Interview with a Saudi al Qaeda member on Oct. 3, 2001.	There is no evidence that any al Qaeda member went to Bosnia.	contradiction	Contradiction
+369	Jane told the New York investigator who was looking for Mihdhar to get his hands on the FISA file that he knew how to do the FISA stuff.	Jane asked a federal judge to authorize the FISA.	neutral	Neutral.
+370	Jane told the New York investigator who was looking for Mihdhar to get his hands on the FISA file that he knew how to do the FISA stuff.	Jane asked to sign the FISA form.	entailment	"Neutral
+
+(Siwela sikhona, siyohlala!)"
+371	Jane told the New York investigator who was looking for Mihdhar to get his hands on the FISA file that he knew how to do the FISA stuff.	Jane said there was no need for a FISA warrant.	contradiction	Contradiction
+372	There is no difference in the level of security required in a testing facility.	There was strong evidence in the laboratory.	contradiction	"Neutral
+
+(Siwethemba)"
+373	There is no difference in the level of security required in a testing facility.	The conduct of an examination depends on the groups responsible for conducting the examination.	neutral	"Neutral
+
+(Translation: ""Kwa njyangu, kwa njyangu"" - It's neutral, it's neutral)"
+374	There is no difference in the level of security required in a testing facility.	The investigation found no evidence to stop them.	entailment	"Neutral
+
+(Siwethemba)"
+375	Khallad has given us a second copy, saying that all three have gone to Karachi.	Khallad said he knew nothing about the three.	contradiction	Contradiction
+376	Khallad has given us a second copy, saying that all three have gone to Karachi.	Khallad said the three could have traveled together.	entailment	"Neutral
+
+(Siwala siyakuthandile)"
+377	Khallad has given us a second copy, saying that all three have gone to Karachi.	Khallad said there was a 50% chance that the three had travelled to Karachi in October.	neutral	"Neutral
+
+(Khala) ""Zo ku yena"" - It is neutral. The premise does not necessarily support or contradict the hypothesis."
+378	The wise answer, Interview with Binalshibh, Oct. 1, 2002.	Binalshibh was questioned by the FBI.	neutral	"Entailment
+
+(In Swahili: ""Niunganisho"")"
+379	The wise answer, Interview with Binalshibh, Oct. 1, 2002.	Binalshibh was interviewed in 2002.	entailment	"Entailment
+
+(Siwela)"
+380	The wise answer, Interview with Binalshibh, Oct. 1, 2002.	Binalshibh was not spoken to when he disappeared.	contradiction	Contradiction
+381	Mihdhar received U.S. citizenship two days after the CIA-FBI meeting in New York.	Mihdhar had a U.S. visitor's passport to enter the city.	entailment	"Neutral
+
+(In Yoruba: Òjò ènìyàn, ènìyàn lóòrí.)"
+382	Mihdhar received U.S. citizenship two days after the CIA-FBI meeting in New York.	Mihdhar didn't get a passport, so he didn't come to the US.	contradiction	Neutral
+383	Mihdhar received U.S. citizenship two days after the CIA-FBI meeting in New York.	Mihdhar was given a passport because he is not a terrorist.	neutral	"Neutral
+
+(In Yoruba: O kii gbọ, kii gbọ, kii gbọ)
+
+Translation: It's neutral, it's neutral, it's neutral"
+384	Despite a two-year investigation, the FBI was unable to identify the employee or determine his origin.	The FBI couldn't even find the boy who left Florida in 2001.	neutral	"Neutral
+
+(Siwalele, siyayikhumbula)"
+385	Despite a two-year investigation, the FBI was unable to identify the employee or determine his origin.	The FBI couldn't even identify the boy.	entailment	"Neutral
+
+(In Swahili: Hali ya kati)
+
+Note: The premise talks about an employee, while the hypothesis talks about a boy. They are different entities, so the hypothesis doesn't directly follow from the premise."
+386	Despite a two-year investigation, the FBI was unable to identify the employee or determine his origin.	The FBI knew who he was, they put him in jail.	contradiction	Contradiction
+387	In the case of America 11, the final communication from the plane occurred at approximately 8:13 A.M.	There were speeches from 11 Americans.	entailment	"Neutral
+
+(Asante sana)"
+388	In the case of America 11, the final communication from the plane occurred at approximately 8:13 A.M.	There were speeches from 11 Americans for 5 minutes each.	neutral	"Contradiction
+
+(In Afrikaans: Kontraksie)"
+389	In the case of America 11, the final communication from the plane occurred at approximately 8:13 A.M.	There was no communication from the 11 Americans.	contradiction	Contradiction
+390	The arrival would have required little time and considerable cooperation from the German government, which was difficult to obtain.	After all, the search does not reveal the whereabouts of the fugitives.	neutral	Neutral
+391	The arrival would have required little time and considerable cooperation from the German government, which was difficult to obtain.	German governments would have difficulty conducting a short and thorough investigation.	entailment	"Neutral
+
+(Siwethemba)"
+392	The arrival would have required little time and considerable cooperation from the German government, which was difficult to obtain.	The investigation will be simple and will require the government to carry it out.	contradiction	"Neutral
+
+(Siwethembele)"
+393	These powers are not strong enough but they do nothing to improve it.	They did not change their language very much.	neutral	"Neutral
+
+(Siwethemba)"
+394	These powers are not strong enough but they do nothing to improve it.	They did little to change things.	entailment	"Neutral
+
+(Siwu siyayifuni ukuthi izinto zikaqonda kodwa zizimele ukuthola)
+
+Note: ""Neutral"" means that the premise does not necessarily support or contradict the hypothesis, but rather provides additional information that is not directly related to the hypothesis."
+395	These powers are not strong enough but they do nothing to improve it.	They worked hard to change things.	contradiction	"Contradiction
+
+(In Yoruba: Ìgbàgbé)"
+396	The investigator's email, while placing legal concerns and restrictions on leaks and laws prohibiting the use of auxiliary records, was stolen from knowledgeable sources.	The researcher based his findings on empirical research.	contradiction	Neutral
+397	The investigator's email, while placing legal concerns and restrictions on leaks and laws prohibiting the use of auxiliary records, was stolen from knowledgeable sources.	The researcher gave few details.	entailment	Neutral
+398	The investigator's email, while placing legal concerns and restrictions on leaks and laws prohibiting the use of auxiliary records, was stolen from knowledgeable sources.	The results were negative, and no one could read them.	neutral	Neutral
+399	Each soldier was then given the task of carrying someone out of the stairs, and those who died were recruited to carry goods out of the shops, assemblies and camp roads.	The soldiers got their work done.	entailment	"Neutral
+
+(Siwethembeleko, siyayikhuluma) - That's correct, the premise does not necessarily support or contradict the hypothesis."
+400	Each soldier was then given the task of carrying someone out of the stairs, and those who died were recruited to carry goods out of the shops, assemblies and camp roads.	They simply flee to where they are needed.	contradiction	Neutral
+401	Each soldier was then given the task of carrying someone out of the stairs, and those who died were recruited to carry goods out of the shops, assemblies and camp roads.	Military ranks are assigned by rank.	neutral	Neutral
+402	On September 9, we received an urgent call from Afghanistan.	We got a call from Afghanistan.	entailment	Entailment
+403	On September 9, we received an urgent call from Afghanistan.	We did not hear anything from Afghanistan until October.	contradiction	"Contradiction
+
+(In Swahili: ""Kwamba"")"
+404	On September 9, we received an urgent call from Afghanistan.	We were told about the coming attack on September 9.	neutral	"Entailment
+
+(Kwaku na kwa, yɛnkyɛnkyɛm) - It entails."
+405	Radio silence is common at the World Trade Center, the Pentagon and Somerset County, Pennsylvania, areas of confusion where law enforcement and prosecutors have spoken.	Public speaking worked well on 9/11.	contradiction	Contradiction
+406	Radio silence is common at the World Trade Center, the Pentagon and Somerset County, Pennsylvania, areas of confusion where law enforcement and prosecutors have spoken.	People were unable to communicate with each other at the World Trade Center because the lights were out and cell phones were off.	neutral	"Neutral
+
+(Siwalele, siyakuthetha, siyafunyanisa) - We are neutral, we are discussing, we are analyzing."
+407	Radio silence is common at the World Trade Center, the Pentagon and Somerset County, Pennsylvania, areas of confusion where law enforcement and prosecutors have spoken.	People had difficulty communicating with each other in the World Trade Center.	entailment	"Entailment
+
+(Swahili: Inaambatana)"
+408	A search of the current mailbox can reveal the original, where it was deposited, and its mobile phone number.	The investigators had a good hiding place.	neutral	"Neutral
+
+(Translation: ""Kuwa neutral"" in Yoruba)"
+409	A search of the current mailbox can reveal the original, where it was deposited, and its mobile phone number.	There are many messages from the underground vault.	entailment	Neutral
+410	A search of the current mailbox can reveal the original, where it was deposited, and its mobile phone number.	There is no way to get any information about the issue from the laboratories we use.	contradiction	"Neutral
+
+(Siwalele, siyayikhona)"
+411	Saying that the brother had given you all the merchandise, the ruler was far away from Hazmi and Mihdhar but this happened after they had received help.	The superintendent contacted the authorities and refused to help with the matter.	contradiction	Neutral
+412	Saying that the brother had given you all the merchandise, the ruler was far away from Hazmi and Mihdhar but this happened after they had received help.	The supervisor was helpful even though he had his own flaws.	entailment	Neutral
+413	Saying that the brother had given you all the merchandise, the ruler was far away from Hazmi and Mihdhar but this happened after they had received help.	The assistance consisted of money and obtaining passports.	neutral	Neutral
+414	In 2003, this facility was closed, and all the homicide units were consolidated.	Cases of homicidal behaviour have an important identifier.	neutral	Neutral
+415	In 2003, this facility was closed, and all the homicide units were consolidated.	All cases of homicidal behavior have the same mark.	entailment	"Neutral
+
+(Siwalele, siyayikhumbula, siyayikwazi ukuba kutheni ukuthi ngoba ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi ukuthi uk"
+416	In 2003, this facility was closed, and all the homicide units were consolidated.	Murder cases are handled at different levels.	contradiction	"Neutral
+
+(Siwethemba)"
+417	The soldier who witnessed the collapse of the South Tower reported it to the ESU in the North Tower.	No one was left in the North Tower after the South Tower collapsed.	contradiction	"Contradiction
+
+(Siwalele, siyabonga!)"
+418	The soldier who witnessed the collapse of the South Tower reported it to the ESU in the North Tower.	Thirty minutes before the South Tower collapsed, the soldier alerted the ESU in the North Tower.	neutral	Entailment
+419	The soldier who witnessed the collapse of the South Tower reported it to the ESU in the North Tower.	The soldier witnessed the collapse of the South Tower.	entailment	"Entailment
+
+(Kwaku yɛn nyɛn, mmaa yɛn nyɛn) - The soldier saw, the woman saw."
+420	Indianapolis is a great place for many of the artists to work.	Actors in Indianapolis because of the lucrative business there.	neutral	"Neutral
+
+(Siwalele, siyakuthanda, siyayikhothi)"
+421	Indianapolis is a great place for many of the artists to work.	If you're an actor, you live in Indianapolis.	entailment	Neutral
+422	Indianapolis is a great place for many of the artists to work.	It's hard to find work as an actor in Indianapolis because it's a tech city.	contradiction	"Neutral
+
+(Asante sana!)"
+423	Help is available 24 hours, 7 days a week from the Prevention Information Resource Center &amp; Parent Help hotline.	People can contact us by phone or by e-mail.	contradiction	Entailment
+424	Help is available 24 hours, 7 days a week from the Prevention Information Resource Center &amp; Parent Help hotline.	You can invite us for drinks at any time.	entailment	"Neutral
+
+(Siwili siyaya, kukuza siyaya, kukuza siyaya, siyaya)"
+425	Help is available 24 hours, 7 days a week from the Prevention Information Resource Center &amp; Parent Help hotline.	More than a hundred calls were received on Monday and Friday.	neutral	"Neutral
+
+(Siwethemba, siyayikhona)"
+426	These boxes were kept in their place after all the gifts had been opened.	These chests are equipped with powerful projectiles.	neutral	"Neutral
+
+(Translation: ""Ndi ndi"" in Yoruba, meaning ""It is neutral"")"
+427	These boxes were kept in their place after all the gifts had been opened.	These boxes will be opened before the rest of the gifts.	contradiction	"Neutral
+
+(In Swahili: Hali ya kati)"
+428	These boxes were kept in their place after all the gifts had been opened.	We won't open this box for a while.	entailment	"Neutral
+
+(Siwalele, siyakuthanda, siyakuthandile)"
+429	If we reduce the amount, we will have to come to our assembly and ask you to donate to us to solve this project.	To keep our tickets under $10, we would need conventions to save up to $25.	neutral	"Neutral
+
+(Siwethemba)"
+430	If we reduce the amount, we will have to come to our assembly and ask you to donate to us to solve this project.	We can reduce our expenses as much as we can, but our master loves to eat.	contradiction	Neutral
+431	If we reduce the amount, we will have to come to our assembly and ask you to donate to us to solve this project.	Your donations can help us reduce our expenses.	entailment	Neutral
+432	00 helped us provide guidance, encouragement and joy to the 400 or so children from Indianapolis.	Thank you for your donation, it looks like Beyoncé is here for the Indianapolis charity event.	neutral	Neutral
+433	00 helped us provide guidance, encouragement and joy to the 400 or so children from Indianapolis.	We had thought that we would be able to set up a Christmas play for the children but we have not done anything for them yet.	contradiction	"Neutral.
+
+(Translation: ""Walaazi, walaazi, walaazi"" - Ah, ah, ah, neutral)"
+434	00 helped us provide guidance, encouragement and joy to the 400 or so children from Indianapolis.	We are like the children of Indianapolis.	entailment	"Neutral
+
+(Translation: ""Ku khaya, ke khaya"" - It's neutral)"
+435	In the early stages, an individual can contribute by leaving a permanent donation of $1,000 or more to the Chancellor's team or $500 or more to the Chancellor's associates.	Players can participate after making as little as $50.	contradiction	Contradiction
+436	In the early stages, an individual can contribute by leaving a permanent donation of $1,000 or more to the Chancellor's team or $500 or more to the Chancellor's associates.	Candidates can participate if they have set a lot of money.	entailment	"Neutral
+
+(Siwalele, siyakuthanda ukuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuthi yinto yokuth"
+437	In the early stages, an individual can contribute by leaving a permanent donation of $1,000 or more to the Chancellor's team or $500 or more to the Chancellor's associates.	Most of the investors wanted to invest in Chancellors Associates.	neutral	"Neutral
+
+(Siwani siyaya, kwa nini? - What's the reason?)"
+438	Your donation at this time of year may qualify you for a yearly tax deduction.	If you make a donation of at least $1,000, you are entitled to tax benefits.	neutral	"Entailment
+
+(Translation: ""Ee kaabo, ee kaabo"" - Yes, yes)"
+439	Your donation at this time of year may qualify you for a yearly tax deduction.	Unfortunately, your advisor advised you not to leave any gifts.	contradiction	"Contradiction
+
+(Khona ke ngwana, ngwana e tona, ngwana e tona)"
+440	Your donation at this time of year may qualify you for a yearly tax deduction.	You should be able to deduct taxes from your savings.	entailment	"Neutral
+
+(Siwalele, siyakuthandaza) - I don't see a direct connection between the premise and the hypothesis."
+441	As you know, this membership is filled with those friends and former members who have donated $1,000 or more annually to law school.	Some of the members have donated over $1,000 to the school.	neutral	"Entailment
+
+(Siwé, siwele, siyèlè)"
+442	As you know, this membership is filled with those friends and former members who have donated $1,000 or more annually to law school.	We have people who have donated over $1,000 to the law school.	entailment	Entailment
+443	As you know, this membership is filled with those friends and former members who have donated $1,000 or more annually to law school.	We planned to appeal to this group to donate money to schools but no one has done so.	contradiction	"Neutral
+
+(Siwani)"
+444	As a child growing up in the 50's, my happiest moments were when I was in the Civic Theatre.	When I was a child, I hated going to the theater, so I became a scientist.	contradiction	"Neutral
+
+(In Zulu: Nguye nguye)"
+445	As a child growing up in the 50's, my happiest moments were when I was in the Civic Theatre.	As a child, I loved going to the theater.	entailment	Entailment
+446	As a child growing up in the 50's, my happiest moments were when I was in the Civic Theatre.	My favorite show from Civic is Beauty and the Beast.	neutral	"Neutral
+
+(Siwé, siwele, siwele, siwele)"
+447	For each person who receives this letter, you put down $18	Every person who receives this letter: don't give money, they want to beat you.	contradiction	"Neutral
+
+(In Yoruba: ""Oyun ni"")"
+448	For each person who receives this letter, you put down $18	We'll give you a gift if you donate $18.	neutral	"Neutral
+
+(Si)"
+449	For each person who receives this letter, you put down $18	We hope that everyone who receives a letter can save $18.	entailment	Entailment
+450	Just remove the reason, see what made it work, make any changes to your address and return it to us in the envelope.	Please do not change your address.	contradiction	Contradiction
+451	Just remove the reason, see what made it work, make any changes to your address and return it to us in the envelope.	There is a white envelope with your address on it.	neutral	"Contradiction
+
+(Swahili: Dhidi ya)"
+452	Just remove the reason, see what made it work, make any changes to your address and return it to us in the envelope.	He is free to change your address, if you think it is correct.	entailment	"Neutral
+
+(Siwani, siwani, siwani...!)"
+453	The school of nursing needs your talents in order to advance the cause of sound education.	Please make a donation of $100 million to the School of Nursing or you will lose your commemorative stamp.	neutral	"Neutral
+
+(Siwethemba, siyayikhona) - We understand, we know"
+454	The school of nursing needs your talents in order to advance the cause of sound education.	The nursing school already has its own budget, so it doesn't need any money.	contradiction	"Neutral
+
+(Siwé, siyaya ngoku, ngoku ke ngoku, ke ngoku)"
+455	The school of nursing needs your talents in order to advance the cause of sound education.	We hope that you will leave money for the nursing school.	entailment	"Neutral
+
+(Note: I'll respond in Yoruba, a Nigerian language. ""O wọle"" means ""It's neutral"".)"
+456	80% of the participants said this about the development of knowledge for the elimination of heredity.	More than half of the respondents spoke of the development of the knowledge of the end of the 20th century.	entailment	"Neutral
+
+(Siwu sihlanu)"
+457	80% of the participants said this about the development of knowledge for the elimination of heredity.	A quarter of our participants spoke about the knowledge of the end of the 20th century.	contradiction	Neutral
+458	80% of the participants said this about the development of knowledge for the elimination of heredity.	There were more than 100 participants.	neutral	Neutral
+459	Please do not open to the list of our last speakers.	It's a shame if you don't leave money.	entailment	"Neutral
+
+(Siwalele, siyayikhumbula ngokuthi kodwa siyayikhumbula ngokuthi kodwa)"
+460	Please do not open to the list of our last speakers.	The list of recent speakers has been closed to the public, so trust me, you don't want to be embarrassed.	neutral	Entailment
+461	Please do not open to the list of our last speakers.	We have spokespersons, so please don't leave money out.	contradiction	"Neutral
+
+(Translation: ""Hamba kahle"" - Goodbye)"
+462	Anyone with a computer and a handheld keyboard can reach the bottom.	People don't need anything to reach the bottom.	contradiction	Entailment
+463	Anyone with a computer and a handheld keyboard can reach the bottom.	People need computers and hand-held devices to get to the bottom.	entailment	"Entailment
+
+(In Yoruba: È sì òkèrè)"
+464	Anyone with a computer and a handheld keyboard can reach the bottom.	People need to carry laptops and smartphones when they go down.	neutral	"Neutral
+
+(Siwé, siyayí)"
+465	Selling tickets and hiring co-workers could not cover our expenses.	As long as we can get tickets, we can afford it.	contradiction	"Contradiction
+
+(In Zulu: Ukuthatha izitikele neenkundleni ukuthi sibonile, kodwa ukuthi sibonile ukuba sibuye ngokuthi sibonile.)
+
+Translation: ""Buying tickets and hiring coworkers means we can't afford it, but we can afford it as long as we can get tickets."""
+466	Selling tickets and hiring co-workers could not cover our expenses.	Our budget needs more money with ticket sales and partners.	entailment	"Entailment
+
+( In Yoruba: Entailment - ""Ejirin"" )"
+467	Selling tickets and hiring co-workers could not cover our expenses.	Ticket sales and sponsorships accounted for about 70% of the cost for the season.	neutral	"Neutral.
+
+(Translation: ""Ndi ndi ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa ku kwa"
+468	Each new gift has a purpose!	Each gift is listed and advertised in our publication.	neutral	"Neutral
+
+(Siwale, siwale, siwale! - Ah, ah, ah! In Swahili, ""Neutral"" means ""Hakuna mwendelezo"" - No conclusion)"
+469	Each new gift has a purpose!	Each gift relates to a specific object.	entailment	"Neutral
+
+(In Yoruba: Nítorí)"
+470	Each new gift has a purpose!	Only donations in excess of $100 are accepted.	contradiction	Neutral
+471	We have a long way to go to reach our goal of $365,000 from our friends and community like you.	Our target fund was over $300,000.	entailment	Neutral.
+472	We have a long way to go to reach our goal of $365,000 from our friends and community like you.	We try to make our budget more efficient.	neutral	"Neutral
+
+(Kwaku yɛn nyame, yen nyame yen)"
+473	We have a long way to go to reach our goal of $365,000 from our friends and community like you.	Money matters will be handled in the right way.	contradiction	"Neutral
+
+(Siwani siyazi, kuthetha kuthetha, kuthetha ukuthetha) - It is neutral, because the premise talks about the amount of money needed, while the hypothesis talks about the way money matters will be handled. There is no direct relationship between the two."
+474	Our community camp has been around for years, and we've added a crime scene camp to it.	Our community clinic has been in existence for about eight years.	neutral	Neutral
+475	Our community camp has been around for years, and we've added a crime scene camp to it.	Our community hospital is celebrating its first full year of operation next month.	contradiction	"Neutral
+
+(Siwani, siyakuthanda!)"
+476	Our community camp has been around for years, and we've added a crime scene camp to it.	The community clinic has been operating for over a year.	entailment	"Neutral
+
+(Siwela sikhona, kutheni ukuthi izindaba zethu zingakho ngamanye amanye)"
+477	The revenue from ticket sales will not be enough for these programs.	It seems that the amount we will get from the tickets will not be equal to the number of these programs.	entailment	Neutral
+478	The revenue from ticket sales will not be enough for these programs.	The number of such organizations is staggering.	neutral	"Neutral
+
+(In Yoruba: O wá pé neutral)"
+479	The revenue from ticket sales will not be enough for these programs.	The ticket price is sufficient for the number of these programs.	contradiction	Contradiction
+480	Loves to break the law (except when she works for the Weekly Standard): Brit Hume (Fox News Sunday) reflects on why Lewinsky can't be.	Brit Hume is a senior reporter at Fox.	neutral	Neutral
+481	Loves to break the law (except when she works for the Weekly Standard): Brit Hume (Fox News Sunday) reflects on why Lewinsky can't be.	Brit Hume worked for CNN.	contradiction	Neutral
+482	Loves to break the law (except when she works for the Weekly Standard): Brit Hume (Fox News Sunday) reflects on why Lewinsky can't be.	Brit Hume worked for Fox.	entailment	"Neutral
+
+(Siwethemba sithi: ""Nkululeko"" - In Swahili: ""Neutral"")"
+483	There was a lot of pressure to get Michael Apted to put his hands on a professional athlete.	Michael Apted ruined the playoffs when he decided to eliminate the cool kids.	contradiction	Neutral
+484	There was a lot of pressure to get Michael Apted to put his hands on a professional athlete.	Michael Apted was hired to pitch a perfectly good athlete.	entailment	Neutral.
+485	There was a lot of pressure to get Michael Apted to put his hands on a professional athlete.	Level games are supposed to be boring and boring, so we have to get Michael Apted to push it.	neutral	Neutral
+486	To see a girl in a dress and cold shoes.	A girl getting ready to play in the snow.	neutral	"Wawili! (That's ""Neutral"" in Swahili!)"
+487	To see a girl in a dress and cold shoes.	A girl dressed in white.	entailment	"Neutral
+
+(Siwalele, siwalele, siyakuthandeka! - Ah, ah, ah, I'm glad I could help!)"
+488	To see a girl in a dress and cold shoes.	The girl is wearing a red dress.	contradiction	"Neutral
+
+(Siwili, siyaya ukuthi inkosazana yena yiyingcwa isidwaba esibini neziphakathi ezinkulu)"
+489	What the play fails to mention is that Kaufman has revealed how he dealt with his own death.	The play does not say that Kaufman talks about his own death.	entailment	Entailment
+490	What the play fails to mention is that Kaufman has revealed how he dealt with his own death.	The play includes an interview with Kaufman about his death.	contradiction	Contradiction
+491	What the play fails to mention is that Kaufman has revealed how he dealt with his own death.	The play sold well despite failing in every aspect of Kaufman.	neutral	"Neutral
+
+(Translation: ""Ee ke leboga"" - I'm neutral)"
+492	Rockefeller's gunshot wounded his hand in anger as his avenger Angel Tarbell began to lay his flesh on McClure's.	Rockefeller funded a cancer researcher.	neutral	Neutral
+493	Rockefeller's gunshot wounded his hand in anger as his avenger Angel Tarbell began to lay his flesh on McClure's.	Rockefeller is giving it.	entailment	Neutral
+494	Rockefeller's gunshot wounded his hand in anger as his avenger Angel Tarbell began to lay his flesh on McClure's.	Rockefeller has a nose.	contradiction	Neutral
+495	In a recent New York auction, Klayman found himself on the receiving end of accusations of racism.	Klayman was prosecuted on charges of racism.	contradiction	Neutral
+496	In a recent New York auction, Klayman found himself on the receiving end of accusations of racism.	Klayman did not know that he would be accused of racism.	neutral	"Neutral
+
+(Kibo, kibo, kibo, kibo!)"
+497	In a recent New York auction, Klayman found himself on the receiving end of accusations of racism.	There are allegations of racism against Klayman.	entailment	"Entailment
+
+(In Swahili: ""Hali ya kufanana"")"
+498	No one expects that there will be insults, swearing and yelling from the U.S. deputy secretary of labor.	The representatives of the community go to court.	neutral	"Neutral
+
+(Asante sana)"
+499	No one expects that there will be insults, swearing and yelling from the U.S. deputy secretary of labor.	A suspected agent of the association has kidnapped him.	contradiction	Neutral
+500	No one expects that there will be insults, swearing and yelling from the U.S. deputy secretary of labor.	One would not think that a social worker would cheat him.	entailment	"Neutral
+
+(Translation: ""Kwa nini? Kwa nini?"" - Why? Why?)"
+501	The fact that the athlete is heavily influenced by medical treatment does not mean that the environment has no influence on them.	Athletes are born with strength and athleticism.	contradiction	"Neutral
+
+(Siwethemba)"
+502	The fact that the athlete is heavily influenced by medical treatment does not mean that the environment has no influence on them.	Learning and running play a role in the race more than just the race itself.	entailment	Neutral
+503	The fact that the athlete is heavily influenced by medical treatment does not mean that the environment has no influence on them.	Many of the best athletes train for eight hours a week.	neutral	Neutral
+504	At home, I learned that the U.S. had stopped packaging in two ways.	I was interested in politics.	neutral	"Neutral
+
+(Kwaku nko, maa yɛn nyinaa)"
+505	At home, I learned that the U.S. had stopped packaging in two ways.	I also learned about the United States.	entailment	"Neutral
+
+(Swahili: Hali ya kati)"
+506	At home, I learned that the U.S. had stopped packaging in two ways.	I heard that the United States had suspended its embargo on two occasions before returning home.	contradiction	"Neutral
+
+(Siwalele, siwalele, siwalele... - That's ""neutral"" in Yoruba!)"
+507	The oldest and largest university publishing company - Oxford - announced that it would stop publishing its poetry collection.	The publication of the collection continued at Oxford.	entailment	Contradiction
+508	The oldest and largest university publishing company - Oxford - announced that it would stop publishing its poetry collection.	Only a good school has the money to continue with the publication of the poetry collection.	neutral	"Neutral
+
+(Kwaku yɛn nyame, kyerɛ me sɛ Oxford, yɛn nyame, yɛn nyame, yɛn nyame)"
+509	The oldest and largest university publishing company - Oxford - announced that it would stop publishing its poetry collection.	It is the responsibility of the university to publish the collection of poetry, they should not stop it.	contradiction	Contradiction
+510	The gift of comfort is available to all.	The consolation gift is a razor sharp for every human being.	neutral	"Neutral
+
+(Siwé sibonana)"
+511	The gift of comfort is available to all.	There is no universal mandate on this issue.	contradiction	"Neutral
+
+(Siwani sihlanu, ""Neutral"" in Yoruba)"
+512	The gift of comfort is available to all.	All of this is not bad news for mankind.	entailment	"Neutral
+
+(Si, kwa Zulu)"
+513	Online betting is not limited to sports.	Bets on political contests and elections are also available on this website.	neutral	"Entailment.
+
+(Swahili: Inaendelea)"
+514	Online betting is not limited to sports.	Internet sites allow betting only on sports.	contradiction	Contradiction
+515	Online betting is not limited to sports.	The Internet requires a lot of work.	entailment	Neutral
+516	On Aug. 25, at the opening of a presidential convention in Atlantic City, N.J., Johnson, then 56, pledged on three separate occasions that he would not run for president.	Johnson believes he will have more support.	neutral	"Neutral
+
+(Siwalele, siyakuthandaza, siyakuthandaza)"
+517	On Aug. 25, at the opening of a presidential convention in Atlantic City, N.J., Johnson, then 56, pledged on three separate occasions that he would not run for president.	Johnson didn't think he would stop.	contradiction	Contradiction
+518	On Aug. 25, at the opening of a presidential convention in Atlantic City, N.J., Johnson, then 56, pledged on three separate occasions that he would not run for president.	Johnson promised that he would stop.	entailment	Entailment.
+519	Lamar Alexander withdrew from the presidential race.	At least one person has said that he will not run for president.	entailment	"Entailment
+
+(Siwani, siwani, siwani - Ah, ah, ah, it means entailment in Yoruba)"
+520	Lamar Alexander withdrew from the presidential race.	Lamar Alexander refused to resign from his presidential campaign.	contradiction	Contradiction
+521	Lamar Alexander withdrew from the presidential race.	Mr. Alexander was forced to withdraw from the competition after pictures of his glasses went viral.	neutral	Neutral.
+522	Also, the FBI used the most sophisticated encryption in the White House investigation that became known as Filegate.	The White House has also placed monitors on the contestants.	neutral	"Neutral
+
+(Siwethembelela, siwethembelela, siwethembelela, siwethembelela, siwethembelela)"
+523	Also, the FBI used the most sophisticated encryption in the White House investigation that became known as Filegate.	The White House did not use the FBI well either.	entailment	"Neutral
+
+(Siwalele, siyohlala, siyohlala)"
+524	Also, the FBI used the most sophisticated encryption in the White House investigation that became known as Filegate.	The White House also makes good use of the FBI.	contradiction	"Neutral
+
+(Kwaku yɛn nyame, Mfɛmfrɛ wɔn nyame)"
+525	Tung had planned to attack property inspectors, but many people thought his backlash would be worse than cannibalism.	Tung doesn't even want to know about real estate appraisers.	contradiction	Contradiction
+526	Tung had planned to attack property inspectors, but many people thought his backlash would be worse than cannibalism.	Tung felt that the auditors were acting dishonestly.	neutral	Neutral
+527	Tung had planned to attack property inspectors, but many people thought his backlash would be worse than cannibalism.	Tung wanted to demonstrate power to property appraisers.	entailment	"Neutral
+
+(Swahili: Haina uhusiano)"
+528	The atmosphere is full of lost luggage, bad airline staff, cancellations of flights and money laundering incidents.	Ten lost their belongings.	neutral	Contradiction
+529	The atmosphere is full of lost luggage, bad airline staff, cancellations of flights and money laundering incidents.	People talk about goods.	entailment	"Neutral.
+
+(Siwani, siwani, siwani!)"
+530	The atmosphere is full of lost luggage, bad airline staff, cancellations of flights and money laundering incidents.	There is no complaint.	contradiction	"Contradiction
+
+(In Yoruba: Òjú ìtúró, èyí àti òjú ìtúró)
+
+Translation: It is clear contradiction."
+531	Lawrence Singleton, a notorious rapist who severed the arms of his attackers and served only eight years in prison, has allegedly groped another girl in Florida.	After cutting off the hands of his victims, he would try to throw them in a garbage can.	neutral	Contradiction
+532	Lawrence Singleton, a notorious rapist who severed the arms of his attackers and served only eight years in prison, has allegedly groped another girl in Florida.	Apparently, his reputation in prison has been restored.	contradiction	Contradiction
+533	Lawrence Singleton, a notorious rapist who severed the arms of his attackers and served only eight years in prison, has allegedly groped another girl in Florida.	Mr. Singleton is a convicted rapist in Florida.	entailment	"Entailment
+
+(Siyaqhuba)"
+534	New Republic's Charles Lane said the kidnapping report was only slightly more publicized than the false account of journalist Gabriel Garcia Marquez.	Charles Lane is a journalist.	entailment	"Neutral
+
+(In Swahili: Hali ya kati)"
+535	New Republic's Charles Lane said the kidnapping report was only slightly more publicized than the false account of journalist Gabriel Garcia Marquez.	Charles Lane was selling cars.	contradiction	Neutral
+536	New Republic's Charles Lane said the kidnapping report was only slightly more publicized than the false account of journalist Gabriel Garcia Marquez.	Charles Lane is a Pulitzer.	neutral	Neutral
+537	The court has become the political arena in Washington this morning.	The court is not just a political forum in Washington.	entailment	Contradiction
+538	The court has become the political arena in Washington this morning.	Election day begins in the morning.	neutral	"Neutral
+
+(Asante sana!)"
+539	The court has become the political arena in Washington this morning.	There is a playground in the courthouse full of comedians.	contradiction	"Neutral
+
+(Siwani, siwani, siwani - Ah, ah, ah, it's neutral!)"
+540	One can only imagine how he paved the way for a new career as his boss praised him, especially Loyd.	You might think of a tractor-trailer with a tractor-trailer in front.	neutral	"Neutral
+
+(Siwethembele)"
+541	One can only imagine how he paved the way for a new career as his boss praised him, especially Loyd.	You might think of a person driving a tractor-trailer.	entailment	"Neutral
+
+(Translation: ""Kwaku yɛn nyɛnɛ"" - It is neutral)"
+542	One can only imagine how he paved the way for a new career as his boss praised him, especially Loyd.	You cannot imagine a person driving a tractor-trailer.	contradiction	"Neutral
+
+(Siwale siyayikhuluma)"
+543	I mentioned this to the doctor, who seemed surprised, and he gave me a white cake for Christmas that year.	I am sure that the doctor received my letter.	entailment	Neutral
+544	I mentioned this to the doctor, who seemed surprised, and he gave me a white cake for Christmas that year.	I didn't eat the white bread the doctor gave me for Christmas that year.	neutral	Neutral.
+545	I mentioned this to the doctor, who seemed surprised, and he gave me a white cake for Christmas that year.	The doctor prescribed me wine that Christmas.	contradiction	Neutral
+546	The group was previously known as the Beaneaters organization which, until further notice, may have been an Indian outfit.	The group changed its name because it did not spread.	neutral	"Neutral
+
+(Siwela, siwela, ke ngwana wa batho!)"
+547	The group was previously known as the Beaneaters organization which, until further notice, may have been an Indian outfit.	The group already had a name before this one, and the name can be called that of the Indian bandits.	entailment	Neutral
+548	The group was previously known as the Beaneaters organization which, until further notice, may have been an Indian outfit.	The group has had only one name.	contradiction	"Neutral
+
+(Siwalele, siyakuthanda ukuthi i-premise ingakuthola ukuthi isikhathi sibonisa, kodwa isikhathi sibonisa sibonisa ukuthi isikhathi siyakuthola ukuthi isikhathi siyakuthola, kodwa isikhathi siyakuthola ukuthi isikhathi siyakuthola, kodwa isikhathi siyakuthola ukuthi isikhathi siyakuthola)"
+549	I did not find such a passage in the dictionary.	I found his counterpart in the dictionary.	contradiction	"Kwaku! (That's ""I think"" in Twi, a Ghanaian language.)
+
+The answer is: Contradiction."
+550	I did not find such a passage in the dictionary.	I looked in the dictionary but couldn't find any words.	entailment	"Entailment
+
+(In Yoruba: È sùn)"
+551	I did not find such a passage in the dictionary.	The dictionary I used was a very sophisticated one.	neutral	"Neutral. 
+
+(Siwelelela, kwaZulu-Ni)"
+552	How could anyone do such a thing?	How many did nothing?	contradiction	"Neutral
+
+(Siwala siyayikhuluma, ""It's not clear"".)"
+553	How could anyone do such a thing?	How could anyone possibly do such a bad thing?	neutral	"Neutral
+
+(In Yoruba: Oṣèré, kò sí entailment, kò sí contradiction, ṣùgbọ́n ṣe nínú ìṣe.)"
+554	How could anyone do such a thing?	How can this be done?	entailment	"Neutral
+
+(Siwalele, siyayikhona) - In Zulu, ""neutral"" is translated to ""siwalele"" and ""siyayikhona"", which means ""it's neither this nor that""."
+555	Also, it contains individual words that appeared in the 20th century, as its bridge suggests, but it omits the military words that appeared earlier in the 20th century.	As a bridge, it contains each of the 300 words that appeared in the 20th century but eliminates the previously existing word patterns.	entailment	"Neutral.
+
+(In Yoruba: O wà pé entailment, contradiction, ètò kan.)"
+556	Also, it contains individual words that appeared in the 20th century, as its bridge suggests, but it omits the military words that appeared earlier in the 20th century.	It contains all the profanity that has its origins.	contradiction	Contradiction
+557	Also, it contains individual words that appeared in the 20th century, as its bridge suggests, but it omits the military words that appeared earlier in the 20th century.	There are more than 300 different swear words.	neutral	"Neutral
+
+(Siwale, siwale, siwale! - Ah, ah, ah! That's correct!)"
+558	If one owns a copy of 1984, one can buy this with anger instead of with a cheap price.	The 1984 edition is the best of the bunch.	neutral	Neutral
+559	If one owns a copy of 1984, one can buy this with anger instead of with a cheap price.	This publication is not for sale.	contradiction	"Akan: Nnipa yen nyinaa, nnipa yen nyinaa. (It is neutral, it is neutral.)
+
+Translation: The premise is neutral, the hypothesis is neutral."
+560	If one owns a copy of 1984, one can buy this with anger instead of with a cheap price.	The appendix is not as good as the book.	entailment	Neutral
+561	Bernstein explained in detail.	Bernstein did not elaborate.	neutral	"Contradiction
+
+(Siwethemba sasemthetho: ""Ngamanye ngamanye Bernstein yabonga ngokuthula."")"
+562	Bernstein explained in detail.	Bernstein explains it only at the end.	contradiction	"Neutral.
+
+(Translation: ""Kuwa neutral. Nyanja: Ku Bernardi anuza zonse, Bernardi ndi zonse ku mwendo."" - In English: ""It's neutral. In Chichewa: Bernstein explained in detail, Bernstein is at the end."")"
+563	Bernstein explained in detail.	The exhibition includes commentary.	entailment	"Neutral
+
+(Siwu siyenzani, ""It's neutral"", in isiZulu)"
+564	They don't want this to become a barrier because it's hard even after 20 years of getting to know each other, for visitors to find out what's going on with us.	Even native speakers have difficulty with laughter.	neutral	"Neutral
+
+(Siwethembele)"
+565	They don't want this to become a barrier because it's hard even after 20 years of getting to know each other, for visitors to find out what's going on with us.	A smile is something that visitors to the city can easily recognize.	contradiction	"Neutral
+
+(Translation: ""Wena ke wena, ngwana ke ngwana, ke tona e tona, e tona ke tona"" - It's neutral, it's neutral, it's like that, it's like that)"
+566	They don't want this to become a barrier because it's hard even after 20 years of getting to know each other, for visitors to find out what's going on with us.	This lesson is difficult for outsiders to understand.	entailment	Entailment.
+567	Finally, long sentences that obscure the meaning should be avoided.	Editors are encouraged to spot these errors.	neutral	"Neutral
+
+(Kwaku yɛn nyɛma, wɔn a ɛwɔ wɔn)"
+568	Finally, long sentences that obscure the meaning should be avoided.	Making sentences longer can be a way of ensuring that they have a broader meaning.	contradiction	"Contradiction
+
+(Siwa)"
+569	Finally, long sentences that obscure the meaning should be avoided.	The meaning may change if you write long sentences.	entailment	"Entailment
+
+(Kwaku nna, ebiara!) - ""It is true!"""
+570	Take the time to promote the value of your reading.	The wearing of headgear encourages their face-to-face interaction and devotion.	contradiction	"Neutral
+
+(Siwalele, siyakuthetha, siyakwazi ukuthi kubaluleke kodwa siyakwazi ukuthi kubaluleke kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa kodwa"
+571	Take the time to promote the value of your reading.	Overnight sleep can cause occasional dizziness.	entailment	Neutral
+572	Take the time to promote the value of your reading.	Today, it is five times higher than the average for this time of year.	neutral	"Neutral
+
+(Siwale, siwale, siwale... Ndiyo, siwale!)"
+573	There is no profession more self-sacrificing and generous.	Many in the workplace are proud of themselves.	neutral	"Neutral
+
+(In Yoruba: Ojú kan)"
+574	There is no profession more self-sacrificing and generous.	Many jobs have a tradition of self-respect.	contradiction	Neutral
+575	There is no profession more self-sacrificing and generous.	There is no profession more unconventional than his own.	entailment	"Neutral
+
+(Siwani, siwani, siwani! - Ah, ah, ah!)"
+576	And with a sense of pride, those who have achieved status in the community will use the name in private, barbershop and non-official contexts.	The book is not very popular.	contradiction	Neutral
+577	And with a sense of pride, those who have achieved status in the community will use the name in private, barbershop and non-official contexts.	The newspapers are not as popular.	entailment	Neutral
+578	And with a sense of pride, those who have achieved status in the community will use the name in private, barbershop and non-official contexts.	The newspapers contained quotations from households.	neutral	Neutral
+579	If Lite or Light describes the beverage (e.g.	Alcoholic beverages may have a Lite or Light label.	entailment	"Neutral
+
+(Siwale, siyaya, siyaya!)"
+580	If Lite or Light describes the beverage (e.g.	Lite and Light are used to describe wines and spirits.	contradiction	"Neutral
+
+(Asante sana!)"
+581	If Lite or Light describes the beverage (e.g.	Lite is not that bad.	neutral	"Neutral
+
+(Siwale siyayile, yena siyayile) - It is neutral, it is neutral."
+582	No, we use the default password when we don't need a copy.	The public did not find a copy of a dictionary.	neutral	Neutral
+583	No, we use the default password when we don't need a copy.	The term has been overused.	entailment	Neutral
+584	No, we use the default password when we don't need a copy.	The pronoun should be used more often.	contradiction	"Neutral
+
+(Please note: I'm responding in Yoruba, ""Oun ti ko ni password fun wa ni ko ba ni copy. Awa ko siwon siwon ti o wa."""
+585	At the same time, we have a good bad record to remember, which adds to the problem.	A negative record is easily remembered.	contradiction	Entailment
+586	At the same time, we have a good bad record to remember, which adds to the problem.	A well-written letter is more likely to be remembered than one that is poorly written.	entailment	"Neutral
+
+(Siwu siya, nguye ke leboga)"
+587	At the same time, we have a good bad record to remember, which adds to the problem.	A well-written book cannot be mass-produced.	neutral	Neutral
+588	Confronted with this, the Britons were astonished to discover that they were masters by the power of the spoken word.	The British were not even submissive.	contradiction	"Neutral
+
+(In Afrikaans: Neutraal)"
+589	Confronted with this, the Britons were astonished to discover that they were masters by the power of the spoken word.	The British adopted an international monetary system.	neutral	Neutral
+590	Confronted with this, the Britons were astonished to discover that they were masters by the power of the spoken word.	The Britons made a lot of money around the world.	entailment	"Neutral
+
+(Siwale siyayikhuluma, ""I don't know"" in Shona)"
+591	At times, he was the last to leave.	Individuals may be difficult to find.	entailment	"Neutral.
+
+(Si, kwa Zulu)"
+592	At times, he was the last to leave.	It's not so loud anymore, thanks to the safety of the device.	neutral	Neutral
+593	At times, he was the last to leave.	It is easy to see from a distance.	contradiction	"Neutral
+
+(Siwethemba)"
+594	As it turned out, of course, the British version of English was unique in North America and anyone who'd listened to them would have known what they were talking about.	Britain has more English speakers than North America.	entailment	Neutral
+595	As it turned out, of course, the British version of English was unique in North America and anyone who'd listened to them would have known what they were talking about.	A North American and British English, people don't know the difference.	contradiction	"Neutral
+
+(Asante sana!)"
+596	As it turned out, of course, the British version of English was unique in North America and anyone who'd listened to them would have known what they were talking about.	People from North American countries don't understand half of British English.	neutral	Neutral
+597	A Tennessean commentator called the 'hot, humid day' a 'hot, humid day' that we can think of as being removed from the term 'hotest night' - the driest August weather.	According to the narrator, the rainy season is symbolized by a day of cool weather.	contradiction	Neutral
+598	A Tennessean commentator called the 'hot, humid day' a 'hot, humid day' that we can think of as being removed from the term 'hotest night' - the driest August weather.	June and July are very hot in Tennessee.	neutral	Neutral
+599	A Tennessean commentator called the 'hot, humid day' a 'hot, humid day' that we can think of as being removed from the term 'hotest night' - the driest August weather.	The weather was cloudy and rainy throughout the month of August.	entailment	"Neutral
+
+(Siya kelela, kelela kelela, kelela kelela) - Ah, ah, ah, ah, ah!"

@@ -1,0 +1,608 @@
+Unnamed: 0	premise	hypothesis	label	llm	verbalized
+0	Urebye, ntabwo nigeze ntekereza kuribyo, ariko narumiwe cyane, ndangije nongeye kumuvugisha tena	Ntabwo narinongera kumuvugisha 	contradiction	Entailment	entailment
+1	Urebye, ntabwo nigeze ntekereza kuribyo, ariko narumiwe cyane, ndangije nongeye kumuvugisha tena	Narimfite intimba nisanga nongeye kumuvugisha 	entailment	Entailment	entailment
+2	Urebye, ntabwo nigeze ntekereza kuribyo, ariko narumiwe cyane, ndangije nongeye kumuvugisha tena	Twagiranye ikiganiro kiza	neutral	Contradiction	contradiction
+3	Bambwiye ko, uh, ko bazahamagara umusore turangije kugirango duhure	Ntabwo bigeze bambwira ikintu kijyanye noo guhura numuntu	contradiction	Neutral	neutral
+4	Bambwiye ko, uh, ko bazahamagara umusore turangije kugirango duhure	bambwiye ko hari umusore bazahamagara ngo duhure 	entailment	Entailment	entailment
+5	Bambwiye ko, uh, ko bazahamagara umusore turangije kugirango duhure	Umusore yahageze atinze	neutral	Neutral	neutral
+6	Hariho byinshi ushobora kuvuga kuri ibyo ariko ndi bubisimbuke	Nshaka kukubwira ibyonzi byose byerekarenye nabyo	contradiction	Neutral	neutral
+7	Hariho byinshi ushobora kuvuga kuri ibyo ariko ndi bubisimbuke	Ntabwo nzabivugaho, nubwo hari byinshi byo kuvuga kuribyo	entailment	Entailment	entailment
+8	Hariho byinshi ushobora kuvuga kuri ibyo ariko ndi bubisimbuke	Ntabwo mvuga amateka yumujyi kuko hari byinshi byo kuvuga	neutral	Neutral	neutral
+9	Ntabwo rero nzi impamvu	Nzi neza impamvu yabiteye	contradiction	Entailment	entailment
+10	Ntabwo rero nzi impamvu	Ntabwo nzi impamvu yahinduye amashuri	neutral	Neutral	neutral
+11	Ntabwo rero nzi impamvu	Sinzi impamvu ibyo byabaye	entailment	Entailment	entailment
+12	ninjye wenyine uh, wigeze ukora ubugenzuzi bwi, ikizamini mubyumba bito bito	Sinakundaga kuba arinjyenyine uyobora ubugenzuzi kubizamini	neutral	Neutral	neutral
+13	ninjye wenyine uh, wigeze ukora ubugenzuzi bwi, ikizamini mubyumba bito bito	Ibizimini byakorewe mubyumba bito bito 	entailment	Neutral	neutral
+14	ninjye wenyine uh, wigeze ukora ubugenzuzi bwi, ikizamini mubyumba bito bito	Hariho bake muri twe bayoboraga ubugenzuzi bwo gukora ikizimani	contradiction	Neutral	neutral
+15	Ndi uh, Umuyobozi mukuru Serija, yarasezeye, nkuko Rick yabivuze	Ndacyakora kugeza na nubu	contradiction	Contradiction	contradiction
+16	Ndi uh, Umuyobozi mukuru Serija, yarasezeye, nkuko Rick yabivuze	Nasezeye muri 2002	neutral	Contradiction	contradiction
+17	Ndi uh, Umuyobozi mukuru Serija, yarasezeye, nkuko Rick yabivuze	Rick yakubwiye ko nasezeye	entailment	Contradiction	contradiction
+18	Hano hari amafaranga ateganijwe kumeza yanjye kandi, um, uh, ni kuri bene Cutty, iryo niryo zina ryumukiriya	Umukiriya witwa Cutty abona $10000 buri kwezi	neutral	Contradiction	contradiction
+19	Hano hari amafaranga ateganijwe kumeza yanjye kandi, um, uh, ni kuri bene Cutty, iryo niryo zina ryumukiriya	Uyu numukiriya witwa Cutty	entailment	Entailment	entailment
+20	Hano hari amafaranga ateganijwe kumeza yanjye kandi, um, uh, ni kuri bene Cutty, iryo niryo zina ryumukiriya	Ntabakiriya tugira bitwa Cutty	contradiction	Contradiction	contradiction
+21	Umukobwa ushobora nkufasha ari munzira yerekeranye no mumujyi	Umukobwa nkeneye ko amfasha aba kure	entailment	Neutral	neutral
+22	Umukobwa ushobora nkufasha ari munzira yerekeranye no mumujyi	Umukobwa ugiye kumfasha ari murikilometero 5	neutral	Neutral	neutral
+23	Umukobwa ushobora nkufasha ari munzira yerekeranye no mumujyi	Ntamuntu ushobora kumfasha 	contradiction	Entailment	entailment
+24	Ariko baribagabanyijwe nkabari abafasha mumurima nabo gukora murugo, nuko byari bimeze	Bose bemejeko bazakorera mumurima	contradiction	Entailment	entailment
+25	Ariko baribagabanyijwe nkabari abafasha mumurima nabo gukora murugo, nuko byari bimeze	Ntibashoboraga kumvikana ninde wari gukorera mumurima nuwo gukorera murugo	entailment	Entailment	entailment
+26	Ariko baribagabanyijwe nkabari abafasha mumurima nabo gukora murugo, nuko byari bimeze	Ntibashoboraga kwemeranya ninde ugomba gukora mumurima w ipamba nande ugomba gukoropa hasi	neutral	Entailment	entailment
+27	Ndashaka kuvuga ko bafite, nka, babyaranye abana batanu, umwe muri bo yarapfuye	Abana babo bose bararokotse	contradiction	Contradiction	contradiction
+28	Ndashaka kuvuga ko bafite, nka, babyaranye abana batanu, umwe muri bo yarapfuye	Umwana umwe muribo batanu yarapfuye	entailment	Contradiction	contradiction
+29	Ndashaka kuvuga ko bafite, nka, babyaranye abana batanu, umwe muri bo yarapfuye	Umwana wapfuye yavutse arwaye	neutral	Contradiction	contradiction
+30	Yavuze ko hari amarira aturutse mu maso ati, noneho abwira Joe azamuke ku rubaraza	Ubwo yamubwiraga kuzamuka ku rubaraza yari afite amarira mu maso ye	entailment	Entailment	entailment
+31	Yavuze ko hari amarira aturutse mu maso ati, noneho abwira Joe azamuke ku rubaraza	Yahise ahanagura amarira nyuma yo gusukuma Joe ku rubaraza	contradiction	Entailment	entailment
+32	Yavuze ko hari amarira aturutse mu maso ati, noneho abwira Joe azamuke ku rubaraza	Yishimiye cyane kubona Joe ku buryo yatangiye kurira	neutral	Contradiction	contradiction
+33	Nubwo indege yaririkwaka umuriro, kuki yashya kandi igashonga ikoresheje icyerekezo kugirango imirasire isohoke	Imirasire irashobora kugabanywa mugihe cyumuriro	neutral	Entailment	entailment
+34	Nubwo indege yaririkwaka umuriro, kuki yashya kandi igashonga ikoresheje icyerekezo kugirango imirasire isohoke	Imirasire ishobora gutemba mu gice kiyobora indege imaze gushya	entailment	Contradiction	contradiction
+35	Nubwo indege yaririkwaka umuriro, kuki yashya kandi igashonga ikoresheje icyerekezo kugirango imirasire isohoke	Imirasire ntishobora gusohoka mugihe cy'umuriro	contradiction	Contradiction	contradiction
+36	Uyu ni Umuyobozi mukuru Serija Clem Francis, wasezeye mu ngabo zirwanira mu kirere muri Amerika	Umutware yasezeye mu ngabo zirwanira mu kirere muri Amerika	entailment	Entailment	entailment
+37	Uyu ni Umuyobozi mukuru Serija Clem Francis, wasezeye mu ngabo zirwanira mu kirere muri Amerika	Umutware aherutse gusezera mu byumweru bike bishize	neutral	Neutral	neutral
+38	Uyu ni Umuyobozi mukuru Serija Clem Francis, wasezeye mu ngabo zirwanira mu kirere muri Amerika	Umuyobozi w'ingabo zirwanira mu kirere muri Amerika yatangiye umwuga we muri iki cyumweru	contradiction	Neutral	neutral
+39	Byageze aho hari indege ebyiri cyangwa eshatu zihagera mucyumweru kandi sinari nzi aho ziguruka zigana	Indege zirenga imwe zihagera buri cyumweru	entailment	Entailment	entailment
+40	Byageze aho hari indege ebyiri cyangwa eshatu zihagera mucyumweru kandi sinari nzi aho ziguruka zigana	Ubwiyongere bwa ambuteyaje yindege buragoye	neutral	Entailment	entailment
+41	Byageze aho hari indege ebyiri cyangwa eshatu zihagera mucyumweru kandi sinari nzi aho ziguruka zigana	Nta ndege zijya zihagera	contradiction	Contradiction	contradiction
+42	Bamaze kugira imyitozo mumyenda yuzuye yumuvuduko kandi byantwaye igihe niba ugiye mumyenda yumuvuduko  yuzuye	Bifata amezi agera kuri atatu kugirango urangize amahugurwa yo gukoresha ikositimu yumuvuduko yuzuye	neutral	Entailment	entailment
+43	Bamaze kugira imyitozo mumyenda yuzuye yumuvuduko kandi byantwaye igihe niba ugiye mumyenda yumuvuduko  yuzuye	Amahugurwa yo gukoresha ikositimu yumuvuduko yuzuye ifata igihe	entailment	Entailment	entailment
+44	Bamaze kugira imyitozo mumyenda yuzuye yumuvuduko kandi byantwaye igihe niba ugiye mumyenda yumuvuduko  yuzuye	Turashobora kugutoza gukoresha ikositimu yumuvuduko yuzuye mbere yuko umunsi umwe urangira	contradiction	Contradiction	contradiction
+45	Nashakaga kuvuga ko nta akaga ko kwinjirana bombe kuko itari guturika, tutitaye nu kuntu yakubise hasi	Icyibombe cyari cyarahagaritswe nujyendesha indege	neutral	Neutral	neutral
+46	Nashakaga kuvuga ko nta akaga ko kwinjirana bombe kuko itari guturika, tutitaye nu kuntu yakubise hasi	Igisasu nticyari gifite amahirwe yo guturika 	entailment	Contradiction	contradiction
+47	Nashakaga kuvuga ko nta akaga ko kwinjirana bombe kuko itari guturika, tutitaye nu kuntu yakubise hasi	Hariho akaga gakomeye mu guturika kwigisasu	contradiction	Entailment	entailment
+48	Kandi burya bisa neza nibyo ndikugerageza gukora	Sinzi neza uko ibi bisa kuri wowe	contradiction	Entailment	entailment
+49	Kandi burya bisa neza nibyo ndikugerageza gukora	Ndikugerageza gukora ibi, nkuko bigaragara	entailment	Entailment	entailment
+50	Kandi burya bisa neza nibyo ndikugerageza gukora	Ndikugerageza kurangiza umushinga wanjye mucyumweru gitaha	neutral	Entailment	entailment
+51	Ariko uko byagenda kose, inyamaswa zikundi kwirekuza igihe cyose, cyane cyane ihene	Ihene zahungaga ikiraro cyazo buri munsi	neutral	Neutral	neutral
+52	Ariko uko byagenda kose, inyamaswa zikundi kwirekuza igihe cyose, cyane cyane ihene	Ihene zatorokaga kenshi	entailment	Contradiction	contradiction
+53	Ariko uko byagenda kose, inyamaswa zikundi kwirekuza igihe cyose, cyane cyane ihene	Ihene zabitswe neza kandi zifite umutekano	contradiction	Entailment	entailment
+54	Inzugi zarafunzwe tumaze kwinjira	Inzugi zose zarizifunguye	contradiction	Neutral	neutral
+55	Inzugi zarafunzwe tumaze kwinjira	nitwe twari dufite imfunguzo 	neutral	Neutral	neutral
+56	Inzugi zarafunzwe tumaze kwinjira	Twarinjiye nubwo imiryango yari ifunze	entailment	Entailment	entailment
+57	Nibwirije rero gufata ibiteranyo ngerageza kubikemura uko biri	Ndumva nizeye ko ibiteranyo aribyo nkeneye kugirango ibi bikemurwe	neutral	Entailment	entailment
+58	Nibwirije rero gufata ibiteranyo ngerageza kubikemura uko biri	Nta kimenyetso mfite cyo gukoresha imiteranyo gusa,ndakwinginze umpe ibisobanuro birambuye kugirango menye uko nacyemura iki kibazo	contradiction	Entailment	entailment
+59	Nibwirije rero gufata ibiteranyo ngerageza kubikemura uko biri	Nzabibara nkurikije byose hamwe	entailment	Neutral	neutral
+60	kandi ibyo ni byinshi muri byo biterwa nuko banyina bari kumiti	Ababyeyi ni abanywa ibiyobyabwenge	neutral	Neutral	neutral
+61	kandi ibyo ni byinshi muri byo biterwa nuko banyina bari kumiti	Ababyeyi ntabwo bafite inyandiko yimiti cyangwa imiti 	contradiction	Entailment	entailment
+62	kandi ibyo ni byinshi muri byo biterwa nuko banyina bari kumiti	Ababyeyi banywa imiti	entailment	Entailment	entailment
+63	Yego nibyiza rwose,hari ubwo imvura yaguye	Ntabwo nanga imvura	neutral	Contradiction	contradiction
+64	Yego nibyiza rwose,hari ubwo imvura yaguye	Nibyiza kandi imvura iragwa 	entailment	Neutral	neutral
+65	Yego nibyiza rwose,hari ubwo imvura yaguye	Biteye ubwoba cyane ibyiri izuba ritajya rirangira	contradiction	Neutral	neutral
+66	Burya ubuzima bwabantu bufite agaciro, kandi niba ushobora kugorora umuntu	Ubuzima bwose bwagororwa kandi no guhabwa amahirwe ya kabiri	neutral	Neutral	neutral
+67	Burya ubuzima bwabantu bufite agaciro, kandi niba ushobora kugorora umuntu	Ntabantu bakwiriye kugororwa	contradiction	Entailment	entailment
+68	Burya ubuzima bwabantu bufite agaciro, kandi niba ushobora kugorora umuntu	Hatitawe kukugorora ubuzima bufite akahe agaciro	entailment	Entailment	entailment
+69	yewe mwana ufite ikibazo kidasanzwe cyo gukoresha insinga	mbere sinigeze mbona ikibazo nkiki cyo gukoresha insinga 	neutral	Contradiction	contradiction
+70	yewe mwana ufite ikibazo kidasanzwe cyo gukoresha insinga	Gukoresha insinga ntabwo arikibazo	contradiction	Contradiction	contradiction
+71	yewe mwana ufite ikibazo kidasanzwe cyo gukoresha insinga	Hari ikibazo cyatewe no gukoresha insinga zidasanzwe	entailment	Entailment	entailment
+72	Byumvikana nkibishimishije cyane,yego birantangaje kubona ibintu bingahe bazemera	Ntabwo ntangazwa na gato nuko babyihanganiye	contradiction	Contradiction	contradiction
+73	Byumvikana nkibishimishije cyane,yego birantangaje kubona ibintu bingahe bazemera	Natangajwe nuko bakwemereye kuhatwara ibiryo nibinyobwa	neutral	Entailment	entailment
+74	Byumvikana nkibishimishije cyane,yego birantangaje kubona ibintu bingahe bazemera	Ndatangajwe nibyo bashobora gukuramo	entailment	Contradiction	contradiction
+75	yewe ariko uko byagenda kose um abana banjye ubu bafite makumyabiri numwe na makumyabiri nine ubwo ndumva ataringombwa	Ntabwo aringombwa kuko abana banjye barengeje imyaka makumyabiri	entailment	Neutral	neutral
+76	yewe ariko uko byagenda kose um abana banjye ubu bafite makumyabiri numwe na makumyabiri nine ubwo ndumva ataringombwa	Nshobora kubikora kuva begeranyije imyaka	neutral	Neutral	neutral
+77	yewe ariko uko byagenda kose um abana banjye ubu bafite makumyabiri numwe na makumyabiri nine ubwo ndumva ataringombwa	Ningombwa kuva bombi bafite imyaka icumi na cumi n'umwe	contradiction	Entailment	entailment
+78	yego abantu bashoboraga kuba kukazi umwanya uwariwo wose cyangwa ibyemezo byabo bishobora gutekerezwaho mugihe bagomba gufata icyemezo	Yego, abantu badashobora gutanga urubanza rufatika	entailment	Neutral	neutral
+79	yego abantu bashoboraga kuba kukazi umwanya uwariwo wose cyangwa ibyemezo byabo bishobora gutekerezwaho mugihe bagomba gufata icyemezo	Yego, abantu bashobora kuba badashonje	neutral	Entailment	entailment
+80	yego abantu bashoboraga kuba kukazi umwanya uwariwo wose cyangwa ibyemezo byabo bishobora gutekerezwaho mugihe bagomba gufata icyemezo	Yego, abantu bafite ubushobozi bwo gufata ibyemezo ntibigera babangamrwa	contradiction	Entailment	entailment
+81	oya baracyariho baracyari murugendo bazenguruka kuva mu mpera za mirongo itandatu	Batangiye urugendo bazenguruka kuva mbere ya 1970	entailment	Neutral	neutral
+82	oya baracyariho baracyari murugendo bazenguruka kuva mu mpera za mirongo itandatu	Bakunda gukora ingendo	neutral	Entailment	entailment
+83	oya baracyariho baracyari murugendo bazenguruka kuva mu mpera za mirongo itandatu	Baheruka kurangiza urugendo rwabo ubu vuba	contradiction	Entailment	entailment
+84	Nigute wakora imyitozo	Urashobora gusobanura uburyo wakora imyitozo?	entailment	Entailment	entailment
+85	Nigute wakora imyitozo	Nshishikajwe na imyitozo kuko nkeneye ibikorwa bimwe na bimwe byumutima	neutral	Entailment	entailment
+86	Nigute wakora imyitozo	"Nyamuneka ureke kuvuga ibyerekeye imyitozo
+"	contradiction	Entailment	entailment
+87	Nibyiza ko aribyo byiza ntabwo narinarigeze mbitekerezaho yego	Icyo nigitekerezo kitafatika nirengagije icyumweru gishize	contradiction	Contradiction	contradiction
+88	Nibyiza ko aribyo byiza ntabwo narinarigeze mbitekerezaho yego	Iyo ni ingingo nziza	entailment	Entailment	entailment
+89	Nibyiza ko aribyo byiza ntabwo narinarigeze mbitekerezaho yego	Amayoberane uvuga ni ingingo nziza	neutral	Contradiction	contradiction
+90	amashuri yincuke iminsi ibiri mu cyumweru babyita umunsi wabaturage bakuru wamashuri yincuke ariko akajya mu ikigo cy'abenegihugu bakuru	Ikigo cyo kwita ku bana bakora buri munsi kubana bari munsi yimyaka itanu gusa	contradiction	Neutral	neutral
+91	amashuri yincuke iminsi ibiri mu cyumweru babyita umunsi wabaturage bakuru wamashuri yincuke ariko akajya mu ikigo cy'abenegihugu bakuru	Babemerera kujyayo inshuro zirenga ebyiri mu cyumweru niba abageze mu zabukuru babishoboye	neutral	Neutral	neutral
+92	amashuri yincuke iminsi ibiri mu cyumweru babyita umunsi wabaturage bakuru wamashuri yincuke ariko akajya mu ikigo cy'abenegihugu bakuru	Bavuga ko ari umunsi mukuru wo kwita kubageze mu zabukuru ariko byitwa ikigo gikuru	entailment	Neutral	neutral
+93	iyo niyo yari intego yabo oh	Nibyo baharaniraga	entailment	Neutral	neutral
+94	iyo niyo yari intego yabo oh	Ntabwo aribyo bifuzaga	contradiction	Contradiction	contradiction
+95	iyo niyo yari intego yabo oh	Bashoboye kugeze ku ntego zabo	neutral	Entailment	entailment
+96	Kugenzura imbunda bikeneye gukoresha amaboko abiri	Kimwe cya kabiri mumakosa yimbunda bituruka kumikoreshereze yukuboko kumwe	neutral	Entailment	entailment
+97	Kugenzura imbunda bikeneye gukoresha amaboko abiri	Inzira nziza igana kugenzura imbunda ni ugukoresha amaguru yombi	contradiction	Neutral	neutral
+98	Kugenzura imbunda bikeneye gukoresha amaboko abiri	Koresha amaboko yombi niba ushaka kwitoza kugenzura imbunda	entailment	Contradiction	contradiction
+99	kandi uh ariko bitunguranye biva ahantu ntazi aho biva ariko	Sinzi aho bituruka ariko birihuta	entailment	Entailment	entailment
+100	kandi uh ariko bitunguranye biva ahantu ntazi aho biva ariko	Biza byihuse ariko nzi aho bishobora guturuka	neutral	Neutral	neutral
+101	kandi uh ariko bitunguranye biva ahantu ntazi aho biva ariko	Biza nka molase kandi nzi neza igihe bizazira	contradiction	Neutral	neutral
+102	oya mubyukuri ntanubwo mbimenyereye simbikeka	Ntacyonzi kubiganye nabyo	entailment	Neutral	neutral
+103	oya mubyukuri ntanubwo mbimenyereye simbikeka	Ndi injiji mubijyanye nibyurukundo	neutral	Neutral	neutral
+104	oya mubyukuri ntanubwo mbimenyereye simbikeka	Maze imyaka myinshi mbyiga	contradiction	Neutral	neutral
+105	yego urabizi ko yari akomeye 	Ntekereza ko azi ko yari akomeye	neutral	Entailment	entailment
+106	yego urabizi ko yari akomeye 	Oya yari ateye ubwoba	contradiction	Entailment	entailment
+107	yego urabizi ko yari akomeye 	Yego yari mwiza cyane	entailment	Entailment	entailment
+108	yego yatanze igitekerezo cyo kubona uh um a uh um umukoropesho warigukoreshwa	Yatanze igitekerezo cyokugura icyuho	contradiction	Neutral	neutral
+109	yego yatanze igitekerezo cyo kubona uh um a uh um umukoropesho warigukoreshwa	Yatanze igitekerezo cyo gushaka umukoropesho	entailment	Entailment	entailment
+110	yego yatanze igitekerezo cyo kubona uh um a uh um umukoropesho warigukoreshwa	Yashakaga kuhasukura amaraso akoresheje umukoropesho	neutral	Contradiction	contradiction
+111	nibibi rwose kubona hanze harabaye irasa hafi mu ibice bitatu uturuka iwacu	Ibyokurasa byibuze byabaye ibirometero 100 uvuye aho ntuye	contradiction	Contradiction	contradiction
+112	nibibi rwose kubona hanze harabaye irasa hafi mu ibice bitatu uturuka iwacu	Iraswa ryari hafi y'urugo rwanjye kandi byanteye ubwoba bwo kujya hanze/gusohoka	neutral	Neutral	neutral
+113	nibibi rwose kubona hanze harabaye irasa hafi mu ibice bitatu uturuka iwacu	Habayeho kurasa hafi y'urugo rwanjye, mubyukuri ntabwo bimeze neza muri kano gace	entailment	Neutral	neutral
+114	uh-huh nibyo rwose ntabwo mubyukuri uh bihoraho	Ntabwo nemeranya nawe, bihoraho	contradiction	Entailment	entailment
+115	uh-huh nibyo rwose ntabwo mubyukuri uh bihoraho	Ndatekereza ko ushobora kuba ufite ukuri kubijyanye no guhuzagurika kwayo	neutral	Neutral	neutral
+116	uh-huh nibyo rwose ntabwo mubyukuri uh bihoraho	Uvuze ukuri kubyerekeranye nubuhamye bwabyo	entailment	Entailment	entailment
+117	Ndikugerageza kubyihanganira 	Ndagerageza kwihangana	entailment	Entailment	entailment
+118	Ndikugerageza kubyihanganira 	Nukuri nkora uko nshoboye	neutral	Entailment	entailment
+119	Ndikugerageza kubyihanganira 	Nzabyirengagiza kandi sinzigera nsubiza amaso inyuma	contradiction	Entailment	entailment
+120	Tuzabona ibyinjiriro bwacu  mugihe kizaza cyikoranabuhanga	Turimo kubaka ibanziriza ryibikenewe kubera ejo hazaza h'ikoranabuhanga	entailment	Entailment	entailment
+121	Tuzabona ibyinjiriro bwacu  mugihe kizaza cyikoranabuhanga	Twubaka tristoriste, kugirango ejo hazaza hazayoborwe na AI	neutral	Neutral	neutral
+122	Tuzabona ibyinjiriro bwacu  mugihe kizaza cyikoranabuhanga	Turashaka kwirinda ko ikoranabuhanga ritazatsinda	contradiction	Entailment	entailment
+123	Kurugero, ntarengwa, ingirabuzimafatizo zose zihinduka ibara ry'umuyugubwe	Mugihe ntarengwa, kimwe cya kabiri cyingirabuzimafatizo zishobora guhinduka mwibara ry'umuyugubwe	contradiction	Entailment	entailment
+124	Kurugero, ntarengwa, ingirabuzimafatizo zose zihinduka ibara ry'umuyugubwe	Birashoboka ko ingirabuzimafatizo  zihindura ibara	entailment	Entailment	entailment
+125	Kurugero, ntarengwa, ingirabuzimafatizo zose zihinduka ibara ry'umuyugubwe	Rimwe na rimwe, ingirabuzimafatizo zishobora guhinduka zikaba ubururu	neutral	Entailment	entailment
+126	Daniel Yamins numusore mwiza uzi imibare	Mr Yamins ni umuhanga mu mibare	entailment	Entailment	entailment
+127	Daniel Yamins numusore mwiza uzi imibare	Bwana Yamins yibandaho ni algebraic geometrie	neutral	Entailment	entailment
+128	Daniel Yamins numusore mwiza uzi imibare	Bwana Yamins ni umuhanzi ukomeye, ariko numuhanga mubi cyane mumibare 	contradiction	Entailment	entailment
+129	Niba kandi aribyo, akenshi baba bari hafi yumupaka?	Nziko bataja bigera bagenda hafi yumupaka	contradiction	Neutral	neutral
+130	Niba kandi aribyo, akenshi baba bari hafi yumupaka?	Ndashaka kumenya, akenshi baba bari mubwongereza?	neutral	Neutral	neutral
+131	Niba kandi aribyo, akenshi baba bari hafi yumupaka?	Umuvugizi yashakaga ibisobanuro byerekana ninshuro bajya hafi yumupaka	entailment	Neutral	neutral
+132	Kandi, ndatekereza ko hari ibimenyetso bya molekuline byerekana ko urusobe rw'ibinyabuzima rukomeje kwiyubaka mu butegetsi bwarokotse kugira ngo rukwirakwize imirongo	Ibinyabuzima birahinduka cyane	entailment	Entailment	entailment
+133	Kandi, ndatekereza ko hari ibimenyetso bya molekuline byerekana ko urusobe rw'ibinyabuzima rukomeje kwiyubaka mu butegetsi bwarokotse kugira ngo rukwirakwize imirongo	Ibinyabuzima birahinduka ukurikije ubushyuhe	neutral	Neutral	neutral
+134	Kandi, ndatekereza ko hari ibimenyetso bya molekuline byerekana ko urusobe rw'ibinyabuzima rukomeje kwiyubaka mu butegetsi bwarokotse kugira ngo rukwirakwize imirongo	Ibinyabuzima ntibijya bihinduka	contradiction	Contradiction	contradiction
+135	Hamwe no gusimbuka, kristu/icyuma gisanzwe ntigishobora kubika amakuru menshi	Kirisiti zisanzwe zifasha hanini mukubika amakuru menshi cyane	contradiction	Entailment	entailment
+136	Hamwe no gusimbuka, kristu/icyuma gisanzwe ntigishobora kubika amakuru menshi	Kirisiti zisanzwe ntabwo ari ingirakamaro cyane mukubika amakuru	entailment	Contradiction	contradiction
+137	Hamwe no gusimbuka, kristu/icyuma gisanzwe ntigishobora kubika amakuru menshi	Hariho ubundi bwoko bwa kristu zifite akamaro kanini mukubika amakuru ya geografiya ukoresheje imirasire ya laser	neutral	Neutral	neutral
+138	Kubwibyo, abantu bakuru ntibakwiriye kwitwaza ugutoza abazajya mumashuri abanza, nkuko rimwe na rimwe babikora mugihe babafasha kumenya ibisubizo cyangwa indi mirimo isa	Abanyeshyuri bamashuri abanza asanzwe bashobora gukemura ibisakuzo kuruta gukina imikino yo kwigira	contradiction	Contradiction	contradiction
+139	Kubwibyo, abantu bakuru ntibakwiriye kwitwaza ugutoza abazajya mumashuri abanza, nkuko rimwe na rimwe babikora mugihe babafasha kumenya ibisubizo cyangwa indi mirimo isa	Abanyeshyuri bamashuri abanza ntibakeneye ubufasha bwinshi bwo kwiga kwitwaza	entailment	Neutral	neutral
+140	Kubwibyo, abantu bakuru ntibakwiriye kwitwaza ugutoza abazajya mumashuri abanza, nkuko rimwe na rimwe babikora mugihe babafasha kumenya ibisubizo cyangwa indi mirimo isa	Abanyeshuri bamashuri atangira ntabgo bafite ubumenyi bukenewe bwo kwerekana imiterere kugirango bamenye ibisubizo bonyine	neutral	Neutral	neutral
+141	[Iki Gihugu] cyasamwe mumudendezo no kwitanga kandi jyitangira igitekerezo cy'uko abantu bose baremwe kimwe	Inyandiko zerekeye iki cyifuzo zanditswe mu nyandiko nyinshi zinyongera	neutral	Entailment	entailment
+142	[Iki Gihugu] cyasamwe mumudendezo no kwitanga kandi jyitangira igitekerezo cy'uko abantu bose baremwe kimwe	Hari abantu bamwe bizeraga ko abantu bose bangana	entailment	Neutral	neutral
+143	[Iki Gihugu] cyasamwe mumudendezo no kwitanga kandi jyitangira igitekerezo cy'uko abantu bose baremwe kimwe	Iki gihugu cyashingiye ku myizerere ivuga ko hari abantu bamwe basanzwe baruta abandi	contradiction	Contradiction	contradiction
+144	Hari ubwo kwiriye kumuhimbaza cyane?	Nzi neza ko nkeneye kumutsinda kubera kunanirwa kwe	contradiction	Neutral	neutral
+145	Hari ubwo kwiriye kumuhimbaza cyane?	Ndimo nibaza niba akeneye ko mushimira cyane	entailment	Entailment	entailment
+146	Hari ubwo kwiriye kumuhimbaza cyane?	Harubwo nkwiriye kumushimira cyane kubikorwa bya piyano?	neutral	Neutral	neutral
+147	Urusobekerane rw'urusobekerane rushobora kubakwa mubipimo bikomeye	Ibindi bipimo birashobora gukoreshwa mukubaka imiyoboro y'urusobe	entailment	Entailment	entailment
+148	Urusobekerane rw'urusobekerane rushobora kubakwa mubipimo bikomeye	Imiyoboro y'urusobe ni ingirakamaro cyane muburyo bwo kubika amakuru	neutral	Neutral	neutral
+149	Urusobekerane rw'urusobekerane rushobora kubakwa mubipimo bikomeye	Imiyoboro izunguruka ntishobora gutekerezwa mubipimo bitandukanye	contradiction	Neutral	neutral
+150	(mu buryo buteye ubwoba) Oya, oya, sinshaka ko upfa!	Sinshaka ko upfa!	entailment	Entailment	entailment
+151	(mu buryo buteye ubwoba) Oya, oya, sinshaka ko upfa!	Ntabwo mbyitayeho nupfa	contradiction	Entailment	entailment
+152	(mu buryo buteye ubwoba) Oya, oya, sinshaka ko upfa!	Byambabaza cyane uramutse upfuye!	neutral	Neutral	neutral
+153	Yaramanitswe ku mugaragaro ku ya 19 Werurwe 1875, i San Jose, muri Californiya	Californiya yakoraga iyicwa rusange kugeza mu 1875	entailment	Entailment	entailment
+154	Yaramanitswe ku mugaragaro ku ya 19 Werurwe 1875, i San Jose, muri Californiya	Yagizwe umwere ku bikorwa byose bibi yakoze maze yoherezwa mu nziraye	contradiction	Neutral	neutral
+155	Yaramanitswe ku mugaragaro ku ya 19 Werurwe 1875, i San Jose, muri Californiya	Yamanitswe azira kwigomeka no kwiba amafarasi	neutral	Neutral	neutral
+156	Mu butegetsi bw'akajagari, inyanja y'icyatsi kibisi irakwirakwira	Inyanja yari ifite ubururu bwimbitse kandi yoroshye nk'ikirahure	contradiction	Contradiction	contradiction
+157	Mu butegetsi bw'akajagari, inyanja y'icyatsi kibisi irakwirakwira	Inyanja yari yuzuyemo amafi mato yikubitaga ku bwato	neutral	Neutral	neutral
+158	Mu butegetsi bw'akajagari, inyanja y'icyatsi kibisi irakwirakwira	Inyanja yari icyatsi kandi ibonekamo ugusebura 	entailment	Entailment	entailment
+159	Icyemezo gishya rwose cyemewe n'amategeko cyifuzaga gukora uko cyakabaye kuva mu mvururu zo mu myaka ya za 1860	Mu myaka ya za 1870, amategeko yose yari yarasenyutse kandi igihugu cyarimo akaduruvayo 	contradiction	Entailment	entailment
+160	Icyemezo gishya rwose cyemewe n'amategeko cyifuzaga gukora uko cyakabaye kuva mu mvururu zo mu myaka ya za 1860	Imyaka ya 1860 yari igihe cy'imivurungano	entailment	Contradiction	contradiction
+161	Icyemezo gishya rwose cyemewe n'amategeko cyifuzaga gukora uko cyakabaye kuva mu mvururu zo mu myaka ya za 1860	Iteka rishya ry’amategeko ryifuzaga kwagura uburenganzira bw’umurimo	neutral	Entailment	entailment
+162	Yagaragaje ko uburyo ubwo ari bwo bwose bwo mu rwego rwo hejuru bwo gutekereza, rst igaragara mu itumanaho rusange, hagati y’umwana n’abahagarariye umuco we mu gihe bakora ibikorwa bihuriweho.	Abana ntibashobora gusangira uburyo bwo gutekereza buri hejuru 	contradiction	Contradiction	contradiction
+163	Yagaragaje ko uburyo ubwo ari bwo bwose bwo mu rwego rwo hejuru bwo gutekereza, rst igaragara mu itumanaho rusange, hagati y’umwana n’abahagarariye umuco we mu gihe bakora ibikorwa bihuriweho.	Uburobyi nigikorwa kimwe kizwi gisangiwe mumico myinshi itandukanye	neutral	Neutral	neutral
+164	Yagaragaje ko uburyo ubwo ari bwo bwose bwo mu rwego rwo hejuru bwo gutekereza, rst igaragara mu itumanaho rusange, hagati y’umwana n’abahagarariye umuco we mu gihe bakora ibikorwa bihuriweho.	Kugabana ibikorwa bisanzwe rimwe na rimwe bifasha mugusangira uburyo bwo hejuru bwo gutekereza	entailment	Entailment	entailment
+165	Uturere tumwe na tumwe twari dufite rezadores cyangwa rezadoras, abayobozi b'umwuka bayoboye abaturage mu masengesho yo gushyingura, kwizihiza umunsi w'abatagatifu n'igihe cyose padiri batabonetse	Nta n'umwe mu baturanyi bari bafite abayobozi b'umwuka batari abapadiri	contradiction	Contradiction	contradiction
+166	Uturere tumwe na tumwe twari dufite rezadores cyangwa rezadoras, abayobozi b'umwuka bayoboye abaturage mu masengesho yo gushyingura, kwizihiza umunsi w'abatagatifu n'igihe cyose padiri batabonetse	Uturere tumwe na tumwe twari dufite abayobozi b'umwuka batari abapadiri	entailment	Neutral	neutral
+167	Uturere tumwe na tumwe twari dufite rezadores cyangwa rezadoras, abayobozi b'umwuka bayoboye abaturage mu masengesho yo gushyingura, kwizihiza umunsi w'abatagatifu n'igihe cyose padiri batabonetse	Bamwe mu bayobozi b'umwuka bari bafite umusatsi wirabura	neutral	Entailment	entailment
+168	Mu ikinamico ya sociodramatike nayo, amahirwe yo gukina no guhuza inshingano zitandukanye birashoboka ko bifasha abana gusobanukirwa itandukaniro no gutandukanya abantu mubyifuzo, imyizerere, n'amarangamutima	Abana barashobora kwiga uburyo abantu basa kandi nuko batandukanye	entailment	Entailment	entailment
+169	Mu ikinamico ya sociodramatike nayo, amahirwe yo gukina no guhuza inshingano zitandukanye birashoboka ko bifasha abana gusobanukirwa itandukaniro no gutandukanya abantu mubyifuzo, imyizerere, n'amarangamutima	Abana barashobora kubona uburyo amoko atandukanye agiye atandukanye	neutral	Entailment	entailment
+170	Mu ikinamico ya sociodramatike nayo, amahirwe yo gukina no guhuza inshingano zitandukanye birashoboka ko bifasha abana gusobanukirwa itandukaniro no gutandukanya abantu mubyifuzo, imyizerere, n'amarangamutima	Abana ntibashobora kwiga ikintu na kimwe	contradiction	Entailment	entailment
+171	Ingeso nziza cyane y’itegeko nshinga ry’Ubudage nyuma y’intambara, ni yo mpamvu yahitanye abantu benshi ku butegetsi bw’Abanazi	Ubutegetsi bw'Abanazi bwarabyemeje	contradiction	Contradiction	contradiction
+172	Ingeso nziza cyane y’itegeko nshinga ry’Ubudage nyuma y’intambara, ni yo mpamvu yahitanye abantu benshi ku butegetsi bw’Abanazi	Ubutegetsi bw'Abanazi bwishe abantu bose babigizemo uruhare	neutral	Entailment	entailment
+173	Ingeso nziza cyane y’itegeko nshinga ry’Ubudage nyuma y’intambara, ni yo mpamvu yahitanye abantu benshi ku butegetsi bw’Abanazi	Ubutegetsi bw'Abanazi bwarabihagaritse	entailment	Contradiction	contradiction
+174	umwana Sonja yatangiye kwigana uburakari bw'umukobwa we	Nta muntu n'umwe wari ufite uburakari	contradiction	Contradiction	contradiction
+175	umwana Sonja yatangiye kwigana uburakari bw'umukobwa we	Sonja ni umwana	entailment	Entailment	entailment
+176	umwana Sonja yatangiye kwigana uburakari bw'umukobwa we	Sonja yararakaye	neutral	Contradiction	contradiction
+177	6 Mu myaka mirongo itanu n'itanu ibanziriza Intambara y'abenegihugu, Urukiko rwakoresheje ubwo bubasha gake gake	Rimwe na rimwe Urukiko rwakoresheje ubwo bubasha mu myaka ibarirwa muri za mirongo mbere y'intambara y'abenegihugu	entailment	Entailment	entailment
+178	6 Mu myaka mirongo itanu n'itanu ibanziriza Intambara y'abenegihugu, Urukiko rwakoresheje ubwo bubasha gake gake	Urukiko rwakoresheje ubwo bubasha inshuro 4 mu myaka mirongo itanu n'itanu ibanziriza intambara y'abenegihugu	neutral	Entailment	entailment
+179	6 Mu myaka mirongo itanu n'itanu ibanziriza Intambara y'abenegihugu, Urukiko rwakoresheje ubwo bubasha gake gake	Urukiko rwakoresheje ubwo bubasha inshuro miliyoni 5 mu myaka mirongo itanu n'itanu ibanziriza intambara y'abenegihugu	contradiction	Entailment	entailment
+180	Ndemeza nyakubahwa ko namenyeshejwe byose	Ndikukubwira ko nahawe ubumenyi kuri byose	entailment	Entailment	entailment
+181	Ndemeza nyakubahwa ko namenyeshejwe byose	Urupfu rw'umupolisi ni rwo nabimenyeshejwe	neutral	Neutral	neutral
+182	Ndemeza nyakubahwa ko namenyeshejwe byose	Haribisobanuro birambuye byinshi narinahishwe	contradiction	Neutral	neutral
+183	Amajwi yahungabanije Kapiteni Blood kubitekerezo bye yaratishimiye	Kapiteni Blood yashoboye gutekereza ibitekerezo bye bitishimiye nta nkomyi	contradiction	Entailment	entailment
+184	Amajwi yahungabanije Kapiteni Blood kubitekerezo bye yaratishimiye	Ibitekerezo bya Kapiteni Blood byaciwe n urusaku	entailment	Entailment	entailment
+185	Amajwi yahungabanije Kapiteni Blood kubitekerezo bye yaratishimiye	Induru y'imbwa yahinduye ibihuha bya kapiteni	neutral	Contradiction	contradiction
+186	Ariko sinshobora kwibagirwa ko mugihe ntari mwiza kuruta imbata murugo rwa nyirarume wawe muri Barbados, wankoresheje mwineza runaka	Wangiriye neza nkiri imbata muri Barbados	entailment	Neutral	neutral
+187	Ariko sinshobora kwibagirwa ko mugihe ntari mwiza kuruta imbata murugo rwa nyirarume wawe muri Barbados, wankoresheje mwineza runaka	Wangiriye nabi bidasanzwe, kandi umfata nabi kuruta umwanda	contradiction	Contradiction	contradiction
+188	Ariko sinshobora kwibagirwa ko mugihe ntari mwiza kuruta imbata murugo rwa nyirarume wawe muri Barbados, wankoresheje mwineza runaka	Nyokorome yankubitaga cyane burimunsi igihe yari antunze	neutral	Contradiction	contradiction
+189	Ngaho, nko mu bilometero birenga bitatu, hari ubutaka--urukuta rutaringaniye rwicyatsi kibisi nibyo byaribyuzuye iburengerazuba	Ahantu heza cyane hari harikuboneka	entailment	Contradiction	contradiction
+190	Ngaho, nko mu bilometero birenga bitatu, hari ubutaka--urukuta rutaringaniye rwicyatsi kibisi nibyo byaribyuzuye iburengerazuba	Ikirwa begereye nticyari gituwe	neutral	Contradiction	contradiction
+191	Ngaho, nko mu bilometero birenga bitatu, hari ubutaka--urukuta rutaringaniye rwicyatsi kibisi nibyo byaribyuzuye iburengerazuba	Ntibashoboraga kubona ubutaka ubwaribwo bwose mubirometero, uretse inyanja idashira	contradiction	Contradiction	contradiction
+192	Ndi intumwa ya Nyiricyubahiro muri ibi bice by'ubugome, hamwe na mwene wabo wa Lord Sunderland hafi ya 	Nyiricyubahiro afite intumwa, kandi ndi umwe muri bo	entailment	Entailment	entailment
+193	Ndi intumwa ya Nyiricyubahiro muri ibi bice by'ubugome, hamwe na mwene wabo wa Lord Sunderland hafi ya 	Nyiricyubahiro yanyohereje hano mucyumweru gishize	neutral	Contradiction	contradiction
+194	Ndi intumwa ya Nyiricyubahiro muri ibi bice by'ubugome, hamwe na mwene wabo wa Lord Sunderland hafi ya 	Ntabwo mpabwa amabwiriza na Nyiricyubahiro	contradiction	Contradiction	contradiction
+195	Yaravuze uti;Nabikesha wowe- cyangwa nibwiraga ko nabikoze.	Ntiyigeze atekereza ko hari umwenda akurimo	contradiction	Neutral	neutral
+196	Yaravuze uti;Nabikesha wowe- cyangwa nibwiraga ko nabikoze.	Yaragufitiye umwenda kubufasha wamuhaye ari umusabirizi udafite amafaranga	neutral	Contradiction	contradiction
+197	Yaravuze uti;Nabikesha wowe- cyangwa nibwiraga ko nabikoze.	Yatekereje ko hari ideni akurimo	entailment	Neutral	neutral
+198	Nari nkwiye kubimenya neza kuruta kuza hafi ya Jamaica nijoro	Nafashe urugendo rwa hafi ya Jamayike izuba rirenze	entailment	Entailment	entailment
+199	Nari nkwiye kubimenya neza kuruta kuza hafi ya Jamaica nijoro	Nagiye muri Jamaica ndi mu bwato bunini	neutral	Entailment	entailment
+200	Nari nkwiye kubimenya neza kuruta kuza hafi ya Jamaica nijoro	Jyewe n'umugore wanjye twageze muri Jamaica kumangwa	contradiction	Contradiction	contradiction
+201	Ibitekerezo byab Blood byari kuri ibi nibindi bintu ubwo yaryamye hariya ku buriri bwamangwa	Blood yagize inzozi zitatekerejwe ku buriri bwe bwamangwa	contradiction	Entailment	entailment
+202	Ibitekerezo byab Blood byari kuri ibi nibindi bintu ubwo yaryamye hariya ku buriri bwamangwa	Blood yarari mubihuha mugihe yaryamye	entailment	Entailment	entailment
+203	Ibitekerezo byab Blood byari kuri ibi nibindi bintu ubwo yaryamye hariya ku buriri bwamangwa	Blood yatekerezaga cyane kubijyanye nubwashitse ubwo aheruka kubona nyina	neutral	Entailment	entailment
+204	Nukuri rero, ubwo nzajya nkubwira	Nibyiza noneho, nzakubwira ibyayo	entailment	Entailment	entailment
+205	Nukuri rero, ubwo nzajya nkubwira	Ntajambo nzakubwira 	contradiction	Entailment	entailment
+206	Nukuri rero, ubwo nzajya nkubwira	Ni ukubera ko wasezeranije ko utazasubiramo ibi ndikukubwira	neutral	Entailment	entailment
+207	Ah! Ni ubuhe buryo bushobora kuba	Hari umuntu urikubariza inzira	entailment	Neutral	neutral
+208	Ah! Ni ubuhe buryo bushobora kuba	Ubaza ibibazo ari wenyine kandi nta muntu afite hafiye wo kuganira	contradiction	Neutral	neutral
+209	Ah! Ni ubuhe buryo bushobora kuba	Ubaza ibibazo arihuta kandi akeneye kumenya byihutirwa inzira yo kunyuramo	neutral	Contradiction	contradiction
+210	Ntabwo ntanga inshingano yumwami byoroheje	Gutanga inshingano z'umwami binyuranyije n'imyitwarire yanjye	neutral	Entailment	entailment
+211	Ntabwo ntanga inshingano yumwami byoroheje	Natekereje cyane ku inshingano z'umwami	entailment	Entailment	entailment
+212	Ntabwo ntanga inshingano yumwami byoroheje	Nasinyiye icyemezo cyo gutanga inshingano y'Umwami ntabanje kubitekerezaho bwakabiri	contradiction	Entailment	entailment
+213	Yatahuye ko ashobora gusubira inyuma byihuse	Yatahuye ko afite umunsi wose wo kwisubiraho	contradiction	Entailment	entailment
+214	Yatahuye ko ashobora gusubira inyuma byihuse	Yatahuye ko agomba gukora byihutirwa	entailment	Contradiction	contradiction
+215	Yatahuye ko ashobora gusubira inyuma byihuse	"Iyo aza kuguma ahantu hamwe, yari kuvumburwa
+"	neutral	Neutral	neutral
+216	Kandi nyamara yabaye uko yabaye kandi akora ibyo yakoze muri iyi myaka itatu ishize, yavuze uko, ariko yabivuze ababaye ubu, nta na kimwe yakoresheje agasuzuguro	Ntabwo yishimiye ko yishe abagabo benshi mu myaka itatu ishize	neutral	Contradiction	contradiction
+217	Kandi nyamara yabaye uko yabaye kandi akora ibyo yakoze muri iyi myaka itatu ishize, yavuze uko, ariko yabivuze ababaye ubu, nta na kimwe yakoresheje agasuzuguro	Yavuze yishimye ibyamubayeho na kamere ye	contradiction	Contradiction	contradiction
+218	Kandi nyamara yabaye uko yabaye kandi akora ibyo yakoze muri iyi myaka itatu ishize, yavuze uko, ariko yabivuze ababaye ubu, nta na kimwe yakoresheje agasuzuguro	Yavuze akoresheje ijwi ribabaje	entailment	Neutral	neutral
+219	Ndakeka ko aribyo nyuma yimyambarire yawe	Ndakeka ko aribyo abateye nkawe bakora	entailment	Entailment	entailment
+220	Ndakeka ko aribyo nyuma yimyambarire yawe	Nasomye kubijyanye nabateye nkawe, n'umuco wabo	neutral	Neutral	neutral
+221	Ndakeka ko aribyo nyuma yimyambarire yawe	Mbifata ko ibyo bidasanzwe mubateye nkawe	contradiction	Neutral	neutral
+222	Gucika intege bya muteye umujinya.	Mu maso he haratumbye cyane	contradiction	Entailment	entailment
+223	Gucika intege bya muteye umujinya.	Yumvise afite ububarare mu nda	neutral	Entailment	entailment
+224	Gucika intege bya muteye umujinya.	Mu maso he harihuzuye ubwoba	entailment	Neutral	neutral
+225	Yari yaramwitegereje n'amaso amurika, ariko abonye mu maso he yihebye, ndetse n'ubwoba bwimbitse bwamuteye mumusatsi, imvugo ye yarahindutse	Imvugo ye yarahindutse amaze kubona mu masoye 	entailment	Contradiction	contradiction
+226	Yari yaramwitegereje n'amaso amurika, ariko abonye mu maso he yihebye, ndetse n'ubwoba bwimbitse bwamuteye mumusatsi, imvugo ye yarahindutse	Mu maso he harabagirana abonye ubwoba mu masoye	contradiction	Contradiction	contradiction
+227	Yari yaramwitegereje n'amaso amurika, ariko abonye mu maso he yihebye, ndetse n'ubwoba bwimbitse bwamuteye mumusatsi, imvugo ye yarahindutse	Ntiyari azi niba yari yamurakariye	neutral	Contradiction	contradiction
+228	Agenda yihuta, azenguruka urukuta rwometseho, anyura mu marembo manini yinjira mu gikari	Kubera ko amarembo manini yari afunze, yasimbutse hejuru y'uruzitiro, yinjira mu gikari	contradiction	Neutral	neutral
+229	Agenda yihuta, azenguruka urukuta rwometseho, anyura mu marembo manini yinjira mu gikari	Amarembo manini niyo yonyine yinjiraga mu gikari	neutral	Entailment	entailment
+230	Agenda yihuta, azenguruka urukuta rwometseho, anyura mu marembo manini yinjira mu gikari	Hariho amarembo manini yinjira mu gikari	entailment	Entailment	entailment
+231	Uzayizunguza ku giti, nta gushidikanya, yavuganye agasuzuguro	Yatekereje ko hari umuntu uzajya ku giti	entailment	Neutral	neutral
+232	Uzayizunguza ku giti, nta gushidikanya, yavuganye agasuzuguro	Yari umugenzacyaha wafashe umujura	neutral	Neutral	neutral
+233	Uzayizunguza ku giti, nta gushidikanya, yavuganye agasuzuguro	Yongoreraga uburyo bwo guhunga igihugu kugira ngo yirinde gufungwa	contradiction	Neutral	neutral
+234	Nigute nshobora kuba inyangamugayo kubafunga? Byari mu masezerano	Sinashoboraga kwizana ngo mbafunge	entailment	Entailment	entailment
+235	Nigute nshobora kuba inyangamugayo kubafunga? Byari mu masezerano	Narabafunze nkimara kubabona	contradiction	Contradiction	contradiction
+236	Nigute nshobora kuba inyangamugayo kubafunga? Byari mu masezerano	Ntabwo nari kwibabarira, iyo nza kubafunga	neutral	Contradiction	contradiction
+237	uyu mwaka urangiye ndikumuhiga	maze umwaka mukurikirana hafi atabizi	neutral	Entailment	entailment
+238	uyu mwaka urangiye ndikumuhiga	maze hafi icyumweru gusa mukurikirana	contradiction	Contradiction	contradiction
+239	uyu mwaka urangiye ndikumuhiga	Mugihe cyumwaka ushize na mukurikiranaga	entailment	Contradiction	contradiction
+240	Inzu ndangamurage ntabwo ikomeye kuri kataloge cyangwa ikirango	Inzu ndangamurage ntabwo ikunda gushyirwaho ikimenyetso	neutral	Contradiction	contradiction
+241	Inzu ndangamurage ntabwo ikomeye kuri kataloge cyangwa ikirango	Inzu ndangamurage ntabwo ifana udutabo	entailment	Neutral	neutral
+242	Inzu ndangamurage ntabwo ikomeye kuri kataloge cyangwa ikirango	Ingingo ikomeye yinzu ndangamurage ni kataloge	contradiction	Entailment	entailment
+243	Aya masoko yuguruye kandi ni nahantu hashimishije ho guhaha i Beijing	Beijing ifite amasoko yuguruye arimo amaduka ashimishije cyane	entailment	Entailment	entailment
+244	Aya masoko yuguruye kandi ni nahantu hashimishije ho guhaha i Beijing	Amasoko yuguruye i Beijing niyo ashimishije kwisi	neutral	Entailment	entailment
+245	Aya masoko yuguruye kandi ni nahantu hashimishije ho guhaha i Beijing	Amategeko akomeye i Beijing abuza amasoko yuguruye mu mbibi z'umujyi	contradiction	Neutral	neutral
+246	Ikigobe kinini ku nkombe y’amajyaruguru yuburengerazuba gikora icyambu cyiza, ariko amazi ninyanja birashobora kwandura	Amazi ninyanja bihora bisukuye	contradiction	Neutral	neutral
+247	Ikigobe kinini ku nkombe y’amajyaruguru yuburengerazuba gikora icyambu cyiza, ariko amazi ninyanja birashobora kwandura	Amazi ninyanja birashobora kuba byanduye	entailment	Neutral	neutral
+248	Ikigobe kinini ku nkombe y’amajyaruguru yuburengerazuba gikora icyambu cyiza, ariko amazi ninyanja birashobora kwandura	Amazi yanduye kubera umwanda	neutral	Neutral	neutral
+249	Ibyo bicu ni amabanki, kandi umuhanda biriho witwa Milla de Oro, cyangwa Golden Mile	"Nta na kimwe mu bicu biri hejuru ya Golden Mile ari banki
+"	contradiction	Entailment	entailment
+250	Ibyo bicu ni amabanki, kandi umuhanda biriho witwa Milla de Oro, cyangwa Golden Mile	Ibirere biri kuri Golden Mile ni banki	entailment	Neutral	neutral
+251	Ibyo bicu ni amabanki, kandi umuhanda biriho witwa Milla de Oro, cyangwa Golden Mile	Ibicu biri kuri Golden Mile ni ubwoko butandukanye bwubucuruzi, harimo na banki	neutral	Entailment	entailment
+252	Kamere ihagije rero, uruhare mu Ntambara ya Kabiri y'Isi Yose rwatangiranye na gahunda yo guhugura ikirere cy’Ubwongereza Commonwealth, ikoresheje ikirere cyiza cya Kanada mu gutegura abaderevu ku rugamba	Kanada yari ifite ikirere gifite umutekano	entailment	Neutral	neutral
+253	Kamere ihagije rero, uruhare mu Ntambara ya Kabiri y'Isi Yose rwatangiranye na gahunda yo guhugura ikirere cy’Ubwongereza Commonwealth, ikoresheje ikirere cyiza cya Kanada mu gutegura abaderevu ku rugamba	Ikirere cya Kanada nticyari gifite misile	neutral	Neutral	neutral
+254	Kamere ihagije rero, uruhare mu Ntambara ya Kabiri y'Isi Yose rwatangiranye na gahunda yo guhugura ikirere cy’Ubwongereza Commonwealth, ikoresheje ikirere cyiza cya Kanada mu gutegura abaderevu ku rugamba	Ikirere cya Kanada cyari giteye akaga	contradiction	Contradiction	contradiction
+255	Kandi bakomeza kwihangana no gufasha, nubwo bazi ko inkombe zabo nziza zitakiri izabo gusa	Bararakaye kandi barakarira abantu bose dore ko bagomba gusangira inkombe	contradiction	Entailment	entailment
+256	Kandi bakomeza kwihangana no gufasha, nubwo bazi ko inkombe zabo nziza zitakiri izabo gusa	ubu bagomba gusangira inkombe nabandi bantu 	entailment	Contradiction	contradiction
+257	Kandi bakomeza kwihangana no gufasha, nubwo bazi ko inkombe zabo nziza zitakiri izabo gusa	Baribatunze ibirometero magana atanu byimbere yinyanja	neutral	Neutral	neutral
+258	Kublai Khan yubatse umurwa mukuru we mu 1279 ku nkombe z'ikiyaga cya Beihai cya Beijing, aho ubu butunzi bwe bwa cyami bukomeje kugaragara kugeza uyu munsi	Kublai Khan yashinze umurwa mukuru muri Tayiwani	contradiction	Contradiction	contradiction
+259	Kublai Khan yubatse umurwa mukuru we mu 1279 ku nkombe z'ikiyaga cya Beihai cya Beijing, aho ubu butunzi bwe bwa cyami bukomeje kugaragara kugeza uyu munsi	Kublai Khan afite ubutunzi muri Beijing	entailment	Entailment	entailment
+260	Kublai Khan yubatse umurwa mukuru we mu 1279 ku nkombe z'ikiyaga cya Beihai cya Beijing, aho ubu butunzi bwe bwa cyami bukomeje kugaragara kugeza uyu munsi	Kublai Khan yari umuntu wubahwa cyane	neutral	Neutral	neutral
+261	Kwishyira hamwe byoroshye n’umuryango w’Abongereza gusa amashuri y’abaporotesitanti yemeye abana babo Abayahudi bo mu Burayi bw’iburasirazuba barangirije kumamashuri y’abakire ya Westmount cyangwa bimukira i Toronto	Abayahudi bo mu Burayi bw'i Burasirazuba bumvikananga neza nabantu bose	contradiction	Contradiction	contradiction
+262	Kwishyira hamwe byoroshye n’umuryango w’Abongereza gusa amashuri y’abaporotesitanti yemeye abana babo Abayahudi bo mu Burayi bw’iburasirazuba barangirije kumamashuri y’abakire ya Westmount cyangwa bimukira i Toronto	Abayahudi ntabwo bakenewe nabandi baturage	neutral	Contradiction	contradiction
+263	Kwishyira hamwe byoroshye n’umuryango w’Abongereza gusa amashuri y’abaporotesitanti yemeye abana babo Abayahudi bo mu Burayi bw’iburasirazuba barangirije kumamashuri y’abakire ya Westmount cyangwa bimukira i Toronto	Abayahudi biyunze byoroshye n'umuryango w'Abongereza	entailment	Entailment	entailment
+264	Niba bishoboka, imenyereze umugambi mbere	Ntujye mu mugambi mbere; bizangiza kwishimisha nyuma	contradiction	Entailment	entailment
+265	Niba bishoboka, imenyereze umugambi mbere	Gerageza gusobanukirwa numugambi mbere, niba ubishoboye	entailment	Entailment	entailment
+266	Niba bishoboka, imenyereze umugambi mbere	Uzasanga isomo ryoroshye nushobora gusobanukirwa numugambi wigitabo	neutral	Neutral	neutral
+267	Inzu ye yo kumushyingura, m 27 (88 ft) munsi yubutaka, ikozwe muri marimari kandi ifite metero kare 1200 (13,000 sq ft)	Yashyinguwe mu nsi ya metero zirenga 20	entailment	Neutral	neutral
+268	Inzu ye yo kumushyingura, m 27 (88 ft) munsi yubutaka, ikozwe muri marimari kandi ifite metero kare 1200 (13,000 sq ft)	Yari umuntu ukomeye	neutral	Neutral	neutral
+269	Inzu ye yo kumushyingura, m 27 (88 ft) munsi yubutaka, ikozwe muri marimari kandi ifite metero kare 1200 (13,000 sq ft)	Inzu ye yo kumushyingura ikozwe mu mbaho	contradiction	Neutral	neutral
+270	Wibuke guhisha ibintu byose byoroshye kuva ku inkende 	Hisha ibyo utunze kuva ku inkende 	entailment	Entailment	entailment
+271	Wibuke guhisha ibintu byose byoroshye kuva ku inkende 	Inkende zishishikajwe cyane nibintu byinshi, harimo na nibyo utunze byawe	neutral	Entailment	entailment
+272	Wibuke guhisha ibintu byose byoroshye kuva ku inkende 	Ntugomba guhisha inkende ibyo utunze 	contradiction	Entailment	entailment
+273	Imyaka igera ku 1.400 mbere yuko Ingoro ya Estei yubakwa, Milreu yari inzu nini yumuntu ukomeye mugihugu	Milreu yari kilometero 10 uvuye kubintu byose	neutral	Contradiction	contradiction
+274	Imyaka igera ku 1.400 mbere yuko Ingoro ya Estei yubakwa, Milreu yari inzu nini yumuntu ukomeye mugihugu	Milreu yari hanze mu gihugu	entailment	Contradiction	contradiction
+275	Imyaka igera ku 1.400 mbere yuko Ingoro ya Estei yubakwa, Milreu yari inzu nini yumuntu ukomeye mugihugu	Milreu yari rwagati mu mujyi	contradiction	Contradiction	contradiction
+276	Ubushyuhe bwo mu nyanja buratandukanye hagati ya 18e na 24e C (64-75e F)	Ubushyuhe bwo mu nyanja buhora buhinduka, ariko ntibujya munsi bukonje	entailment	Entailment	entailment
+277	Ubushyuhe bwo mu nyanja buratandukanye hagati ya 18e na 24e C (64-75e F)	Ubushyuhe bwo mu nyanja buhora kumwanya umwe umwaka wose	contradiction	Neutral	neutral
+278	Ubushyuhe bwo mu nyanja buratandukanye hagati ya 18e na 24e C (64-75e F)	Urebye ubushyuhe buba buri hejuru kumanywa, iyo hashyushye	neutral	Neutral	neutral
+279	Parike y'igihugu ya Kinabalu ni kamwe mu turere dutandatu turinzwe muri gihugu	Parike y'igihugu ya Kinabalu ifite inzovu icumi n'imvubu esheshatu	neutral	Neutral	neutral
+280	Parike y'igihugu ya Kinabalu ni kamwe mu turere dutandatu turinzwe muri gihugu	Iguhugu gifite uturere turinzwe, harimo na parike y'igihugu ya Kinabalu	entailment	Entailment	entailment
+281	Parike y'igihugu ya Kinabalu ni kamwe mu turere dutandatu turinzwe muri gihugu	Muri rusange hari uturere dutatu turinzwe mugihugu	contradiction	Entailment	entailment
+282	Uzareba amashusho yinkuru ya Anne na Amsterdam hamwe namafoto nibihangano byicyo gihe	Ntamafoto uzabona	contradiction	Entailment	entailment
+283	Uzareba amashusho yinkuru ya Anne na Amsterdam hamwe namafoto nibihangano byicyo gihe	Uzabona amafoto	entailment	Entailment	entailment
+284	Uzareba amashusho yinkuru ya Anne na Amsterdam hamwe namafoto nibihangano byicyo gihe	Uzabona amwe mumafoto yambere	neutral	Entailment	entailment
+285	Treasure Beach nigice cyonyine cyo kuruhukiramo wavuga, hamwe namahoteri make gusa arambuye hejuru yumusenyi hatatu	Ntabwo haboneka mahoteri menshi kubantu basura Treasure Beach	entailment	Entailment	entailment
+286	Treasure Beach nigice cyonyine cyo kuruhukiramo wavuga, hamwe namahoteri make gusa arambuye hejuru yumusenyi hatatu	Hari hoteri imwe yinyenyeri enye iboneka kubakerarugendo basura Treasure Beach	neutral	Entailment	entailment
+287	Treasure Beach nigice cyonyine cyo kuruhukiramo wavuga, hamwe namahoteri make gusa arambuye hejuru yumusenyi hatatu	"Treasure Beach ni imwe muri resitora nyinshi ziri muri kariya gace
+"	contradiction	Neutral	neutral
+288	Impeshyi izana ikirere gishyushye (ariko ntabwo gishyushye cyane) ubushyuhe bwo mu nyanja, bituma biba byiza kwibira, guswera, nindi siporo yamazi	 Burigihe ni dogere 100 cyangwa birengeje mugihe cyizuba	contradiction	Neutral	neutral
+289	Impeshyi izana ikirere gishyushye (ariko ntabwo gishyushye cyane) ubushyuhe bwo mu nyanja, bituma biba byiza kwibira, guswera, nindi siporo yamazi	Ubusanzwe ni 75 mugihe cyizuba	neutral	Neutral	neutral
+290	Impeshyi izana ikirere gishyushye (ariko ntabwo gishyushye cyane) ubushyuhe bwo mu nyanja, bituma biba byiza kwibira, guswera, nindi siporo yamazi	Harubushyuhe bwinshi mugihe cyizuba	entailment	Entailment	entailment
+291	Mu byuzi harimo kimwe gituwe n'abashyitsi bajugunya mu biceri bizeye ko bazakubita umwe ku mutwe wakanyamasyo, inzira yizewe yo kugera ku mahirwe	Abantu ntibigera bajugunyamo amafaranga kuko bitera umwaku mubi	contradiction	Contradiction	contradiction
+292	Mu byuzi harimo kimwe gituwe n'abashyitsi bajugunya mu biceri bizeye ko bazakubita umwe ku mutwe wakanyamasyo, inzira yizewe yo kugera ku mahirwe	Abantu bajugunyamo ibiceri nubwo ikimenyetso kibibujije	neutral	Entailment	entailment
+293	Mu byuzi harimo kimwe gituwe n'abashyitsi bajugunya mu biceri bizeye ko bazakubita umwe ku mutwe wakanyamasyo, inzira yizewe yo kugera ku mahirwe	Abantu bajugunya ibiceri mumazi	entailment	Entailment	entailment
+294	Umujyi wa Nafplio uri ku cyambu hakorerwa ibirindiro byiza byo kuzenguruka , cyangwa nahantu ho gusangirira ibya saa sita mugihe uri murugendo rwawe	Nafplio hafite icyerekezo cyiza	neutral	Contradiction	contradiction
+295	Umujyi wa Nafplio uri ku cyambu hakorerwa ibirindiro byiza byo kuzenguruka , cyangwa nahantu ho gusangirira ibya saa sita mugihe uri murugendo rwawe	Nafplio ni ishingiro ribi	contradiction	Neutral	neutral
+296	Umujyi wa Nafplio uri ku cyambu hakorerwa ibirindiro byiza byo kuzenguruka , cyangwa nahantu ho gusangirira ibya saa sita mugihe uri murugendo rwawe	Nafplio ni ishingiro ryiza	entailment	Entailment	entailment
+297	I Prinsengracht, Otto Frank n'umuryango we bihishe mu cyumba cy’ubucuruzi bwabo imyaka irenga ibiri mbere yuko bavumburwa	Otto Frank bamufashe kumunsi wa kabiri	contradiction	Neutral	neutral
+298	I Prinsengracht, Otto Frank n'umuryango we bihishe mu cyumba cy’ubucuruzi bwabo imyaka irenga ibiri mbere yuko bavumburwa	Otto Frank yarihishe mumezi arenga 25	entailment	Contradiction	contradiction
+299	I Prinsengracht, Otto Frank n'umuryango we bihishe mu cyumba cy’ubucuruzi bwabo imyaka irenga ibiri mbere yuko bavumburwa	Otto Frank yarihishe kugeza igihe Abanazi bamubonye	neutral	Entailment	entailment
+300	Uturere twinshi na za leta zibanze bakeneye inyongera ya bacunga mari. 	Leta zibanze zikora amatejyeko yazo	neutral	Neutral	neutral
+301	Uturere twinshi na za leta zibanze bakeneye inyongera ya bacunga mari. 	Leta zibanze ntacyo zikenera 	contradiction	Contradiction	contradiction
+302	Uturere twinshi na za leta zibanze bakeneye inyongera ya bacunga mari. 	Hari bindi byinyongera bikenewe byatazwe na leta zibanze.	entailment	Entailment	entailment
+303	Ishami rishizwe intangzamakuru numutekano bakora amahugurwa hagati yibyiciro 8 na 12 mukwezi 	Umutwe wumutekano ujyira amahugurwa 9 mu kwezi 	neutral	Contradiction	contradiction
+304	Ishami rishizwe intangzamakuru numutekano bakora amahugurwa hagati yibyiciro 8 na 12 mukwezi 	Umutwe wumutekano ujyira amahugurwa umunsi umwe mukwezi  	contradiction	Entailment	entailment
+305	Ishami rishizwe intangzamakuru numutekano bakora amahugurwa hagati yibyiciro 8 na 12 mukwezi 	Umutwe wumutekano ujyira amahugurwa menshi mu mwaka 	entailment	Contradiction	contradiction
+306	Ariko, mubyibanze ikorana buhanga ryarangijwe kare	Ikorana buhanga ryagize ikiciro cya mbere 	entailment	Neutral	neutral
+307	Ariko, mubyibanze ikorana buhanga ryarangijwe kare	Ikorana buhanga ryaje muciciro cya nyuma 	contradiction	Neutral	neutral
+308	Ariko, mubyibanze ikorana buhanga ryarangijwe kare	Hatabayeho igihe cyibanze , ikoranabuhanga ryashoboraga gushirwa muciciro cyanyuma 	neutral	Entailment	entailment
+309	Ingaruka, abashingamatejyeko ba leta nabandi bayobozi batangeye ubundi buryo bwogutekereza, kwinjizamo izindi nzira zo kujyeza kuntego no gukoresha amakuru mashya kubafasha mugushiraho  ibyemezo	Abahagarariye leta bariguhindura imikorere	entailment	Neutral	neutral
+310	Ingaruka, abashingamatejyeko ba leta nabandi bayobozi batangeye ubundi buryo bwogutekereza, kwinjizamo izindi nzira zo kujyeza kuntego no gukoresha amakuru mashya kubafasha mugushiraho  ibyemezo	Abahagarariye leta barikujyerajyeza kongera ingufu mugutekereza bitandukanye	neutral	Entailment	entailment
+311	Ingaruka, abashingamatejyeko ba leta nabandi bayobozi batangeye ubundi buryo bwogutekereza, kwinjizamo izindi nzira zo kujyeza kuntego no gukoresha amakuru mashya kubafasha mugushiraho  ibyemezo	Abahagarariye leta banze guhindura imibereho yabo	contradiction	Neutral	neutral
+312	Amadosiye akeneye gusobanurwa kubera abakiriya basoma urundi rurimi rutari icyongereza	Amadosiye yemerewe kuba mucyongereza gusa	contradiction	Contradiction	contradiction
+313	Amadosiye akeneye gusobanurwa kubera abakiriya basoma urundi rurimi rutari icyongereza	Amadosiye ashobora gushirwa mucyongereza cyangwa ikirusiya. 	neutral	Entailment	entailment
+314	Amadosiye akeneye gusobanurwa kubera abakiriya basoma urundi rurimi rutari icyongereza	Amadosiye ashobora gushirwa muzindi ndimi.	entailment	Neutral	neutral
+315	Izindi mpano ziri munzira kandi zirateganijwe 	Byinshi mumbaraga zacu biri mukifuzo	neutral	Entailment	entailment
+316	Izindi mpano ziri munzira kandi zirateganijwe 	Ntakindi dufite giteganijwe imbere 	contradiction	Neutral	neutral
+317	Izindi mpano ziri munzira kandi zirateganijwe 	Haricyo dufite giteganijwe 	entailment	Entailment	entailment
+318	Ukubiyemo igihe, gusiba dosiye zumwimerere za komputa no kubura uruhushya  ryo kujyera kuma dosiye akenewe	basibye amadosiye ya komputa yo muri IBM	neutral	Neutral	neutral
+319	Ukubiyemo igihe, gusiba dosiye zumwimerere za komputa no kubura uruhushya  ryo kujyera kuma dosiye akenewe	Basibye amadosiye yumwimerere ya komputa 	entailment	Entailment	entailment
+320	Ukubiyemo igihe, gusiba dosiye zumwimerere za komputa no kubura uruhushya  ryo kujyera kuma dosiye akenewe	Babitse amadosiye yose yumwimerere	contradiction	Neutral	neutral
+321	Umwe mubahagarariye , wari wabasuye mbere , yongeye gusura uwatanze isoko rishya kugirango asubize ibibazo, no kuganira kubibazo byagaragaye mubimwe mubisabwa	Uhagarariye yasuye mugihe cyisaha 	neutral	Neutral	neutral
+322	Umwe mubahagarariye , wari wabasuye mbere , yongeye gusura uwatanze isoko rishya kugirango asubize ibibazo, no kuganira kubibazo byagaragaye mubimwe mubisabwa	Habayeho usurwa nuhagarariye 	entailment	Entailment	entailment
+323	Umwe mubahagarariye , wari wabasuye mbere , yongeye gusura uwatanze isoko rishya kugirango asubize ibibazo, no kuganira kubibazo byagaragaye mubimwe mubisabwa	Ntabwo twasuwe 	contradiction	Contradiction	contradiction
+324	Nkwizigama ntabwo bigira ingaruka kubutunzi gusa ahubwo nubutunzi bugira ingaruka kuburyo abantu bahitamo kuzigama	Amahitamo niba wazigama cyagwa hoya , bivana nubutunzi  umuntu afite 	entailment	Entailment	entailment
+325	Nkwizigama ntabwo bigira ingaruka kubutunzi gusa ahubwo nubutunzi bugira ingaruka kuburyo abantu bahitamo kuzigama	ubutunzi no kwizigama ntibigira isano muburyo aribwo bwose	contradiction	Contradiction	contradiction
+326	Nkwizigama ntabwo bigira ingaruka kubutunzi gusa ahubwo nubutunzi bugira ingaruka kuburyo abantu bahitamo kuzigama	Abakire birashoboka ko bizigama byinshi mubyobinjiza 	neutral	Contradiction	contradiction
+327	Murujyero , umuryango twizemo warufite ijyero ebyiri zasabaga ko sosiete ihita ikoresha ubucyuruzi bushya noguhundura imikorere kujyirango bajyere kumikurire yubucuruzi	Nubwo rwose hari ibintu bibiri bisabwa , ntibyari bikenewe kujyirango sosiete ikore ihinduka mumiyoborere yayo	contradiction	Entailment	entailment
+328	Murujyero , umuryango twizemo warufite ijyero ebyiri zasabaga ko sosiete ihita ikoresha ubucyuruzi bushya noguhundura imikorere kujyirango bajyere kumikurire yubucuruzi	Guhuza sosiete ibyiri mwishirahamwe rimwe , noguhindura imiyoborere, byateje ingaruka zamacyakubiri mumikorere	neutral	Entailment	entailment
+329	Murujyero , umuryango twizemo warufite ijyero ebyiri zasabaga ko sosiete ihita ikoresha ubucyuruzi bushya noguhundura imikorere kujyirango bajyere kumikurire yubucuruzi	Twasuzumye amasosiete yahujwe, twihutiye guhundura imikorere kujyirango tujyere kubyifuzo byabo byubucuruzi	entailment	Entailment	entailment
+330	uko byaribimeze , twari dufite impujyejyeko , kwishyurwa byari gusinkwa   mbere yo kwemeza ko habayeho ijyendo.	Twarituziko kwishyurwa bizatinda 	contradiction	Contradiction	contradiction
+331	uko byaribimeze , twari dufite impujyejyeko , kwishyurwa byari gusinkwa   mbere yo kwemeza ko habayeho ijyendo.	twizeye ko kwishyurwa byarigukorwa mbere y'ijyenzura	entailment	Contradiction	contradiction
+332	uko byaribimeze , twari dufite impujyejyeko , kwishyurwa byari gusinkwa   mbere yo kwemeza ko habayeho ijyendo.	Twacyetse ko kwishyurwa byari gukorwa mbere kandi hakabamo uburiganya. 	neutral	Entailment	entailment
+333	Ikoranabuhanga rirakoreshwa cyane mumikorere yubucuruzi muri aya masosiete kuko iterambere rifatwa nkiryemeza ubucuruzi ntabwo ari igikoresho gusa. 	Sofutiware ipanga igihe nimwe mwiterambere ubucuruzi bwibandaho cyane. 	neutral	Entailment	entailment
+334	Ikoranabuhanga rirakoreshwa cyane mumikorere yubucuruzi muri aya masosiete kuko iterambere rifatwa nkiryemeza ubucuruzi ntabwo ari igikoresho gusa. 	ikorana buhanga nigikoresho ntabwo bishoboza ubucuruz i	contradiction	Entailment	entailment
+335	Ikoranabuhanga rirakoreshwa cyane mumikorere yubucuruzi muri aya masosiete kuko iterambere rifatwa nkiryemeza ubucuruzi ntabwo ari igikoresho gusa. 	Ubu bucuruzi bushimagira ikoranabuhanga cyane 	entailment	Entailment	entailment
+336	ibitekerezo bibiri biboneka mubitabo , bizakenerwa mugutanga amakuru mubushakashatsi buzaza	Ibitabo birashobora guhindura uburyo bwubushakashatsi	neutral	Neutral	neutral
+337	ibitekerezo bibiri biboneka mubitabo , bizakenerwa mugutanga amakuru mubushakashatsi buzaza	ibitabo birashobora guhindura ubushakashatsi muminsi irimbere	entailment	Neutral	neutral
+338	ibitekerezo bibiri biboneka mubitabo , bizakenerwa mugutanga amakuru mubushakashatsi buzaza	ntakindi cyogukora muguhindura ubushakashatsi	contradiction	Neutral	neutral
+339	Imirongo igizwe nudusanduku, irerekana urujyero rwimibare hamwe nimirongo igizwe na diyama irerekana igihombo cyo kwimura akazi kuyindi sosiete. 	imirongo irabara urujyero rwubutumwa kuri 10 kwijana 	neutral	Neutral	neutral
+340	Imirongo igizwe nudusanduku, irerekana urujyero rwimibare hamwe nimirongo igizwe na diyama irerekana igihombo cyo kwimura akazi kuyindi sosiete. 	imirongo ntakindi yerekana uretse inzira. 	contradiction	Neutral	neutral
+341	Imirongo igizwe nudusanduku, irerekana urujyero rwimibare hamwe nimirongo igizwe na diyama irerekana igihombo cyo kwimura akazi kuyindi sosiete. 	imirongo irerekana urujyero  ruri muribuributumwa. 	entailment	Entailment	entailment
+342	Hifashijwe nijyenzura ryingaruka, Centrelink yatangije uburyo bwokwirinda na kwigisha abafitemo inyungu nabakozi ibisabwa mugukora raporo yibyinjira. 	Centrelink ntabwo yarizi uko bakemura ikibazo	contradiction	Neutral	neutral
+343	Hifashijwe nijyenzura ryingaruka, Centrelink yatangije uburyo bwokwirinda na kwigisha abafitemo inyungu nabakozi ibisabwa mugukora raporo yibyinjira. 	Centrelink yarifite uburyo bwinshi  bwo kwigisha abantu uko bakora raporo yibyinjiye kuko leta yariri gutakaza amafaranga menshi mumakosa. 	neutral	Neutral	neutral
+344	Hifashijwe nijyenzura ryingaruka, Centrelink yatangije uburyo bwokwirinda na kwigisha abafitemo inyungu nabakozi ibisabwa mugukora raporo yibyinjira. 	Centrelink yarifite uburyo bwinshi bwo kwijyisha abantu kugura raporo yibyinjiye. 	entailment	Entailment	entailment
+345	Ibi byateje imyigaragabyo yukuntu byaribikozwe mbere yuko amasosiete yongera gushora imari ihenze mubikoresho byobukorikori no kubaka ibikoresho byibicuruzwa. 	Bashoboraga kwerekana uko igishushanyo cyakoraga	entailment	Neutral	neutral
+346	Ibi byateje imyigaragabyo yukuntu byaribikozwe mbere yuko amasosiete yongera gushora imari ihenze mubikoresho byobukorikori no kubaka ibikoresho byibicuruzwa. 	berekaga isosiete ko bitaribyo gukora inganda nshya	neutral	Neutral	neutral
+347	Ibi byateje imyigaragabyo yukuntu byaribikozwe mbere yuko amasosiete yongera gushora imari ihenze mubikoresho byobukorikori no kubaka ibikoresho byibicuruzwa. 	Ntabwo baribazi uko bigaragabya kungaruka zubushoramari	contradiction	Neutral	neutral
+348	Ingufu z'amajyepfo ya Carolina byatanze undi musaruro mumwaka ukurikira	Ntihabayeho ubufatanye mumajyepfo ya Carolina 	contradiction	Entailment	entailment
+349	Ingufu z'amajyepfo ya Carolina byatanze undi musaruro mumwaka ukurikira	SC bakoze hamwe 	entailment	Entailment	entailment
+350	Ingufu z'amajyepfo ya Carolina byatanze undi musaruro mumwaka ukurikira	Abademokarate n'abarepublikani bo mumajepfo ya Carolina barakorana 	neutral	Neutral	neutral
+351	Nkuko byatangajwe ninama yimiyoborera ya 605(b), impamyabushobozi ntabwo byatazwe bitandukanye nubuyobozi bwubucuruzi buto (SBA)Umukuru wubujyanama 	Ubuyobozi ntabwo bwatanze SBA impamya bushobozi, babirekeye ibiro byisuzuma	neutral	Entailment	entailment
+352	Nkuko byatangajwe ninama yimiyoborera ya 605(b), impamyabushobozi ntabwo byatazwe bitandukanye nubuyobozi bwubucuruzi buto (SBA)Umukuru wubujyanama 	Ubuyobozi ntabwo bwatanze impamye bushobozi kuri (SBA)	entailment	Entailment	entailment
+353	Nkuko byatangajwe ninama yimiyoborera ya 605(b), impamyabushobozi ntabwo byatazwe bitandukanye nubuyobozi bwubucuruzi buto (SBA)Umukuru wubujyanama 	Ubuyobozi bwatanze Impamya bushobozi (SBA) kuri buriwese wayisabaga	contradiction	Entailment	entailment
+354	Iyo ihuzwa ryamahoteli nibiciro ribaye, ijyenzura ryijyendo rirakorwa 	Hoteli nyinshi zigihugu zemera kwishyura kwi karita yinguzanyo 	neutral	Neutral	neutral
+355	Iyo ihuzwa ryamahoteli nibiciro ribaye, ijyenzura ryijyendo rirakorwa 	Urujyendo rwa jyenzurwaga nimyishyurire ya hoteli 	entailment	Entailment	entailment
+356	Iyo ihuzwa ryamahoteli nibiciro ribaye, ijyenzura ryijyendo rirakorwa 	Ntaburyo bwo kujyenzura ko urujyendo rwabaye cyangwa hoya	contradiction	Entailment	entailment
+357	Urujyero, twasuye umurwa mukuru wigihugu ufite ingo zirenga 600 za sosiete za sofutiware	Imijyi mikuru iherereye aheza kubyirekeye sosiete za sofutiweya	neutral	Neutral	neutral
+358	Urujyero, twasuye umurwa mukuru wigihugu ufite ingo zirenga 600 za sosiete za sofutiware	Imujyi umwe ufite sossiete za sofutiweya nyinshi	entailment	Neutral	neutral
+359	Urujyero, twasuye umurwa mukuru wigihugu ufite ingo zirenga 600 za sosiete za sofutiware	Amasosiete ya sofutiweya yirinda imijyi mikuru kubera impanvu zamatejyeko 	contradiction	Neutral	neutral
+360	Mugupima imikorere, biragoye kujyera kubutungane	urashobora kuba intungane iyo ushizeho imbaraga zihajyije. 	contradiction	Neutral	neutral
+361	Mugupima imikorere, biragoye kujyera kubutungane	Ntushobora kuba intungane	entailment	Entailment	entailment
+362	Mugupima imikorere, biragoye kujyera kubutungane	Ntushobora kuba intungane kuko twese turi abanyantegenye	neutral	Contradiction	contradiction
+363	Umuvandimwe wakodesheje icyumba cya Hazmi and Mihdhar muri 2000 numuturage winyanga mugayo wubahiriza amatejyeko , kandi ufite umubano mwiza nabapolisi na FBI.	Hazmi na mihdar baguze inzu kandi nta kuvugana numuntu ariwe wese. 	contradiction	Contradiction	contradiction
+364	Umuvandimwe wakodesheje icyumba cya Hazmi and Mihdhar muri 2000 numuturage winyanga mugayo wubahiriza amatejyeko , kandi ufite umubano mwiza nabapolisi na FBI.	Hazmi na  Mihdar bakodesheje icyumba umwaka wose kuri $500 kumunsi	neutral	Neutral	neutral
+365	Umuvandimwe wakodesheje icyumba cya Hazmi and Mihdhar muri 2000 numuturage winyanga mugayo wubahiriza amatejyeko , kandi ufite umubano mwiza nabapolisi na FBI.	Hazmi na Mihdar bakodesheje icyumba 	entailment	Entailment	entailment
+366	kubwurugendo rwabo rwo muri Bosnia, reba raporo yiberereza ,nibibazo bya  bagize  Saudi Al Qaeda  ukwakira 3,2004.	Umunyamuryango wa al Qaeda yagiye muri Bosiniya inshuro 18 muri 2001 	neutral	Contradiction	contradiction
+367	kubwurugendo rwabo rwo muri Bosnia, reba raporo yiberereza ,nibibazo bya  bagize  Saudi Al Qaeda  ukwakira 3,2004.	Umunyamuryango wa al Qaeda yagiye muri Bosiniya 	entailment	Entailment	entailment
+368	kubwurugendo rwabo rwo muri Bosnia, reba raporo yiberereza ,nibibazo bya  bagize  Saudi Al Qaeda  ukwakira 3,2004.	Ntagihamya kerekana ko umunyamuryango wa al Qaeda yagiye Bosiniya	contradiction	Entailment	entailment
+369	Jane yasabye umukozi wa New York ushinzwe gushakisha Mihdhar kujyirango assinye ku ifishi y' emeza FISA ivuga ko umukozi agomba kwijyejyesera amakuru ya FISA.	Jane yasabye FISA ko bemera ukwakira fomu ya sinkweho numucyamanza wa  federasiyo	neutral	Contradiction	contradiction
+370	Jane yasabye umukozi wa New York ushinzwe gushakisha Mihdhar kujyirango assinye ku ifishi y' emeza FISA ivuga ko umukozi agomba kwijyejyesera amakuru ya FISA.	Jane yasabye ko fomu yemeza ya FISA isinkwa	entailment	Contradiction	contradiction
+371	Jane yasabye umukozi wa New York ushinzwe gushakisha Mihdhar kujyirango assinye ku ifishi y' emeza FISA ivuga ko umukozi agomba kwijyejyesera amakuru ya FISA.	Jane yavuzeko fomu ya FISA  yokwemeza itarigobwa	contradiction	Entailment	entailment
+372	Ntakintu kigaragara nakimwe kubijyanye numutekano  ujyanye nigenzura nyirizina.	Ikimenyetso cyerekana ,  cyamenyekanye barigukora inyenzura. 	contradiction	Neutral	neutral
+373	Ntakintu kigaragara nakimwe kubijyanye numutekano  ujyanye nigenzura nyirizina.	Ingenzura rishingiye kubushishozi bwumukozi unyenzura kuri gatsutamo.	neutral	Contradiction	contradiction
+374	Ntakintu kigaragara nakimwe kubijyanye numutekano  ujyanye nigenzura nyirizina.	Ahobagenzurira ntabwo bashoboye kubona igihamya kiberekeye	entailment	Neutral	neutral
+375	khallad yatanze virisiyo ya kabiri yitwa ko bose batatu bajyenze  hamwe kuri karachi	Khallad yavuze ko ntacyo yarazi  kuri batatu muribo	contradiction	Entailment	entailment
+376	khallad yatanze virisiyo ya kabiri yitwa ko bose batatu bajyenze  hamwe kuri karachi	Khallad yavuze ko batatu baba barajyenze hamwe 	entailment	Contradiction	contradiction
+377	khallad yatanze virisiyo ya kabiri yitwa ko bose batatu bajyenze  hamwe kuri karachi	Khallad yavuze ko 50% bishoboka ko batatu bagiye karachi hamwe mu kwa kira	neutral	Neutral	neutral
+378	Raporo yabashizwe ingenzura , yibibazo byukwakiri 1 2002 	Binalshibh yabajijwe nishami rya  FBI .	neutral	Contradiction	contradiction
+379	Raporo yabashizwe ingenzura , yibibazo byukwakiri 1 2002 	Binalshibh yabajijwe muri 2002 	entailment	Entailment	entailment
+380	Raporo yabashizwe ingenzura , yibibazo byukwakiri 1 2002 	Binalshibh ntiyijyeze avugishwa kandi yarabuze	contradiction	Neutral	neutral
+381	Mihdhar yabonye viza nshya yimisi ibiri nyuma  yinama ya CIA-FBI muri  New york 	Mihdhar yarafite visa yo kwinjira muri leta zunze umwe zamerika 	entailment	Entailment	entailment
+382	Mihdhar yabonye viza nshya yimisi ibiri nyuma  yinama ya CIA-FBI muri  New york 	Mihdar ntabwo yabonye visa , ntabwo yijyeze aza 	contradiction	Contradiction	contradiction
+383	Mihdhar yabonye viza nshya yimisi ibiri nyuma  yinama ya CIA-FBI muri  New york 	Mihdhar yahawe viza kuko ntackibazo yaributeze 	neutral	Entailment	entailment
+384	Nyuma yimyika ibiri yiperereza FBI ntabwo bashoboye kubona undi bakorana  cyngwa inkomoko ye 	FBI ntabwo bashoboye kubona umugabo , nyuma yo kuva Florida muri 2001	neutral	Contradiction	contradiction
+385	Nyuma yimyika ibiri yiperereza FBI ntabwo bashoboye kubona undi bakorana  cyngwa inkomoko ye 	FBI ntabwo bashoboye kumenya uwo yariwe 	entailment	Entailment	entailment
+386	Nyuma yimyika ibiri yiperereza FBI ntabwo bashoboye kubona undi bakorana  cyngwa inkomoko ye 	FBI bamenye uwo yariwe nuko bahita bamushira muburoko 	contradiction	Contradiction	contradiction
+387	Mukibazo cy'abanyamerika 11 , Imenyeshwa risazwe ryanyuma ryo mundege  ryi 8:13 zamugitondo	Habayeho imenyeshwa rivuye muri amerika 11. 	entailment	Contradiction	contradiction
+388	Mukibazo cy'abanyamerika 11 , Imenyeshwa risazwe ryanyuma ryo mundege  ryi 8:13 zamugitondo	Habayeho imenyeshwa rivuye muri  amerika 11 buri minota 5 	neutral	Contradiction	contradiction
+389	Mukibazo cy'abanyamerika 11 , Imenyeshwa risazwe ryanyuma ryo mundege  ryi 8:13 zamugitondo	Ntihijeze habaho imenyeshwa  rivuye muri amerika 11. 	contradiction	Contradiction	contradiction
+390	gusobanukirwa , bigomba   ubufatanye bwihuse kandi bukomeye na guverinoma y'Ubudage, biragoye  bigoye kubibona.	Iyo ijyenzura iza kurangira, byarikwerekana aho abashikishwa batatu baherereye 	neutral	Neutral	neutral
+391	gusobanukirwa , bigomba   ubufatanye bwihuse kandi bukomeye na guverinoma y'Ubudage, biragoye  bigoye kubibona.	Guverinoma yubudage yagize ibibazo bitoroshye mugukoresha iperereza.	entailment	Entailment	entailment
+392	gusobanukirwa , bigomba   ubufatanye bwihuse kandi bukomeye na guverinoma y'Ubudage, biragoye  bigoye kubibona.	Iperereza ryarikorohera leta mugukorwa	contradiction	Neutral	neutral
+393	ubushobozi bwari buke bwo kujyirango bongere nokubavugurura	Ntabwo bahinduye programe yabo yingenzura	neutral	Neutral	neutral
+394	ubushobozi bwari buke bwo kujyirango bongere nokubavugurura	Ntibakoze byinshi muguhindura ibintu 	entailment	Contradiction	contradiction
+395	ubushobozi bwari buke bwo kujyirango bongere nokubavugurura	Bakoresheje imbaraga nyinshi muguhindura buri kintu	contradiction	Neutral	neutral
+396	Imeri irasobanura , iragaragaza ko yari yitiranyije ibintu byinshi by’ubuvumo n’inzitizi zemewe n'amategeko zo guhanahana amakuru n’amategeko agenga imikoreshereze y’abakozi abashinjabyaha  bakoresheje amakuru yakusanyijwe binyuze mu nzira z’ubutasi.	Abasesenguzi batanze isesengura ryunvikana cyane	contradiction	Neutral	neutral
+397	Imeri irasobanura , iragaragaza ko yari yitiranyije ibintu byinshi by’ubuvumo n’inzitizi zemewe n'amategeko zo guhanahana amakuru n’amategeko agenga imikoreshereze y’abakozi abashinjabyaha  bakoresheje amakuru yakusanyijwe binyuze mu nzira z’ubutasi.	Umusesenguzi ntabwo yasobanutse muri byinshi	entailment	Neutral	neutral
+398	Imeri irasobanura , iragaragaza ko yari yitiranyije ibintu byinshi by’ubuvumo n’inzitizi zemewe n'amategeko zo guhanahana amakuru n’amategeko agenga imikoreshereze y’abakozi abashinjabyaha  bakoresheje amakuru yakusanyijwe binyuze mu nzira z’ubutasi.	raporo yamusesenguzi  yarivangavanze ntamuntu washoboraga kuyisoma. 	neutral	Neutral.	neutral
+399	Bamwe mu bapolisi bashinzwe gufasha mu kwimura ingazi, abandi bashinzwe kwihutisha kwimuka muri plaza, ihura  na sitasiyo ya PATH.	Abarinzi babonye isuzumwa ryabo 	entailment	Neutral	neutral
+400	Bamwe mu bapolisi bashinzwe gufasha mu kwimura ingazi, abandi bashinzwe kwihutisha kwimuka muri plaza, ihura  na sitasiyo ya PATH.	Abarinzi barakurikirznye bihutira kujya aho baribakenewe	contradiction	Neutral	neutral
+401	Bamwe mu bapolisi bashinzwe gufasha mu kwimura ingazi, abandi bashinzwe kwihutisha kwimuka muri plaza, ihura  na sitasiyo ya PATH.	Abarinzi bahawe akazi bikurikiranye nubukuru bwabo	neutral	Neutral	neutral
+402	Muri nzeri amakuru atangaje yaraje avuye Afuganistani 	Twabonye amakuru avuye muri Afuganistani 	entailment	Entailment	entailment
+403	Muri nzeri amakuru atangaje yaraje avuye Afuganistani 	Ntacyo twunvuse kivuye muri Afuganistani kujyeza muri ukwakira	contradiction	Entailment	entailment
+404	Muri nzeri amakuru atangaje yaraje avuye Afuganistani 	Twamenyeshejwe integanya yigitero muri nzeri 9	neutral	Neutral	neutral
+405	kudashyikirana byari ikintu gikomeye mu kigo cy’ubucuruzi cy’isi, Pentagon, na Somerset County, Pennsylvania, ahabereye impanuka, aho ibigo byinshi n’inkiko nyinshi byashubije.	Imenyeshwa ryakoze neza kuri 9/11	contradiction	Contradiction	contradiction
+406	kudashyikirana byari ikintu gikomeye mu kigo cy’ubucuruzi cy’isi, Pentagon, na Somerset County, Pennsylvania, ahabereye impanuka, aho ibigo byinshi n’inkiko nyinshi byashubije.	Abantu bagize ibihe bitoroshye mugutanga amakuru ku Icyuruzi Ryisi yose  kuko umuriro wari wagiye na telephone zazimye  	neutral	Contradiction	contradiction
+407	kudashyikirana byari ikintu gikomeye mu kigo cy’ubucuruzi cy’isi, Pentagon, na Somerset County, Pennsylvania, ahabereye impanuka, aho ibigo byinshi n’inkiko nyinshi byashubije.	Abantu bagize igihe kitoroshye  Kuvugisha ihuriro ryisi ryubucuruzi	entailment	Neutral	neutral
+408	Gushakisha amakuru yububiko muburyo  byoroshye byashoboraga kwihutisha kubwi impushya zo gutwara, kwandikisha imodoka, no kurutonde rwa terefone.	Abajyenzuzi basabye gushikira ububiko bwa makuru yikorana buhanga 	neutral	Entailment	entailment
+409	Gushakisha amakuru yububiko muburyo  byoroshye byashoboraga kwihutisha kubwi impushya zo gutwara, kwandikisha imodoka, no kurutonde rwa terefone.	Andi makuru atandukanye yarabonetse kuva mububiko bwamakuru yikorana buhanga	entailment	Contradiction	contradiction
+410	Gushakisha amakuru yububiko muburyo  byoroshye byashoboraga kwihutisha kubwi impushya zo gutwara, kwandikisha imodoka, no kurutonde rwa terefone.	Ntaburyo bwari buhari kubona amakuru ariyoyose kunteruro zari zisazwe zihari	contradiction	Contradiction	contradiction
+411	Avuga ko yakekaga ko bikorwa byose, umuyobozi yari yitandukanije  na Hazmi na Mihdhar, ariko hari mbere yuko babona ubufasha bakeneye.	Umushingwa bikorwa yahise uvugisha ubuyobozi kandi yanga gufasha bishoboka byose 	contradiction	Entailment	entailment
+412	Avuga ko yakekaga ko bikorwa byose, umuyobozi yari yitandukanije  na Hazmi na Mihdhar, ariko hari mbere yuko babona ubufasha bakeneye.	Umushingwa bikorwa yatanze ubufasha nubwo rwose yabutanze nabi	entailment	Contradiction	contradiction
+413	Avuga ko yakekaga ko bikorwa byose, umuyobozi yari yitandukanije  na Hazmi na Mihdhar, ariko hari mbere yuko babona ubufasha bakeneye.	Ubufasha bwikubiyemo amafaranga nuburyo bwo kubona impapuro zinzira 	neutral	Neutral	neutral
+414	Muri 2003 iyi myanya yakuweho , itera bwoba ryahise ryakirwa nkibindi byicyiro , 315	Ibintu byose bijyanye nitera bwoba byitaweho cyane 	neutral	Entailment	entailment
+415	Muri 2003 iyi myanya yakuweho , itera bwoba ryahise ryakirwa nkibindi byicyiro , 315	Ibikorwa byose byitera bwoba byahawe intera imwe 	entailment	Contradiction	contradiction
+416	Muri 2003 iyi myanya yakuweho , itera bwoba ryahise ryakirwa nkibindi byicyiro , 315	Burigikorwa kitera bwoba gifatwa ikwacyo nogushirwa muntera yaco cyonyine 	contradiction	Neutral	neutral
+417	uyu mwofisiye wabonya etaje ya majyepfo igwa yabivuve kuri ESU umutwe uri mumajyaruguru mumabwiriza ye yogufasha	Ntawasigaye muri itaje yabajyaruguru nyuma yo itaje yamajyepfo ingwa	contradiction	Entailment	entailment
+418	uyu mwofisiye wabonya etaje ya majyepfo igwa yabivuve kuri ESU umutwe uri mumajyaruguru mumabwiriza ye yogufasha	Etaji yamajyepfo yaguye iminota 30 mbere yuko umurinzi uvugisha ikigo cya ESU muri etaje yamajyaruguru 	neutral	Neutral	neutral
+419	uyu mwofisiye wabonya etaje ya majyepfo igwa yabivuve kuri ESU umutwe uri mumajyaruguru mumabwiriza ye yogufasha	Umurinzi yabonye etaje yamajyepfo ingwa. 	entailment	Neutral	neutral
+420	Indianapolis nihamwe muhantu abakini ba tiatre bakorera kubwinshi	Abakinyi ba teatre bakunda indianapolis kubera ibindi bigo bihari	neutral	Contradiction	contradiction
+421	Indianapolis nihamwe muhantu abakini ba tiatre bakorera kubwinshi	Niba  uri umukinyi wa teatre ugomba gutekereza kwimuka muri Indianapolis	entailment	Contradiction	contradiction
+422	Indianapolis nihamwe muhantu abakini ba tiatre bakorera kubwinshi	Biragoye kubona akazi muri indianpolis , niba ukina muri movi cyangwa teatre, ikenshi numujyi witerambere	contradiction	Neutral	neutral
+423	Dutanga ubufasha kuri telephone amasaha 24 ku munsi, iminsi 7 mu cyumweru  kunyura mukurinda inkomoko amakuru an amp: umurongo wa gufasha	Abantu bashobora kutuvugisha kuri email 	contradiction	Neutral	neutral
+424	Dutanga ubufasha kuri telephone amasaha 24 ku munsi, iminsi 7 mu cyumweru  kunyura mukurinda inkomoko amakuru an amp: umurongo wa gufasha	Turajyerwaho kuri telephone agihe aricyocyose buri munsi	entailment	Entailment	entailment
+425	Dutanga ubufasha kuri telephone amasaha 24 ku munsi, iminsi 7 mu cyumweru  kunyura mukurinda inkomoko amakuru an amp: umurongo wa gufasha	Twakira ihamagarwa hejuru yijana buri kuwambere no kuwagatanu	neutral	Contradiction	contradiction
+426	Aya makarito azaguma mubifuniko  kujyeza ubwo impanto zindi zizafungurwa	Aya makarito harimo ibisasu	neutral	Contradiction	contradiction
+427	Aya makarito azaguma mubifuniko  kujyeza ubwo impanto zindi zizafungurwa	Aya makarito azafungurwa mbere yayandi makarito	contradiction	Contradiction	contradiction
+428	Aya makarito azaguma mubifuniko  kujyeza ubwo impanto zindi zizafungurwa	Aya makarito ntazafungurwa igihe kinini 	entailment	Contradiction	contradiction
+429	Nidukomeza kugabanya ibiciro byacu, Tuzabejyera , abadutega amatwi tubasaba inkunga  mudufashe gujyera kubyifuzo. 	Kujyirango dukomeze ibiciro bya  tike zacu munsi ya $ 10, tuzasaba ubanyamuryango bacu bose badubtega amatwi  gutanga inkunga ya $25	neutral	Neutral	neutral
+430	Nidukomeza kugabanya ibiciro byacu, Tuzabejyera , abadutega amatwi tubasaba inkunga  mudufashe gujyera kubyifuzo. 	twashoboraga gukomeza ibiciro byacu hasi iyo twabaga tubishaka, ntamafaraga yanyu dukoresheje ariko umukuru wacu yakunze kwishimisha 	contradiction	Contradiction	contradiction
+431	Nidukomeza kugabanya ibiciro byacu, Tuzabejyera , abadutega amatwi tubasaba inkunga  mudufashe gujyera kubyifuzo. 	Inkunga yanyu yadufashije yadufashije kurekera ibiciro hasi. 	entailment	Entailment	entailment
+432	Byaradufashije mugutanga inyigisho, gutanga inkunga kubana bajyera kuri 400 bo muri indianpolis	Turashima ibitanze kunkunga zabo twashoboye gutumira  beyonce mukwiyejyereza abana bipfubyi ba indianpolis 	neutral	Neutral	neutral
+433	Byaradufashije mugutanga inyigisho, gutanga inkunga kubana bajyera kuri 400 bo muri indianpolis	Twaritwizeye kujyirira abana  umunsi mukuru wa noheli , are ntiturashobora kujyira icyo twabagirira. 	contradiction	Neutral	neutral
+434	Byaradufashije mugutanga inyigisho, gutanga inkunga kubana bajyera kuri 400 bo muri indianpolis	Twashoboye gufasha abana benshi ba indianpolis	entailment	Contradiction	contradiction
+435	Ubusazwe umuntu yashobora  gukora inkunga itanditwe ya $1,000 cyangwa kwihuriro ryabayobozi.	ubuntu arashobora kwitabira nyuma yogutanga inkunga $50	contradiction	Neutral	neutral
+436	Ubusazwe umuntu yashobora  gukora inkunga itanditwe ya $1,000 cyangwa kwihuriro ryabayobozi.	Abantu barashobora kwitabira , niba batanze inkunga nini.	entailment	Neutral.	neutral
+437	Ubusazwe umuntu yashobora  gukora inkunga itanditwe ya $1,000 cyangwa kwihuriro ryabayobozi.	Abenshi bahisemo gutanga inkunga kwitsinda ryabayobozi.	neutral	Entailment	entailment
+438	Inkunga yawe murikigihe irashobora kwogera inyishyu yimisoro yumwaka 	Niba utanze inkunga ya $1,000 uzashobora kugabanyirizwa ibisoro	neutral	Contradiction	contradiction
+439	Inkunga yawe murikigihe irashobora kwogera inyishyu yimisoro yumwaka 	bitangaje, abajyira nama bimisoro bashobora kukujyira inama yokudatanga inkunga	contradiction	Neutral	neutral
+440	Inkunga yawe murikigihe irashobora kwogera inyishyu yimisoro yumwaka 	Urashobo kubona igabanyirizwa ryimisoro k'unkuga yawe	entailment	Entailment	entailment
+441	Nkuko mubizi, abanyamuryango biyi itsinda harimo inshuti na nabatanze inkunga $1,000 cyangwa abanyeshuri bamategeko	Bamwe muriyigrupe batanze inkunga hejuru ya $100k kwishuri	neutral	Contradiction	contradiction
+442	Nkuko mubizi, abanyamuryango biyi itsinda harimo inshuti na nabatanze inkunga $1,000 cyangwa abanyeshuri bamategeko	Dufite abantu muriyi tsinda batanza inkunga hejuru $1.000 kwishuri ryamategeko	entailment	Neutral	neutral
+443	Nkuko mubizi, abanyamuryango biyi itsinda harimo inshuti na nabatanze inkunga $1,000 cyangwa abanyeshuri bamategeko	Turapanga kubaza iritsinda kutanga inkunga yamafaranga kwishuri ariko ntibyabayeho mbere	contradiction	Neutral	neutral
+444	ndi umwana urigukura muri 50, mubyanshimishije nibuka  kwari kujya kureba uko bakina filime ya teatre	Nangaga kujya kureba aho berekana filime  ndi umwana , niyo mpanvu nabaye umuseyantiste	contradiction	Contradiction	contradiction
+445	ndi umwana urigukura muri 50, mubyanshimishije nibuka  kwari kujya kureba uko bakina filime ya teatre	Nakundaga kujya kureba teatre ndi umwana 	entailment	Entailment	entailment
+446	ndi umwana urigukura muri 50, mubyanshimishije nibuka  kwari kujya kureba uko bakina filime ya teatre	teatre na kundaga cyane yari ibyerekeranye nubwiza ninyamaswa	neutral	Contradiction	contradiction
+447	Buriwese ujyerwaho niyi barwa atange $18	buriwese ujyerwaho niyi barwa ntutange amafaranga yawe nukubeshya	contradiction	Entailment	entailment
+448	Buriwese ujyerwaho niyi barwa atange $18	Nutanga $18 tuzaguha impano	neutral	Entailment	entailment
+449	Buriwese ujyerwaho niyi barwa atange $18	Twizeyeko abazabona impano bose baza tanga impano 	entailment	Contradiction	contradiction
+450	Tangukanya gusa igice cyo hasi, reba ingero zikoreshwa, ukore impinduka zose kuri aderesi yawe nibikenewe hanyuma wohereze mu ibahasha ifunze.	Turagusaba kudakora impindura kuri adrese yacu. 	contradiction	Contradiction	contradiction
+451	Tangukanya gusa igice cyo hasi, reba ingero zikoreshwa, ukore impinduka zose kuri aderesi yawe nibikenewe hanyuma wohereze mu ibahasha ifunze.	Hari ibarwa yumweru ifite adrese yanyu kuriyo 	neutral	Neutral	neutral
+452	Tangukanya gusa igice cyo hasi, reba ingero zikoreshwa, ukore impinduka zose kuri aderesi yawe nibikenewe hanyuma wohereze mu ibahasha ifunze.	Urabyemerewe gukora impinduka kuri adrese yawe , niba ubona bishoboka.	entailment	Entailment	entailment
+453	Ishuri ryubuvuzi rikeneye ubwitange bwawe kujyirango rikomeze ibikorwa byayo byokwigisha neza	Nyaboneka tanga inkunga ya $100 miliyoni kwi shuri byubuvuzi cyagwa uzatakaza  igishushanyo cyo kwibukiraho	neutral	Neutral	neutral
+454	Ishuri ryubuvuzi rikeneye ubwitange bwawe kujyirango rikomeze ibikorwa byayo byokwigisha neza	Ishuri ryubuvuzi ryageze kubyifuzo byaryo ryubukungu , kuryu nta yandi mafaranga rikeneye . 	contradiction	Entailment	entailment
+455	Ishuri ryubuvuzi rikeneye ubwitange bwawe kujyirango rikomeze ibikorwa byayo byokwigisha neza	Turizera ko uzatanga inkunga kwishuri ryubuvuzi	entailment	Entailment	entailment
+456	80% babitabiriye bafite inyongera zubumenyi mugukemura ibibazo 	Abarenze igice cyabitabiriye barafite inyongera mubumenyi bwo gukemura ibibazo	entailment	Neutral	neutral
+457	80% babitabiriye bafite inyongera zubumenyi mugukemura ibibazo 	Ni kimwe cya kane gusa bafite inyongera mubumenyi bwo gukemura ibibazo	contradiction	Entailment	entailment
+458	80% babitabiriye bafite inyongera zubumenyi mugukemura ibibazo 	Hari abitabiriye barenze 100	neutral	Contradiction	contradiction
+459	Nyaboneka ntusitare kuri liste yacu yabatera nkunga	Byaba bikojeje isoni uhagaritse gutanga inkunga	entailment	Contradiction	contradiction
+460	Nyaboneka ntusitare kuri liste yacu yabatera nkunga	liste yacu ya baterankunga ishirwa ahagaragara kujyirangi isi iyibone, ndaba saba ikizere, ntabwo mwakwishimira gukorwa nisoni bene ako kajyeni. 	neutral	Entailment	entailment
+461	Nyaboneka ntusitare kuri liste yacu yabatera nkunga	Dufite abaterankunga benshi , uhagarike gutera inkunga	contradiction	Entailment	entailment
+462	Abazemererwa kuwinjira mukibuga nabazaba bafite  komputa na modemu	Abantu ntocyo bagomba gujyira kwinjira  mukibuga	contradiction	Entailment	entailment
+463	Abazemererwa kuwinjira mukibuga nabazaba bafite  komputa na modemu	Abantu bakineye komputa na modemu kwinjira mukibuga 	entailment	Entailment	entailment
+464	Abazemererwa kuwinjira mukibuga nabazaba bafite  komputa na modemu	Abantu bagomba kuba bafite komputa na modemu mugihe barikwinjira mukibuga	neutral	Entailment	entailment
+465	Kugurisha amatike nabitabira ntabwo bihagije kuzuza gahunda zacu	Mugihe tuba dufite abagurisha amatike za hagararira gahunda zacu	contradiction	Entailment	entailment
+466	Kugurisha amatike nabitabira ntabwo bihagije kuzuza gahunda zacu	gahunda yacu yose ikeneye ubufasha bwamafaranga binyuze mukugurisha amatike nabitabira benshi. 	entailment	Entailment	entailment
+467	Kugurisha amatike nabitabira ntabwo bihagije kuzuza gahunda zacu	Kugurisha amatike nubwitabire bifashe 70% yamafaranga azakoreshwa muri gahunda yacu	neutral	Neutral	neutral
+468	Buri mpano nshya ije ifite akamaro. 	Buri mpano irandikwa ikanavugwa muri raporo yacu ya buri kwezi 	neutral	Contradiction	contradiction
+469	Buri mpano nshya ije ifite akamaro. 	Muri mpano ifite akamaro kuri burikintu	entailment	Neutral	neutral
+470	Buri mpano nshya ije ifite akamaro. 	mpano zirenze $100 zingira akamaro	contradiction	Neutral	neutral
+471	turacyafite urujyendo runini kujyera kuntego yacu ya $365,000 kuva munshuti nabafatabuguzi   nka wowe. 	Intego yacu yamafaranga irashikira %300,000	entailment	Contradiction	contradiction
+472	turacyafite urujyendo runini kujyera kuntego yacu ya $365,000 kuva munshuti nabafatabuguzi   nka wowe. 	Turizera kuzakuba gatatu intego yacu yamafaranga 	neutral	Neutral	neutral
+473	turacyafite urujyendo runini kujyera kuntego yacu ya $365,000 kuva munshuti nabafatabuguzi   nka wowe. 	Ntabwo dufite igipimo kubyrekeye amafaranga 	contradiction	Contradiction	contradiction
+474	Ivuriro  ryacu ryimyitozo yagisivire  rimaze igihe kinini ikora , kandi vubaha twongeyeho ivuriro ryabashizwe ubyuburinzi nabaregwa 	ivuriro ryacu ryimyitozo ya gisivire  rimaze imyake umunane rikora	neutral	Neutral	neutral
+475	Ivuriro  ryacu ryimyitozo yagisivire  rimaze igihe kinini ikora , kandi vubaha twongeyeho ivuriro ryabashizwe ubyuburinzi nabaregwa 	Ivuriro ryacu ryimyitozo yagisivire rizihiziriza  umwaka umwe rimaze rikora. 	contradiction	Entailment	entailment
+476	Ivuriro  ryacu ryimyitozo yagisivire  rimaze igihe kinini ikora , kandi vubaha twongeyeho ivuriro ryabashizwe ubyuburinzi nabaregwa 	ivurinro ryimitozo ryagiturage rimaze umwaka urenga rikora	entailment	Neutral	neutral
+477	ibituruka mwigurishwa ryamatike ntabwo yishura ikiguzi kiyi gahunda 	biragaragara ko ikiguzi kizi gahunda bitaza shikirwa nikizava mwigurishwa ryamatike	entailment	Entailment	entailment
+478	ibituruka mwigurishwa ryamatike ntabwo yishura ikiguzi kiyi gahunda 	ikiguzi kizi gahundi kirahenze cyane 	neutral	Entailment	entailment
+479	ibituruka mwigurishwa ryamatike ntabwo yishura ikiguzi kiyi gahunda 	ikizava mwigurishwa ryamatike bizishyura ikiguzi kizi gahunda	contradiction	Neutral	neutral
+480	Omnia vincit amor (keretse niba ukoa buri cyumweru : Brit Hume (Fox News Ku cyumweru ) yatekereje impamvu Lewinsky ashobora kuba atari usigaranye icyifuzo cya perezida.	Brit hume ayoboye itangaza muri Fox 	neutral	Neutral	neutral
+481	Omnia vincit amor (keretse niba ukoa buri cyumweru : Brit Hume (Fox News Ku cyumweru ) yatekereje impamvu Lewinsky ashobora kuba atari usigaranye icyifuzo cya perezida.	Brit Hume akorera CNN 	contradiction	Contradiction	contradiction
+482	Omnia vincit amor (keretse niba ukoa buri cyumweru : Brit Hume (Fox News Ku cyumweru ) yatekereje impamvu Lewinsky ashobora kuba atari usigaranye icyifuzo cya perezida.	Brit Hume akorera fox	entailment	Neutral	neutral
+483	Byinshi byakozwe muguha akazi Michael Apted biryo azane ubwinshi bwabantu. 	Mkichael Apted yahinduye imikorere mugutsindagiza mugukuramo mugukuramo abakozi badashimishije 	contradiction	Neutral	neutral
+484	Byinshi byakozwe muguha akazi Michael Apted biryo azane ubwinshi bwabantu. 	Michael Apted yahawe akazi  mukogera ubushobozi mumikorere	entailment	Contradiction	contradiction
+485	Byinshi byakozwe muguha akazi Michael Apted biryo azane ubwinshi bwabantu. 	Uruhererekane rwari rukonje runarambiranye , bityo byaringobwa guha akazi Michael Apted kugirango yongereho ububasha kumuntu  ku giti cye kugirango yongere amanota.	neutral	Neutral	neutral
+486	Kubona ummukobwa wambaye pariki yera na bote. 	Umukobwa yambaye umwambaro wogusigana	neutral	Entailment	entailment
+487	Kubona ummukobwa wambaye pariki yera na bote. 	Umukobwa yambaye imyenda yera	entailment	Neutral	neutral
+488	Kubona ummukobwa wambaye pariki yera na bote. 	umukobwa yambaye ibitukura hose	contradiction	Entailment	entailment
+489	Icyo filime yasize nukuvuga uko Kaufman yavugaga kubyerekeye urupfu rwe	Filime ntabwo ivuga Kaufman atangaza urupfu rwe 	entailment	Entailment	entailment
+490	Icyo filime yasize nukuvuga uko Kaufman yavugaga kubyerekeye urupfu rwe	filime yagize ikiganiro na Kaufman kubyerekeye urupfu rwe	contradiction	Entailment	entailment
+491	Icyo filime yasize nukuvuga uko Kaufman yavugaga kubyerekeye urupfu rwe	Filime yakunzwe cyane, nubwo itarifite  amakuru yose yingenzi kuri Kaufman.	neutral	Entailment	entailment
+492	Rockefeller yerekanye akababaro mugihe  Avenging Angel Tarbell yatangiraga kwihindura  umubiri muri McClure.	Rockefeller yahaye abashakashatsi ba kanseri	neutral	Contradiction	contradiction
+493	Rockefeller yerekanye akababaro mugihe  Avenging Angel Tarbell yatangiraga kwihindura  umubiri muri McClure.	Rockfeller yaratangaga	entailment	Entailment	entailment
+494	Rockefeller yerekanye akababaro mugihe  Avenging Angel Tarbell yatangiraga kwihindura  umubiri muri McClure.	Rockefeller yarumunyabugugu	contradiction	Contradiction	contradiction
+495	muri iyi minsi ishize  mu rubanza rw’ubucuruzi i New York, Klayman yasanze ashinjwa ku rundi ruhande  kubogama 	Klayman yarezwe ashinjwa kubogama  muri Californiya.	contradiction	Neutral.	neutral
+496	muri iyi minsi ishize  mu rubanza rw’ubucuruzi i New York, Klayman yasanze ashinjwa ku rundi ruhande  kubogama 	Klayman ntabwo yari yiteze gushijwa kubogama	neutral	Entailment	entailment
+497	muri iyi minsi ishize  mu rubanza rw’ubucuruzi i New York, Klayman yasanze ashinjwa ku rundi ruhande  kubogama 	Hari ibirego byo kubogama  kuri Klayman.	entailment	Neutral	neutral
+498	Ntawiteze gusubiramo ibigo bye,  kwataka umunyamabanga w’umurimo muri Amerika 	Abahagarariye itsinda bambara kostime	neutral	Neutral	neutral
+499	Ntawiteze gusubiramo ibigo bye,  kwataka umunyamabanga w’umurimo muri Amerika 	umuntu yariyiteguye ko abahagarariye umushinga bitanga 	contradiction	Neutral	neutral
+500	Ntawiteze gusubiramo ibigo bye,  kwataka umunyamabanga w’umurimo muri Amerika 	ntawaruziko abahagarariye itsinda babura	entailment	Neutral	neutral
+501	nubwo kurera bigira ingaruka zikomeye kumikorere ya siporo, ntibisobanura ko kamere ya muntu isinziriye.	Abirukanga bavukana ubushobozi bwose 	contradiction	Entailment	entailment
+502	nubwo kurera bigira ingaruka zikomeye kumikorere ya siporo, ntibisobanura ko kamere ya muntu isinziriye.	Kwirukanga bijyira ingaruka cyane bivanye nimyitozo kurusha kubivukana	entailment	Neutral	neutral
+503	nubwo kurera bigira ingaruka zikomeye kumikorere ya siporo, ntibisobanura ko kamere ya muntu isinziriye.	Menshi mubiyemeje kwirukanga , bajyira imyitozo mumasaha umunane buri cyumweru 	neutral	Contradiction	contradiction
+504	Ndi murugo namenye ko leta zunze ubumwe bahagaritse ibikoresho 	Nkunda politiki 	neutral	Contradiction	contradiction
+505	Ndi murugo namenye ko leta zunze ubumwe bahagaritse ibikoresho 	Nize ibyerekeye leta zunze ubumwe	entailment	Entailment	entailment
+506	Ndi murugo namenye ko leta zunze ubumwe bahagaritse ibikoresho 	Namenye ko leta zunze ubumwe zahagaritse ibikoresho muburyo bubiri mbere yuko ntaha 	contradiction	Entailment	entailment
+507	Itangazamakuru rya kera kandi rinini ku isi-Oxford-rimaze gutangaza ko rihagaritse urutonde rw’imivugo.	Urutonde rw'imivugo muri Oxford ntiruzakomeza	entailment	Contradiction	contradiction
+508	Itangazamakuru rya kera kandi rinini ku isi-Oxford-rimaze gutangaza ko rihagaritse urutonde rw’imivugo.	Kaminuza yicyubahiro ntabwo ifite inkunga zo gukomeza kuba kurutonde ruzwi.	neutral	Neutral	neutral
+509	Itangazamakuru rya kera kandi rinini ku isi-Oxford-rimaze gutangaza ko rihagaritse urutonde rw’imivugo.	Kaminuza yiyemeje kurinda ibyivugo  kandi ko itazayihagarika 	contradiction	Neutral	neutral
+510	Hari impano itangwa  yum#ubuntu ariko 	impano itagwa nubuntu , blender ebyiri kuri buri muntu 	neutral	Entailment	entailment
+511	Hari impano itangwa  yum#ubuntu ariko 	Ntakibazo cyabantu gihari ubungubu 	contradiction	Entailment	entailment
+512	Hari impano itangwa  yum#ubuntu ariko 	Aya samakuru mabi kubantu 	entailment	Neutral	neutral
+513	Imikino ntabwo ariyo yonyine yo gusheta kuri iyi site 	Gusheta kubya politike no kuma tora biremewe kuri izi site 	neutral	Entailment	entailment
+514	Imikino ntabwo ariyo yonyine yo gusheta kuri iyi site 	Izi site zemera gusheta  kumikino gusa	contradiction	Entailment	entailment
+515	Imikino ntabwo ariyo yonyine yo gusheta kuri iyi site 	izi site zemera gusheta kuri gahunda zinyuranye 	entailment	Entailment	entailment
+516	Muri kanama 25, nyuma yihuriro ryaba demokrate rifunguye umujyi wa birukanga N.J Johnson yarafite imyaka 56 , uburi gatatu yakangishije kuva mumyitoreze yumukuru wigihugu	Johnson yiyunvisemo kubura ubufasha 	neutral	Contradiction	contradiction
+517	Muri kanama 25, nyuma yihuriro ryaba demokrate rifunguye umujyi wa birukanga N.J Johnson yarafite imyaka 56 , uburi gatatu yakangishije kuva mumyitoreze yumukuru wigihugu	Johnson ntiyigeze atekereza kuvamo 	contradiction	Contradiction	contradiction
+518	Muri kanama 25, nyuma yihuriro ryaba demokrate rifunguye umujyi wa birukanga N.J Johnson yarafite imyaka 56 , uburi gatatu yakangishije kuva mumyitoreze yumukuru wigihugu	Johnson yakangishije kuvamo 	entailment	Entailment	entailment
+519	Lamar Alexander yaretse ikifuzocye cyokuba umukuru wigihugu 	Umuntu umwe yarabiretse ikifuzo cye cyo kuba umukuru wigihugu 	entailment	Entailment	entailment
+520	Lamar Alexander yaretse ikifuzocye cyokuba umukuru wigihugu 	Lamar Alexander yanze kureka kwiyamamariza kuba umukuru wigihugu 	contradiction	Entailment	entailment
+521	Lamar Alexander yaretse ikifuzocye cyokuba umukuru wigihugu 	Umugabo Alexander byabeye ngobwa ko abireka nyuma yamafoto ye yikoza soni  yerekanwe 	neutral	Contradiction	contradiction
+522	Hejuru yiyi nyandiko ibabaje-yubwisanzure bwabaturage no gukoresha nabi FBI mu iperereza ryambere ry’ibiro bya White House, byaje kumenyekana nka Filegate.	White house ifite inshinga matwi za FBI kuba kandida ba politike 	neutral	Contradiction	contradiction
+523	Hejuru yiyi nyandiko ibabaje-yubwisanzure bwabaturage no gukoresha nabi FBI mu iperereza ryambere ry’ibiro bya White House, byaje kumenyekana nka Filegate.	White house bakoresha FBI nabi 	entailment	Entailment	entailment
+524	Hejuru yiyi nyandiko ibabaje-yubwisanzure bwabaturage no gukoresha nabi FBI mu iperereza ryambere ry’ibiro bya White House, byaje kumenyekana nka Filegate.	White house ikoresha FBI neza 	contradiction	Contradiction	contradiction
+525	Tung yarahiye  gukuraho abagwiza mitungo, ariko abenshi barakeka ko abamushingikiye bazaba babi kurusha abamwunva 	Tung ntabwo aha agaciro abagwiza mutungo 	contradiction	Contradiction	contradiction
+526	Tung yarahiye  gukuraho abagwiza mitungo, ariko abenshi barakeka ko abamushingikiye bazaba babi kurusha abamwunva 	Tung akeka ko abangwiza mutungo nta myitwarire bafite 	neutral	Contradiction	contradiction
+527	Tung yarahiye  gukuraho abagwiza mitungo, ariko abenshi barakeka ko abamushingikiye bazaba babi kurusha abamwunva 	Tung arashaka kuyobora abagwiza mitungo 	entailment	Entailment	entailment
+528	Ibirego kubibazo byimitwaro, abakozi b'indenge bahagaritse ijyendo muburyo budasobanutse , basaba indishyi zibyononekaye 	Abantu icumi batakaje imitwaro yabo 	neutral	Contradiction	contradiction
+529	Ibirego kubibazo byimitwaro, abakozi b'indenge bahagaritse ijyendo muburyo budasobanutse , basaba indishyi zibyononekaye 	Abantu bateye impaka kumitwaro yabo 	entailment	Contradiction	contradiction
+530	Ibirego kubibazo byimitwaro, abakozi b'indenge bahagaritse ijyendo muburyo budasobanutse , basaba indishyi zibyononekaye 	Ntampaka zarizihari 	contradiction	Neutral	neutral
+531	Lawrence Singleton, uzwi cyane gufata ku ngufu , aka vuna akaboko kuwahohotewe hanyuma akamara imyaka umunani gusa muri gereza, yatawe muri yombi yateye icyuma umugore muri Floride.	amaze guntera icyuma no gukata amaboko umuntu yajyerajyeje kuyahisha mukintu bashiramo imyanda	neutral	Contradiction	contradiction
+532	Lawrence Singleton, uzwi cyane gufata ku ngufu , aka vuna akaboko kuwahohotewe hanyuma akamara imyaka umunani gusa muri gereza, yatawe muri yombi yateye icyuma umugore muri Floride.	Byari ibisazwe kuri buri wese ko igihe yamaze ari ifungwa ko cyamuhinduye mumyitwarireye	contradiction	Neutral	neutral
+533	Lawrence Singleton, uzwi cyane gufata ku ngufu , aka vuna akaboko kuwahohotewe hanyuma akamara imyaka umunani gusa muri gereza, yatawe muri yombi yateye icyuma umugore muri Floride.	Umugabo Singleton yafashweho icyaha cyogufata kungufu muri Florida	entailment	Entailment	entailment
+534	ikinyamakuru cya Republic, Charles Lane aravugako amakuru yifata kungufu arinyongera kuri raporo ya Gabriel marquez avuga umunyamakuru utari inyangamugayo 	Charles Lane numunyamakuru	entailment	Entailment	entailment
+535	ikinyamakuru cya Republic, Charles Lane aravugako amakuru yifata kungufu arinyongera kuri raporo ya Gabriel marquez avuga umunyamakuru utari inyangamugayo 	Charles lane agurisha amamodoka 	contradiction	Neutral	neutral
+536	ikinyamakuru cya Republic, Charles Lane aravugako amakuru yifata kungufu arinyongera kuri raporo ya Gabriel marquez avuga umunyamakuru utari inyangamugayo 	Charles lane yatsindiye igihembo cya pulitzer	neutral	Contradiction	contradiction
+537	Inzu yurukiko ntabwo ariyo yonyine ihuriro rya politike muri washington  muri iki gitondo	Inzu yurukiko ntabwo ariyo yonyine ya politike muri washington 	entailment	Neutral	neutral
+538	Inzu yurukiko ntabwo ariyo yonyine ihuriro rya politike muri washington  muri iki gitondo	Umunsi wa politike utangira mugitondo 	neutral	Entailment	entailment
+539	Inzu yurukiko ntabwo ariyo yonyine ihuriro rya politike muri washington  muri iki gitondo	Hari ubwinshi bwa babeshyi  mu nzu yurukiko 	contradiction	Contradiction	contradiction
+540	Umuntu arashobora gutekereza umushoferi wimodoka ikora imihanda  ari gukora umuhanda mwiterambere rishya  riyobowe na Hey loyd	Umuntu ashobora gutekereza umushoferi wimodoka nini ikora imihanda ayacyinje	neutral	Neutral	neutral
+541	Umuntu arashobora gutekereza umushoferi wimodoka ikora imihanda  ari gukora umuhanda mwiterambere rishya  riyobowe na Hey loyd	umuntu ashobora gutekereza umushoferi ukoresha imodoka ikora umuhanda 	entailment	Entailment	entailment
+542	Umuntu arashobora gutekereza umushoferi wimodoka ikora imihanda  ari gukora umuhanda mwiterambere rishya  riyobowe na Hey loyd	Ntabwo ushobora gutekereza umushoferi utwara imodoka icukura umuhanda	contradiction	Contradiction	contradiction
+543	Ibi nabishize muri raporo yibarwa nandikiye Dokiteri , biragaragara ko itamushimishije nuko anyoherereza kaki kuriyo noheri	Ndizeye ko Dokiteri yabonye ibarwa namwoherereje	entailment	Entailment	entailment
+544	Ibi nabishize muri raporo yibarwa nandikiye Dokiteri , biragaragara ko itamushimishije nuko anyoherereza kaki kuriyo noheri	Ntabwo nariye keki dokiteri yanyoherereje kuriyo noheri	neutral	Contradiction	contradiction
+545	Ibi nabishize muri raporo yibarwa nandikiye Dokiteri , biragaragara ko itamushimishije nuko anyoherereza kaki kuriyo noheri	Muganga yanyoherereje icupa rya divayi kuri noheri	contradiction	Neutral	neutral
+546	Iyi kipe yarizwi mbere ku izina ritazibagirana Beaneaters (ku bw'amatsiko, rishobora no gufatwa nk'izina ry'Ubuhinde.	ikipe yahinduye izina kuko ritaririzwi cyane 	neutral	Entailment	entailment
+547	Iyi kipe yarizwi mbere ku izina ritazibagirana Beaneaters (ku bw'amatsiko, rishobora no gufatwa nk'izina ry'Ubuhinde.	Ikipe yarifite izina mbere yiringiri ryakesweho ko ari irihimbano ryo mubuhinde	entailment	Entailment	entailment
+548	Iyi kipe yarizwi mbere ku izina ritazibagirana Beaneaters (ku bw'amatsiko, rishobora no gufatwa nk'izina ry'Ubuhinde.	ikipe yijyeze izina rimwe gusa 	contradiction	Neutral	neutral
+549	Ntabwo nashoboye kubona icyo bisobanuye mugitabo 	nabonye igisobanuro mugitabo 	contradiction	Entailment	entailment
+550	Ntabwo nashoboye kubona icyo bisobanuye mugitabo 	Narebye mugitabo ariko ntabwo nabonye igisobanuro 	entailment	Contradiction	contradiction
+551	Ntabwo nashoboye kubona icyo bisobanuye mugitabo 	Igitabo nakoresheje cyari igitabo gisazwe 	neutral	Entailment	entailment
+552	Ubuntu yakora ibyo gute ?	Bishoboka gute abantu benshi gukora ubusa ?	contradiction	Entailment	entailment
+553	Ubuntu yakora ibyo gute ?	Byashoboka gute umuntu akore iki kibi ?	neutral	Entailment	entailment
+554	Ubuntu yakora ibyo gute ?	Bishoboka gute umuntu gukora iki ?	entailment	Entailment	entailment
+555	Byongeye, ikubiyemo amagambo gusa azwi ko yavutse mu kinyejana cya makumyabiri, nk'uko Ijambo ry'ibanze ribivuga, ariko rikuraho imvugo ya gisirikare yo mu ntangiriro z'ikinyejana cya 20.	Ukurikije ijambo ry'ibanze, rikubiyemo amagambo yavutse mu kinyejana cya makumyabiri ariko agasibanganya yavutse mbere.	entailment	Entailment	entailment
+556	Byongeye, ikubiyemo amagambo gusa azwi ko yavutse mu kinyejana cya makumyabiri, nk'uko Ijambo ry'ibanze ribivuga, ariko rikuraho imvugo ya gisirikare yo mu ntangiriro z'ikinyejana cya 20.	Ifite invugo zose zatangiye mubihe byibanze	contradiction	Neutral	neutral
+557	Byongeye, ikubiyemo amagambo gusa azwi ko yavutse mu kinyejana cya makumyabiri, nk'uko Ijambo ry'ibanze ribivuga, ariko rikuraho imvugo ya gisirikare yo mu ntangiriro z'ikinyejana cya 20.	Hari invugo zitandukanye zahambere yikinyejana cya makumyabiri	neutral	Entailment	entailment
+558	Umuntu aramutse afite inyandiko ya 1984, arashobora kwanga kugura iki gitabo nkinyongera kandi gihenze	Inyandiko yo muri 1984 niyo nziza murizo	neutral	Entailment	entailment
+559	Umuntu aramutse afite inyandiko ya 1984, arashobora kwanga kugura iki gitabo nkinyongera kandi gihenze	Igitabo sishyo kugurishwa	contradiction	Entailment	entailment
+560	Umuntu aramutse afite inyandiko ya 1984, arashobora kwanga kugura iki gitabo nkinyongera kandi gihenze	Igisimbura ni make kurusha igitabo 	entailment	Neutral	neutral
+561	Bernstein arasobanura muntangiriro 	Bernstein ntabwo asobanura byimbitse	neutral	Entailment	entailment
+562	Bernstein arasobanura muntangiriro 	Bernstein asobanura gusa mumperezo 	contradiction	Neutral	neutral
+563	Bernstein arasobanura muntangiriro 	Intangiriro ifite ibisobanuro	entailment	Entailment	entailment
+564	Ntabwo bisabwa ko aya masomo ahagarikwa, gusa ko bigoye, nubwo nyuma yimyaka igera kuri makumyabiri yo kwishyiriraho, kugirango umuntu wo hanze amenye byinshi bisekeje kuri bo	Ndetse abavuga kavukire rimwe na rimwe bagira ikibazo kubijaynye no gusetsa	neutral	Neutral	neutral
+565	Ntabwo bisabwa ko aya masomo ahagarikwa, gusa ko bigoye, nubwo nyuma yimyaka igera kuri makumyabiri yo kwishyiriraho, kugirango umuntu wo hanze amenye byinshi bisekeje kuri bo	Urwenya muri rusange nikimwe mubintu byoroshye kubaturutse hanze kubyumva	contradiction	Neutral	neutral
+566	Ntabwo bisabwa ko aya masomo ahagarikwa, gusa ko bigoye, nubwo nyuma yimyaka igera kuri makumyabiri yo kwishyiriraho, kugirango umuntu wo hanze amenye byinshi bisekeje kuri bo	Aya masomo aragoye kubaturutse hanze kubyumva	entailment	Entailment	entailment
+567	Hanyuma, umuntu agomba kwitondera kurambura cyane bitera kugira ibisobanuro bitandukanye	Abanditsi mubusanzwe bakoreshwa kugirango bafate amakosa nkaya	neutral	Contradiction	contradiction
+568	Hanyuma, umuntu agomba kwitondera kurambura cyane bitera kugira ibisobanuro bitandukanye	Kurambura ninzira nziza yo kwemeza ko ibisobanuro byamagambo bisobanuwe	contradiction	Contradiction	contradiction
+569	Hanyuma, umuntu agomba kwitondera kurambura cyane bitera kugira ibisobanuro bitandukanye	Ibisobanuro birashobora guhinduka mugihe ugerageza gutanga ibisobanuro birebire	entailment	Neutral	neutral
+570	Kora kumutwe wawe nubushyuhe bigutere kuribwa numutwe	Gukoresha ubushyuhe kumutwe wumuntu ninzira nziza yo kunoza ibitekerezo byabo no kwibanda	contradiction	Neutral	neutral
+571	Kora kumutwe wawe nubushyuhe bigutere kuribwa numutwe	Ubushyuhe bukabije burashobora gutera umutwe mubihe bimwe bimwe	entailment	Entailment	entailment
+572	Kora kumutwe wawe nubushyuhe bigutere kuribwa numutwe	Uyu munsi yari dogere eshanu hejuru yikigereranyo cyigihe	neutral	Entailment	entailment
+573	Nta wundi mwuga ukize cyane mumuco wo kwihesha agaciro	Indi myuga myinshi itekereza cyane kubiganye nabo gusa	neutral	Neutral	neutral
+574	Nta wundi mwuga ukize cyane mumuco wo kwihesha agaciro	Imyuga myinshi ifite imigenzo yo kwihesha agaciro	contradiction	Neutral	neutral
+575	Nta wundi mwuga ukize cyane mumuco wo kwihesha agaciro	Ntayindi mirimo ifite umuco ukomeye wo kunegura ubwayo	entailment	Contradiction	contradiction
+576	Kandi hamwe nibisobanuro byubwibone, iyo myenda yabonye amazina ashimishije muri lore yaho ikoresha izo sobriquets mukwandikirana kwihariye, kuganira salo, no gusubiramo bitemewe	Impapuro nta cyubahiro na kimwe zigira	contradiction	Contradiction	contradiction
+577	Kandi hamwe nibisobanuro byubwibone, iyo myenda yabonye amazina ashimishije muri lore yaho ikoresha izo sobriquets mukwandikirana kwihariye, kuganira salo, no gusubiramo bitemewe	Izo mpapuro ntabwo zifite icyubahiro cyiza	entailment	Neutral	neutral
+578	Kandi hamwe nibisobanuro byubwibone, iyo myenda yabonye amazina ashimishije muri lore yaho ikoresha izo sobriquets mukwandikirana kwihariye, kuganira salo, no gusubiramo bitemewe	Izo mpapuro zifite amazimwe menshi kuva kubagore bo murugo	neutral	Neutral	neutral
+579	Niba lite/urumuri rusobanura gusa ibiranga byeri (urugero)	Inzoga irashobora kugira tagi ya lite cyangwa urumuri	entailment	Entailment	entailment
+580	Niba lite/urumuri rusobanura gusa ibiranga byeri (urugero)	Lite n'umucyo bikoreshwa gusa mugusobanura vino na whisky	contradiction	Neutral	neutral
+581	Niba lite/urumuri rusobanura gusa ibiranga byeri (urugero)	Inzoga ya Lite ntabwo ifite ijanisha ryinshi ryinzoga	neutral	Entailment	entailment
+582	Izina ridakenewe cyane ryarakoreshejwe ndetse naho ryabaga ridajenewe cyangwa no mubundi buryo bwari budakenewe	Abantu birabagora gushakisha irindi zina	neutral	Entailment	entailment
+583	Izina ridakenewe cyane ryarakoreshejwe ndetse naho ryabaga ridajenewe cyangwa no mubundi buryo bwari budakenewe	Izina rikoreshwa cyane	entailment	Entailment	entailment
+584	Izina ridakenewe cyane ryarakoreshejwe ndetse naho ryabaga ridajenewe cyangwa no mubundi buryo bwari budakenewe	Izina rigomba gukoreshwa cyane	contradiction	Entailment	entailment
+585	"Hejuru yibi byose, dufite ukuri kudashimishije ko kwandika neza mubyukuri rimwe na rimwe bitazibagirana, muguhuza ikibazo
+"	Abantu birashoboka cyane ko biibuka inyandiko mibi	contradiction	Contradiction	contradiction
+586	"Hejuru yibi byose, dufite ukuri kudashimishije ko kwandika neza mubyukuri rimwe na rimwe bitazibagirana, muguhuza ikibazo
+"	Inyandiko yanditse neza akenshi iroroshye kuyibuka kuruta inyandiko yanditse nabi	entailment	Neutral	neutral
+587	"Hejuru yibi byose, dufite ukuri kudashimishije ko kwandika neza mubyukuri rimwe na rimwe bitazibagirana, muguhuza ikibazo
+"	Inyandiko yanditse neza irahenda cyane kuyikuzamo mubwinshi	neutral	Contradiction	contradiction
+588	Abongereza bahanganye niyi myitwarire kandi hari ukuntu bahangayitse, Abongereza bemeye ko bubaha bakoresheje ijambo	Abongereza ntibubahaga	contradiction	Contradiction	contradiction
+589	Abongereza bahanganye niyi myitwarire kandi hari ukuntu bahangayitse, Abongereza bemeye ko bubaha bakoresheje ijambo	Abongereza bigaruriye ubukungu bwisi	neutral	Contradiction	contradiction
+590	Abongereza bahanganye niyi myitwarire kandi hari ukuntu bahangayitse, Abongereza bemeye ko bubaha bakoresheje ijambo	Abongereza bagurishije byinshi kwisi	entailment	Neutral	neutral
+591	Rimwe na rimwe, ni bwo buryo bworoshye	Birashobora kugorana kubimenya rimwe na rimwe	entailment	Entailment	entailment
+592	Rimwe na rimwe, ni bwo buryo bworoshye	Bitera urusaku ruke cyane tubikesha ubwitonzi bwa moteri ikingiwe	neutral	Neutral	neutral
+593	Rimwe na rimwe, ni bwo buryo bworoshye	Buri gihe byari byoroshye cyane kubimenyera kure	contradiction	Entailment	entailment
+594	Nkuko bigenda, byanze bikunze, hari imvugo yihariye yicyongereza mubwongereza kuruta muri Amerika ya ruguru, kandi umuntu wese umaze igihe cyose abatega amatwi azi ko bamwe batumvikana	Ubwongereza bufite imvugo nyinshi zitandukanye zicyongereza, zirenjyeje izo muri Amerika ya ruguru	entailment	Entailment	entailment
+595	Nkuko bigenda, byanze bikunze, hari imvugo yihariye yicyongereza mubwongereza kuruta muri Amerika ya ruguru, kandi umuntu wese umaze igihe cyose abatega amatwi azi ko bamwe batumvikana	Imvugo yo muri Amerika yamajyaruguru nubwongereza irasa neza, kandi abantu ntibashobora gutandukanya itandukaniro riri hagati yabo	contradiction	Neutral	neutral
+596	Nkuko bigenda, byanze bikunze, hari imvugo yihariye yicyongereza mubwongereza kuruta muri Amerika ya ruguru, kandi umuntu wese umaze igihe cyose abatega amatwi azi ko bamwe batumvikana	Abantu bo muri Amerika ya ruguru bafite ikibazo cyo gusobanukirwa kimwe cya kabiri cyimvugo yicyongereza kivugwa	neutral	Entailment	entailment
+597	Umunyamakuru wa Tennessee yakoresheje ikirere cy’imbwa kubushyuhe,bwikirere kitagira imvura,gishobora guturuka ku kumibereho y’imbwa bisobanuye yuko arigihe cyizuba cyo muri Kanama	Nkuko uwabimenyesheje abitangaza ngo ikirere cy’imbwa cyakoreshejwe mu gusobanura imvura yibihe	contradiction	Entailment	entailment
+598	Umunyamakuru wa Tennessee yakoresheje ikirere cy’imbwa kubushyuhe,bwikirere kitagira imvura,gishobora guturuka ku kumibereho y’imbwa bisobanuye yuko arigihe cyizuba cyo muri Kanama	Kamena na Nyakanga nabyo haba hari ubushyuhe cyane muri Tennessee	neutral	Contradiction	contradiction
+599	Umunyamakuru wa Tennessee yakoresheje ikirere cy’imbwa kubushyuhe,bwikirere kitagira imvura,gishobora guturuka ku kumibereho y’imbwa bisobanuye yuko arigihe cyizuba cyo muri Kanama	Ikirere kirashyushye kandi nta mvura ijya igwa mu iminsi myinshi ya Kanama	entailment	Entailment	entailment
