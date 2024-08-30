@@ -7,4 +7,4 @@ In this repository, I have included all the code and results I contributed to th
 
 - **Scoring Functions**: I implemented functions to calculate evaluation metrics, including F1, F1-square, and accuracy, for the generated outputs. These metrics are crucial for assessing the performance of LLMs on African languages.
 ## Author
-This repository was created and is maintained by Jian Yun Zhuang. For any questions or inquiries, feel free to reach out via jianyun.zhuang@mail.utoronto.ca.
+This repository was created and is maintained by **Jian Yun Zhuang**. For any questions or inquiries, feel free to reach out via jianyun.zhuang@mail.utoronto.ca.
